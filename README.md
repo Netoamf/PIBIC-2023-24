@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Netoamf/PIBIC-2023-24">
-    <img src="images/logo.png" alt="Logo" width="1000" height="300">  </a>
+    <img src="images/logo.png" alt="Logo" width="400" height="350">  </a>
 
 <h3 align="center">UParser</h3>
 

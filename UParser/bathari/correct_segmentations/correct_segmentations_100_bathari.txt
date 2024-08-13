@@ -1,0 +1,58 @@
+BPE: heh | Linguist: heh
+BPE: hoh | Linguist: hoh
+BPE: w | Linguist: w
+BPE: mən | Linguist: mən
+BPE: hēt | Linguist: hēt
+BPE: w | Linguist: w
+BPE: hēt | Linguist: hēt
+BPE: hoh | Linguist: hoh
+BPE: hēt | Linguist: hēt
+BPE: mən | Linguist: mən
+BPE: mən | Linguist: mən
+BPE: h ēs | Linguist: h ēs
+BPE: mən | Linguist: mən
+BPE: n ḥām | Linguist: n ḥām
+BPE: lā | Linguist: lā
+BPE: b ī | Linguist: b ī
+BPE: l əh | Linguist: l əh
+BPE: śālā | Linguist: śālā
+BPE: heh | Linguist: heh
+BPE: b ēs | Linguist: b ēs
+BPE: b ēs | Linguist: b ēs
+BPE: mən | Linguist: mən
+BPE: hēt | Linguist: hēt
+BPE: t ḥām | Linguist: t ḥām
+BPE: t ḥām | Linguist: t ḥām
+BPE: ḥām | Linguist: ḥām
+BPE: b eh | Linguist: b eh
+BPE: w | Linguist: w
+BPE: mən | Linguist: mən
+BPE: w | Linguist: w
+BPE: mən | Linguist: mən
+BPE: w | Linguist: w
+BPE: t ī | Linguist: t ī
+BPE: hoh | Linguist: hoh
+BPE: w | Linguist: w
+BPE: hoh | Linguist: hoh
+BPE: məkān | Linguist: məkān
+BPE: mən | Linguist: mən
+BPE: məkān | Linguist: məkān
+BPE: məkān | Linguist: məkān
+BPE: w | Linguist: w
+BPE: šī | Linguist: šī
+BPE: šī | Linguist: šī
+BPE: śālā | Linguist: śālā
+BPE: šī | Linguist: šī
+BPE: śālā | Linguist: śālā
+BPE: heh | Linguist: heh
+BPE: ī | Linguist: ī
+BPE: hoh | Linguist: hoh
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: naʕīš | Linguist: naʕīš
+BPE: mən | Linguist: mən
+BPE: lā | Linguist: lā
+BPE: hēt | Linguist: hēt

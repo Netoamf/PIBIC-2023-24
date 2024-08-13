@@ -1,0 +1,1301 @@
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 1, Coverage: 0.69%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 2, Coverage: 0.69%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 4, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 8, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 16, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 32, Coverage: 7.50%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 64, Coverage: 8.19%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 128, Coverage: 7.66%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 256, Coverage: 7.66%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 512, Coverage: 8.04%
+Grammar: ./data\Pite_saami.txt, Iterations: 1, New Segments: 1024, Coverage: 8.04%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 1, Coverage: 1.30%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 2, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 4, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 8, Coverage: 10.26%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 16, Coverage: 18.30%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 32, Coverage: 20.44%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 64, Coverage: 25.11%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 128, Coverage: 26.26%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 256, Coverage: 26.49%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 512, Coverage: 28.18%
+Grammar: ./data\Pite_saami.txt, Iterations: 2, New Segments: 1024, Coverage: 28.48%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 1, Coverage: 1.30%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 2, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 4, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 8, Coverage: 14.24%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 16, Coverage: 18.84%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 32, Coverage: 23.20%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 64, Coverage: 26.03%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 128, Coverage: 36.60%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 256, Coverage: 43.72%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 512, Coverage: 51.61%
+Grammar: ./data\Pite_saami.txt, Iterations: 4, New Segments: 1024, Coverage: 57.20%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 1, Coverage: 1.30%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 2, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 4, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 8, Coverage: 14.24%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 16, Coverage: 20.29%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 32, Coverage: 25.34%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 64, Coverage: 29.71%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 128, Coverage: 37.44%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 256, Coverage: 48.62%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 512, Coverage: 55.51%
+Grammar: ./data\Pite_saami.txt, Iterations: 8, New Segments: 1024, Coverage: 57.81%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 1, Coverage: 1.30%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 2, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 4, Coverage: 5.36%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 8, Coverage: 14.24%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 16, Coverage: 19.83%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 32, Coverage: 25.50%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 64, Coverage: 31.09%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 128, Coverage: 37.37%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 256, Coverage: 48.70%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 512, Coverage: 55.51%
+Grammar: ./data\Pite_saami.txt, Iterations: 16, New Segments: 1024, Coverage: 57.81%
+m 1 palavras em comum)
+Linha alvo: 'gärrdá j' - Nenhuma correspondência encontrada
+Linha alvo: 'muv' - Segmentos correspondentes: 'muv' (com 1 palavras em comum)
+Linha alvo: 'áhttje' - Segmentos correspondentes: 'áhttje' (com 1 palavras em comum)
+Linha alvo: 'hållo j' - Nenhuma correspondência encontrada
+Linha alvo: 'såmes' - Segmentos correspondentes: 'såmes' (com 1 palavras em comum)
+Linha alvo: 'raddná j' - Nenhuma correspondência encontrada
+Linha alvo: 'vadde' - Segmentos correspondentes: 'vadde' (com 1 palavras em comum)
+Linha alvo: 'Jåssjå j' - Nenhuma correspondência encontrada
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'eddno' - Segmentos correspondentes: 'eddno' (com 1 palavras em comum)
+Linha alvo: 'munje' - Segmentos correspondentes: 'munje' (com 1 palavras em comum)
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'ma v' - Nenhuma correspondência encontrada
+Linha alvo: 'enabo v' - Nenhuma correspondência encontrada
+Linha alvo: 'dihki' - Segmentos correspondentes: 'dihki' (com 1 palavras em comum)
+Linha alvo: 'Ahkkabakte n' - Nenhuma correspondência encontrada
+Linha alvo: 'vágge n' - Nenhuma correspondência encontrada
+Linha alvo: 'Sálvo jåhkå=l' - Nenhuma correspondência encontrada
+Linha alvo: 'sáme n' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'bena' - Segmentos correspondentes: 'bena' (com 1 palavras em comum)
+Linha alvo: 'válda v' - Segmentos correspondentes: 'válda v' (com 2 palavras em comum)
+Linha alvo: 'tjåjve v' - Nenhuma correspondência encontrada
+Linha alvo: 'ribri st' - Nenhuma correspondência encontrada
+Linha alvo: 'luovas' - Segmentos correspondentes: 'luovas' (com 1 palavras em comum)
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'gåsse' - Segmentos correspondentes: 'gåsse' (com 1 palavras em comum)
+Linha alvo: 'dija' - Segmentos correspondentes: 'dija' (com 1 palavras em comum)
+Linha alvo: 'älgi jdä' - Nenhuma correspondência encontrada
+Linha alvo: 'Örnvika st' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodje t' - Nenhuma correspondência encontrada
+Linha alvo: 'vadnása v' - Nenhuma correspondência encontrada
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'båda' - Segmentos correspondentes: 'båda' (com 1 palavras em comum)
+Linha alvo: 'Amerig ist' - Nenhuma correspondência encontrada
+Linha alvo: 'Edde st' - Nenhuma correspondência encontrada
+Linha alvo: 'galga v' - Nenhuma correspondência encontrada
+Linha alvo: 'gatjadi t' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'åjve st' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'tuhtje' - Segmentos correspondentes: 'tuhtje' (com 1 palavras em comum)
+Linha alvo: 'd a v' - Nenhuma correspondência encontrada
+Linha alvo: 'färska' - Segmentos correspondentes: 'färska' (com 1 palavras em comum)
+Linha alvo: 'mále st' - Nenhuma correspondência encontrada
+Linha alvo: 'd á' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'sasne st' - Nenhuma correspondência encontrada
+Linha alvo: 'gårro duvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'gåhte' - Segmentos correspondentes: 'gåhte' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tsiggij duvvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'máná jst' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'stuora b' - Nenhuma correspondência encontrada
+Linha alvo: 'Sviena st' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'ådtjo' - Segmentos correspondentes: 'ådtjo' (com 1 palavras em comum)
+Linha alvo: 'sáme' - Segmentos correspondentes: 'sáme' (com 1 palavras em comum)
+Linha alvo: 'giela v' - Nenhuma correspondência encontrada
+Linha alvo: 'ságasti t' - Nenhuma correspondência encontrada
+Linha alvo: 'duv' - Segmentos correspondentes: 'duv' (com 1 palavras em comum)
+Linha alvo: 'årbeni j' - Nenhuma correspondência encontrada
+Linha alvo: 'válda' - Segmentos correspondentes: 'válda' (com 1 palavras em comum)
+Linha alvo: 'káfa v' - Nenhuma correspondência encontrada
+Linha alvo: 'suhkori jn' - Nenhuma correspondência encontrada
+Linha alvo: 'jala' - Segmentos correspondentes: 'jala' (com 1 palavras em comum)
+Linha alvo: 'suhkor ahta' - Nenhuma correspondência encontrada
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'vuodja' - Segmentos correspondentes: 'vuodja' (com 1 palavras em comum)
+Linha alvo: 'bijla jn' - Nenhuma correspondência encontrada
+Linha alvo: 'Örnvika j' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vádnasi jn' - Nenhuma correspondência encontrada
+Linha alvo: 'Tjeggelvas a' - Nenhuma correspondência encontrada
+Linha alvo: 'badjel' - Segmentos correspondentes: 'badjel' (com 1 palavras em comum)
+Linha alvo: 'Svenna' - Segmentos correspondentes: 'Svenna' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'akta' - Segmentos correspondentes: 'akta' (com 1 palavras em comum)
+Linha alvo: 'vuoras' - Segmentos correspondentes: 'vuoras' (com 1 palavras em comum)
+Linha alvo: 'Inger ijn' - Nenhuma correspondência encontrada
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'vájmo dak' - Nenhuma correspondência encontrada
+Linha alvo: 'dal' - Segmentos correspondentes: 'dal' (com 1 palavras em comum)
+Linha alvo: 'bedna n' - Nenhuma correspondência encontrada
+Linha alvo: 'sjadda v' - Segmentos correspondentes: 'sjadda v' (com 2 palavras em comum)
+Linha alvo: 'jegŋa' - Segmentos correspondentes: 'jegŋa' (com 1 palavras em comum)
+Linha alvo: 'sjaddá' - Segmentos correspondentes: 'sjaddá' (com 1 palavras em comum)
+Linha alvo: 'tjáhtse n' - Nenhuma correspondência encontrada
+Linha alvo: 'd u t' - Nenhuma correspondência encontrada
+Linha alvo: 'såhke' - Segmentos correspondentes: 'såhke' (com 1 palavras em comum)
+Linha alvo: 'vadnása n' - Nenhuma correspondência encontrada
+Linha alvo: 'gåhtjo duvva' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodja' - Segmentos correspondentes: 'vuodja' (com 1 palavras em comum)
+Linha alvo: 'dugu' - Segmentos correspondentes: 'dugu' (com 1 palavras em comum)
+Linha alvo: 'goulle n' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodja' - Segmentos correspondentes: 'vuodja' (com 1 palavras em comum)
+Linha alvo: 'dugu' - Segmentos correspondentes: 'dugu' (com 1 palavras em comum)
+Linha alvo: 'goulle' - Segmentos correspondentes: 'goulle' (com 1 palavras em comum)
+Linha alvo: 'áhttje s' - Nenhuma correspondência encontrada
+Linha alvo: 'dá' - Segmentos correspondentes: 'dá' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'gähtja min' - Nenhuma correspondência encontrada
+Linha alvo: 'jus' - Segmentos correspondentes: 'jus' (com 1 palavras em comum)
+Linha alvo: 'gävdni j' - Nenhuma correspondência encontrada
+Linha alvo: 'aktak' - Segmentos correspondentes: 'aktak' (com 1 palavras em comum)
+Linha alvo: 'nagin' - Segmentos correspondentes: 'nagin' (com 1 palavras em comum)
+Linha alvo: 'getjok miesse' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'huli j' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'hälse t' - Nenhuma correspondência encontrada
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'mamma set' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'pahpa set' - Nenhuma correspondência encontrada
+Linha alvo: 'áhttj e s' - Nenhuma correspondência encontrada
+Linha alvo: 'mamm a set' - Nenhuma correspondência encontrada
+Linha alvo: 'pahp a set' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'mijan' - Segmentos correspondentes: 'mijan' (com 1 palavras em comum)
+Linha alvo: 'sessa' - Segmentos correspondentes: 'sessa' (com 1 palavras em comum)
+Linha alvo: 'Kärin' - Segmentos correspondentes: 'Kärin' (com 1 palavras em comum)
+Linha alvo: 'muhtin' - Segmentos correspondentes: 'muhtin' (com 1 palavras em comum)
+Linha alvo: 'sa' - Segmentos correspondentes: 'sa' (com 1 palavras em comum)
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'vuopti n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jt' - Nenhuma correspondência encontrada
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'jabma m' - Nenhuma correspondência encontrada
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'mu v' - Nenhuma correspondência encontrada
+Linha alvo: 'äddne=l' - Segmentos correspondentes: 'äddne=l' (com 1 palavras em comum)
+Linha alvo: 'viesso min' - Nenhuma correspondência encontrada
+Linha alvo: 'dále' - Segmentos correspondentes: 'dále' (com 1 palavras em comum)
+Linha alvo: 'oj' - Segmentos correspondentes: 'oj' (com 1 palavras em comum)
+Linha alvo: 'ij' - Segmentos correspondentes: 'ij' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'aktaga v' - Nenhuma correspondência encontrada
+Linha alvo: 'dága' - Segmentos correspondentes: 'dága' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'ságasta v' - Segmentos correspondentes: 'ságasta v' (com 2 palavras em comum)
+Linha alvo: 'etja n' - Nenhuma correspondência encontrada
+Linha alvo: 'birra' - Segmentos correspondentes: 'birra' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'etj' - Segmentos correspondentes: 'etj' (com 1 palavras em comum)
+Linha alvo: 'sábme' - Segmentos correspondentes: 'sábme' (com 1 palavras em comum)
+Linha alvo: 'etj' - Segmentos correspondentes: 'etj' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'lerra m' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'ge jna' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'tjuovo' - Segmentos correspondentes: 'tjuovo' (com 1 palavras em comum)
+Linha alvo: 'ge n' - Nenhuma correspondência encontrada
+Linha alvo: 'gabmag a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'd á' - Nenhuma correspondência encontrada
+Linha alvo: 'ma v' - Nenhuma correspondência encontrada
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'sida' - Segmentos correspondentes: 'sida' (com 1 palavras em comum)
+Linha alvo: 'mikkir ist' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'dága duvv um' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'mikkir a' - Nenhuma correspondência encontrada
+Linha alvo: 'lidji n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'Ákkabakte n' - Nenhuma correspondência encontrada
+Linha alvo: 'mikkir' - Segmentos correspondentes: 'mikkir' (com 1 palavras em comum)
+Linha alvo: 'málle' - Segmentos correspondentes: 'málle' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'mikkir' - Segmentos correspondentes: 'mikkir' (com 1 palavras em comum)
+Linha alvo: 'guli jd' - Nenhuma correspondência encontrada
+Linha alvo: 'åtjo jde' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'väha' - Segmentos correspondentes: 'väha' (com 1 palavras em comum)
+Linha alvo: 'gähtja min' - Nenhuma correspondência encontrada
+Linha alvo: 'makkar' - Segmentos correspondentes: 'makkar' (com 1 palavras em comum)
+Linha alvo: 'sarva jd' - Nenhuma correspondência encontrada
+Linha alvo: 'gilgi n' - Nenhuma correspondência encontrada
+Linha alvo: 'njuova t' - Nenhuma correspondência encontrada
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'gåba n' - Nenhuma correspondência encontrada
+Linha alvo: 'saje n' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'årro m' - Nenhuma correspondência encontrada
+Linha alvo: 'gåba j' - Nenhuma correspondência encontrada
+Linha alvo: 'birra' - Segmentos correspondentes: 'birra' (com 1 palavras em comum)
+Linha alvo: 'ságasta' - Segmentos correspondentes: 'ságasta' (com 1 palavras em comum)
+Linha alvo: 'gånne' - Segmentos correspondentes: 'gånne' (com 1 palavras em comum)
+Linha alvo: 'd a jt' - Nenhuma correspondência encontrada
+Linha alvo: 'tjogi jdä' - Nenhuma correspondência encontrada
+Linha alvo: 'gukte' - Segmentos correspondentes: 'gukte' (com 1 palavras em comum)
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'hålla' - Segmentos correspondentes: 'hålla' (com 1 palavras em comum)
+Linha alvo: 'reta' - Segmentos correspondentes: 'reta' (com 1 palavras em comum)
+Linha alvo: 'man' - Segmentos correspondentes: 'man' (com 1 palavras em comum)
+Linha alvo: 'mälgat' - Segmentos correspondentes: 'mälgat' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'hiejm an' - Nenhuma correspondência encontrada
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'diede' - Segmentos correspondentes: 'diede' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'villges' - Segmentos correspondentes: 'villges' (com 1 palavras em comum)
+Linha alvo: 'båtsoj' - Segmentos correspondentes: 'båtsoj' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'årro m' - Nenhuma correspondência encontrada
+Linha alvo: 'hoj' - Segmentos correspondentes: 'hoj' (com 1 palavras em comum)
+Linha alvo: 'buorak' - Segmentos correspondentes: 'buorak' (com 1 palavras em comum)
+Linha alvo: 'giesse' - Segmentos correspondentes: 'giesse' (com 1 palavras em comum)
+Linha alvo: 'bårå v' - Nenhuma correspondência encontrada
+Linha alvo: 'ruopsisa v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjähppis a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'njallge' - Segmentos correspondentes: 'njallge' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'tjábba' - Segmentos correspondentes: 'tjábba' (com 1 palavras em comum)
+Linha alvo: 'máhtta' - Segmentos correspondentes: 'máhtta' (com 1 palavras em comum)
+Linha alvo: 'sáme' - Segmentos correspondentes: 'sáme' (com 1 palavras em comum)
+Linha alvo: 'giela v' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'huj' - Segmentos correspondentes: 'huj' (com 1 palavras em comum)
+Linha alvo: 'tjábba' - Segmentos correspondentes: 'tjábba' (com 1 palavras em comum)
+Linha alvo: 'd a t d a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'jävvja' - Segmentos correspondentes: 'jävvja' (com 1 palavras em comum)
+Linha alvo: 'fáhttsa' - Segmentos correspondentes: 'fáhttsa' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tjáhpat' - Segmentos correspondentes: 'tjáhpat' (com 1 palavras em comum)
+Linha alvo: 'fáhtsa' - Segmentos correspondentes: 'fáhtsa' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tjáhpad a' - Nenhuma correspondência encontrada
+Linha alvo: 'buhtsu' - Segmentos correspondentes: 'buhtsu' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'nav' - Segmentos correspondentes: 'nav' (com 1 palavras em comum)
+Linha alvo: 'buojde' - Segmentos correspondentes: 'buojde' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'tjábbe' - Segmentos correspondentes: 'tjábbe' (com 1 palavras em comum)
+Linha alvo: 'bivvalu p' - Nenhuma correspondência encontrada
+Linha alvo: 'dállke' - Segmentos correspondentes: 'dállke' (com 1 palavras em comum)
+Linha alvo: 'så' - Segmentos correspondentes: 'så' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'vuorasu mos' - Nenhuma correspondência encontrada
+Linha alvo: 'saddje' - Segmentos correspondentes: 'saddje' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'uvada v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjábba b uv' - Nenhuma correspondência encontrada
+Linha alvo: 'buhtsu' - Segmentos correspondentes: 'buhtsu' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'mälgadu bmus in' - Nenhuma correspondência encontrada
+Linha alvo: 'Svenna' - Segmentos correspondentes: 'Svenna' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'akta' - Segmentos correspondentes: 'akta' (com 1 palavras em comum)
+Linha alvo: 'vuoras' - Segmentos correspondentes: 'vuoras' (com 1 palavras em comum)
+Linha alvo: 'Ingeri jn' - Nenhuma correspondência encontrada
+Linha alvo: 'måj' - Segmentos correspondentes: 'måj' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'akta' - Segmentos correspondentes: 'akta' (com 1 palavras em comum)
+Linha alvo: 'vuoras a' - Nenhuma correspondência encontrada
+Linha alvo: 'Inger' - Segmentos correspondentes: 'Inger' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'stuora p' - Nenhuma correspondência encontrada
+Linha alvo: 'váre st' - Nenhuma correspondência encontrada
+Linha alvo: 'd á t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'vanj' - Segmentos correspondentes: 'vanj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'gajk' - Segmentos correspondentes: 'gajk' (com 1 palavras em comum)
+Linha alvo: 'vuorasu mos' - Nenhuma correspondência encontrada
+Linha alvo: 'dága duvvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'jå' - Segmentos correspondentes: 'jå' (com 1 palavras em comum)
+Linha alvo: 'månnå' - Segmentos correspondentes: 'månnå' (com 1 palavras em comum)
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'mujhta v' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li v' - Nenhuma correspondência encontrada
+Linha alvo: 'unna' - Segmentos correspondentes: 'unna' (com 1 palavras em comum)
+Linha alvo: 'máná tj' - Nenhuma correspondência encontrada
+Linha alvo: 'bena' - Segmentos correspondentes: 'bena' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'unn e' - Nenhuma correspondência encontrada
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'akta' - Segmentos correspondentes: 'akta' (com 1 palavras em comum)
+Linha alvo: 'bällge' - Segmentos correspondentes: 'bällge' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'smáva' - Segmentos correspondentes: 'smáva' (com 1 palavras em comum)
+Linha alvo: 'gisstá' - Segmentos correspondentes: 'gisstá' (com 1 palavras em comum)
+Linha alvo: 'd á' - Nenhuma correspondência encontrada
+Linha alvo: 'bednag a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'smáve' - Segmentos correspondentes: 'smáve' (com 1 palavras em comum)
+Linha alvo: 'd á t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'dåpe' - Segmentos correspondentes: 'dåpe' (com 1 palavras em comum)
+Linha alvo: 'sin' - Segmentos correspondentes: 'sin' (com 1 palavras em comum)
+Linha alvo: 'unna' - Segmentos correspondentes: 'unna' (com 1 palavras em comum)
+Linha alvo: 'dåpá tj a' - Nenhuma correspondência encontrada
+Linha alvo: 'sin' - Segmentos correspondentes: 'sin' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'vuojdni v' - Nenhuma correspondência encontrada
+Linha alvo: 'unna' - Segmentos correspondentes: 'unna' (com 1 palavras em comum)
+Linha alvo: 'jåŋå tj av' - Nenhuma correspondência encontrada
+Linha alvo: 'vuojdna' - Segmentos correspondentes: 'vuojdna' (com 1 palavras em comum)
+Linha alvo: 'edna' - Segmentos correspondentes: 'edna' (com 1 palavras em comum)
+Linha alvo: 'guhka juolga gi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'färt' - Segmentos correspondentes: 'färt' (com 1 palavras em comum)
+Linha alvo: 'bäjjve' - Segmentos correspondentes: 'bäjjve' (com 1 palavras em comum)
+Linha alvo: 'mij' - Segmentos correspondentes: 'mij' (com 1 palavras em comum)
+Linha alvo: 'båro jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'guli jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vállda' - Segmentos correspondentes: 'vállda' (com 1 palavras em comum)
+Linha alvo: 'nijbe v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'tjuolast' - Segmentos correspondentes: 'tjuolast' (com 1 palavras em comum)
+Linha alvo: 'nagin' - Segmentos correspondentes: 'nagin' (com 1 palavras em comum)
+Linha alvo: 'rägi jt' - Nenhuma correspondência encontrada
+Linha alvo: 'gajk' - Segmentos correspondentes: 'gajk' (com 1 palavras em comum)
+Linha alvo: 'almatj a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'Árjepluove n' - Nenhuma correspondência encontrada
+Linha alvo: 'muvne' - Segmentos correspondentes: 'muvne' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'binna' - Segmentos correspondentes: 'binna' (com 1 palavras em comum)
+Linha alvo: 'vuopta' - Segmentos correspondentes: 'vuopta' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'vadda v' - Nenhuma correspondência encontrada
+Linha alvo: 'gajk a' - Nenhuma correspondência encontrada
+Linha alvo: 'buhtsu jda' - Nenhuma correspondência encontrada
+Linha alvo: 'biebmo v' - Nenhuma correspondência encontrada
+Linha alvo: 'galga v' - Nenhuma correspondência encontrada
+Linha alvo: 'ena b uv' - Nenhuma correspondência encontrada
+Linha alvo: 'bieja t' - Nenhuma correspondência encontrada
+Linha alvo: 'mana' - Segmentos correspondentes: 'mana' (com 1 palavras em comum)
+Linha alvo: 'tjasski t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'åjvi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'gajk ajd' - Nenhuma correspondência encontrada
+Linha alvo: 'duhku' - Segmentos correspondentes: 'duhku' (com 1 palavras em comum)
+Linha alvo: 'hålå' - Segmentos correspondentes: 'hålå' (com 1 palavras em comum)
+Linha alvo: 'nagina v' - Nenhuma correspondência encontrada
+Linha alvo: 'ma v' - Nenhuma correspondência encontrada
+Linha alvo: 'galga v' - Nenhuma correspondência encontrada
+Linha alvo: 'hållå t' - Nenhuma correspondência encontrada
+Linha alvo: 'muvne' - Segmentos correspondentes: 'muvne' (com 1 palavras em comum)
+Linha alvo: 'ij' - Segmentos correspondentes: 'ij' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'aktak' - Segmentos correspondentes: 'aktak' (com 1 palavras em comum)
+Linha alvo: 'vuopta' - Segmentos correspondentes: 'vuopta' (com 1 palavras em comum)
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'itji j' - Nenhuma correspondência encontrada
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'dåbdå' - Segmentos correspondentes: 'dåbdå' (com 1 palavras em comum)
+Linha alvo: 'aktak' - Segmentos correspondentes: 'aktak' (com 1 palavras em comum)
+Linha alvo: 'almatji jd' - Nenhuma correspondência encontrada
+Linha alvo: 'itji j' - Nenhuma correspondência encontrada
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'åbbå' - Segmentos correspondentes: 'åbbå' (com 1 palavras em comum)
+Linha alvo: 'hålå' - Segmentos correspondentes: 'hålå' (com 1 palavras em comum)
+Linha alvo: 'aktag av' - Nenhuma correspondência encontrada
+Linha alvo: 'bärrgo' - Segmentos correspondentes: 'bärrgo' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'ednak' - Segmentos correspondentes: 'ednak' (com 1 palavras em comum)
+Linha alvo: 'biergo' - Segmentos correspondentes: 'biergo' (com 1 palavras em comum)
+Linha alvo: 'bijta' - Segmentos correspondentes: 'bijta' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'ednag a' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodja m' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jna' - Nenhuma correspondência encontrada
+Linha alvo: 'traktor ijna' - Nenhuma correspondência encontrada
+Linha alvo: 'Grållå jn' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'guli jd' - Nenhuma correspondência encontrada
+Linha alvo: 'giesi jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'tjielka jn' - Nenhuma correspondência encontrada
+Linha alvo: 'dik' - Segmentos correspondentes: 'dik' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'd u t' - Nenhuma correspondência encontrada
+Linha alvo: 'biehtse' - Segmentos correspondentes: 'biehtse' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'åneka tj' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'gassa k' - Nenhuma correspondência encontrada
+Linha alvo: 'gokt' - Segmentos correspondentes: 'gokt' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'dánne' - Segmentos correspondentes: 'dánne' (com 1 palavras em comum)
+Linha alvo: 'giehtjav låk' - Nenhuma correspondência encontrada
+Linha alvo: 'jage' - Segmentos correspondentes: 'jage' (com 1 palavras em comum)
+Linha alvo: 'maŋŋus' - Segmentos correspondentes: 'maŋŋus' (com 1 palavras em comum)
+Linha alvo: 'sån' - Segmentos correspondentes: 'sån' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'gakktse låk giehtjav' - Nenhuma correspondência encontrada
+Linha alvo: 'jage' - Segmentos correspondentes: 'jage' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'tjuojgada m' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'gådda m' - Nenhuma correspondência encontrada
+Linha alvo: 'nällja låk gakktse' - Nenhuma correspondência encontrada
+Linha alvo: 'stalpe' - Segmentos correspondentes: 'stalpe' (com 1 palavras em comum)
+Linha alvo: 'sájte jna' - Nenhuma correspondência encontrada
+Linha alvo: 'nitton hundra tála n' - Nenhuma correspondência encontrada
+Linha alvo: 'álgo n' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vieso j' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'vadda v' - Nenhuma correspondência encontrada
+Linha alvo: 'gålbmå' - Segmentos correspondentes: 'gålbmå' (com 1 palavras em comum)
+Linha alvo: 'buhtsu jda' - Nenhuma correspondência encontrada
+Linha alvo: 'biebmo v' - Nenhuma correspondência encontrada
+Linha alvo: 'så' - Segmentos correspondentes: 'så' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'guäkte' - Segmentos correspondentes: 'guäkte' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'njelj át' - Nenhuma correspondência encontrada
+Linha alvo: 'aprilla' - Segmentos correspondentes: 'aprilla' (com 1 palavras em comum)
+Linha alvo: 'uddne' - Segmentos correspondentes: 'uddne' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'gålm át' - Nenhuma correspondência encontrada
+Linha alvo: 'sjadda' - Segmentos correspondentes: 'sjadda' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'Stutja j' - Nenhuma correspondência encontrada
+Linha alvo: 'åtjå jmen' - Nenhuma correspondência encontrada
+Linha alvo: 'akta v' - Segmentos correspondentes: 'akta v' (com 2 palavras em comum)
+Linha alvo: 'guole v' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'vuotji v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'akta v' - Segmentos correspondentes: 'akta v' (com 2 palavras em comum)
+Linha alvo: 'dieda' - Segmentos correspondentes: 'dieda' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'vuotje v' - Nenhuma correspondência encontrada
+Linha alvo: 'vuosta mos' - Nenhuma correspondência encontrada
+Linha alvo: 'guhka guhka juolga juolga ga ga v' - Nenhuma correspondência encontrada
+Linha alvo: 'v' - Segmentos correspondentes: 'v' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tjähppis' - Segmentos correspondentes: 'tjähppis' (com 1 palavras em comum)
+Linha alvo: 'båtsoj' - Segmentos correspondentes: 'båtsoj' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'villges' - Segmentos correspondentes: 'villges' (com 1 palavras em comum)
+Linha alvo: 'åjjve' - Segmentos correspondentes: 'åjjve' (com 1 palavras em comum)
+Linha alvo: 'guolle l' - Nenhuma correspondência encontrada
+Linha alvo: 'nåv' - Segmentos correspondentes: 'nåv' (com 1 palavras em comum)
+Linha alvo: 'njalga' - Segmentos correspondentes: 'njalga' (com 1 palavras em comum)
+Linha alvo: 'bäbbmo' - Segmentos correspondentes: 'bäbbmo' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'tjábba' - Segmentos correspondentes: 'tjábba' (com 1 palavras em comum)
+Linha alvo: 'máhtta' - Segmentos correspondentes: 'máhtta' (com 1 palavras em comum)
+Linha alvo: 'sáme' - Segmentos correspondentes: 'sáme' (com 1 palavras em comum)
+Linha alvo: 'giela v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'tjåhken' - Segmentos correspondentes: 'tjåhken' (com 1 palavras em comum)
+Linha alvo: 'minne' - Segmentos correspondentes: 'minne' (com 1 palavras em comum)
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'gillge' - Segmentos correspondentes: 'gillge' (com 1 palavras em comum)
+Linha alvo: 'gåddåli t' - Nenhuma correspondência encontrada
+Linha alvo: 'nagan' - Segmentos correspondentes: 'nagan' (com 1 palavras em comum)
+Linha alvo: 'juhtusa v' - Nenhuma correspondência encontrada
+Linha alvo: 'månnå' - Segmentos correspondentes: 'månnå' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'Jåssjå' - Segmentos correspondentes: 'Jåssjå' (com 1 palavras em comum)
+Linha alvo: 'li jmen' - Nenhuma correspondência encontrada
+Linha alvo: 'ulgon' - Segmentos correspondentes: 'ulgon' (com 1 palavras em comum)
+Linha alvo: 'siri jd' - Nenhuma correspondência encontrada
+Linha alvo: 'tjågge min' - Nenhuma correspondência encontrada
+Linha alvo: 'tjaske' - Segmentos correspondentes: 'tjaske' (com 1 palavras em comum)
+Linha alvo: 'munje' - Segmentos correspondentes: 'munje' (com 1 palavras em comum)
+Linha alvo: 'sobe v' - Nenhuma correspondência encontrada
+Linha alvo: 'dale' - Segmentos correspondentes: 'dale' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'bar' - Segmentos correspondentes: 'bar' (com 1 palavras em comum)
+Linha alvo: 'bievadak' - Segmentos correspondentes: 'bievadak' (com 1 palavras em comum)
+Linha alvo: 'mij' - Segmentos correspondentes: 'mij' (com 1 palavras em comum)
+Linha alvo: 'sudda' - Segmentos correspondentes: 'sudda' (com 1 palavras em comum)
+Linha alvo: 'muahtaga v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjävla v' - Nenhuma correspondência encontrada
+Linha alvo: 'valda v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'tjaná v' - Nenhuma correspondência encontrada
+Linha alvo: 'virbme v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'tjävvla j' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Segmentos correspondentes: 'hålå v' (com 2 palavras em comum)
+Linha alvo: 'raddna j' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'maŋŋel' - Segmentos correspondentes: 'maŋŋel' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vuolga' - Segmentos correspondentes: 'vuolga' (com 1 palavras em comum)
+Linha alvo: 'Västeråsa j' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'giehto' - Segmentos correspondentes: 'giehto' (com 1 palavras em comum)
+Linha alvo: 'nagina v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'Luoddauvre' - Segmentos correspondentes: 'Luoddauvre' (com 1 palavras em comum)
+Linha alvo: 'birra' - Segmentos correspondentes: 'birra' (com 1 palavras em comum)
+Linha alvo: 'dáhke n' - Nenhuma correspondência encontrada
+Linha alvo: 'dal' - Segmentos correspondentes: 'dal' (com 1 palavras em comum)
+Linha alvo: 'd a v' - Nenhuma correspondência encontrada
+Linha alvo: 'gijtov' - Segmentos correspondentes: 'gijtov' (com 1 palavras em comum)
+Linha alvo: 'edne t' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Segmentos correspondentes: 'hålå v' (com 2 palavras em comum)
+Linha alvo: 'vuolge tji p' - Nenhuma correspondência encontrada
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'nä' - Segmentos correspondentes: 'nä' (com 1 palavras em comum)
+Linha alvo: 'virti tja v' - Nenhuma correspondência encontrada
+Linha alvo: 'nuolla t' - Nenhuma correspondência encontrada
+Linha alvo: 'ikeb' - Segmentos correspondentes: 'ikeb' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'vuosja tj a' - Nenhuma correspondência encontrada
+Linha alvo: 'káfa v' - Nenhuma correspondência encontrada
+Linha alvo: 'vuosja tj a' - Nenhuma correspondência encontrada
+Linha alvo: 'káfa v' - Nenhuma correspondência encontrada
+Linha alvo: 'gula tj a' - Nenhuma correspondência encontrada
+Linha alvo: 'd a v' - Nenhuma correspondência encontrada
+Linha alvo: 'ma v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'gukte' - Segmentos correspondentes: 'gukte' (com 1 palavras em comum)
+Linha alvo: 'galga' - Segmentos correspondentes: 'galga' (com 1 palavras em comum)
+Linha alvo: 'dåhkå' - Segmentos correspondentes: 'dåhkå' (com 1 palavras em comum)
+Linha alvo: 'ålli t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jna' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'galga v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'gähtto t' - Nenhuma correspondência encontrada
+Linha alvo: 'man' - Segmentos correspondentes: 'man' (com 1 palavras em comum)
+Linha alvo: 'ednag' - Segmentos correspondentes: 'ednag' (com 1 palavras em comum)
+Linha alvo: 'biejve' - Segmentos correspondentes: 'biejve' (com 1 palavras em comum)
+Linha alvo: 'galga' - Segmentos correspondentes: 'galga' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'årro t' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjåjve v' - Nenhuma correspondência encontrada
+Linha alvo: 'ruhtaste min' - Nenhuma correspondência encontrada
+Linha alvo: 'ullgus' - Segmentos correspondentes: 'ullgus' (com 1 palavras em comum)
+Linha alvo: 'tjådågo v' - Nenhuma correspondência encontrada
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjadna m' - Nenhuma correspondência encontrada
+Linha alvo: 'tjiebote n' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'd av' - Nenhuma correspondência encontrada
+Linha alvo: 'bassa m' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'máhta' - Segmentos correspondentes: 'máhta' (com 1 palavras em comum)
+Linha alvo: 'pironi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'budnju t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'jábma m' - Nenhuma correspondência encontrada
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'muv' - Segmentos correspondentes: 'muv' (com 1 palavras em comum)
+Linha alvo: 'äddne=l' - Segmentos correspondentes: 'äddne=l' (com 1 palavras em comum)
+Linha alvo: 'viesso min' - Nenhuma correspondência encontrada
+Linha alvo: 'dále' - Segmentos correspondentes: 'dále' (com 1 palavras em comum)
+Linha alvo: 'tjájbma min' - Nenhuma correspondência encontrada
+Linha alvo: 'vádtsa' - Segmentos correspondentes: 'vádtsa' (com 1 palavras em comum)
+Linha alvo: 'gulla min' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'tjála v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'vasja' - Segmentos correspondentes: 'vasja' (com 1 palavras em comum)
+Linha alvo: 'lipsusi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'daggari jd' - Nenhuma correspondência encontrada
+Linha alvo: 'vállde t' - Nenhuma correspondência encontrada
+Linha alvo: 'd á n' - Nenhuma correspondência encontrada
+Linha alvo: 'muddo n' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'ittji j' - Nenhuma correspondência encontrada
+Linha alvo: 'Henning' - Segmentos correspondentes: 'Henning' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'skihpá' - Segmentos correspondentes: 'skihpá' (com 1 palavras em comum)
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'nåv' - Segmentos correspondentes: 'nåv' (com 1 palavras em comum)
+Linha alvo: 'gållu m' - Nenhuma correspondência encontrada
+Linha alvo: 'ele' - Segmentos correspondentes: 'ele' (com 1 palavras em comum)
+Linha alvo: 'tsábme' - Segmentos correspondentes: 'tsábme' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'huvvsa' - Segmentos correspondentes: 'huvvsa' (com 1 palavras em comum)
+Linha alvo: 'bidtji duvvu j' - Nenhuma correspondência encontrada
+Linha alvo: 'Nise st' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'etjaláhkaj' - Segmentos correspondentes: 'etjaláhkaj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lij' - Segmentos correspondentes: 'lij' (com 1 palavras em comum)
+Linha alvo: 'dal' - Segmentos correspondentes: 'dal' (com 1 palavras em comum)
+Linha alvo: 'navte' - Segmentos correspondentes: 'navte' (com 1 palavras em comum)
+Linha alvo: 'gårro duvvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'd á' - Nenhuma correspondência encontrada
+Linha alvo: 'buhtsu' - Segmentos correspondentes: 'buhtsu' (com 1 palavras em comum)
+Linha alvo: 'ij' - Segmentos correspondentes: 'ij' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'mierke duvvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'duvne=l' - Segmentos correspondentes: 'duvne=l' (com 1 palavras em comum)
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'svála' - Segmentos correspondentes: 'svála' (com 1 palavras em comum)
+Linha alvo: 'båkså' - Segmentos correspondentes: 'båkså' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'l am' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'månnå' - Segmentos correspondentes: 'månnå' (com 1 palavras em comum)
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'skålå n' - Nenhuma correspondência encontrada
+Linha alvo: 'giese n' - Nenhuma correspondência encontrada
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'virte' - Segmentos correspondentes: 'virte' (com 1 palavras em comum)
+Linha alvo: 'várogi t' - Nenhuma correspondência encontrada
+Linha alvo: 'vállde t' - Nenhuma correspondência encontrada
+Linha alvo: 'vieso jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'vanj' - Segmentos correspondentes: 'vanj' (com 1 palavras em comum)
+Linha alvo: 'ganska' - Segmentos correspondentes: 'ganska' (com 1 palavras em comum)
+Linha alvo: 'buoragi t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jna' - Nenhuma correspondência encontrada
+Linha alvo: 'guollemi jn' - Nenhuma correspondência encontrada
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'buhtsu' - Segmentos correspondentes: 'buhtsu' (com 1 palavras em comum)
+Linha alvo: 'mielke st' - Nenhuma correspondência encontrada
+Linha alvo: 'ittj in' - Nenhuma correspondência encontrada
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'vuosta jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dága' - Segmentos correspondentes: 'dága' (com 1 palavras em comum)
+Linha alvo: 'kan' - Segmentos correspondentes: 'kan' (com 1 palavras em comum)
+Linha alvo: 'Edde' - Segmentos correspondentes: 'Edde' (com 1 palavras em comum)
+Linha alvo: 'diehta' - Segmentos correspondentes: 'diehta' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'bedja' - Segmentos correspondentes: 'bedja' (com 1 palavras em comum)
+Linha alvo: 'd u n' - Nenhuma correspondência encontrada
+Linha alvo: 'nubbe' - Segmentos correspondentes: 'nubbe' (com 1 palavras em comum)
+Linha alvo: 'biele n' - Nenhuma correspondência encontrada
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: 'risi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'gajk' - Segmentos correspondentes: 'gajk' (com 1 palavras em comum)
+Linha alvo: 'vuoras umos' - Nenhuma correspondência encontrada
+Linha alvo: 'saddje=l' - Segmentos correspondentes: 'saddje=l' (com 1 palavras em comum)
+Linha alvo: 'vanj' - Segmentos correspondentes: 'vanj' (com 1 palavras em comum)
+Linha alvo: 'd á t' - Nenhuma correspondência encontrada
+Linha alvo: 'urru m' - Nenhuma correspondência encontrada
+Linha alvo: 'dulutji st' - Nenhuma correspondência encontrada
+Linha alvo: 'udtju' - Segmentos correspondentes: 'udtju' (com 1 palavras em comum)
+Linha alvo: 'sáme' - Segmentos correspondentes: 'sáme' (com 1 palavras em comum)
+Linha alvo: 'giela v' - Nenhuma correspondência encontrada
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'sagasti t' - Nenhuma correspondência encontrada
+Linha alvo: 'nä' - Segmentos correspondentes: 'nä' (com 1 palavras em comum)
+Linha alvo: 'ij' - Segmentos correspondentes: 'ij' (com 1 palavras em comum)
+Linha alvo: 'gal' - Segmentos correspondentes: 'gal' (com 1 palavras em comum)
+Linha alvo: 'i ttjiv' - Nenhuma correspondência encontrada
+Linha alvo: 'åtjo' - Segmentos correspondentes: 'åtjo' (com 1 palavras em comum)
+Linha alvo: 'ilá' - Segmentos correspondentes: 'ilá' (com 1 palavras em comum)
+Linha alvo: 'nuora' - Segmentos correspondentes: 'nuora' (com 1 palavras em comum)
+Linha alvo: 'li jme' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'nällgo min' - Nenhuma correspondência encontrada
+Linha alvo: 'aná' - Segmentos correspondentes: 'aná' (com 1 palavras em comum)
+Linha alvo: 'gus' - Segmentos correspondentes: 'gus' (com 1 palavras em comum)
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'nagina v' - Nenhuma correspondência encontrada
+Linha alvo: 'mujt o jd' - Nenhuma correspondência encontrada
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'juga' - Segmentos correspondentes: 'juga' (com 1 palavras em comum)
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'guäsmaga v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'tsáhpa t' - Nenhuma correspondência encontrada
+Linha alvo: 'biergo v' - Segmentos correspondentes: 'biergo v' (com 2 palavras em comum)
+Linha alvo: 'káfa' - Segmentos correspondentes: 'káfa' (com 1 palavras em comum)
+Linha alvo: 'sis' - Segmentos correspondentes: 'sis' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'skåvlå máná' - Nenhuma correspondência encontrada
+Linha alvo: 'minni n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'bajel' - Segmentos correspondentes: 'bajel' (com 1 palavras em comum)
+Linha alvo: 'sparki jin' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'badde' - Segmentos correspondentes: 'badde' (com 1 palavras em comum)
+Linha alvo: 'åst o' - Nenhuma correspondência encontrada
+Linha alvo: 'badde' - Segmentos correspondentes: 'badde' (com 1 palavras em comum)
+Linha alvo: 'birra' - Segmentos correspondentes: 'birra' (com 1 palavras em comum)
+Linha alvo: 'd a nne' - Nenhuma correspondência encontrada
+Linha alvo: 'så' - Segmentos correspondentes: 'så' (com 1 palavras em comum)
+Linha alvo: 'åtjo jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'badjel' - Segmentos correspondentes: 'badjel' (com 1 palavras em comum)
+Linha alvo: 'nällje' - Segmentos correspondentes: 'nällje' (com 1 palavras em comum)
+Linha alvo: 'kronor' - Segmentos correspondentes: 'kronor' (com 1 palavras em comum)
+Linha alvo: 'tjilos' - Segmentos correspondentes: 'tjilos' (com 1 palavras em comum)
+Linha alvo: 'dalloj' - Segmentos correspondentes: 'dalloj' (com 1 palavras em comum)
+Linha alvo: 'd á jste' - Nenhuma correspondência encontrada
+Linha alvo: 'åtjo jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'mielke v' - Nenhuma correspondência encontrada
+Linha alvo: 'vuoja v' - Nenhuma correspondência encontrada
+Linha alvo: 'vuosta v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'biergo v' - Segmentos correspondentes: 'biergo v' (com 2 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'jahka v' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li djiv' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'akta låk nelldje' - Nenhuma correspondência encontrada
+Linha alvo: 'jala' - Segmentos correspondentes: 'jala' (com 1 palavras em comum)
+Linha alvo: 'akta låk vihta' - Nenhuma correspondência encontrada
+Linha alvo: 'jáge' - Segmentos correspondentes: 'jáge' (com 1 palavras em comum)
+Linha alvo: 'válda' - Segmentos correspondentes: 'válda' (com 1 palavras em comum)
+Linha alvo: 'káfa v' - Nenhuma correspondência encontrada
+Linha alvo: 'suhkor ijn' - Nenhuma correspondência encontrada
+Linha alvo: 'jala' - Segmentos correspondentes: 'jala' (com 1 palavras em comum)
+Linha alvo: 'suhkor ahta' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dálasj' - Segmentos correspondentes: 'dálasj' (com 1 palavras em comum)
+Linha alvo: 'ájge n' - Nenhuma correspondência encontrada
+Linha alvo: 'ij' - Segmentos correspondentes: 'ij' (com 1 palavras em comum)
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'aktak' - Segmentos correspondentes: 'aktak' (com 1 palavras em comum)
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'vieso' - Segmentos correspondentes: 'vieso' (com 1 palavras em comum)
+Linha alvo: 'jala' - Segmentos correspondentes: 'jala' (com 1 palavras em comum)
+Linha alvo: 'åro' - Segmentos correspondentes: 'åro' (com 1 palavras em comum)
+Linha alvo: 'ini jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'eller' - Segmentos correspondentes: 'eller' (com 1 palavras em comum)
+Linha alvo: 'båro jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'siri jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'láddagi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'vuojdne' - Segmentos correspondentes: 'vuojdne' (com 1 palavras em comum)
+Linha alvo: 'edna' - Segmentos correspondentes: 'edna' (com 1 palavras em comum)
+Linha alvo: 'guhka juolga g ijd' - Nenhuma correspondência encontrada
+Linha alvo: 'máná' - Segmentos correspondentes: 'máná' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tsiggi m' - Nenhuma correspondência encontrada
+Linha alvo: 'gåde v' - Segmentos correspondentes: 'gåde v' (com 2 palavras em comum)
+Linha alvo: 'gåhte' - Segmentos correspondentes: 'gåhte' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'tsiggij duvvu m' - Nenhuma correspondência encontrada
+Linha alvo: 'máná jst' - Nenhuma correspondência encontrada
+Linha alvo: 'bahá s' - Nenhuma correspondência encontrada
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'vietja' - Segmentos correspondentes: 'vietja' (com 1 palavras em comum)
+Linha alvo: 'pahpara v' - Nenhuma correspondência encontrada
+Linha alvo: 'd u n' - Nenhuma correspondência encontrada
+Linha alvo: 'váre' - Segmentos correspondentes: 'váre' (com 1 palavras em comum)
+Linha alvo: 'namma l' - Nenhuma correspondência encontrada
+Linha alvo: 'Sállvo' - Segmentos correspondentes: 'Sállvo' (com 1 palavras em comum)
+Linha alvo: 'i j' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'aktaga v' - Nenhuma correspondência encontrada
+Linha alvo: 'dága' - Segmentos correspondentes: 'dága' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'viehtja v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a v' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋŋel' - Segmentos correspondentes: 'maŋŋel' (com 1 palavras em comum)
+Linha alvo: 'jus' - Segmentos correspondentes: 'jus' (com 1 palavras em comum)
+Linha alvo: 'stalpe' - Segmentos correspondentes: 'stalpe' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'båhta m' - Nenhuma correspondência encontrada
+Linha alvo: 'elo' - Segmentos correspondentes: 'elo' (com 1 palavras em comum)
+Linha alvo: 'sissa' - Segmentos correspondentes: 'sissa' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vuolgi n' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'vitji n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a vva' - Nenhuma correspondência encontrada
+Linha alvo: 'båtsoj' - Segmentos correspondentes: 'båtsoj' (com 1 palavras em comum)
+Linha alvo: 'máhtta' - Segmentos correspondentes: 'máhtta' (com 1 palavras em comum)
+Linha alvo: 'duv' - Segmentos correspondentes: 'duv' (com 1 palavras em comum)
+Linha alvo: 'nala' - Segmentos correspondentes: 'nala' (com 1 palavras em comum)
+Linha alvo: 'båhte t' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'virrte n' - Nenhuma correspondência encontrada
+Linha alvo: 'märrke t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jt' - Nenhuma correspondência encontrada
+Linha alvo: 'miesi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dále' - Segmentos correspondentes: 'dále' (com 1 palavras em comum)
+Linha alvo: 'tjaktja n' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'åbå' - Segmentos correspondentes: 'åbå' (com 1 palavras em comum)
+Linha alvo: 'gulla m' - Nenhuma correspondência encontrada
+Linha alvo: 'd a v' - Nenhuma correspondência encontrada
+Linha alvo: 'i j' - Nenhuma correspondência encontrada
+Linha alvo: 'vanj' - Segmentos correspondentes: 'vanj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'máhte' - Segmentos correspondentes: 'máhte' (com 1 palavras em comum)
+Linha alvo: 'ilá' - Segmentos correspondentes: 'ilá' (com 1 palavras em comum)
+Linha alvo: 'stuor' - Segmentos correspondentes: 'stuor' (com 1 palavras em comum)
+Linha alvo: 'dålå v' - Nenhuma correspondência encontrada
+Linha alvo: 'adne t' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'le v' - Nenhuma correspondência encontrada
+Linha alvo: 'máhtta m' - Nenhuma correspondência encontrada
+Linha alvo: 'sáme v' - Segmentos correspondentes: 'sáme v' (com 2 palavras em comum)
+Linha alvo: 'ságasti t' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'vuojna v' - Nenhuma correspondência encontrada
+Linha alvo: 'Tjeggelvasa v' - Segmentos correspondentes: 'Tjeggelvasa v' (com 2 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'såko j' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'ello' - Segmentos correspondentes: 'ello' (com 1 palavras em comum)
+Linha alvo: 'd á j' - Nenhuma correspondência encontrada
+Linha alvo: 'Skaile j' - Nenhuma correspondência encontrada
+Linha alvo: 'ello' - Segmentos correspondentes: 'ello' (com 1 palavras em comum)
+Linha alvo: 'såko j' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dága j' - Nenhuma correspondência encontrada
+Linha alvo: 'mále' - Segmentos correspondentes: 'mále' (com 1 palavras em comum)
+Linha alvo: 'gamsa jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'nåv' - Segmentos correspondentes: 'nåv' (com 1 palavras em comum)
+Linha alvo: 'edna' - Segmentos correspondentes: 'edna' (com 1 palavras em comum)
+Linha alvo: 'båtsoj' - Segmentos correspondentes: 'båtsoj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'ini jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'guäkte' - Segmentos correspondentes: 'guäkte' (com 1 palavras em comum)
+Linha alvo: 'stuora' - Segmentos correspondentes: 'stuora' (com 1 palavras em comum)
+Linha alvo: 'guhka juolga gi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'gålm át' - Nenhuma correspondência encontrada
+Linha alvo: 'sjadda' - Segmentos correspondentes: 'sjadda' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'Stutja j' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'tjábba' - Segmentos correspondentes: 'tjábba' (com 1 palavras em comum)
+Linha alvo: 'máhtta' - Segmentos correspondentes: 'máhtta' (com 1 palavras em comum)
+Linha alvo: 'sáme' - Segmentos correspondentes: 'sáme' (com 1 palavras em comum)
+Linha alvo: 'giela v' - Nenhuma correspondência encontrada
+Linha alvo: 'båro v' - Nenhuma correspondência encontrada
+Linha alvo: 'rupsisa v' - Nenhuma correspondência encontrada
+Linha alvo: 'bisi j' - Nenhuma correspondência encontrada
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'såbe' - Segmentos correspondentes: 'såbe' (com 1 palavras em comum)
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'mähtti v' - Nenhuma correspondência encontrada
+Linha alvo: 'ráhpa t' - Nenhuma correspondência encontrada
+Linha alvo: 'uksa v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'etj' - Segmentos correspondentes: 'etj' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Segmentos correspondentes: 'hålå v' (com 2 palavras em comum)
+Linha alvo: 'dále' - Segmentos correspondentes: 'dále' (com 1 palavras em comum)
+Linha alvo: 'navte' - Segmentos correspondentes: 'navte' (com 1 palavras em comum)
+Linha alvo: 'd á' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'jisse' - Segmentos correspondentes: 'jisse' (com 1 palavras em comum)
+Linha alvo: 'gistá' - Segmentos correspondentes: 'gistá' (com 1 palavras em comum)
+Linha alvo: 'me jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dálve n' - Nenhuma correspondência encontrada
+Linha alvo: 'gallga' - Segmentos correspondentes: 'gallga' (com 1 palavras em comum)
+Linha alvo: 'adne t' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'jáhka v' - Nenhuma correspondência encontrada
+Linha alvo: 'minni v' - Nenhuma correspondência encontrada
+Linha alvo: 'giese n' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'Henning' - Segmentos correspondentes: 'Henning' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'jou' - Segmentos correspondentes: 'jou' (com 1 palavras em comum)
+Linha alvo: 'hiejma n' - Nenhuma correspondência encontrada
+Linha alvo: 'urru m' - Nenhuma correspondência encontrada
+Linha alvo: 'vahko v' - Nenhuma correspondência encontrada
+Linha alvo: 'etj a' - Nenhuma correspondência encontrada
+Linha alvo: 'died o n' - Nenhuma correspondência encontrada
+Linha alvo: 'edne n' - Nenhuma correspondência encontrada
+Linha alvo: 'mielke v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'vuosta v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'danna' - Segmentos correspondentes: 'danna' (com 1 palavras em comum)
+Linha alvo: 'li p' - Nenhuma correspondência encontrada
+Linha alvo: 'bårrå m' - Nenhuma correspondência encontrada
+Linha alvo: 'njalga' - Segmentos correspondentes: 'njalga' (com 1 palavras em comum)
+Linha alvo: 'biebmo v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'urru m' - Nenhuma correspondência encontrada
+Linha alvo: 'huj' - Segmentos correspondentes: 'huj' (com 1 palavras em comum)
+Linha alvo: 'buorak' - Segmentos correspondentes: 'buorak' (com 1 palavras em comum)
+Linha alvo: 'giesse' - Segmentos correspondentes: 'giesse' (com 1 palavras em comum)
+Linha alvo: 'mánná' - Segmentos correspondentes: 'mánná' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'nuorra' - Segmentos correspondentes: 'nuorra' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'vuosjkun a' - Nenhuma correspondência encontrada
+Linha alvo: 'nåv' - Segmentos correspondentes: 'nåv' (com 1 palavras em comum)
+Linha alvo: 'buojde' - Segmentos correspondentes: 'buojde' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'guäkte' - Segmentos correspondentes: 'guäkte' (com 1 palavras em comum)
+Linha alvo: 'dåpe' - Segmentos correspondentes: 'dåpe' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'vuostak' - Segmentos correspondentes: 'vuostak' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'akkta' - Segmentos correspondentes: 'akkta' (com 1 palavras em comum)
+Linha alvo: 'råmmå' - Segmentos correspondentes: 'råmmå' (com 1 palavras em comum)
+Linha alvo: 'jus' - Segmentos correspondentes: 'jus' (com 1 palavras em comum)
+Linha alvo: 'galga' - Segmentos correspondentes: 'galga' (com 1 palavras em comum)
+Linha alvo: 'njuallga' - Segmentos correspondentes: 'njuallga' (com 1 palavras em comum)
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'njuovva t' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'galga' - Segmentos correspondentes: 'galga' (com 1 palavras em comum)
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'vallde t' - Nenhuma correspondência encontrada
+Linha alvo: 'ulgus' - Segmentos correspondentes: 'ulgus' (com 1 palavras em comum)
+Linha alvo: 'åvdål' - Segmentos correspondentes: 'åvdål' (com 1 palavras em comum)
+Linha alvo: 'gádtsasti j' - Nenhuma correspondência encontrada
+Linha alvo: 'dalloj' - Segmentos correspondentes: 'dalloj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'mana j' - Nenhuma correspondência encontrada
+Linha alvo: 'buoragi t' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'åbbå' - Segmentos correspondentes: 'åbbå' (com 1 palavras em comum)
+Linha alvo: 'vuoras' - Segmentos correspondentes: 'vuoras' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'd á t' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'gillgi v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a j' - Nenhuma correspondência encontrada
+Linha alvo: 'gusa j' - Nenhuma correspondência encontrada
+Linha alvo: 'birra' - Segmentos correspondentes: 'birra' (com 1 palavras em comum)
+Linha alvo: 'ságastit' - Segmentos correspondentes: 'ságastit' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'tjuotju v' - Nenhuma correspondência encontrada
+Linha alvo: 'stuor njárga' - Nenhuma correspondência encontrada
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'Álesgiehtje n' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'virte v' - Nenhuma correspondência encontrada
+Linha alvo: 'tjátse v' - Nenhuma correspondência encontrada
+Linha alvo: 'beja t' - Nenhuma correspondência encontrada
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'sisa' - Segmentos correspondentes: 'sisa' (com 1 palavras em comum)
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'du v' - Nenhuma correspondência encontrada
+Linha alvo: 'gugu' - Segmentos correspondentes: 'gugu' (com 1 palavras em comum)
+Linha alvo: 'båhta m' - Nenhuma correspondência encontrada
+Linha alvo: 'me j' - Nenhuma correspondência encontrada
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'mikkir' - Segmentos correspondentes: 'mikkir' (com 1 palavras em comum)
+Linha alvo: 'gierge' - Segmentos correspondentes: 'gierge' (com 1 palavras em comum)
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'Kataridna' - Segmentos correspondentes: 'Kataridna' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'månnå' - Segmentos correspondentes: 'månnå' (com 1 palavras em comum)
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'gierge' - Segmentos correspondentes: 'gierge' (com 1 palavras em comum)
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'pruvko jin' - Nenhuma correspondência encontrada
+Linha alvo: 'ståhkå t' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'ana v' - Nenhuma correspondência encontrada
+Linha alvo: 'Árjepluove' - Segmentos correspondentes: 'Árjepluove' (com 1 palavras em comum)
+Linha alvo: 'gapte v' - Nenhuma correspondência encontrada
+Linha alvo: 'nanne' - Segmentos correspondentes: 'nanne' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'Ivan' - Segmentos correspondentes: 'Ivan' (com 1 palavras em comum)
+Linha alvo: 'adna' - Segmentos correspondentes: 'adna' (com 1 palavras em comum)
+Linha alvo: 'Arrvehavre' - Segmentos correspondentes: 'Arrvehavre' (com 1 palavras em comum)
+Linha alvo: 'gapte v' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'ijtji n' - Nenhuma correspondência encontrada
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'bårå' - Segmentos correspondentes: 'bårå' (com 1 palavras em comum)
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'siste' - Segmentos correspondentes: 'siste' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'edne n' - Nenhuma correspondência encontrada
+Linha alvo: 'biebmo jd' - Nenhuma correspondência encontrada
+Linha alvo: 'biergo jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dále' - Segmentos correspondentes: 'dále' (com 1 palavras em comum)
+Linha alvo: 'návte' - Segmentos correspondentes: 'návte' (com 1 palavras em comum)
+Linha alvo: 'deggara' - Segmentos correspondentes: 'deggara' (com 1 palavras em comum)
+Linha alvo: 'sinne' - Segmentos correspondentes: 'sinne' (com 1 palavras em comum)
+Linha alvo: 'dále=l' - Segmentos correspondentes: 'dále=l' (com 1 palavras em comum)
+Linha alvo: 'gámbal' - Segmentos correspondentes: 'gámbal' (com 1 palavras em comum)
+Linha alvo: 'dåhpe' - Segmentos correspondentes: 'dåhpe' (com 1 palavras em comum)
+Linha alvo: 'jala' - Segmentos correspondentes: 'jala' (com 1 palavras em comum)
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'hållå' - Segmentos correspondentes: 'hållå' (com 1 palavras em comum)
+Linha alvo: 'unna' - Segmentos correspondentes: 'unna' (com 1 palavras em comum)
+Linha alvo: 'dåbá tj' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Segmentos correspondentes: 'hålå v' (com 2 palavras em comum)
+Linha alvo: 'att' - Segmentos correspondentes: 'att' (com 1 palavras em comum)
+Linha alvo: 'sida v' - Segmentos correspondentes: 'sida v' (com 2 palavras em comum)
+Linha alvo: 'bajke t' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'dieda v' - Segmentos correspondentes: 'dieda v' (com 2 palavras em comum)
+Linha alvo: 'att' - Segmentos correspondentes: 'att' (com 1 palavras em comum)
+Linha alvo: 'háre' - Segmentos correspondentes: 'háre' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'jávre n' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'jáhka v' - Nenhuma correspondência encontrada
+Linha alvo: 'stuor' - Segmentos correspondentes: 'stuor' (com 1 palavras em comum)
+Linha alvo: 'tjuovtj a' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'tuhtji v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lij' - Segmentos correspondentes: 'lij' (com 1 palavras em comum)
+Linha alvo: 'nav' - Segmentos correspondentes: 'nav' (com 1 palavras em comum)
+Linha alvo: 'suohtas' - Segmentos correspondentes: 'suohtas' (com 1 palavras em comum)
+Linha alvo: 'tielta jn' - Nenhuma correspondência encontrada
+Linha alvo: 'viesso t' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'hålå v' - Segmentos correspondentes: 'hålå v' (com 2 palavras em comum)
+Linha alvo: 'vuhtji jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'mija' - Segmentos correspondentes: 'mija' (com 1 palavras em comum)
+Linha alvo: 'sárva v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'diede' - Segmentos correspondentes: 'diede' (com 1 palavras em comum)
+Linha alvo: 'gåsse' - Segmentos correspondentes: 'gåsse' (com 1 palavras em comum)
+Linha alvo: 'gillgi n' - Nenhuma correspondência encontrada
+Linha alvo: 'gávnadi t' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋe p' - Nenhuma correspondência encontrada
+Linha alvo: 'bále' - Segmentos correspondentes: 'bále' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'skene' - Segmentos correspondentes: 'skene' (com 1 palavras em comum)
+Linha alvo: 'ma v' - Nenhuma correspondência encontrada
+Linha alvo: 'dån' - Segmentos correspondentes: 'dån' (com 1 palavras em comum)
+Linha alvo: 'hålå' - Segmentos correspondentes: 'hålå' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'dieda v' - Segmentos correspondentes: 'dieda v' (com 2 palavras em comum)
+Linha alvo: 'gie' - Segmentos correspondentes: 'gie' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'man' - Segmentos correspondentes: 'man' (com 1 palavras em comum)
+Linha alvo: 'mälgat' - Segmentos correspondentes: 'mälgat' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'hiejma n' - Nenhuma correspondência encontrada
+Linha alvo: 'i v' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'diede' - Segmentos correspondentes: 'diede' (com 1 palavras em comum)
+Linha alvo: 'nå' - Segmentos correspondentes: 'nå' (com 1 palavras em comum)
+Linha alvo: 'gosse' - Segmentos correspondentes: 'gosse' (com 1 palavras em comum)
+Linha alvo: 'dijá' - Segmentos correspondentes: 'dijá' (com 1 palavras em comum)
+Linha alvo: 'älgi jdä' - Nenhuma correspondência encontrada
+Linha alvo: 'Örnvika st' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodje t' - Nenhuma correspondência encontrada
+Linha alvo: 'vadnása v' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'virrti n' - Nenhuma correspondência encontrada
+Linha alvo: 'allge t' - Nenhuma correspondência encontrada
+Linha alvo: 'biebma t' - Nenhuma correspondência encontrada
+Linha alvo: 'fodderi jd' - Nenhuma correspondência encontrada
+Linha alvo: 'vuodje t' - Nenhuma correspondência encontrada
+Linha alvo: 'nä' - Segmentos correspondentes: 'nä' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'li v' - Nenhuma correspondência encontrada
+Linha alvo: 'åjaldahta m' - Nenhuma correspondência encontrada
+Linha alvo: 'vallde t' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋen' - Segmentos correspondentes: 'maŋen' (com 1 palavras em comum)
+Linha alvo: 'vajálduhti v' - Nenhuma correspondência encontrada
+Linha alvo: 'hållå t' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'vusjkoni jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dihki v' - Segmentos correspondentes: 'dihki v' (com 2 palavras em comum)
+Linha alvo: 'hihtu' - Segmentos correspondentes: 'hihtu' (com 1 palavras em comum)
+Linha alvo: 'vanj' - Segmentos correspondentes: 'vanj' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'baktja t' - Nenhuma correspondência encontrada
+Linha alvo: 'innan' - Segmentos correspondentes: 'innan' (com 1 palavras em comum)
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'stärti v' - Nenhuma correspondência encontrada
+Linha alvo: 'motora v' - Nenhuma correspondência encontrada
+Linha alvo: 'gu' - Segmentos correspondentes: 'gu' (com 1 palavras em comum)
+Linha alvo: 'lidji n' - Nenhuma correspondência encontrada
+Linha alvo: 'sladji m' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'båhti n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a' - Nenhuma correspondência encontrada
+Linha alvo: 'bajás' - Segmentos correspondentes: 'bajás' (com 1 palavras em comum)
+Linha alvo: 'jus' - Segmentos correspondentes: 'jus' (com 1 palavras em comum)
+Linha alvo: 'gussa' - Segmentos correspondentes: 'gussa' (com 1 palavras em comum)
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ulli' - Segmentos correspondentes: 'ulli' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'bårre' - Segmentos correspondentes: 'bårre' (com 1 palavras em comum)
+Linha alvo: 'd a jd' - Nenhuma correspondência encontrada
+Linha alvo: 'dija' - Segmentos correspondentes: 'dija' (com 1 palavras em comum)
+Linha alvo: 'gama suijni jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'samma' - Segmentos correspondentes: 'samma' (com 1 palavras em comum)
+Linha alvo: 'jus' - Segmentos correspondentes: 'jus' (com 1 palavras em comum)
+Linha alvo: 'del' - Segmentos correspondentes: 'del' (com 1 palavras em comum)
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'guallban a' - Nenhuma correspondência encontrada
+Linha alvo: 'vaj' - Segmentos correspondentes: 'vaj' (com 1 palavras em comum)
+Linha alvo: 'bijjadag a' - Nenhuma correspondência encontrada
+Linha alvo: 'vaj' - Segmentos correspondentes: 'vaj' (com 1 palavras em comum)
+Linha alvo: 'smav' - Segmentos correspondentes: 'smav' (com 1 palavras em comum)
+Linha alvo: 'biehtsasdag a' - Nenhuma correspondência encontrada
+Linha alvo: 'gulla min' - Nenhuma correspondência encontrada
+Linha alvo: 'mån' - Segmentos correspondentes: 'mån' (com 1 palavras em comum)
+Linha alvo: 'tjála v' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'ini jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'akta v' - Segmentos correspondentes: 'akta v' (com 2 palavras em comum)
+Linha alvo: 'vuoksa v' - Nenhuma correspondência encontrada
+Linha alvo: 'ma jna' - Nenhuma correspondência encontrada
+Linha alvo: 'vuojadi jmä' - Nenhuma correspondência encontrada
+Linha alvo: 'muora jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'maŋŋe mus' - Nenhuma correspondência encontrada
+Linha alvo: 'skoteri jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ma jd' - Nenhuma correspondência encontrada
+Linha alvo: 'ini ga' - Nenhuma correspondência encontrada
+Linha alvo: 'måj' - Segmentos correspondentes: 'måj' (com 1 palavras em comum)
+Linha alvo: 'ma' - Segmentos correspondentes: 'ma' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'båhta m' - Nenhuma correspondência encontrada
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'nuora' - Segmentos correspondentes: 'nuora' (com 1 palavras em comum)
+Linha alvo: 'álmatj a' - Nenhuma correspondência encontrada
+Linha alvo: 'ma' - Segmentos correspondentes: 'ma' (com 1 palavras em comum)
+Linha alvo: 'li n' - Nenhuma correspondência encontrada
+Linha alvo: 'riejdnohi men' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'li j' - Nenhuma correspondência encontrada
+Linha alvo: 'duv' - Segmentos correspondentes: 'duv' (com 1 palavras em comum)
+Linha alvo: 'gugu' - Segmentos correspondentes: 'gugu' (com 1 palavras em comum)
+Linha alvo: 'ma sa' - Nenhuma correspondência encontrada
+Linha alvo: 'båhte n' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'náhppe' - Segmentos correspondentes: 'náhppe' (com 1 palavras em comum)
+Linha alvo: 'ma n' - Nenhuma correspondência encontrada
+Linha alvo: 'sisa' - Segmentos correspondentes: 'sisa' (com 1 palavras em comum)
+Linha alvo: 'båhtje n' - Nenhuma correspondência encontrada
+Linha alvo: 'buhtsu jd' - Nenhuma correspondência encontrada
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'danne' - Segmentos correspondentes: 'danne' (com 1 palavras em comum)
+Linha alvo: 'urru m' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'pluovve' - Segmentos correspondentes: 'pluovve' (com 1 palavras em comum)
+Linha alvo: 'ma n' - Nenhuma correspondência encontrada
+Linha alvo: 'namma' - Segmentos correspondentes: 'namma' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'mij' - Segmentos correspondentes: 'mij' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'namma' - Segmentos correspondentes: 'namma' (com 1 palavras em comum)
+Linha alvo: 'd a n' - Nenhuma correspondência encontrada
+Linha alvo: 'd á v' - Nenhuma correspondência encontrada
+Linha alvo: 'mijá' - Segmentos correspondentes: 'mijá' (com 1 palavras em comum)
+Linha alvo: 'Árjepluove v' - Nenhuma correspondência encontrada
+Linha alvo: 'd a t' - Nenhuma correspondência encontrada
+Linha alvo: 'almatj' - Segmentos correspondentes: 'almatj' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'bahá' - Segmentos correspondentes: 'bahá' (com 1 palavras em comum)
+Linha alvo: 'dä' - Segmentos correspondentes: 'dä' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'ájge' - Segmentos correspondentes: 'ájge' (com 1 palavras em comum)
+Linha alvo: 'ma' - Segmentos correspondentes: 'ma' (com 1 palavras em comum)
+Linha alvo: 'lä' - Segmentos correspondentes: 'lä' (com 1 palavras em comum)
+Linha alvo: 'urru m' - Nenhuma correspondência encontrada

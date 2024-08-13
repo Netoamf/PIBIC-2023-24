@@ -1,0 +1,1816 @@
+BPE: aj | Linguist: aj
+BPE: mapi | Linguist: mapi
+BPE: jũ | Linguist: jũ
+BPE: kwini | Linguist: kwini
+BPE: ũko | Linguist: ũko
+BPE: kani | Linguist: kani
+BPE: ũko | Linguist: ũko
+BPE: opera | Linguist: opera
+BPE: jato | Linguist: jato
+BPE: muj | Linguist: muj
+BPE: pja | Linguist: pja
+BPE: ojo | Linguist: ojo
+BPE: papa | Linguist: papa
+BPE: kanio | Linguist: kanio
+BPE: ña | Linguist: ña
+BPE: jato | Linguist: jato
+BPE: muj | Linguist: muj
+BPE: pja | Linguist: pja
+BPE: ojo | Linguist: ojo
+BPE: papa | Linguist: papa
+BPE: jũ | Linguist: jũ
+BPE: pja | Linguist: pja
+BPE: ña | Linguist: ña
+BPE: pja | Linguist: pja
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: jato | Linguist: jato
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: ña | Linguist: ña
+BPE: ña | Linguist: ña
+BPE: na | Linguist: na
+BPE: opera | Linguist: opera
+BPE: i a | Linguist: i a
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: ña | Linguist: ña
+BPE: more nake | Linguist: more nake
+BPE: ũko | Linguist: ũko
+BPE: uru nake o | Linguist: uru nake o
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: ojo | Linguist: ojo
+BPE: jũ | Linguist: jũ
+BPE: kani | Linguist: kani
+BPE: ævo | Linguist: ævo
+BPE: jũ | Linguist: jũ
+BPE: kani | Linguist: kani
+BPE: e tsĩkwa | Linguist: e tsĩkwa
+BPE: jũ | Linguist: jũ
+BPE: jũ | Linguist: jũ
+BPE: jũ | Linguist: jũ
+BPE: ævo | Linguist: ævo
+BPE: kani | Linguist: kani
+BPE: jũ | Linguist: jũ
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: ajte | Linguist: ajte
+BPE: ore | Linguist: ore
+BPE: õ ry | Linguist: õ ry
+BPE: ojte | Linguist: ojte
+BPE: ore | Linguist: ore
+BPE: aj | Linguist: aj
+BPE: æky | Linguist: æky
+BPE: po õ ky | Linguist: po õ ky
+BPE: aj | Linguist: aj
+BPE: ry | Linguist: ry
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: jũ | Linguist: jũ
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: kuni | Linguist: kuni
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: tsero | Linguist: tsero
+BPE: itæ | Linguist: itæ
+BPE: mi | Linguist: mi
+BPE: ere | Linguist: ere
+BPE: ojte | Linguist: ojte
+BPE: ævo | Linguist: ævo
+BPE: ã kỹj | Linguist: ã kỹj
+BPE: more kỹj | Linguist: more kỹj
+BPE: ojte | Linguist: ojte
+BPE: nake | Linguist: nake
+BPE: more nake | Linguist: more nake
+BPE: oj | Linguist: oj
+BPE: ã kỹj | Linguist: ã kỹj
+BPE: aj | Linguist: aj
+BPE: toky | Linguist: toky
+BPE: ajte | Linguist: ajte
+BPE: toky | Linguist: toky
+BPE: mi | Linguist: mi
+BPE: toky | Linguist: toky
+BPE: toky | Linguist: toky
+BPE: oj | Linguist: oj
+BPE: toky | Linguist: toky
+BPE: ojte | Linguist: ojte
+BPE: toky | Linguist: toky
+BPE: aj | Linguist: aj
+BPE: oj õ twa | Linguist: oj õ twa
+BPE: ajte | Linguist: ajte
+BPE: oj õ twa | Linguist: oj õ twa
+BPE: mi | Linguist: mi
+BPE: oj pe twa | Linguist: oj pe twa
+BPE: oj pe twa | Linguist: oj pe twa
+BPE: oj | Linguist: oj
+BPE: oj ø twa | Linguist: oj ø twa
+BPE: ojte | Linguist: ojte
+BPE: oj ø twa | Linguist: oj ø twa
+BPE: aj | Linguist: aj
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: ajte | Linguist: ajte
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: mi | Linguist: mi
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: oj | Linguist: oj
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: ojte | Linguist: ojte
+BPE: toky | Linguist: toky
+BPE: ja | Linguist: ja
+BPE: ña | Linguist: ña
+BPE: i kỹj | Linguist: i kỹj
+BPE: pja | Linguist: pja
+BPE: ojo | Linguist: ojo
+BPE: jato | Linguist: jato
+BPE: papa | Linguist: papa
+BPE: tũ o | Linguist: tũ o
+BPE: kan te | Linguist: kan te
+BPE: tũvo | Linguist: tũvo
+BPE: pja | Linguist: pja
+BPE: voro pe kỹj | Linguist: voro pe kỹj
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej ø turo | Linguist: ej ø turo
+BPE: pja | Linguist: pja
+BPE: ña | Linguist: ña
+BPE: ojo | Linguist: ojo
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej ø turo | Linguist: ej ø turo
+BPE: ña | Linguist: ña
+BPE: ojo | Linguist: ojo
+BPE: tyj | Linguist: tyj
+BPE: ej ø turo | Linguist: ej ø turo
+BPE: jũ | Linguist: jũ
+BPE: ævo | Linguist: ævo
+BPE: ũko | Linguist: ũko
+BPE: ævo | Linguist: ævo
+BPE: mi | Linguist: mi
+BPE: ũko | Linguist: ũko
+BPE: e | Linguist: e
+BPE: pi jẽ to | Linguist: pi jẽ to
+BPE: oj | Linguist: oj
+BPE: tũ o | Linguist: tũ o
+BPE: oj | Linguist: oj
+BPE: nuvi nake tsi | Linguist: nuvi nake tsi
+BPE: pja | Linguist: pja
+BPE: kani | Linguist: kani
+BPE: nuvi kỹj tsi | Linguist: nuvi kỹj tsi
+BPE: oj | Linguist: oj
+BPE: para ja | Linguist: para ja
+BPE: pja | Linguist: pja
+BPE: koro | Linguist: koro
+BPE: ja | Linguist: ja
+BPE: pja | Linguist: pja
+BPE: voro pe kỹj | Linguist: voro pe kỹj
+BPE: oj | Linguist: oj
+BPE: æky | Linguist: æky
+BPE: nuvi kỹj tsi | Linguist: nuvi kỹj tsi
+BPE: jũ | Linguist: jũ
+BPE: kani | Linguist: kani
+BPE: nuvi kỹj tsi | Linguist: nuvi kỹj tsi
+BPE: pja | Linguist: pja
+BPE: ævo | Linguist: ævo
+BPE: re | Linguist: re
+BPE: mi | Linguist: mi
+BPE: nuvi o | Linguist: nuvi o
+BPE: jũ | Linguist: jũ
+BPE: tyj tsi | Linguist: tyj tsi
+BPE: nuvi o | Linguist: nuvi o
+BPE: ũko | Linguist: ũko
+BPE: nuvi o | Linguist: nuvi o
+BPE: nuvi o | Linguist: nuvi o
+BPE: jũ | Linguist: jũ
+BPE: nuvi o | Linguist: nuvi o
+BPE: jũ | Linguist: jũ
+BPE: nuvi o | Linguist: nuvi o
+BPE: ũko | Linguist: ũko
+BPE: nuvi nake tsi | Linguist: nuvi nake tsi
+BPE: pja | Linguist: pja
+BPE: kani | Linguist: kani
+BPE: nuvi kỹj tsi | Linguist: nuvi kỹj tsi
+BPE: mi | Linguist: mi
+BPE: nuvi kỹj tsi | Linguist: nuvi kỹj tsi
+BPE: pja | Linguist: pja
+BPE: papa | Linguist: papa
+BPE: re | Linguist: re
+BPE: nuvi tsi | Linguist: nuvi tsi
+BPE: nuvi tsi | Linguist: nuvi tsi
+BPE: ña | Linguist: ña
+BPE: ajte | Linguist: ajte
+BPE: mi | Linguist: mi
+BPE: u mi ro e | Linguist: u mi ro e
+BPE: ajte | Linguist: ajte
+BPE: nuvi tsi | Linguist: nuvi tsi
+BPE: mi | Linguist: mi
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: oj | Linguist: oj
+BPE: e | Linguist: e
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: ajte | Linguist: ajte
+BPE: atiti | Linguist: atiti
+BPE: vavo | Linguist: vavo
+BPE: po | Linguist: po
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: mi | Linguist: mi
+BPE: mapi | Linguist: mapi
+BPE: more | Linguist: more
+BPE: aj | Linguist: aj
+BPE: itevæ | Linguist: itevæ
+BPE: oj | Linguist: oj
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: itevæ | Linguist: itevæ
+BPE: aj | Linguist: aj
+BPE: ũko | Linguist: ũko
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: re | Linguist: re
+BPE: pja | Linguist: pja
+BPE: ara | Linguist: ara
+BPE: aj | Linguist: aj
+BPE: mow kỹj | Linguist: mow kỹj
+BPE: kani | Linguist: kani
+BPE: oj | Linguist: oj
+BPE: mow nake | Linguist: mow nake
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: mow kỹj | Linguist: mow kỹj
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: ara | Linguist: ara
+BPE: mapi | Linguist: mapi
+BPE: aj | Linguist: aj
+BPE: ara | Linguist: ara
+BPE: kani | Linguist: kani
+BPE: oj | Linguist: oj
+BPE: kani | Linguist: kani
+BPE: ara kani | Linguist: ara kani
+BPE: ojte | Linguist: ojte
+BPE: ara | Linguist: ara
+BPE: oj | Linguist: oj
+BPE: oj | Linguist: oj
+BPE: mapi | Linguist: mapi
+BPE: nã | Linguist: nã
+BPE: kani | Linguist: kani
+BPE: po | Linguist: po
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: aj | Linguist: aj
+BPE: ævo | Linguist: ævo
+BPE: aj | Linguist: aj
+BPE: e | Linguist: e
+BPE: mow nake | Linguist: mow nake
+BPE: kuni | Linguist: kuni
+BPE: aj | Linguist: aj
+BPE: ævo | Linguist: ævo
+BPE: e | Linguist: e
+BPE: mõw nake | Linguist: mõw nake
+BPE: kani | Linguist: kani
+BPE: nake | Linguist: nake
+BPE: kani | Linguist: kani
+BPE: mi | Linguist: mi
+BPE: pe tsi | Linguist: pe tsi
+BPE: mapi | Linguist: mapi
+BPE: oj | Linguist: oj
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: kamitsi | Linguist: kamitsi
+BPE: kamitsi | Linguist: kamitsi
+BPE: ojo | Linguist: ojo
+BPE: ævo | Linguist: ævo
+BPE: e | Linguist: e
+BPE: mini | Linguist: mini
+BPE: ara | Linguist: ara
+BPE: kamitsi | Linguist: kamitsi
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: kani | Linguist: kani
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: pejake | Linguist: pejake
+BPE: pejake | Linguist: pejake
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: pejake | Linguist: pejake
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: oke | Linguist: oke
+BPE: oke | Linguist: oke
+BPE: oj | Linguist: oj
+BPE: tũvo | Linguist: tũvo
+BPE: oke | Linguist: oke
+BPE: aj | Linguist: aj
+BPE: oke | Linguist: oke
+BPE: mike | Linguist: mike
+BPE: nã | Linguist: nã
+BPE: kani | Linguist: kani
+BPE: mike | Linguist: mike
+BPE: mike | Linguist: mike
+BPE: væ tsi e | Linguist: væ tsi e
+BPE: ara | Linguist: ara
+BPE: nini | Linguist: nini
+BPE: mu væ | Linguist: mu væ
+BPE: nini | Linguist: nini
+BPE: mi | Linguist: mi
+BPE: nini | Linguist: nini
+BPE: more | Linguist: more
+BPE: jũ ni | Linguist: jũ ni
+BPE: jũ ni | Linguist: jũ ni
+BPE: tsi | Linguist: tsi
+BPE: jũ | Linguist: jũ
+BPE: more | Linguist: more
+BPE: jũ | Linguist: jũ
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: ja | Linguist: ja
+BPE: more | Linguist: more
+BPE: ara | Linguist: ara
+BPE: oj | Linguist: oj
+BPE: ũko | Linguist: ũko
+BPE: more | Linguist: more
+BPE: ara | Linguist: ara
+BPE: o | Linguist: o
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: ja | Linguist: ja
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: kwini | Linguist: kwini
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: aj | Linguist: aj
+BPE: mu | Linguist: mu
+BPE: mini | Linguist: mini
+BPE: væ tsi e | Linguist: væ tsi e
+BPE: ara | Linguist: ara
+BPE: mini | Linguist: mini
+BPE: jũ | Linguist: jũ
+BPE: opera | Linguist: opera
+BPE: tũvo | Linguist: tũvo
+BPE: ara | Linguist: ara
+BPE: pejake | Linguist: pejake
+BPE: tũ o | Linguist: tũ o
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: itevæ | Linguist: itevæ
+BPE: oj | Linguist: oj
+BPE: ara | Linguist: ara
+BPE: ara | Linguist: ara
+BPE: mi | Linguist: mi
+BPE: mo kỹj | Linguist: mo kỹj
+BPE: mi | Linguist: mi
+BPE: pi ẽ to tsi | Linguist: pi ẽ to tsi
+BPE: aj ø ja tsi | Linguist: aj ø ja tsi
+BPE: mi ro tsi | Linguist: mi ro tsi
+BPE: ne | Linguist: ne
+BPE: ne | Linguist: ne
+BPE: ty | Linguist: ty
+BPE: mi nu | Linguist: mi nu
+BPE: ne | Linguist: ne
+BPE: ne | Linguist: ne
+BPE: ajte | Linguist: ajte
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: i tso ni | Linguist: i tso ni
+BPE: aj | Linguist: aj
+BPE: ipæ | Linguist: ipæ
+BPE: ajte | Linguist: ajte
+BPE: pe væ ja | Linguist: pe væ ja
+BPE: kani | Linguist: kani
+BPE: tõ | Linguist: tõ
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: i | Linguist: i
+BPE: tõ | Linguist: tõ
+BPE: ojo | Linguist: ojo
+BPE: kani | Linguist: kani
+BPE: tu o | Linguist: tu o
+BPE: aj | Linguist: aj
+BPE: tsoke | Linguist: tsoke
+BPE: nã | Linguist: nã
+BPE: kuni | Linguist: kuni
+BPE: tsoke | Linguist: tsoke
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: mapi | Linguist: mapi
+BPE: mi | Linguist: mi
+BPE: pi jẽ to | Linguist: pi jẽ to
+BPE: oj | Linguist: oj
+BPE: mi | Linguist: mi
+BPE: ña | Linguist: ña
+BPE: i kỹj | Linguist: i kỹj
+BPE: pja | Linguist: pja
+BPE: ña | Linguist: ña
+BPE: i tsotsi | Linguist: i tsotsi
+BPE: pæ tsotsi | Linguist: pæ tsotsi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: mi | Linguist: mi
+BPE: ũko | Linguist: ũko
+BPE: itevæ | Linguist: itevæ
+BPE: kani | Linguist: kani
+BPE: æky | Linguist: æky
+BPE: aj | Linguist: aj
+BPE: toky | Linguist: toky
+BPE: ajte | Linguist: ajte
+BPE: toky | Linguist: toky
+BPE: mi | Linguist: mi
+BPE: toky | Linguist: toky
+BPE: toky | Linguist: toky
+BPE: oj | Linguist: oj
+BPE: toky | Linguist: toky
+BPE: ojte | Linguist: ojte
+BPE: toky | Linguist: toky
+BPE: aj | Linguist: aj
+BPE: ajte | Linguist: ajte
+BPE: itevæ | Linguist: itevæ
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: tyj | Linguist: tyj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mu | Linguist: mu
+BPE: kwini | Linguist: kwini
+BPE: ara | Linguist: ara
+BPE: aj | Linguist: aj
+BPE: na | Linguist: na
+BPE: mapi | Linguist: mapi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: ojte | Linguist: ojte
+BPE: ore ø ry ry | Linguist: ore ø ry ry
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ore õ ry | Linguist: ore õ ry
+BPE: mi | Linguist: mi
+BPE: oj | Linguist: oj
+BPE: ajte | Linguist: ajte
+BPE: ore õ ry | Linguist: ore õ ry
+BPE: ojte | Linguist: ojte
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: oj | Linguist: oj
+BPE: ajte | Linguist: ajte
+BPE: ojte | Linguist: ojte
+BPE: mi | Linguist: mi
+BPE: i | Linguist: i
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: ojte | Linguist: ojte
+BPE: kuni | Linguist: kuni
+BPE: ajte | Linguist: ajte
+BPE: ajte | Linguist: ajte
+BPE: mõ væ kỹj | Linguist: mõ væ kỹj
+BPE: aj | Linguist: aj
+BPE: pæ õ ja | Linguist: pæ õ ja
+BPE: aj | Linguist: aj
+BPE: ajte | Linguist: ajte
+BPE: pæ væ ja | Linguist: pæ væ ja
+BPE: ajte | Linguist: ajte
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: ajte | Linguist: ajte
+BPE: mu væ | Linguist: mu væ
+BPE: opera | Linguist: opera
+BPE: u | Linguist: u
+BPE: kani | Linguist: kani
+BPE: oj | Linguist: oj
+BPE: pja | Linguist: pja
+BPE: e | Linguist: e
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: pja | Linguist: pja
+BPE: kani | Linguist: kani
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: mu | Linguist: mu
+BPE: õ e r | Linguist: õ e r
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: atiti | Linguist: atiti
+BPE: ajte | Linguist: ajte
+BPE: kani | Linguist: kani
+BPE: epykwã | Linguist: epykwã
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: oj | Linguist: oj
+BPE: ore | Linguist: ore
+BPE: aj | Linguist: aj
+BPE: vavo | Linguist: vavo
+BPE: o | Linguist: o
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: vavo | Linguist: vavo
+BPE: o | Linguist: o
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: o | Linguist: o
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: o | Linguist: o
+BPE: oj | Linguist: oj
+BPE: o | Linguist: o
+BPE: opera | Linguist: opera
+BPE: kwini | Linguist: kwini
+BPE: u | Linguist: u
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: æky | Linguist: æky
+BPE: aj | Linguist: aj
+BPE: po õ ky | Linguist: po õ ky
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: epykwã | Linguist: epykwã
+BPE: aj | Linguist: aj
+BPE: kuni | Linguist: kuni
+BPE: itæ | Linguist: itæ
+BPE: kuni | Linguist: kuni
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: itæ | Linguist: itæ
+BPE: ajte | Linguist: ajte
+BPE: tsero | Linguist: tsero
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: mike | Linguist: mike
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: vyry o tu mu | Linguist: vyry o tu mu
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: opera | Linguist: opera
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: koro | Linguist: koro
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: pejake | Linguist: pejake
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: more | Linguist: more
+BPE: pejake | Linguist: pejake
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: more | Linguist: more
+BPE: na | Linguist: na
+BPE: ũko | Linguist: ũko
+BPE: uruã | Linguist: uruã
+BPE: more kỹj | Linguist: more kỹj
+BPE: na | Linguist: na
+BPE: ũko | Linguist: ũko
+BPE: uruã | Linguist: uruã
+BPE: itevæ | Linguist: itevæ
+BPE: tũ o | Linguist: tũ o
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: i | Linguist: i
+BPE: kani | Linguist: kani
+BPE: opera | Linguist: opera
+BPE: tũvo | Linguist: tũvo
+BPE: para ja | Linguist: para ja
+BPE: ña | Linguist: ña
+BPE: ña | Linguist: ña
+BPE: tsero | Linguist: tsero
+BPE: atiti | Linguist: atiti
+BPE: væ tsi | Linguist: væ tsi
+BPE: aj | Linguist: aj
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: kani | Linguist: kani
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: ævo | Linguist: ævo
+BPE: aj | Linguist: aj
+BPE: atiti | Linguist: atiti
+BPE: mu | Linguist: mu
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: aj | Linguist: aj
+BPE: mike | Linguist: mike
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: kwini | Linguist: kwini
+BPE: opera | Linguist: opera
+BPE: oj | Linguist: oj
+BPE: turo | Linguist: turo
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: epykwã | Linguist: epykwã
+BPE: aj | Linguist: aj
+BPE: epykwã | Linguist: epykwã
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: mike | Linguist: mike
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: jato | Linguist: jato
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: mike | Linguist: mike
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: itevæ | Linguist: itevæ
+BPE: opera | Linguist: opera
+BPE: aj | Linguist: aj
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: ore õ ry | Linguist: ore õ ry
+BPE: ara | Linguist: ara
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: opera | Linguist: opera
+BPE: ajte | Linguist: ajte
+BPE: aj | Linguist: aj
+BPE: uruã | Linguist: uruã
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: ajte | Linguist: ajte
+BPE: e | Linguist: e
+BPE: ojo | Linguist: ojo
+BPE: ævo | Linguist: ævo
+BPE: ña | Linguist: ña
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: ojo | Linguist: ojo
+BPE: ævo | Linguist: ævo
+BPE: mike | Linguist: mike
+BPE: tũ o | Linguist: tũ o
+BPE: tũ o | Linguist: tũ o
+BPE: jato | Linguist: jato
+BPE: tũ o | Linguist: tũ o
+BPE: ña | Linguist: ña
+BPE: ña | Linguist: ña
+BPE: mapi | Linguist: mapi
+BPE: nã | Linguist: nã
+BPE: e | Linguist: e
+BPE: ævo | Linguist: ævo
+BPE: aj | Linguist: aj
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: kani | Linguist: kani
+BPE: pe tsi | Linguist: pe tsi
+BPE: muj | Linguist: muj
+BPE: ña | Linguist: ña
+BPE: tsero | Linguist: tsero
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: vyry to | Linguist: vyry to
+BPE: vyry to | Linguist: vyry to
+BPE: vyry to mu | Linguist: vyry to mu
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: aj õ ja | Linguist: aj õ ja
+BPE: aj | Linguist: aj
+BPE: ajte | Linguist: ajte
+BPE: ajte | Linguist: ajte
+BPE: pæ væ ja | Linguist: pæ væ ja
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: kapeãw | Linguist: kapeãw
+BPE: jato | Linguist: jato
+BPE: ty to mu kaj | Linguist: ty to mu kaj
+BPE: ty to mu | Linguist: ty to mu
+BPE: itevæ | Linguist: itevæ
+BPE: te to mu | Linguist: te to mu
+BPE: ty ja | Linguist: ty ja
+BPE: kani | Linguist: kani
+BPE: ty ja nu | Linguist: ty ja nu
+BPE: itevæ | Linguist: itevæ
+BPE: ty vo | Linguist: ty vo
+BPE: ty ja | Linguist: ty ja
+BPE: aj | Linguist: aj
+BPE: tsere vo | Linguist: tsere vo
+BPE: aj | Linguist: aj
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: i | Linguist: i
+BPE: tõ | Linguist: tõ
+BPE: y | Linguist: y
+BPE: aj | Linguist: aj
+BPE: y | Linguist: y
+BPE: tõ | Linguist: tõ
+BPE: i | Linguist: i
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ty | Linguist: ty
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: e | Linguist: e
+BPE: ojo | Linguist: ojo
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: pja | Linguist: pja
+BPE: e | Linguist: e
+BPE: ita | Linguist: ita
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: ta ve tso | Linguist: ta ve tso
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kæ ve tso | Linguist: kæ ve tso
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: aj | Linguist: aj
+BPE: oj õ twa | Linguist: oj õ twa
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: i kỹj | Linguist: i kỹj
+BPE: more pe kỹj | Linguist: more pe kỹj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: mo ø kỹj to | Linguist: mo ø kỹj to
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: nake | Linguist: nake
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: nake | Linguist: nake
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: e | Linguist: e
+BPE: ævo | Linguist: ævo
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: pe pe ja | Linguist: pe pe ja
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: vara pe tsi | Linguist: vara pe tsi
+BPE: mi | Linguist: mi
+BPE: e | Linguist: e
+BPE: pe tsi | Linguist: pe tsi
+BPE: aj | Linguist: aj
+BPE: vi | Linguist: vi
+BPE: aj | Linguist: aj
+BPE: vi | Linguist: vi
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: vi | Linguist: vi
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: aj | Linguist: aj
+BPE: vi | Linguist: vi
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: oj | Linguist: oj
+BPE: oj | Linguist: oj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: itevæ | Linguist: itevæ
+BPE: ña | Linguist: ña
+BPE: ævo | Linguist: ævo
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: æ ø nake | Linguist: æ ø nake
+BPE: pja | Linguist: pja
+BPE: nã | Linguist: nã
+BPE: ej õ tso | Linguist: ej õ tso
+BPE: pja | Linguist: pja
+BPE: i kỹj | Linguist: i kỹj
+BPE: more ta e | Linguist: more ta e
+BPE: epykwã | Linguist: epykwã
+BPE: tsu kwã | Linguist: tsu kwã
+BPE: atiti | Linguist: atiti
+BPE: atiti | Linguist: atiti
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: i tsotsi | Linguist: i tsotsi
+BPE: voro õ tsotsi | Linguist: voro õ tsotsi
+BPE: ña | Linguist: ña
+BPE: i tsotsi | Linguist: i tsotsi
+BPE: pæ õ tsotsi | Linguist: pæ õ tsotsi
+BPE: ña | Linguist: ña
+BPE: i tsotsi | Linguist: i tsotsi
+BPE: pæ õ tsotsi | Linguist: pæ õ tsotsi
+BPE: jũ | Linguist: jũ
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: kuni | Linguist: kuni
+BPE: para ve ja mu | Linguist: para ve ja mu
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: oj | Linguist: oj
+BPE: tũvo | Linguist: tũvo
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kamitsi | Linguist: kamitsi
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: vajvaj õ kũ | Linguist: vajvaj õ kũ
+BPE: aj | Linguist: aj
+BPE: vajvaj õ kũ | Linguist: vajvaj õ kũ
+BPE: pæ ja õ kũ | Linguist: pæ ja õ kũ
+BPE: mĩ | Linguist: mĩ
+BPE: kuni | Linguist: kuni
+BPE: nuvi tsi | Linguist: nuvi tsi
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: tsere ø to tsi | Linguist: tsere ø to tsi
+BPE: mi | Linguist: mi
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: tsere t ãw | Linguist: tsere t ãw
+BPE: pja | Linguist: pja
+BPE: kani | Linguist: kani
+BPE: itæ | Linguist: itæ
+BPE: aj ja | Linguist: aj ja
+BPE: mĩ | Linguist: mĩ
+BPE: kuni | Linguist: kuni
+BPE: jũ | Linguist: jũ
+BPE: jũ | Linguist: jũ
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: papa | Linguist: papa
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: u | Linguist: u
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: jũ | Linguist: jũ
+BPE: ja õ turo | Linguist: ja õ turo
+BPE: kamitsi | Linguist: kamitsi
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: aj | Linguist: aj
+BPE: itæ | Linguist: itæ
+BPE: iriri ro | Linguist: iriri ro
+BPE: aj | Linguist: aj
+BPE: itæ | Linguist: itæ
+BPE: iriri ro | Linguist: iriri ro
+BPE: kani | Linguist: kani
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: aj | Linguist: aj
+BPE: re | Linguist: re
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: mike | Linguist: mike
+BPE: itæ | Linguist: itæ
+BPE: ajte | Linguist: ajte
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: kamitsi | Linguist: kamitsi
+BPE: oj | Linguist: oj
+BPE: vavo | Linguist: vavo
+BPE: nã | Linguist: nã
+BPE: e | Linguist: e
+BPE: epykwã | Linguist: epykwã
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: pejake | Linguist: pejake
+BPE: aj | Linguist: aj
+BPE: vaj ro e | Linguist: vaj ro e
+BPE: aj ja e | Linguist: aj ja e
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: ojo | Linguist: ojo
+BPE: jato | Linguist: jato
+BPE: atiti | Linguist: atiti
+BPE: kani | Linguist: kani
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: mini | Linguist: mini
+BPE: oj | Linguist: oj
+BPE: ara | Linguist: ara
+BPE: ara | Linguist: ara
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: papa | Linguist: papa
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: itevæ | Linguist: itevæ
+BPE: tsere ũ to | Linguist: tsere ũ to
+BPE: kani | Linguist: kani
+BPE: i ũ | Linguist: i ũ
+BPE: kani | Linguist: kani
+BPE: vara ũ ro | Linguist: vara ũ ro
+BPE: e | Linguist: e
+BPE: atiti | Linguist: atiti
+BPE: e | Linguist: e
+BPE: atiti | Linguist: atiti
+BPE: tso ũ to | Linguist: tso ũ to
+BPE: ajte | Linguist: ajte
+BPE: uruã | Linguist: uruã
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: oj | Linguist: oj
+BPE: oke | Linguist: oke
+BPE: kani | Linguist: kani
+BPE: aj re | Linguist: aj re
+BPE: mi re | Linguist: mi re
+BPE: ña | Linguist: ña
+BPE: uræ | Linguist: uræ
+BPE: ojte | Linguist: ojte
+BPE: uræ | Linguist: uræ
+BPE: ojte | Linguist: ojte
+BPE: aj | Linguist: aj
+BPE: æky | Linguist: æky
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: æky | Linguist: æky
+BPE: oj | Linguist: oj
+BPE: atiti | Linguist: atiti
+BPE: kani | Linguist: kani
+BPE: opera | Linguist: opera
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: opera | Linguist: opera
+BPE: opera | Linguist: opera
+BPE: kani | Linguist: kani
+BPE: i | Linguist: i
+BPE: kani | Linguist: kani
+BPE: kani | Linguist: kani
+BPE: pja | Linguist: pja
+BPE: e | Linguist: e
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: jato | Linguist: jato
+BPE: atiti | Linguist: atiti
+BPE: ævo | Linguist: ævo
+BPE: atiti | Linguist: atiti
+BPE: atiti | Linguist: atiti
+BPE: e | Linguist: e
+BPE: atiti | Linguist: atiti
+BPE: paj to | Linguist: paj to
+BPE: atiti | Linguist: atiti
+BPE: paj to | Linguist: paj to
+BPE: mike | Linguist: mike
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ajte | Linguist: ajte
+BPE: kani | Linguist: kani
+BPE: iriri ro | Linguist: iriri ro
+BPE: para ja | Linguist: para ja
+BPE: aj | Linguist: aj
+BPE: re | Linguist: re
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: i ña | Linguist: i ña
+BPE: aj | Linguist: aj
+BPE: nã | Linguist: nã
+BPE: papa | Linguist: papa
+BPE: pja | Linguist: pja
+BPE: ojo | Linguist: ojo
+BPE: papa | Linguist: papa
+BPE: ojo | Linguist: ojo
+BPE: muj | Linguist: muj
+BPE: jato | Linguist: jato
+BPE: papa | Linguist: papa
+BPE: uruã | Linguist: uruã
+BPE: mow kỹj | Linguist: mow kỹj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: æky | Linguist: æky
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: oj | Linguist: oj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: mĩ | Linguist: mĩ
+BPE: pe pe tso | Linguist: pe pe tso
+BPE: aj | Linguist: aj
+BPE: pe pe tso | Linguist: pe pe tso
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: nã | Linguist: nã
+BPE: ojo | Linguist: ojo
+BPE: atiti | Linguist: atiti
+BPE: paj to | Linguist: paj to
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: tõ | Linguist: tõ
+BPE: oj | Linguist: oj
+BPE: tũvo | Linguist: tũvo
+BPE: ña | Linguist: ña
+BPE: ũko | Linguist: ũko
+BPE: uru nake o | Linguist: uru nake o
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ũko | Linguist: ũko
+BPE: uru nake o | Linguist: uru nake o
+BPE: muj | Linguist: muj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ña | Linguist: ña
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: pejake | Linguist: pejake
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: mo ø kỹj kũ | Linguist: mo ø kỹj kũ
+BPE: ña | Linguist: ña
+BPE: koro | Linguist: koro
+BPE: ojo | Linguist: ojo
+BPE: para ja | Linguist: para ja
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: iriri ro eko | Linguist: iriri ro eko
+BPE: aj | Linguist: aj
+BPE: vyry õ tu mu | Linguist: vyry õ tu mu
+BPE: kani | Linguist: kani
+BPE: iriri ro eko | Linguist: iriri ro eko
+BPE: aj | Linguist: aj
+BPE: ipæ | Linguist: ipæ
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: ajte | Linguist: ajte
+BPE: kani | Linguist: kani
+BPE: æky | Linguist: æky
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: i ña | Linguist: i ña
+BPE: oj | Linguist: oj
+BPE: nake | Linguist: nake
+BPE: ojo | Linguist: ojo
+BPE: i ña | Linguist: i ña
+BPE: oj | Linguist: oj
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: õ kwa tsĩkwa | Linguist: õ kwa tsĩkwa
+BPE: kamitsi | Linguist: kamitsi
+BPE: ajte | Linguist: ajte
+BPE: ipæ | Linguist: ipæ
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: koro | Linguist: koro
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: koro | Linguist: koro
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: po | Linguist: po
+BPE: kwini | Linguist: kwini
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: ña | Linguist: ña
+BPE: oj | Linguist: oj
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: ña | Linguist: ña
+BPE: kwini | Linguist: kwini
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: oj | Linguist: oj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: na | Linguist: na
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: tũ nake | Linguist: tũ nake
+BPE: aj | Linguist: aj
+BPE: ajte | Linguist: ajte
+BPE: tsoke | Linguist: tsoke
+BPE: jũ | Linguist: jũ
+BPE: uruã | Linguist: uruã
+BPE: oj | Linguist: oj
+BPE: oj | Linguist: oj
+BPE: jũ | Linguist: jũ
+BPE: tyj | Linguist: tyj
+BPE: ojo | Linguist: ojo
+BPE: ũko | Linguist: ũko
+BPE: tyj | Linguist: tyj
+BPE: aj o | Linguist: aj o
+BPE: jũ | Linguist: jũ
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ũko | Linguist: ũko
+BPE: jato | Linguist: jato
+BPE: tyj | Linguist: tyj
+BPE: jũ | Linguist: jũ
+BPE: ũko | Linguist: ũko
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: jũ | Linguist: jũ
+BPE: uræ | Linguist: uræ
+BPE: ævo | Linguist: ævo
+BPE: e | Linguist: e
+BPE: mõw nake | Linguist: mõw nake
+BPE: oj | Linguist: oj
+BPE: kani | Linguist: kani
+BPE: mõw kani | Linguist: mõw kani
+BPE: oj | Linguist: oj
+BPE: kani | Linguist: kani
+BPE: ara kani | Linguist: ara kani
+BPE: aj | Linguist: aj
+BPE: ævo | Linguist: ævo
+BPE: kani | Linguist: kani
+BPE: mõw mõw kỹj | Linguist: mõw mõw kỹj
+BPE: oj | Linguist: oj
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: ævo | Linguist: ævo
+BPE: kani | Linguist: kani
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: mõw nake | Linguist: mõw nake
+BPE: itevæ | Linguist: itevæ
+BPE: ara | Linguist: ara
+BPE: kwini | Linguist: kwini
+BPE: ara | Linguist: ara
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: ara nake | Linguist: ara nake
+BPE: pja | Linguist: pja
+BPE: i kỹj | Linguist: i kỹj
+BPE: voro pe kỹj | Linguist: voro pe kỹj
+BPE: ña | Linguist: ña
+BPE: more nake | Linguist: more nake
+BPE: ojo | Linguist: ojo
+BPE: e | Linguist: e
+BPE: ojo | Linguist: ojo
+BPE: kani | Linguist: kani
+BPE: more nake | Linguist: more nake
+BPE: jato | Linguist: jato
+BPE: more kỹj | Linguist: more kỹj
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: ña | Linguist: ña
+BPE: æ kỹj | Linguist: æ kỹj
+BPE: atiti | Linguist: atiti
+BPE: epykwã | Linguist: epykwã
+BPE: tsu kwa | Linguist: tsu kwa
+BPE: voro kwa e | Linguist: voro kwa e
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: pja | Linguist: pja
+BPE: tyj | Linguist: tyj
+BPE: ej turo | Linguist: ej turo
+BPE: atso ni | Linguist: atso ni
+BPE: tsi | Linguist: tsi
+BPE: atso ni | Linguist: atso ni
+BPE: atiti | Linguist: atiti
+BPE: tsi | Linguist: tsi
+BPE: ni kũ | Linguist: ni kũ
+BPE: pja | Linguist: pja
+BPE: atiti | Linguist: atiti
+BPE: tsi | Linguist: tsi
+BPE: ojo | Linguist: ojo
+BPE: pja | Linguist: pja
+BPE: pe tsi | Linguist: pe tsi
+BPE: ara | Linguist: ara
+BPE: ara | Linguist: ara
+BPE: ña | Linguist: ña
+BPE: ara | Linguist: ara
+BPE: jũ ni | Linguist: jũ ni
+BPE: væ tsi | Linguist: væ tsi
+BPE: ara | Linguist: ara
+BPE: kamitsi | Linguist: kamitsi
+BPE: ara | Linguist: ara
+BPE: mini | Linguist: mini
+BPE: jũ ni | Linguist: jũ ni
+BPE: itsaj kaj | Linguist: itsaj kaj
+BPE: y | Linguist: y
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: tyj | Linguist: tyj
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: vyry to | Linguist: vyry to
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ty | Linguist: ty
+BPE: ty | Linguist: ty
+BPE: ajte | Linguist: ajte
+BPE: pe væ õ ja | Linguist: pe væ õ ja
+BPE: ojte | Linguist: ojte
+BPE: mĩ | Linguist: mĩ
+BPE: ty | Linguist: ty
+BPE: aj | Linguist: aj
+BPE: ty | Linguist: ty
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ty | Linguist: ty
+BPE: oj | Linguist: oj
+BPE: ty mu | Linguist: ty mu
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: itæ | Linguist: itæ
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ajte | Linguist: ajte
+BPE: ipæ | Linguist: ipæ
+BPE: oj | Linguist: oj
+BPE: ojo | Linguist: ojo
+BPE: tyj | Linguist: tyj
+BPE: aj | Linguist: aj
+BPE: jũ | Linguist: jũ
+BPE: itevæ | Linguist: itevæ
+BPE: aj | Linguist: aj
+BPE: jũ | Linguist: jũ
+BPE: mĩ | Linguist: mĩ
+BPE: uræ | Linguist: uræ
+BPE: re | Linguist: re
+BPE: jũ | Linguist: jũ
+BPE: aj | Linguist: aj
+BPE: kamitsi | Linguist: kamitsi
+BPE: ojo | Linguist: ojo
+BPE: ævo | Linguist: ævo
+BPE: e | Linguist: e
+BPE: pejake | Linguist: pejake
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: mõ ø kỹj kũ | Linguist: mõ ø kỹj kũ
+BPE: mini | Linguist: mini
+BPE: ajte | Linguist: ajte
+BPE: pæ væ ja | Linguist: pæ væ ja
+BPE: vajvaj væ ro nu | Linguist: vajvaj væ ro nu
+BPE: ajte | Linguist: ajte
+BPE: pæ væ ja | Linguist: pæ væ ja
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: papa | Linguist: papa
+BPE: ty | Linguist: ty
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: mini | Linguist: mini
+BPE: ojo | Linguist: ojo
+BPE: ara | Linguist: ara
+BPE: jũ ni | Linguist: jũ ni
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: twa | Linguist: twa
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: pja | Linguist: pja
+BPE: pja | Linguist: pja
+BPE: kwini | Linguist: kwini
+BPE: nini | Linguist: nini
+BPE: mini | Linguist: mini
+BPE: nuvi tsi | Linguist: nuvi tsi
+BPE: mi | Linguist: mi
+BPE: tsere ũ to | Linguist: tsere ũ to
+BPE: pja | Linguist: pja
+BPE: mi | Linguist: mi
+BPE: o mi ro | Linguist: o mi ro
+BPE: mi | Linguist: mi
+BPE: ty | Linguist: ty
+BPE: mi kũ | Linguist: mi kũ
+BPE: kuni | Linguist: kuni
+BPE: ajte | Linguist: ajte
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: mike | Linguist: mike
+BPE: itæ | Linguist: itæ
+BPE: ojo | Linguist: ojo
+BPE: muj | Linguist: muj
+BPE: oj | Linguist: oj
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: pejake | Linguist: pejake
+BPE: more kỹj nu | Linguist: more kỹj nu
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kamitsi | Linguist: kamitsi
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: pja | Linguist: pja
+BPE: muj | Linguist: muj
+BPE: pja | Linguist: pja
+BPE: muj | Linguist: muj
+BPE: o mi ro | Linguist: o mi ro
+BPE: ajte | Linguist: ajte
+BPE: nini | Linguist: nini
+BPE: ña | Linguist: ña
+BPE: nã | Linguist: nã
+BPE: i a ni | Linguist: i a ni
+BPE: ña | Linguist: ña
+BPE: i a ni | Linguist: i a ni
+BPE: ña | Linguist: ña
+BPE: mĩ | Linguist: mĩ
+BPE: mow kỹj | Linguist: mow kỹj
+BPE: aj j ãw | Linguist: aj j ãw
+BPE: mi | Linguist: mi
+BPE: kuni | Linguist: kuni
+BPE: jũ | Linguist: jũ
+BPE: pja | Linguist: pja
+BPE: koro | Linguist: koro
+BPE: tsere t ãw | Linguist: tsere t ãw
+BPE: kani | Linguist: kani
+BPE: tsoke | Linguist: tsoke
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: mini | Linguist: mini
+BPE: mĩ | Linguist: mĩ
+BPE: pja | Linguist: pja
+BPE: po mi ro | Linguist: po mi ro
+BPE: aj | Linguist: aj
+BPE: u | Linguist: u
+BPE: mu | Linguist: mu
+BPE: ña | Linguist: ña
+BPE: tsero | Linguist: tsero
+BPE: kani | Linguist: kani
+BPE: ña | Linguist: ña
+BPE: toky | Linguist: toky
+BPE: para ø ja eko | Linguist: para ø ja eko
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: nã | Linguist: nã
+BPE: muj | Linguist: muj
+BPE: tũvo | Linguist: tũvo
+BPE: e | Linguist: e
+BPE: ævo | Linguist: ævo
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: na | Linguist: na
+BPE: ña | Linguist: ña
+BPE: tsero | Linguist: tsero
+BPE: itæ | Linguist: itæ
+BPE: kamitsi | Linguist: kamitsi
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: ajte | Linguist: ajte
+BPE: atiti | Linguist: atiti
+BPE: mu | Linguist: mu
+BPE: jato | Linguist: jato
+BPE: atso ni | Linguist: atso ni
+BPE: ajte | Linguist: ajte
+BPE: tsero | Linguist: tsero
+BPE: mi | Linguist: mi
+BPE: ja | Linguist: ja
+BPE: mu | Linguist: mu
+BPE: aj | Linguist: aj
+BPE: mu | Linguist: mu
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: mu | Linguist: mu
+BPE: ara | Linguist: ara
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: ña | Linguist: ña
+BPE: epykwã | Linguist: epykwã
+BPE: ojo | Linguist: ojo
+BPE: ojo | Linguist: ojo
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: ojo | Linguist: ojo
+BPE: ajte | Linguist: ajte
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: na | Linguist: na
+BPE: opera | Linguist: opera
+BPE: ojo | Linguist: ojo
+BPE: ojo | Linguist: ojo
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: ojte | Linguist: ojte
+BPE: ara | Linguist: ara
+BPE: kamitsi | Linguist: kamitsi
+BPE: ævo | Linguist: ævo
+BPE: vajvaj ro | Linguist: vajvaj ro
+BPE: na | Linguist: na
+BPE: koro | Linguist: koro
+BPE: ña | Linguist: ña
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: aj | Linguist: aj
+BPE: ipæ | Linguist: ipæ
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: ña | Linguist: ña
+BPE: koro | Linguist: koro
+BPE: ævo | Linguist: ævo
+BPE: tũvo | Linguist: tũvo
+BPE: pejake | Linguist: pejake
+BPE: ña | Linguist: ña
+BPE: jũ | Linguist: jũ
+BPE: ña | Linguist: ña
+BPE: oj | Linguist: oj
+BPE: uruã | Linguist: uruã
+BPE: more kỹj | Linguist: more kỹj
+BPE: more nake | Linguist: more nake
+BPE: aj | Linguist: aj
+BPE: vajvaj e | Linguist: vajvaj e
+BPE: ja | Linguist: ja
+BPE: pæ ja e | Linguist: pæ ja e
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: ja | Linguist: ja
+BPE: ja | Linguist: ja
+BPE: oj | Linguist: oj
+BPE: pæ ja | Linguist: pæ ja
+BPE: mi | Linguist: mi
+BPE: mi kũ | Linguist: mi kũ
+BPE: pæ ja | Linguist: pæ ja
+BPE: mi kũ | Linguist: mi kũ
+BPE: ty ø to mu | Linguist: ty ø to mu
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: ara | Linguist: ara
+BPE: tsoke | Linguist: tsoke
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: tsoke | Linguist: tsoke
+BPE: oke | Linguist: oke
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: tsoke | Linguist: tsoke
+BPE: aj | Linguist: aj
+BPE: oj | Linguist: oj
+BPE: ja | Linguist: ja
+BPE: tsoke | Linguist: tsoke
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: vavo | Linguist: vavo
+BPE: pej õ kaj | Linguist: pej õ kaj
+BPE: ja | Linguist: ja
+BPE: tsoke | Linguist: tsoke
+BPE: vavo | Linguist: vavo
+BPE: more | Linguist: more
+BPE: oj | Linguist: oj
+BPE: uræ | Linguist: uræ
+BPE: tyværo | Linguist: tyværo
+BPE: tyværo | Linguist: tyværo
+BPE: tsoke | Linguist: tsoke
+BPE: re | Linguist: re
+BPE: ty | Linguist: ty
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: aj | Linguist: aj
+BPE: pæ turo | Linguist: pæ turo
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: aj | Linguist: aj
+BPE: mi | Linguist: mi
+BPE: mini | Linguist: mini
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: ara | Linguist: ara
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: e | Linguist: e
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: jũ | Linguist: jũ
+BPE: ña | Linguist: ña
+BPE: tyj | Linguist: tyj
+BPE: ũko | Linguist: ũko
+BPE: oj | Linguist: oj
+BPE: e | Linguist: e
+BPE: kani | Linguist: kani
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: ña | Linguist: ña
+BPE: kamitsi | Linguist: kamitsi
+BPE: ara | Linguist: ara
+BPE: ty | Linguist: ty
+BPE: aj | Linguist: aj
+BPE: uræ | Linguist: uræ
+BPE: ajte | Linguist: ajte
+BPE: ipæ | Linguist: ipæ
+BPE: kamitsi | Linguist: kamitsi
+BPE: ojo | Linguist: ojo
+BPE: ævo | Linguist: ævo
+BPE: e | Linguist: e
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: twa | Linguist: twa
+BPE: pja | Linguist: pja
+BPE: mi | Linguist: mi
+BPE: o mi ro | Linguist: o mi ro
+BPE: mi | Linguist: mi
+BPE: kani | Linguist: kani
+BPE: tsoke | Linguist: tsoke
+BPE: aj | Linguist: aj
+BPE: ja | Linguist: ja
+BPE: toky | Linguist: toky
+BPE: para ø ja eko | Linguist: para ø ja eko
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: na | Linguist: na
+BPE: ña | Linguist: ña
+BPE: tsero | Linguist: tsero
+BPE: itæ | Linguist: itæ
+BPE: ara | Linguist: ara
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: ævo | Linguist: ævo
+BPE: vajvaj ro | Linguist: vajvaj ro
+BPE: aj | Linguist: aj
+BPE: ipæ | Linguist: ipæ
+BPE: ña | Linguist: ña
+BPE: papa | Linguist: papa
+BPE: ña | Linguist: ña
+BPE: koro | Linguist: koro
+BPE: mi | Linguist: mi
+BPE: mi kũ | Linguist: mi kũ
+BPE: pæ ja | Linguist: pæ ja
+BPE: aj | Linguist: aj
+BPE: pja | Linguist: pja
+BPE: ara | Linguist: ara
+BPE: tsoke | Linguist: tsoke
+BPE: oj | Linguist: oj
+BPE: nake | Linguist: nake
+BPE: aj | Linguist: aj
+BPE: aj | Linguist: aj
+BPE: vavo | Linguist: vavo
+BPE: pej õ kaj | Linguist: pej õ kaj
+BPE: ja | Linguist: ja
+BPE: tsoke | Linguist: tsoke
+BPE: vavo | Linguist: vavo
+BPE: more | Linguist: more
+BPE: aj | Linguist: aj
+BPE: po | Linguist: po
+BPE: uræ | Linguist: uræ
+BPE: ipæ | Linguist: ipæ
+BPE: tõ | Linguist: tõ
+BPE: tũvo | Linguist: tũvo
+BPE: na | Linguist: na
+BPE: kani | Linguist: kani
+BPE: aj | Linguist: aj
+BPE: re | Linguist: re
+BPE: o eko | Linguist: o eko
+BPE: oj | Linguist: oj
+BPE: eko | Linguist: eko
+BPE: pja | Linguist: pja
+BPE: koro | Linguist: koro
+BPE: ty | Linguist: ty
+BPE: papa | Linguist: papa
+BPE: pejake | Linguist: pejake
+BPE: more kỹj | Linguist: more kỹj
+BPE: aj | Linguist: aj
+BPE: mapi | Linguist: mapi
+BPE: mi | Linguist: mi
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: papa | Linguist: papa
+BPE: oj | Linguist: oj
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani
+BPE: ojo | Linguist: ojo
+BPE: nã | Linguist: nã
+BPE: aj | Linguist: aj
+BPE: kuni | Linguist: kuni
+BPE: kani | Linguist: kani
+BPE: i | Linguist: i
+BPE: tõ | Linguist: tõ
+BPE: n eko | Linguist: n eko
+BPE: opera | Linguist: opera
+BPE: tõ | Linguist: tõ
+BPE: tũvo | Linguist: tũvo
+BPE: ña | Linguist: ña
+BPE: pja | Linguist: pja
+BPE: ña | Linguist: ña
+BPE: pja | Linguist: pja
+BPE: na | Linguist: na
+BPE: papa | Linguist: papa
+BPE: ja | Linguist: ja
+BPE: aj | Linguist: aj
+BPE: mini | Linguist: mini
+BPE: væ tsi e | Linguist: væ tsi e
+BPE: aj | Linguist: aj
+BPE: mĩ | Linguist: mĩ
+BPE: ña | Linguist: ña
+BPE: muj | Linguist: muj
+BPE: eko | Linguist: eko
+BPE: ña | Linguist: ña
+BPE: aj | Linguist: aj
+BPE: kwini | Linguist: kwini
+BPE: po | Linguist: po
+BPE: jũ | Linguist: jũ
+BPE: pej o | Linguist: pej o
+BPE: nu eko | Linguist: nu eko
+BPE: mu væ | Linguist: mu væ
+BPE: jato | Linguist: jato
+BPE: koro | Linguist: koro
+BPE: ty | Linguist: ty
+BPE: nu eko | Linguist: nu eko
+BPE: itsaj nu | Linguist: itsaj nu
+BPE: aj | Linguist: aj
+BPE: atiti | Linguist: atiti
+BPE: me õ ja | Linguist: me õ ja
+BPE: õ eko | Linguist: õ eko
+BPE: itevæ | Linguist: itevæ
+BPE: po | Linguist: po
+BPE: u | Linguist: u
+BPE: ña | Linguist: ña
+BPE: eko | Linguist: eko
+BPE: aj | Linguist: aj
+BPE: ña | Linguist: ña
+BPE: kani | Linguist: kani

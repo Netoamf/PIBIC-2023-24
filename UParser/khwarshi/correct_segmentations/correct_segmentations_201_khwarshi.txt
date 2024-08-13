@@ -1,0 +1,1312 @@
+BPE: uže | Linguist: uže
+BPE: hos | Linguist: hos
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: užá | Linguist: užá
+BPE: de | Linguist: de
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: užá | Linguist: užá
+BPE: idu | Linguist: idu
+BPE: žik’o | Linguist: žik’o
+BPE: hos | Linguist: hos
+BPE: ise | Linguist: ise
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: c’alid a | Linguist: c’alid a
+BPE: de | Linguist: de
+BPE: de | Linguist: de
+BPE: žu | Linguist: žu
+BPE: ø ah l un ay | Linguist: ø ah l un ay
+BPE: hos | Linguist: hos
+BPE: himon | Linguist: himon
+BPE: žu | Linguist: žu
+BPE: himon | Linguist: himon
+BPE: do n | Linguist: do n
+BPE: di lʲ in | Linguist: di lʲ in
+BPE: os | Linguist: os
+BPE: ono | Linguist: ono
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: uža ʎ’a | Linguist: uža ʎ’a
+BPE: l eč un | Linguist: l eč un
+BPE: iʎ o | Linguist: iʎ o
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: himon | Linguist: himon
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: dilʲ | Linguist: dilʲ
+BPE: žu | Linguist: žu
+BPE: kad | Linguist: kad
+BPE: y eq un | Linguist: y eq un
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žik’o | Linguist: žik’o
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: iłe lo | Linguist: iłe lo
+BPE: uže | Linguist: uže
+BPE: ʎun | Linguist: ʎun
+BPE: žu | Linguist: žu
+BPE: kad | Linguist: kad
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ono | Linguist: ono
+BPE: kad | Linguist: kad
+BPE: me | Linguist: me
+BPE: is o | Linguist: is o
+BPE: di qo | Linguist: di qo
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: žik’o | Linguist: žik’o
+BPE: os | Linguist: os
+BPE: goli | Linguist: goli
+BPE: os | Linguist: os
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: l eq bi | Linguist: l eq bi
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe s | Linguist: iłe s
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: obu t’ ɣo ul | Linguist: obu t’ ɣo ul
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: do | Linguist: do
+BPE: himon | Linguist: himon
+BPE: goli | Linguist: goli
+BPE: dilʲ | Linguist: dilʲ
+BPE: iʎ o | Linguist: iʎ o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: uže | Linguist: uže
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: ono | Linguist: ono
+BPE: hos | Linguist: hos
+BPE: iʎ še | Linguist: iʎ še
+BPE: dub lo | Linguist: dub lo
+BPE: hos | Linguist: hos
+BPE: iʎ o | Linguist: iʎ o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: diyo | Linguist: diyo
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: kad | Linguist: kad
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: hibo | Linguist: hibo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: di ʎ’o zi | Linguist: di ʎ’o zi
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: de | Linguist: de
+BPE: heⁿše | Linguist: heⁿše
+BPE: užá | Linguist: užá
+BPE: žu | Linguist: žu
+BPE: himon | Linguist: himon
+BPE: mo | Linguist: mo
+BPE: dilʲ | Linguist: dilʲ
+BPE: hos | Linguist: hos
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ono | Linguist: ono
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: ʎun | Linguist: ʎun
+BPE: užá | Linguist: užá
+BPE: iłe l | Linguist: iłe l
+BPE: goli | Linguist: goli
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: ise | Linguist: ise
+BPE: ono | Linguist: ono
+BPE: de | Linguist: de
+BPE: mo | Linguist: mo
+BPE: iłe | Linguist: iłe
+BPE: ise | Linguist: ise
+BPE: kad | Linguist: kad
+BPE: de | Linguist: de
+BPE: uže | Linguist: uže
+BPE: idu | Linguist: idu
+BPE: iłe s | Linguist: iłe s
+BPE: uže | Linguist: uže
+BPE: is i | Linguist: is i
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: ło | Linguist: ło
+BPE: heⁿše | Linguist: heⁿše
+BPE: ø eq un | Linguist: ø eq un
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: iʎ aʎa | Linguist: iʎ aʎa
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: ø eq un | Linguist: ø eq un
+BPE: hos | Linguist: hos
+BPE: kad | Linguist: kad
+BPE: ʎun | Linguist: ʎun
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: žu | Linguist: žu
+BPE: uže | Linguist: uže
+BPE: diyo | Linguist: diyo
+BPE: žu | Linguist: žu
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: diyo | Linguist: diyo
+BPE: hibo | Linguist: hibo
+BPE: me | Linguist: me
+BPE: l eč bi | Linguist: l eč bi
+BPE: ʎun | Linguist: ʎun
+BPE: ø ah un | Linguist: ø ah un
+BPE: ur a ba | Linguist: ur a ba
+BPE: ur a ba | Linguist: ur a ba
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: idu | Linguist: idu
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: do n | Linguist: do n
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: kad | Linguist: kad
+BPE: dub ʎ’o | Linguist: dub ʎ’o
+BPE: mo | Linguist: mo
+BPE: idu | Linguist: idu
+BPE: iłe | Linguist: iłe
+BPE: heⁿše | Linguist: heⁿše
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: ise | Linguist: ise
+BPE: kad | Linguist: kad
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: do | Linguist: do
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: kad | Linguist: kad
+BPE: me | Linguist: me
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: ʎun | Linguist: ʎun
+BPE: dow | Linguist: dow
+BPE: goli | Linguist: goli
+BPE: me | Linguist: me
+BPE: himon | Linguist: himon
+BPE: l eč un | Linguist: l eč un
+BPE: idu | Linguist: idu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dub qo | Linguist: dub qo
+BPE: goli | Linguist: goli
+BPE: iłe s | Linguist: iłe s
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: iłe l | Linguist: iłe l
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: uže | Linguist: uže
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: ø eq un | Linguist: ø eq un
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: hos | Linguist: hos
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: heⁿše | Linguist: heⁿše
+BPE: hos | Linguist: hos
+BPE: himon | Linguist: himon
+BPE: ise | Linguist: ise
+BPE: himon | Linguist: himon
+BPE: iʎ a | Linguist: iʎ a
+BPE: os | Linguist: os
+BPE: iʎ a | Linguist: iʎ a
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: ʎun | Linguist: ʎun
+BPE: himon | Linguist: himon
+BPE: hibo | Linguist: hibo
+BPE: himon | Linguist: himon
+BPE: dow | Linguist: dow
+BPE: himon | Linguist: himon
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid bi | Linguist: c’alid bi
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iʎ bi | Linguist: iʎ bi
+BPE: himon | Linguist: himon
+BPE: l eč un ay ʎo | Linguist: l eč un ay ʎo
+BPE: himon | Linguist: himon
+BPE: l eq un ay | Linguist: l eq un ay
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: dilʲ | Linguist: dilʲ
+BPE: hos | Linguist: hos
+BPE: hos | Linguist: hos
+BPE: hos | Linguist: hos
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: os | Linguist: os
+BPE: de | Linguist: de
+BPE: mo | Linguist: mo
+BPE: dilʲ | Linguist: dilʲ
+BPE: mo | Linguist: mo
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: hos | Linguist: hos
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: hos | Linguist: hos
+BPE: žik’o | Linguist: žik’o
+BPE: ono | Linguist: ono
+BPE: aq ba n | Linguist: aq ba n
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: de | Linguist: de
+BPE: do | Linguist: do
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: užá | Linguist: užá
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: ise | Linguist: ise
+BPE: os | Linguist: os
+BPE: ise | Linguist: ise
+BPE: os | Linguist: os
+BPE: himon | Linguist: himon
+BPE: l eč un | Linguist: l eč un
+BPE: iłe | Linguist: iłe
+BPE: l eč bič | Linguist: l eč bič
+BPE: l eč un | Linguist: l eč un
+BPE: uže | Linguist: uže
+BPE: un un ay | Linguist: un un ay
+BPE: idu | Linguist: idu
+BPE: mo | Linguist: mo
+BPE: ono | Linguist: ono
+BPE: l eq bi | Linguist: l eq bi
+BPE: l eq bi | Linguist: l eq bi
+BPE: de | Linguist: de
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: ono | Linguist: ono
+BPE: idu | Linguist: idu
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: užá | Linguist: užá
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid in | Linguist: c’alid in
+BPE: užá | Linguist: užá
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid in | Linguist: c’alid in
+BPE: užá | Linguist: užá
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid bič | Linguist: c’alid bič
+BPE: idu | Linguist: idu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe s | Linguist: iłe s
+BPE: hos | Linguist: hos
+BPE: dilʲ | Linguist: dilʲ
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: iłe | Linguist: iłe
+BPE: is in ay | Linguist: is in ay
+BPE: žu | Linguist: žu
+BPE: idu | Linguist: idu
+BPE: iłe | Linguist: iłe
+BPE: kad | Linguist: kad
+BPE: žu | Linguist: žu
+BPE: mo | Linguist: mo
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: hos | Linguist: hos
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: kad | Linguist: kad
+BPE: ø eq un | Linguist: ø eq un
+BPE: idu | Linguist: idu
+BPE: is x in | Linguist: is x in
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: is a | Linguist: is a
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dilʲ | Linguist: dilʲ
+BPE: me | Linguist: me
+BPE: himon | Linguist: himon
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: hibo | Linguist: hibo
+BPE: himon | Linguist: himon
+BPE: ʎun | Linguist: ʎun
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: dilʲ | Linguist: dilʲ
+BPE: himon | Linguist: himon
+BPE: žu | Linguist: žu
+BPE: diyo | Linguist: diyo
+BPE: de | Linguist: de
+BPE: do | Linguist: do
+BPE: y ah i | Linguist: y ah i
+BPE: do | Linguist: do
+BPE: y ah un | Linguist: y ah un
+BPE: žu | Linguist: žu
+BPE: ø ah i | Linguist: ø ah i
+BPE: žu | Linguist: žu
+BPE: ø ah un | Linguist: ø ah un
+BPE: do | Linguist: do
+BPE: ono | Linguist: ono
+BPE: ono | Linguist: ono
+BPE: žu | Linguist: žu
+BPE: do | Linguist: do
+BPE: žu | Linguist: žu
+BPE: n uq un | Linguist: n uq un
+BPE: l eč aʎa | Linguist: l eč aʎa
+BPE: goli | Linguist: goli
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: do | Linguist: do
+BPE: hos | Linguist: hos
+BPE: do | Linguist: do
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: do | Linguist: do
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: diyo | Linguist: diyo
+BPE: l eč bi | Linguist: l eč bi
+BPE: is bič | Linguist: is bič
+BPE: de | Linguist: de
+BPE: iʎ bi k | Linguist: iʎ bi k
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: is aʎa | Linguist: is aʎa
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: idu | Linguist: idu
+BPE: ø ah un | Linguist: ø ah un
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: me | Linguist: me
+BPE: himon | Linguist: himon
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: hos | Linguist: hos
+BPE: žu | Linguist: žu
+BPE: ø ah aʎa | Linguist: ø ah aʎa
+BPE: žu | Linguist: žu
+BPE: ło | Linguist: ło
+BPE: l eq un | Linguist: l eq un
+BPE: ono | Linguist: ono
+BPE: me | Linguist: me
+BPE: de | Linguist: de
+BPE: žu | Linguist: žu
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: mo | Linguist: mo
+BPE: hos | Linguist: hos
+BPE: žik’o | Linguist: žik’o
+BPE: kad | Linguist: kad
+BPE: ise | Linguist: ise
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: os | Linguist: os
+BPE: iʎ še | Linguist: iʎ še
+BPE: ise | Linguist: ise
+BPE: hibo | Linguist: hibo
+BPE: diyo | Linguist: diyo
+BPE: mo | Linguist: mo
+BPE: ono | Linguist: ono
+BPE: ono | Linguist: ono
+BPE: dilʲ | Linguist: dilʲ
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: heⁿše | Linguist: heⁿše
+BPE: iʎ o | Linguist: iʎ o
+BPE: mo | Linguist: mo
+BPE: me | Linguist: me
+BPE: mo | Linguist: mo
+BPE: c’alid o | Linguist: c’alid o
+BPE: me | Linguist: me
+BPE: c’alid o | Linguist: c’alid o
+BPE: mo | Linguist: mo
+BPE: me | Linguist: me
+BPE: mo | Linguist: mo
+BPE: žu | Linguist: žu
+BPE: himon | Linguist: himon
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: me | Linguist: me
+BPE: me | Linguist: me
+BPE: dilʲ | Linguist: dilʲ
+BPE: heⁿše | Linguist: heⁿše
+BPE: mo | Linguist: mo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: me | Linguist: me
+BPE: de | Linguist: de
+BPE: me | Linguist: me
+BPE: hibo | Linguist: hibo
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: dilʲ | Linguist: dilʲ
+BPE: diyo | Linguist: diyo
+BPE: ise | Linguist: ise
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iʎ o | Linguist: iʎ o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: mo | Linguist: mo
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: ʎun | Linguist: ʎun
+BPE: iłe | Linguist: iłe
+BPE: dilʲ | Linguist: dilʲ
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: uže | Linguist: uže
+BPE: žu | Linguist: žu
+BPE: iłe | Linguist: iłe
+BPE: ono z | Linguist: ono z
+BPE: ise | Linguist: ise
+BPE: hibo | Linguist: hibo
+BPE: do | Linguist: do
+BPE: kad | Linguist: kad
+BPE: dow | Linguist: dow
+BPE: dow | Linguist: dow
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: heⁿše | Linguist: heⁿše
+BPE: ise | Linguist: ise
+BPE: hos | Linguist: hos
+BPE: hos | Linguist: hos
+BPE: hos | Linguist: hos
+BPE: de | Linguist: de
+BPE: me | Linguist: me
+BPE: n uq un | Linguist: n uq un
+BPE: ø ah un | Linguist: ø ah un
+BPE: ono | Linguist: ono
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: kad | Linguist: kad
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: žik’o | Linguist: žik’o
+BPE: žik’o | Linguist: žik’o
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: hos | Linguist: hos
+BPE: idu | Linguist: idu
+BPE: kad | Linguist: kad
+BPE: kad | Linguist: kad
+BPE: me | Linguist: me
+BPE: me | Linguist: me
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: žik’o | Linguist: žik’o
+BPE: me | Linguist: me
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎun | Linguist: ʎun
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: iłe l | Linguist: iłe l
+BPE: os | Linguist: os
+BPE: de | Linguist: de
+BPE: iłe l | Linguist: iłe l
+BPE: os | Linguist: os
+BPE: de | Linguist: de
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: os | Linguist: os
+BPE: de | Linguist: de
+BPE: iłe l | Linguist: iłe l
+BPE: os | Linguist: os
+BPE: de | Linguist: de
+BPE: iłe l | Linguist: iłe l
+BPE: os | Linguist: os
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: kad | Linguist: kad
+BPE: os | Linguist: os
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: had i | Linguist: had i
+BPE: kad | Linguist: kad
+BPE: užá | Linguist: užá
+BPE: iʎ a | Linguist: iʎ a
+BPE: dilʲ | Linguist: dilʲ
+BPE: heⁿše | Linguist: heⁿše
+BPE: idu | Linguist: idu
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: uža s | Linguist: uža s
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: ø eq un | Linguist: ø eq un
+BPE: idu | Linguist: idu
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: l eč a | Linguist: l eč a
+BPE: ono | Linguist: ono
+BPE: do | Linguist: do
+BPE: diyo | Linguist: diyo
+BPE: hos | Linguist: hos
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: uže | Linguist: uže
+BPE: idu | Linguist: idu
+BPE: ise | Linguist: ise
+BPE: užá | Linguist: užá
+BPE: idu | Linguist: idu
+BPE: žu | Linguist: žu
+BPE: iłe ʎ’o zi | Linguist: iłe ʎ’o zi
+BPE: ono | Linguist: ono
+BPE: žu | Linguist: žu
+BPE: do | Linguist: do
+BPE: užá | Linguist: užá
+BPE: iʎ dow | Linguist: iʎ dow
+BPE: ise | Linguist: ise
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: uža ba | Linguist: uža ba
+BPE: uža ba | Linguist: uža ba
+BPE: uža s | Linguist: uža s
+BPE: kad | Linguist: kad
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: užá | Linguist: užá
+BPE: užá | Linguist: užá
+BPE: obu bo n | Linguist: obu bo n
+BPE: de | Linguist: de
+BPE: užá | Linguist: užá
+BPE: ono | Linguist: ono
+BPE: ono | Linguist: ono
+BPE: ono | Linguist: ono
+BPE: žu | Linguist: žu
+BPE: aʎ a ł ɣul | Linguist: aʎ a ł ɣul
+BPE: kad | Linguist: kad
+BPE: do | Linguist: do
+BPE: dilʲ | Linguist: dilʲ
+BPE: l eč bi | Linguist: l eč bi
+BPE: do | Linguist: do
+BPE: dilʲ | Linguist: dilʲ
+BPE: kad | Linguist: kad
+BPE: uže | Linguist: uže
+BPE: di ʎ’o | Linguist: di ʎ’o
+BPE: idu | Linguist: idu
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: idu | Linguist: idu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: n uq i | Linguist: n uq i
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: iłe | Linguist: iłe
+BPE: ise | Linguist: ise
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: hos | Linguist: hos
+BPE: užá | Linguist: užá
+BPE: iʎ bič | Linguist: iʎ bič
+BPE: goli | Linguist: goli
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: himon | Linguist: himon
+BPE: l eč un ay | Linguist: l eč un ay
+BPE: ise | Linguist: ise
+BPE: ø eq un | Linguist: ø eq un
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: hos | Linguist: hos
+BPE: dilʲ | Linguist: dilʲ
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: diyo | Linguist: diyo
+BPE: me | Linguist: me
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: hibo | Linguist: hibo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: l eč un | Linguist: l eč un
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: iłe | Linguist: iłe
+BPE: os | Linguist: os
+BPE: heⁿše | Linguist: heⁿše
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: užá | Linguist: užá
+BPE: ise | Linguist: ise
+BPE: užá | Linguist: užá
+BPE: heⁿše | Linguist: heⁿše
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iʎ a | Linguist: iʎ a
+BPE: idu | Linguist: idu
+BPE: užá | Linguist: užá
+BPE: himon | Linguist: himon
+BPE: l eč un ay | Linguist: l eč un ay
+BPE: os | Linguist: os
+BPE: os | Linguist: os
+BPE: os | Linguist: os
+BPE: ise | Linguist: ise
+BPE: uže | Linguist: uže
+BPE: ise | Linguist: ise
+BPE: heⁿše | Linguist: heⁿše
+BPE: uže | Linguist: uže
+BPE: c’alid a | Linguist: c’alid a
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid a | Linguist: c’alid a
+BPE: os | Linguist: os
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: c’alid a | Linguist: c’alid a
+BPE: ise | Linguist: ise
+BPE: c’alid a | Linguist: c’alid a
+BPE: ise | Linguist: ise
+BPE: os | Linguist: os
+BPE: heⁿše | Linguist: heⁿše
+BPE: heⁿše | Linguist: heⁿše
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: uže | Linguist: uže
+BPE: kad | Linguist: kad
+BPE: užá | Linguist: užá
+BPE: užá | Linguist: užá
+BPE: uža s | Linguist: uža s
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: uža s | Linguist: uža s
+BPE: uže | Linguist: uže
+BPE: ise | Linguist: ise
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: c’alid a | Linguist: c’alid a
+BPE: do | Linguist: do
+BPE: c’alid a | Linguist: c’alid a
+BPE: goli | Linguist: goli
+BPE: heⁿše | Linguist: heⁿše
+BPE: heⁿše | Linguist: heⁿše
+BPE: žik’o | Linguist: žik’o
+BPE: heⁿše | Linguist: heⁿše
+BPE: žik’o | Linguist: žik’o
+BPE: os | Linguist: os
+BPE: uže | Linguist: uže
+BPE: hibo | Linguist: hibo
+BPE: himon | Linguist: himon
+BPE: himon | Linguist: himon
+BPE: himon | Linguist: himon
+BPE: žik’o | Linguist: žik’o
+BPE: dilʲ | Linguist: dilʲ
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: di l | Linguist: di l
+BPE: ise | Linguist: ise
+BPE: heⁿše | Linguist: heⁿše
+BPE: užá | Linguist: užá
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: goli | Linguist: goli
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid a | Linguist: c’alid a
+BPE: ʎun | Linguist: ʎun
+BPE: dilʲ | Linguist: dilʲ
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: žu | Linguist: žu
+BPE: is a | Linguist: is a
+BPE: kad | Linguist: kad
+BPE: dilʲ | Linguist: dilʲ
+BPE: do | Linguist: do
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: žik’o | Linguist: žik’o
+BPE: idu | Linguist: idu
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dilʲ | Linguist: dilʲ
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dilʲ | Linguist: dilʲ
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dilʲ | Linguist: dilʲ
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: do | Linguist: do
+BPE: is i | Linguist: is i
+BPE: žu | Linguist: žu
+BPE: de | Linguist: de
+BPE: užá | Linguist: užá
+BPE: ho | Linguist: ho
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: de | Linguist: de
+BPE: de | Linguist: de
+BPE: o | Linguist: o
+BPE: žu | Linguist: žu
+BPE: l eq nu ʎ’o | Linguist: l eq nu ʎ’o
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: l eq nu ʎ’o | Linguist: l eq nu ʎ’o
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: de | Linguist: de
+BPE: iʎ še | Linguist: iʎ še
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: diyo | Linguist: diyo
+BPE: hibo | Linguist: hibo
+BPE: idu | Linguist: idu
+BPE: ʎun | Linguist: ʎun
+BPE: iłe | Linguist: iłe
+BPE: užá | Linguist: užá
+BPE: hos | Linguist: hos
+BPE: kad | Linguist: kad
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: žu | Linguist: žu
+BPE: ʎun | Linguist: ʎun
+BPE: de | Linguist: de
+BPE: mo | Linguist: mo
+BPE: os | Linguist: os
+BPE: dilʲ | Linguist: dilʲ
+BPE: de | Linguist: de
+BPE: uža ba | Linguist: uža ba
+BPE: uža ba | Linguist: uža ba
+BPE: goli | Linguist: goli
+BPE: diyo | Linguist: diyo
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: ise | Linguist: ise
+BPE: diyo | Linguist: diyo
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: uže | Linguist: uže
+BPE: ø ah i | Linguist: ø ah i
+BPE: de | Linguist: de
+BPE: uže | Linguist: uže
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: žik’o | Linguist: žik’o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: užá | Linguist: užá
+BPE: dilʲ | Linguist: dilʲ
+BPE: žik’o | Linguist: žik’o
+BPE: žu | Linguist: žu
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: hos | Linguist: hos
+BPE: dilʲ | Linguist: dilʲ
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: un še č | Linguist: un še č
+BPE: un bič | Linguist: un bič
+BPE: ono | Linguist: ono
+BPE: l eč un | Linguist: l eč un
+BPE: žu | Linguist: žu
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: ø ah an | Linguist: ø ah an
+BPE: ø ah un | Linguist: ø ah un
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: idu | Linguist: idu
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: iłe | Linguist: iłe
+BPE: ise | Linguist: ise
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: idu | Linguist: idu
+BPE: y eq un | Linguist: y eq un
+BPE: l ah l un ay | Linguist: l ah l un ay
+BPE: y eq un | Linguist: y eq un
+BPE: l ah l un ay | Linguist: l ah l un ay
+BPE: ło | Linguist: ło
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: idu | Linguist: idu
+BPE: uže | Linguist: uže
+BPE: žu | Linguist: žu
+BPE: ise | Linguist: ise
+BPE: kad | Linguist: kad
+BPE: iłe s | Linguist: iłe s
+BPE: kad | Linguist: kad
+BPE: de | Linguist: de
+BPE: ise | Linguist: ise
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: kad | Linguist: kad
+BPE: do | Linguist: do
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: goli | Linguist: goli
+BPE: hos | Linguist: hos
+BPE: hos | Linguist: hos
+BPE: iłe l | Linguist: iłe l
+BPE: idu | Linguist: idu
+BPE: hos | Linguist: hos
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: idu | Linguist: idu
+BPE: žik’o | Linguist: žik’o
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: himon | Linguist: himon
+BPE: iłe | Linguist: iłe
+BPE: idu | Linguist: idu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: užá | Linguist: užá
+BPE: do | Linguist: do
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: ø ah un | Linguist: ø ah un
+BPE: užá | Linguist: užá
+BPE: himon | Linguist: himon
+BPE: goli | Linguist: goli
+BPE: iʎ a | Linguist: iʎ a
+BPE: goli | Linguist: goli
+BPE: ʎun | Linguist: ʎun
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: kad | Linguist: kad
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: žu | Linguist: žu
+BPE: ono | Linguist: ono
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: do | Linguist: do
+BPE: goli | Linguist: goli
+BPE: me | Linguist: me
+BPE: idu | Linguist: idu
+BPE: goli | Linguist: goli
+BPE: himon | Linguist: himon
+BPE: l eq un | Linguist: l eq un
+BPE: mo | Linguist: mo
+BPE: mo | Linguist: mo
+BPE: do | Linguist: do
+BPE: ono | Linguist: ono
+BPE: mo | Linguist: mo
+BPE: de | Linguist: de
+BPE: ono | Linguist: ono
+BPE: hibo | Linguist: hibo
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: l eč bi | Linguist: l eč bi
+BPE: de | Linguist: de
+BPE: mo | Linguist: mo
+BPE: žu | Linguist: žu
+BPE: ise | Linguist: ise
+BPE: žu | Linguist: žu
+BPE: hibo | Linguist: hibo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: goli | Linguist: goli
+BPE: uže | Linguist: uže
+BPE: žu | Linguist: žu
+BPE: aʎ a ł ɣul | Linguist: aʎ a ł ɣul
+BPE: mo | Linguist: mo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ø ah an | Linguist: ø ah an
+BPE: ø ah un | Linguist: ø ah un
+BPE: idu | Linguist: idu
+BPE: ise | Linguist: ise
+BPE: idu | Linguist: idu
+BPE: žu | Linguist: žu
+BPE: žu | Linguist: žu
+BPE: do | Linguist: do
+BPE: dilʲ | Linguist: dilʲ
+BPE: hos | Linguist: hos
+BPE: žik’o | Linguist: žik’o
+BPE: diyo | Linguist: diyo
+BPE: himon | Linguist: himon
+BPE: de | Linguist: de
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: me | Linguist: me
+BPE: is bič | Linguist: is bič
+BPE: do | Linguist: do
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: do | Linguist: do
+BPE: diyo | Linguist: diyo
+BPE: de | Linguist: de
+BPE: goli | Linguist: goli
+BPE: me | Linguist: me
+BPE: hibo | Linguist: hibo
+BPE: goli | Linguist: goli
+BPE: os | Linguist: os
+BPE: idu | Linguist: idu
+BPE: hadiyad ʎ’a | Linguist: hadiyad ʎ’a
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: hadiyad ba | Linguist: hadiyad ba
+BPE: hadiyad ba | Linguist: hadiyad ba
+BPE: uža ba | Linguist: uža ba
+BPE: goli | Linguist: goli
+BPE: ise | Linguist: ise
+BPE: is in | Linguist: is in
+BPE: hos | Linguist: hos
+BPE: hadiyad ba | Linguist: hadiyad ba
+BPE: uža ba | Linguist: uža ba
+BPE: ono | Linguist: ono
+BPE: me | Linguist: me
+BPE: goli | Linguist: goli
+BPE: mo | Linguist: mo
+BPE: goli | Linguist: goli
+BPE: me | Linguist: me
+BPE: l eq bi | Linguist: l eq bi
+BPE: diyo | Linguist: diyo
+BPE: dilʲ | Linguist: dilʲ
+BPE: mo | Linguist: mo
+BPE: mo | Linguist: mo
+BPE: dilʲ | Linguist: dilʲ
+BPE: mo | Linguist: mo
+BPE: ono | Linguist: ono
+BPE: l eq un | Linguist: l eq un
+BPE: diyo | Linguist: diyo
+BPE: l eč bi | Linguist: l eč bi
+BPE: hibo | Linguist: hibo
+BPE: ono | Linguist: ono
+BPE: me | Linguist: me
+BPE: uže | Linguist: uže
+BPE: me | Linguist: me
+BPE: mo | Linguist: mo
+BPE: me | Linguist: me
+BPE: n eq še | Linguist: n eq še
+BPE: me | Linguist: me
+BPE: de | Linguist: de
+BPE: iłe | Linguist: iłe
+BPE: žu | Linguist: žu
+BPE: himon | Linguist: himon
+BPE: žu | Linguist: žu
+BPE: iłe | Linguist: iłe
+BPE: hibo | Linguist: hibo
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: himon | Linguist: himon
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: heⁿše | Linguist: heⁿše
+BPE: ise | Linguist: ise
+BPE: c’alid i | Linguist: c’alid i
+BPE: ise | Linguist: ise
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid i | Linguist: c’alid i
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: kad | Linguist: kad
+BPE: kad | Linguist: kad
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: hibo | Linguist: hibo
+BPE: me | Linguist: me
+BPE: heⁿše | Linguist: heⁿše
+BPE: de | Linguist: de
+BPE: heⁿše | Linguist: heⁿše
+BPE: dow | Linguist: dow
+BPE: goli | Linguist: goli
+BPE: heⁿše | Linguist: heⁿše
+BPE: c’alid i | Linguist: c’alid i
+BPE: hibo | Linguist: hibo
+BPE: c’alid i | Linguist: c’alid i
+BPE: goli | Linguist: goli
+BPE: hibo | Linguist: hibo
+BPE: goli | Linguist: goli
+BPE: heⁿše | Linguist: heⁿše
+BPE: goli | Linguist: goli
+BPE: goli | Linguist: goli
+BPE: heⁿše | Linguist: heⁿše
+BPE: uže | Linguist: uže
+BPE: hibo | Linguist: hibo
+BPE: ø ah i | Linguist: ø ah i
+BPE: hibo | Linguist: hibo
+BPE: mo | Linguist: mo
+BPE: žu | Linguist: žu
+BPE: y eq un | Linguist: y eq un
+BPE: iłe | Linguist: iłe
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: dilʲ | Linguist: dilʲ
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: iłe | Linguist: iłe
+BPE: me | Linguist: me
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iʎ o | Linguist: iʎ o
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ɣo dow | Linguist: ɣo dow
+BPE: ʎun | Linguist: ʎun
+BPE: idu | Linguist: idu
+BPE: himon | Linguist: himon
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: de | Linguist: de
+BPE: iʎ še | Linguist: iʎ še
+BPE: do | Linguist: do
+BPE: iłe | Linguist: iłe
+BPE: žu | Linguist: žu
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: l eč un | Linguist: l eč un
+BPE: me | Linguist: me
+BPE: hibo | Linguist: hibo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ono | Linguist: ono
+BPE: žik’o | Linguist: žik’o
+BPE: goli | Linguist: goli
+BPE: iłe | Linguist: iłe
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: diyo | Linguist: diyo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: hibo | Linguist: hibo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: is a | Linguist: is a
+BPE: os | Linguist: os
+BPE: ise | Linguist: ise
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ise | Linguist: ise
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: ono | Linguist: ono
+BPE: goli | Linguist: goli
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: de | Linguist: de
+BPE: ise | Linguist: ise
+BPE: de | Linguist: de
+BPE: idu | Linguist: idu
+BPE: iłe | Linguist: iłe
+BPE: diyo | Linguist: diyo
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: mo | Linguist: mo
+BPE: ono ɣul | Linguist: ono ɣul
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: žu | Linguist: žu
+BPE: kad | Linguist: kad
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: de | Linguist: de
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: iłe | Linguist: iłe
+BPE: ʎɨn | Linguist: ʎɨn
+BPE: uža ba | Linguist: uža ba
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: do n | Linguist: do n
+BPE: mo | Linguist: mo
+BPE: diyo | Linguist: diyo
+BPE: goli | Linguist: goli
+BPE: dilʲ | Linguist: dilʲ
+BPE: dilʲ | Linguist: dilʲ

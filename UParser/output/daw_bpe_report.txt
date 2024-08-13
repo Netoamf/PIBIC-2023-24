@@ -1,0 +1,15 @@
+Relatório de Segmentação Morfológica usando BPE
+Linguagem: daw
+Intervalo de merges: 1-1000
+Diretório de saída: ./output
+Coberturas:
+1 merges: 0.00% cobertura
+101 merges: 55.67% cobertura
+201 merges: 71.06% cobertura
+301 merges: 79.45% cobertura
+401 merges: 81.38% cobertura
+501 merges: 81.38% cobertura
+601 merges: 81.38% cobertura
+701 merges: 81.38% cobertura
+801 merges: 81.38% cobertura
+901 merges: 81.38% cobertura

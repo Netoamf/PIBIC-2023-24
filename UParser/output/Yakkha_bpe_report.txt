@@ -1,0 +1,15 @@
+Relatório de Segmentação Morfológica usando BPE
+Linguagem: Yakkha
+Intervalo de merges: 1-1000
+Diretório de saída: ./output
+Coberturas:
+1 merges: 0.27% cobertura
+101 merges: 15.87% cobertura
+201 merges: 24.91% cobertura
+301 merges: 29.01% cobertura
+401 merges: 31.17% cobertura
+501 merges: 31.89% cobertura
+601 merges: 34.47% cobertura
+701 merges: 35.73% cobertura
+801 merges: 37.47% cobertura
+901 merges: 37.36% cobertura

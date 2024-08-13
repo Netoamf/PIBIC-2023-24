@@ -1,0 +1,4 @@
+matplotlib
+art
+Pillow
+subword-nmt

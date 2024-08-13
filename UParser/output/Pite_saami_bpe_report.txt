@@ -1,0 +1,15 @@
+Relatório de Segmentação Morfológica usando BPE
+Linguagem: Pite_saami
+Intervalo de merges: 1-1000
+Diretório de saída: ./output
+Coberturas:
+1 merges: 1.61% cobertura
+101 merges: 21.59% cobertura
+201 merges: 26.49% cobertura
+301 merges: 32.31% cobertura
+401 merges: 36.60% cobertura
+501 merges: 38.59% cobertura
+601 merges: 41.73% cobertura
+701 merges: 42.73% cobertura
+801 merges: 42.73% cobertura
+901 merges: 42.73% cobertura

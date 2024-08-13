@@ -1,0 +1,984 @@
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: loʔa | Linguist: loʔa
+BPE: chem | Linguist: chem
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: a luŋma | Linguist: a luŋma
+BPE: nda | Linguist: nda
+BPE: kanciŋ | Linguist: kanciŋ
+BPE: ceʔya | Linguist: ceʔya
+BPE: mok khuba | Linguist: mok khuba
+BPE: babu | Linguist: babu
+BPE: nna | Linguist: nna
+BPE: siŋ | Linguist: siŋ
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: cama | Linguist: cama
+BPE: cog wa | Linguist: cog wa
+BPE: ka | Linguist: ka
+BPE: kucuma | Linguist: kucuma
+BPE: tumok pe na | Linguist: tumok pe na
+BPE: mamu | Linguist: mamu
+BPE: men | Linguist: men
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: kucuma | Linguist: kucuma
+BPE: m ba | Linguist: m ba
+BPE: heʔne | Linguist: heʔne
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: na | Linguist: na
+BPE: babu | Linguist: babu
+BPE: nna | Linguist: nna
+BPE: babu | Linguist: babu
+BPE: kha | Linguist: kha
+BPE: ŋkha | Linguist: ŋkha
+BPE: kha | Linguist: kha
+BPE: kham | Linguist: kham
+BPE: ŋkha | Linguist: ŋkha
+BPE: kham | Linguist: kham
+BPE: na | Linguist: na
+BPE: imin | Linguist: imin
+BPE: kha | Linguist: kha
+BPE: kha | Linguist: kha
+BPE: cuwa | Linguist: cuwa
+BPE: khumdu ha | Linguist: khumdu ha
+BPE: kha ci | Linguist: kha ci
+BPE: ŋkha ci | Linguist: ŋkha ci
+BPE: ha | Linguist: ha
+BPE: imin | Linguist: imin
+BPE: ka | Linguist: ka
+BPE: khem | Linguist: khem
+BPE: eko | Linguist: eko
+BPE: so ŋ | Linguist: so ŋ
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: yapmi | Linguist: yapmi
+BPE: honna | Linguist: honna
+BPE: eko se | Linguist: eko se
+BPE: cok saŋ | Linguist: cok saŋ
+BPE: honna | Linguist: honna
+BPE: yapmi | Linguist: yapmi
+BPE: eko | Linguist: eko
+BPE: mina | Linguist: mina
+BPE: yoŋ | Linguist: yoŋ
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: honna | Linguist: honna
+BPE: yoŋ | Linguist: yoŋ
+BPE: lagi | Linguist: lagi
+BPE: so saŋ | Linguist: so saŋ
+BPE: ka ya | Linguist: ka ya
+BPE: uŋ | Linguist: uŋ
+BPE: haku | Linguist: haku
+BPE: eko | Linguist: eko
+BPE: paŋ | Linguist: paŋ
+BPE: eko | Linguist: eko
+BPE: mamu | Linguist: mamu
+BPE: uŋci | Linguist: uŋci
+BPE: yuncamakekek | Linguist: yuncamakekek
+BPE: i | Linguist: i
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: pheri | Linguist: pheri
+BPE: khaʔla maŋ ba | Linguist: khaʔla maŋ ba
+BPE: ta me | Linguist: ta me
+BPE: niŋ be | Linguist: niŋ be
+BPE: uŋci | Linguist: uŋci
+BPE: cok ma ca | Linguist: cok ma ca
+BPE: ŋkhaʔla | Linguist: ŋkhaʔla
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: lop | Linguist: lop
+BPE: ka | Linguist: ka
+BPE: eh | Linguist: eh
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: haʔlo | Linguist: haʔlo
+BPE: a yaŋ | Linguist: a yaŋ
+BPE: heʔne | Linguist: heʔne
+BPE: na | Linguist: na
+BPE: a ppa | Linguist: a ppa
+BPE: heʔne | Linguist: heʔne
+BPE: uŋ saŋ | Linguist: uŋ saŋ
+BPE: isa ʔlo | Linguist: isa ʔlo
+BPE: nda ca | Linguist: nda ca
+BPE: uŋ u | Linguist: uŋ u
+BPE: ka | Linguist: ka
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: cama | Linguist: cama
+BPE: mimik | Linguist: mimik
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: mimik | Linguist: mimik
+BPE: haʔlo | Linguist: haʔlo
+BPE: mimik | Linguist: mimik
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: ucun | Linguist: ucun
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: hoŋ bhaŋ | Linguist: hoŋ bhaŋ
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: yoʔyorok | Linguist: yoʔyorok
+BPE: pyak | Linguist: pyak
+BPE: pyak | Linguist: pyak
+BPE: pyak | Linguist: pyak
+BPE: yaŋ | Linguist: yaŋ
+BPE: ka | Linguist: ka
+BPE: khiŋ | Linguist: khiŋ
+BPE: pyak | Linguist: pyak
+BPE: pyak | Linguist: pyak
+BPE: eko | Linguist: eko
+BPE: pyak | Linguist: pyak
+BPE: yapmi | Linguist: yapmi
+BPE: ta saŋ | Linguist: ta saŋ
+BPE: khe saŋ | Linguist: khe saŋ
+BPE: ghak | Linguist: ghak
+BPE: ghak | Linguist: ghak
+BPE: ceʔya | Linguist: ceʔya
+BPE: ghak | Linguist: ghak
+BPE: ten | Linguist: ten
+BPE: khiŋ | Linguist: khiŋ
+BPE: khiŋ | Linguist: khiŋ
+BPE: lak nuŋ | Linguist: lak nuŋ
+BPE: puchak | Linguist: puchak
+BPE: puchak | Linguist: puchak
+BPE: cuŋ be | Linguist: cuŋ be
+BPE: ŋkhiŋ | Linguist: ŋkhiŋ
+BPE: ucun | Linguist: ucun
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: nam | Linguist: nam
+BPE: sa bu | Linguist: sa bu
+BPE: eko | Linguist: eko
+BPE: yapmi | Linguist: yapmi
+BPE: babu | Linguist: babu
+BPE: mamu ci | Linguist: mamu ci
+BPE: mamu | Linguist: mamu
+BPE: ka | Linguist: ka
+BPE: i ma | Linguist: i ma
+BPE: u muk | Linguist: u muk
+BPE: i | Linguist: i
+BPE: nani | Linguist: nani
+BPE: yubak | Linguist: yubak
+BPE: mamu | Linguist: mamu
+BPE: i ga | Linguist: i ga
+BPE: lagi | Linguist: lagi
+BPE: na | Linguist: na
+BPE: i ŋa | Linguist: i ŋa
+BPE: piccha be | Linguist: piccha be
+BPE: isa ŋa | Linguist: isa ŋa
+BPE: ghak | Linguist: ghak
+BPE: kha | Linguist: kha
+BPE: isa ci | Linguist: isa ci
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: sal be | Linguist: sal be
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: lambu | Linguist: lambu
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: lambu | Linguist: lambu
+BPE: lai | Linguist: lai
+BPE: nna | Linguist: nna
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: cancan | Linguist: cancan
+BPE: pyak | Linguist: pyak
+BPE: cancan | Linguist: cancan
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: cancan | Linguist: cancan
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: pʌryo | Linguist: pʌryo
+BPE: khaʔla na | Linguist: khaʔla na
+BPE: cuŋ be | Linguist: cuŋ be
+BPE: tek | Linguist: tek
+BPE: ka | Linguist: ka
+BPE: ijaŋ | Linguist: ijaŋ
+BPE: haʔlo | Linguist: haʔlo
+BPE: ten | Linguist: ten
+BPE: imin | Linguist: imin
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: loʔa | Linguist: loʔa
+BPE: pyak | Linguist: pyak
+BPE: yaŋ | Linguist: yaŋ
+BPE: ub w ha | Linguist: ub w ha
+BPE: ka | Linguist: ka
+BPE: chem | Linguist: chem
+BPE: chem | Linguist: chem
+BPE: cuwa | Linguist: cuwa
+BPE: to ha | Linguist: to ha
+BPE: cuwa | Linguist: cuwa
+BPE: ghak | Linguist: ghak
+BPE: hau | Linguist: hau
+BPE: kha go | Linguist: kha go
+BPE: yapmi | Linguist: yapmi
+BPE: ŋkha | Linguist: ŋkha
+BPE: ŋkha | Linguist: ŋkha
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: yapmi | Linguist: yapmi
+BPE: yapmi | Linguist: yapmi
+BPE: kha | Linguist: kha
+BPE: yuncamakekek | Linguist: yuncamakekek
+BPE: ceʔya | Linguist: ceʔya
+BPE: ka | Linguist: ka
+BPE: maŋcwa be | Linguist: maŋcwa be
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: na | Linguist: na
+BPE: paŋ | Linguist: paŋ
+BPE: om | Linguist: om
+BPE: na | Linguist: na
+BPE: paŋ | Linguist: paŋ
+BPE: nnakha e | Linguist: nnakha e
+BPE: maŋcwa ca | Linguist: maŋcwa ca
+BPE: ka | Linguist: ka
+BPE: ten | Linguist: ten
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: ka | Linguist: ka
+BPE: khaʔla | Linguist: khaʔla
+BPE: jeppa | Linguist: jeppa
+BPE: nna | Linguist: nna
+BPE: len | Linguist: len
+BPE: ka | Linguist: ka
+BPE: ceʔya | Linguist: ceʔya
+BPE: iya | Linguist: iya
+BPE: nniŋda | Linguist: nniŋda
+BPE: eh | Linguist: eh
+BPE: phu na | Linguist: phu na
+BPE: ceʔya | Linguist: ceʔya
+BPE: mamliŋ | Linguist: mamliŋ
+BPE: u nuncha | Linguist: u nuncha
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: chem | Linguist: chem
+BPE: isa ga | Linguist: isa ga
+BPE: m ba | Linguist: m ba
+BPE: liŋkha ga | Linguist: liŋkha ga
+BPE: mopparik | Linguist: mopparik
+BPE: caleppa | Linguist: caleppa
+BPE: cuwa | Linguist: cuwa
+BPE: nwak ka | Linguist: nwak ka
+BPE: eko | Linguist: eko
+BPE: mãɖa | Linguist: mãɖa
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: eko | Linguist: eko
+BPE: ten be | Linguist: ten be
+BPE: eko | Linguist: eko
+BPE: puŋda we | Linguist: puŋda we
+BPE: ŋkhiŋbelak pe | Linguist: ŋkhiŋbelak pe
+BPE: phopciba ca | Linguist: phopciba ca
+BPE: ka | Linguist: ka
+BPE: ka be | Linguist: ka be
+BPE: ŋga be | Linguist: ŋga be
+BPE: yaŋ | Linguist: yaŋ
+BPE: waiʔ ya | Linguist: waiʔ ya
+BPE: yaŋ | Linguist: yaŋ
+BPE: na | Linguist: na
+BPE: sal be | Linguist: sal be
+BPE: maŋcwa be | Linguist: maŋcwa be
+BPE: bagdata | Linguist: bagdata
+BPE: nak se | Linguist: nak se
+BPE: pʌryo | Linguist: pʌryo
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: nna | Linguist: nna
+BPE: i | Linguist: i
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: hoŋma | Linguist: hoŋma
+BPE: mamu | Linguist: mamu
+BPE: mondaŋ | Linguist: mondaŋ
+BPE: ceʔya | Linguist: ceʔya
+BPE: la | Linguist: la
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: haku | Linguist: haku
+BPE: cuŋ i | Linguist: cuŋ i
+BPE: mina | Linguist: mina
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: puŋda be | Linguist: puŋda be
+BPE: ka nuŋ | Linguist: ka nuŋ
+BPE: mimik | Linguist: mimik
+BPE: ka nuŋ | Linguist: ka nuŋ
+BPE: u ppa nuŋ go | Linguist: u ppa nuŋ go
+BPE: limbu ci ga nuŋ | Linguist: limbu ci ga nuŋ
+BPE: toŋ di me ppa | Linguist: toŋ di me ppa
+BPE: khumdu nuŋ | Linguist: khumdu nuŋ
+BPE: ŋkha | Linguist: ŋkha
+BPE: limbu ci | Linguist: limbu ci
+BPE: yo khaʔla | Linguist: yo khaʔla
+BPE: mo | Linguist: mo
+BPE: mo khaʔla ca | Linguist: mo khaʔla ca
+BPE: ijaŋ | Linguist: ijaŋ
+BPE: nna khaʔla | Linguist: nna khaʔla
+BPE: mamu | Linguist: mamu
+BPE: i | Linguist: i
+BPE: cok ma ʔlo | Linguist: cok ma ʔlo
+BPE: mi | Linguist: mi
+BPE: wandik nhaŋto | Linguist: wandik nhaŋto
+BPE: nna nhaŋto | Linguist: nna nhaŋto
+BPE: nhaŋto | Linguist: nhaŋto
+BPE: nhaŋto | Linguist: nhaŋto
+BPE: nda | Linguist: nda
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: pak na | Linguist: pak na
+BPE: nwak ci | Linguist: nwak ci
+BPE: haksaŋ | Linguist: haksaŋ
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: ghak | Linguist: ghak
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: khem | Linguist: khem
+BPE: loʔa | Linguist: loʔa
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: eko | Linguist: eko
+BPE: loʔa | Linguist: loʔa
+BPE: khem | Linguist: khem
+BPE: ka | Linguist: ka
+BPE: loʔa | Linguist: loʔa
+BPE: m muk | Linguist: m muk
+BPE: m muk | Linguist: m muk
+BPE: om | Linguist: om
+BPE: i ŋa | Linguist: i ŋa
+BPE: cama | Linguist: cama
+BPE: maŋcwa | Linguist: maŋcwa
+BPE: khyu | Linguist: khyu
+BPE: lagi | Linguist: lagi
+BPE: iya ca | Linguist: iya ca
+BPE: haʔlo | Linguist: haʔlo
+BPE: ka | Linguist: ka
+BPE: ceʔya | Linguist: ceʔya
+BPE: hen | Linguist: hen
+BPE: kha | Linguist: kha
+BPE: ghak | Linguist: ghak
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: cuwa | Linguist: cuwa
+BPE: ta ya | Linguist: ta ya
+BPE: uŋci | Linguist: uŋci
+BPE: mi | Linguist: mi
+BPE: huŋ ca saŋ | Linguist: huŋ ca saŋ
+BPE: ghak ka | Linguist: ghak ka
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: na | Linguist: na
+BPE: ŋkha | Linguist: ŋkha
+BPE: iya iya | Linguist: iya iya
+BPE: ŋkha | Linguist: ŋkha
+BPE: ghak | Linguist: ghak
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: ghak | Linguist: ghak
+BPE: uŋci | Linguist: uŋci
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: yakkhaba | Linguist: yakkhaba
+BPE: ka | Linguist: ka
+BPE: haksaŋ | Linguist: haksaŋ
+BPE: yapmi | Linguist: yapmi
+BPE: khaʔla | Linguist: khaʔla
+BPE: caleppa | Linguist: caleppa
+BPE: khi | Linguist: khi
+BPE: ceʔya | Linguist: ceʔya
+BPE: khi | Linguist: khi
+BPE: sokma | Linguist: sokma
+BPE: phu ha nuŋ | Linguist: phu ha nuŋ
+BPE: caleppa | Linguist: caleppa
+BPE: cuwa | Linguist: cuwa
+BPE: siŋ | Linguist: siŋ
+BPE: phu nuncha | Linguist: phu nuncha
+BPE: pak na | Linguist: pak na
+BPE: ceʔya | Linguist: ceʔya
+BPE: eko | Linguist: eko
+BPE: maɖa | Linguist: maɖa
+BPE: na | Linguist: na
+BPE: eko | Linguist: eko
+BPE: luŋkhwak chen | Linguist: luŋkhwak chen
+BPE: na | Linguist: na
+BPE: caleppa | Linguist: caleppa
+BPE: caleppa | Linguist: caleppa
+BPE: ŋkha | Linguist: ŋkha
+BPE: kha | Linguist: kha
+BPE: ghak | Linguist: ghak
+BPE: nna | Linguist: nna
+BPE: ghak | Linguist: ghak
+BPE: khaʔla hoŋ | Linguist: khaʔla hoŋ
+BPE: aniŋ ga le | Linguist: aniŋ ga le
+BPE: kham | Linguist: kham
+BPE: nniŋda | Linguist: nniŋda
+BPE: nhe | Linguist: nhe
+BPE: wa ma | Linguist: wa ma
+BPE: maŋcwa | Linguist: maŋcwa
+BPE: haŋ ha | Linguist: haŋ ha
+BPE: nna | Linguist: nna
+BPE: khumdu ha | Linguist: khumdu ha
+BPE: caleppa | Linguist: caleppa
+BPE: kha | Linguist: kha
+BPE: cuwa | Linguist: cuwa
+BPE: mãɖa | Linguist: mãɖa
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: tokhaʔla | Linguist: tokhaʔla
+BPE: su ha | Linguist: su ha
+BPE: cuwa | Linguist: cuwa
+BPE: nna | Linguist: nna
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: paŋ | Linguist: paŋ
+BPE: yuŋ ma niŋ | Linguist: yuŋ ma niŋ
+BPE: ucun | Linguist: ucun
+BPE: nhaŋ go | Linguist: nhaŋ go
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: haksaŋ | Linguist: haksaŋ
+BPE: om | Linguist: om
+BPE: uŋci be ca | Linguist: uŋci be ca
+BPE: niŋwa | Linguist: niŋwa
+BPE: pyak | Linguist: pyak
+BPE: cancan | Linguist: cancan
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: cancan | Linguist: cancan
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: n sa ba | Linguist: n sa ba
+BPE: loʔa | Linguist: loʔa
+BPE: loʔa | Linguist: loʔa
+BPE: na | Linguist: na
+BPE: loʔa | Linguist: loʔa
+BPE: nna ca | Linguist: nna ca
+BPE: mãɖa | Linguist: mãɖa
+BPE: loʔa | Linguist: loʔa
+BPE: hau | Linguist: hau
+BPE: kha go | Linguist: kha go
+BPE: yapmi | Linguist: yapmi
+BPE: ŋkha ci go | Linguist: ŋkha ci go
+BPE: loʔa | Linguist: loʔa
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: ka | Linguist: ka
+BPE: uŋ | Linguist: uŋ
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: encho | Linguist: encho
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: ghak | Linguist: ghak
+BPE: haksaŋ | Linguist: haksaŋ
+BPE: paŋ | Linguist: paŋ
+BPE: li nuŋ ca | Linguist: li nuŋ ca
+BPE: li na | Linguist: li na
+BPE: babu | Linguist: babu
+BPE: eh | Linguist: eh
+BPE: na | Linguist: na
+BPE: nniŋ ga | Linguist: nniŋ ga
+BPE: piccha go | Linguist: piccha go
+BPE: lambu | Linguist: lambu
+BPE: maŋcwa | Linguist: maŋcwa
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: waiʔ na | Linguist: waiʔ na
+BPE: ka | Linguist: ka
+BPE: a tek | Linguist: a tek
+BPE: ka | Linguist: ka
+BPE: haŋcaŋcaŋ | Linguist: haŋcaŋcaŋ
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: khoŋ | Linguist: khoŋ
+BPE: sokma | Linguist: sokma
+BPE: ʈhwaŋ | Linguist: ʈhwaŋ
+BPE: to | Linguist: to
+BPE: paŋ | Linguist: paŋ
+BPE: puchak | Linguist: puchak
+BPE: tu | Linguist: tu
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: eko | Linguist: eko
+BPE: pi ŋ | Linguist: pi ŋ
+BPE: tunna | Linguist: tunna
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: eko bu | Linguist: eko bu
+BPE: mamu nuŋ | Linguist: mamu nuŋ
+BPE: yo na | Linguist: yo na
+BPE: mamu ca | Linguist: mamu ca
+BPE: khaʔla | Linguist: khaʔla
+BPE: ku nuŋ ma | Linguist: ku nuŋ ma
+BPE: ka ma | Linguist: ka ma
+BPE: pʌryo | Linguist: pʌryo
+BPE: mo ha | Linguist: mo ha
+BPE: to ha | Linguist: to ha
+BPE: eh | Linguist: eh
+BPE: khe na | Linguist: khe na
+BPE: paŋ | Linguist: paŋ
+BPE: yo | Linguist: yo
+BPE: na | Linguist: na
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: na | Linguist: na
+BPE: lambu | Linguist: lambu
+BPE: ghak | Linguist: ghak
+BPE: ak ka i | Linguist: ak ka i
+BPE: mu | Linguist: mu
+BPE: nniŋ ghe | Linguist: nniŋ ghe
+BPE: tunna | Linguist: tunna
+BPE: cokcoki nuŋ | Linguist: cokcoki nuŋ
+BPE: tu tunna | Linguist: tu tunna
+BPE: haku | Linguist: haku
+BPE: nhe | Linguist: nhe
+BPE: hen se | Linguist: hen se
+BPE: haku | Linguist: haku
+BPE: s wa | Linguist: s wa
+BPE: nnhe | Linguist: nnhe
+BPE: eko | Linguist: eko
+BPE: ŋkha nuŋ | Linguist: ŋkha nuŋ
+BPE: nhe | Linguist: nhe
+BPE: khaʔla | Linguist: khaʔla
+BPE: hau | Linguist: hau
+BPE: jeppa | Linguist: jeppa
+BPE: tunnhe | Linguist: tunnhe
+BPE: mu | Linguist: mu
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: mu | Linguist: mu
+BPE: ka | Linguist: ka
+BPE: ŋkhaʔla | Linguist: ŋkhaʔla
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: tu tunnhe | Linguist: tu tunnhe
+BPE: mondaŋ | Linguist: mondaŋ
+BPE: yondaŋ | Linguist: yondaŋ
+BPE: eko | Linguist: eko
+BPE: mamu | Linguist: mamu
+BPE: we ppa ʔlo | Linguist: we ppa ʔlo
+BPE: honna | Linguist: honna
+BPE: sem khuba | Linguist: sem khuba
+BPE: babu | Linguist: babu
+BPE: pheri | Linguist: pheri
+BPE: i ʔlo | Linguist: i ʔlo
+BPE: mopparik | Linguist: mopparik
+BPE: nna | Linguist: nna
+BPE: ten be jhen | Linguist: ten be jhen
+BPE: mo | Linguist: mo
+BPE: yondaŋ | Linguist: yondaŋ
+BPE: mondaŋ | Linguist: mondaŋ
+BPE: kham | Linguist: kham
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: cok se | Linguist: cok se
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: yoʔyorok | Linguist: yoʔyorok
+BPE: haku | Linguist: haku
+BPE: nnakha | Linguist: nnakha
+BPE: ten go | Linguist: ten go
+BPE: sa | Linguist: sa
+BPE: na | Linguist: na
+BPE: haku | Linguist: haku
+BPE: nda | Linguist: nda
+BPE: nhe | Linguist: nhe
+BPE: mopparik | Linguist: mopparik
+BPE: kanciŋ | Linguist: kanciŋ
+BPE: tokhaʔla | Linguist: tokhaʔla
+BPE: mondaŋ | Linguist: mondaŋ
+BPE: eko | Linguist: eko
+BPE: hoŋma | Linguist: hoŋma
+BPE: yoʔyorok | Linguist: yoʔyorok
+BPE: kanciŋ | Linguist: kanciŋ
+BPE: to | Linguist: to
+BPE: yo | Linguist: yo
+BPE: na | Linguist: na
+BPE: nna | Linguist: nna
+BPE: om | Linguist: om
+BPE: ikhiŋ | Linguist: ikhiŋ
+BPE: chimd a ŋ | Linguist: chimd a ŋ
+BPE: uŋ khuba | Linguist: uŋ khuba
+BPE: yapmi | Linguist: yapmi
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: pheri | Linguist: pheri
+BPE: limbu ci | Linguist: limbu ci
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: nam | Linguist: nam
+BPE: nhaŋto | Linguist: nhaŋto
+BPE: tokhaʔla | Linguist: tokhaʔla
+BPE: ceʔya | Linguist: ceʔya
+BPE: pi meʔ ka na | Linguist: pi meʔ ka na
+BPE: encho | Linguist: encho
+BPE: a ppa | Linguist: a ppa
+BPE: ŋkhoŋ | Linguist: ŋkhoŋ
+BPE: heʔne heʔne | Linguist: heʔne heʔne
+BPE: lop | Linguist: lop
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: heʔne | Linguist: heʔne
+BPE: u mik | Linguist: u mik
+BPE: haku | Linguist: haku
+BPE: nda | Linguist: nda
+BPE: nhe | Linguist: nhe
+BPE: nna | Linguist: nna
+BPE: caleppa | Linguist: caleppa
+BPE: pyak | Linguist: pyak
+BPE: ka | Linguist: ka
+BPE: kucuma | Linguist: kucuma
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: ca saŋ | Linguist: ca saŋ
+BPE: pu saŋ | Linguist: pu saŋ
+BPE: iŋ nhaŋ saŋ | Linguist: iŋ nhaŋ saŋ
+BPE: ik saŋ | Linguist: ik saŋ
+BPE: ka | Linguist: ka
+BPE: nda | Linguist: nda
+BPE: heʔne | Linguist: heʔne
+BPE: khe i | Linguist: khe i
+BPE: imin | Linguist: imin
+BPE: khe ci ŋ | Linguist: khe ci ŋ
+BPE: uŋ u m | Linguist: uŋ u m
+BPE: haku | Linguist: haku
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: o lok | Linguist: o lok
+BPE: nhe le | Linguist: nhe le
+BPE: nhe | Linguist: nhe
+BPE: haʔlo | Linguist: haʔlo
+BPE: ucun | Linguist: ucun
+BPE: leŋ ni | Linguist: leŋ ni
+BPE: piʔ ma | Linguist: piʔ ma
+BPE: leŋ ni ba | Linguist: leŋ ni ba
+BPE: leŋ ni ba | Linguist: leŋ ni ba
+BPE: ka ka | Linguist: ka ka
+BPE: khaʔla | Linguist: khaʔla
+BPE: nda | Linguist: nda
+BPE: isa ga | Linguist: isa ga
+BPE: gan | Linguist: gan
+BPE: ŋan | Linguist: ŋan
+BPE: miyaŋ | Linguist: miyaŋ
+BPE: n sa | Linguist: n sa
+BPE: uŋ | Linguist: uŋ
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: pyak | Linguist: pyak
+BPE: encho | Linguist: encho
+BPE: ka | Linguist: ka
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: nniŋda | Linguist: nniŋda
+BPE: yakkhaba | Linguist: yakkhaba
+BPE: uhiŋgilik | Linguist: uhiŋgilik
+BPE: n nuncha | Linguist: n nuncha
+BPE: nna | Linguist: nna
+BPE: nniŋ ga | Linguist: nniŋ ga
+BPE: mamu | Linguist: mamu
+BPE: nda | Linguist: nda
+BPE: ka | Linguist: ka
+BPE: ŋkhaʔniŋ | Linguist: ŋkhaʔniŋ
+BPE: eko | Linguist: eko
+BPE: paŋ | Linguist: paŋ
+BPE: uŋci nuŋ | Linguist: uŋci nuŋ
+BPE: pyak | Linguist: pyak
+BPE: yaŋ | Linguist: yaŋ
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: wa i | Linguist: wa i
+BPE: ka | Linguist: ka
+BPE: cog u | Linguist: cog u
+BPE: hau | Linguist: hau
+BPE: cama | Linguist: cama
+BPE: khyu | Linguist: khyu
+BPE: lak ma | Linguist: lak ma
+BPE: lak saŋ | Linguist: lak saŋ
+BPE: ucun | Linguist: ucun
+BPE: tuk nuŋ ga | Linguist: tuk nuŋ ga
+BPE: sak | Linguist: sak
+BPE: whaŋma | Linguist: whaŋma
+BPE: ka | Linguist: ka
+BPE: wepma | Linguist: wepma
+BPE: wepma | Linguist: wepma
+BPE: ka | Linguist: ka
+BPE: a niŋ | Linguist: a niŋ
+BPE: a la | Linguist: a la
+BPE: a sokma | Linguist: a sokma
+BPE: a ya | Linguist: a ya
+BPE: n lok | Linguist: n lok
+BPE: o lok | Linguist: o lok
+BPE: nda | Linguist: nda
+BPE: nda | Linguist: nda
+BPE: ka | Linguist: ka
+BPE: phopciba nuŋ | Linguist: phopciba nuŋ
+BPE: ka | Linguist: ka
+BPE: pyak | Linguist: pyak
+BPE: encho | Linguist: encho
+BPE: ka | Linguist: ka
+BPE: pyak | Linguist: pyak
+BPE: chocholaplap | Linguist: chocholaplap
+BPE: cok khuba | Linguist: cok khuba
+BPE: saŋ | Linguist: saŋ
+BPE: i | Linguist: i
+BPE: len ga | Linguist: len ga
+BPE: ceʔya | Linguist: ceʔya
+BPE: om | Linguist: om
+BPE: yo | Linguist: yo
+BPE: ka | Linguist: ka
+BPE: ok se | Linguist: ok se
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: nna | Linguist: nna
+BPE: sa ya | Linguist: sa ya
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: pho ya | Linguist: pho ya
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: heʔne ca | Linguist: heʔne ca
+BPE: ŋkhaʔniŋ | Linguist: ŋkhaʔniŋ
+BPE: kaniŋ | Linguist: kaniŋ
+BPE: whaŋma | Linguist: whaŋma
+BPE: wepma | Linguist: wepma
+BPE: si i ŋ | Linguist: si i ŋ
+BPE: nnakha he | Linguist: nnakha he
+BPE: maŋcwa ca | Linguist: maŋcwa ca
+BPE: nna | Linguist: nna
+BPE: lamdhaŋ ga | Linguist: lamdhaŋ ga
+BPE: eko | Linguist: eko
+BPE: mina | Linguist: mina
+BPE: hoŋma | Linguist: hoŋma
+BPE: wa ya | Linguist: wa ya
+BPE: ka | Linguist: ka
+BPE: khaʔla | Linguist: khaʔla
+BPE: maŋcwa | Linguist: maŋcwa
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: ka saŋ | Linguist: ka saŋ
+BPE: eko | Linguist: eko
+BPE: maŋcwa | Linguist: maŋcwa
+BPE: lamdhaŋ ga | Linguist: lamdhaŋ ga
+BPE: ŋkhaʔniŋ | Linguist: ŋkhaʔniŋ
+BPE: eko | Linguist: eko
+BPE: usa | Linguist: usa
+BPE: ka | Linguist: ka
+BPE: ŋkha | Linguist: ŋkha
+BPE: usa | Linguist: usa
+BPE: ŋkhoŋ | Linguist: ŋkhoŋ
+BPE: usa | Linguist: usa
+BPE: ʈhwaŋ | Linguist: ʈhwaŋ
+BPE: nam khuba | Linguist: nam khuba
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: khaʔla | Linguist: khaʔla
+BPE: phopciba le | Linguist: phopciba le
+BPE: nna | Linguist: nna
+BPE: phopciba | Linguist: phopciba
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: nna | Linguist: nna
+BPE: siŋ | Linguist: siŋ
+BPE: maɖa | Linguist: maɖa
+BPE: sa ya | Linguist: sa ya
+BPE: belak ŋa | Linguist: belak ŋa
+BPE: thaŋ ma | Linguist: thaŋ ma
+BPE: to | Linguist: to
+BPE: khaʔla | Linguist: khaʔla
+BPE: eko | Linguist: eko
+BPE: hoŋ | Linguist: hoŋ
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: phopciba | Linguist: phopciba
+BPE: lap ma go | Linguist: lap ma go
+BPE: nna | Linguist: nna
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: soʔ ma | Linguist: soʔ ma
+BPE: ŋkhoŋ | Linguist: ŋkhoŋ
+BPE: nna | Linguist: nna
+BPE: so ŋ | Linguist: so ŋ
+BPE: nna be go | Linguist: nna be go
+BPE: phopciba ga | Linguist: phopciba ga
+BPE: nna | Linguist: nna
+BPE: hicci | Linguist: hicci
+BPE: ŋkha | Linguist: ŋkha
+BPE: taŋ se | Linguist: taŋ se
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: phopciba | Linguist: phopciba
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: ka | Linguist: ka
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: mo | Linguist: mo
+BPE: ka | Linguist: ka
+BPE: a tek | Linguist: a tek
+BPE: ka | Linguist: ka
+BPE: haŋcaŋcaŋ | Linguist: haŋcaŋcaŋ
+BPE: phopciba ŋa | Linguist: phopciba ŋa
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: a sa | Linguist: a sa
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: phopciba | Linguist: phopciba
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: ka | Linguist: ka
+BPE: yo | Linguist: yo
+BPE: heʔne | Linguist: heʔne
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: hoŋma | Linguist: hoŋma
+BPE: ka | Linguist: ka
+BPE: haŋcaŋcaŋ | Linguist: haŋcaŋcaŋ
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: uŋci | Linguist: uŋci
+BPE: ka | Linguist: ka
+BPE: ŋkhiŋ | Linguist: ŋkhiŋ
+BPE: belak be | Linguist: belak be
+BPE: phopciba ca | Linguist: phopciba ca
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: ka | Linguist: ka
+BPE: lu saŋ | Linguist: lu saŋ
+BPE: ka | Linguist: ka
+BPE: khoŋ | Linguist: khoŋ
+BPE: ma | Linguist: ma
+BPE: om | Linguist: om
+BPE: khaʔla | Linguist: khaʔla
+BPE: lu ya | Linguist: lu ya
+BPE: pyak | Linguist: pyak
+BPE: chocholaplap | Linguist: chocholaplap
+BPE: jeppa | Linguist: jeppa
+BPE: nna | Linguist: nna
+BPE: len | Linguist: len
+BPE: ka | Linguist: ka
+BPE: ceʔya | Linguist: ceʔya
+BPE: ka | Linguist: ka
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: ka | Linguist: ka
+BPE: ijaŋ | Linguist: ijaŋ
+BPE: baŋniŋ | Linguist: baŋniŋ
+BPE: nna | Linguist: nna
+BPE: len | Linguist: len
+BPE: ka | Linguist: ka
+BPE: chocholaplap | Linguist: chocholaplap
+BPE: ka | Linguist: ka
+BPE: haʔniŋ | Linguist: haʔniŋ
+BPE: phopciba | Linguist: phopciba
+BPE: eko | Linguist: eko
+BPE: liŋkha ga | Linguist: liŋkha ga
+BPE: bagdata | Linguist: bagdata
+BPE: nak se | Linguist: nak se
+BPE: mamliŋ | Linguist: mamliŋ
+BPE: ghak | Linguist: ghak
+BPE: ŋkha | Linguist: ŋkha
+BPE: ghak | Linguist: ghak
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: eko chen | Linguist: eko chen
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: yubak | Linguist: yubak
+BPE: nani | Linguist: nani
+BPE: yubak | Linguist: yubak
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: eko | Linguist: eko
+BPE: luŋkhwak chen | Linguist: luŋkhwak chen
+BPE: nda | Linguist: nda
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: encho | Linguist: encho
+BPE: nhaŋto | Linguist: nhaŋto
+BPE: na | Linguist: na
+BPE: mamu ga | Linguist: mamu ga
+BPE: na | Linguist: na
+BPE: tuknuŋ | Linguist: tuknuŋ
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: nna | Linguist: nna
+BPE: nani | Linguist: nani
+BPE: nna | Linguist: nna
+BPE: luŋkhwak maŋ | Linguist: luŋkhwak maŋ
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: heʔne ca | Linguist: heʔne ca
+BPE: bhoŋ | Linguist: bhoŋ
+BPE: ŋga ca | Linguist: ŋga ca
+BPE: na | Linguist: na
+BPE: mamu | Linguist: mamu
+BPE: i | Linguist: i
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: mamliŋ | Linguist: mamliŋ
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: bagdata | Linguist: bagdata
+BPE: nak se ha | Linguist: nak se ha
+BPE: nnakha | Linguist: nnakha
+BPE: ghak | Linguist: ghak
+BPE: eko ŋa | Linguist: eko ŋa
+BPE: eko | Linguist: eko
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: eko | Linguist: eko
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: eko | Linguist: eko
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: ŋkha | Linguist: ŋkha
+BPE: ghak | Linguist: ghak
+BPE: nhaŋa | Linguist: nhaŋa
+BPE: yo | Linguist: yo
+BPE: mulgaun be | Linguist: mulgaun be
+BPE: nam | Linguist: nam
+BPE: nna | Linguist: nna
+BPE: mamu ga | Linguist: mamu ga
+BPE: tuk ma | Linguist: tuk ma
+BPE: nna | Linguist: nna
+BPE: pakha | Linguist: pakha
+BPE: nna | Linguist: nna
+BPE: om | Linguist: om
+BPE: eko | Linguist: eko
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: eko na | Linguist: eko na
+BPE: to | Linguist: to
+BPE: mulgaun be | Linguist: mulgaun be
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: ŋkha | Linguist: ŋkha
+BPE: nna ga | Linguist: nna ga
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: kha | Linguist: kha
+BPE: sum ci | Linguist: sum ci
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: ŋkha | Linguist: ŋkha
+BPE: sum ci sum ci | Linguist: sum ci sum ci
+BPE: nnakha | Linguist: nnakha
+BPE: luŋkhwak ci | Linguist: luŋkhwak ci
+BPE: ŋkhaʔla | Linguist: ŋkhaʔla
+BPE: uŋci | Linguist: uŋci
+BPE: yo | Linguist: yo
+BPE: nna | Linguist: nna
+BPE: dewan | Linguist: dewan
+BPE: ɖhuŋga | Linguist: ɖhuŋga
+BPE: luŋkhwak ca | Linguist: luŋkhwak ca
+BPE: eko | Linguist: eko
+BPE: nnakha | Linguist: nnakha
+BPE: ghak | Linguist: ghak
+BPE: mo | Linguist: mo
+BPE: nna | Linguist: nna
+BPE: nna bhaŋ | Linguist: nna bhaŋ
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: i | Linguist: i
+BPE: baŋniŋ | Linguist: baŋniŋ
+BPE: haku | Linguist: haku
+BPE: na | Linguist: na
+BPE: dewan | Linguist: dewan
+BPE: ɖhuŋga | Linguist: ɖhuŋga
+BPE: dewan | Linguist: dewan
+BPE: ɖhuŋga | Linguist: ɖhuŋga
+BPE: na | Linguist: na
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: uŋ | Linguist: uŋ
+BPE: yaksigum | Linguist: yaksigum
+BPE: heʔne | Linguist: heʔne
+BPE: baŋniŋ | Linguist: baŋniŋ
+BPE: uŋ | Linguist: uŋ
+BPE: eko | Linguist: eko
+BPE: maɖa | Linguist: maɖa
+BPE: kham | Linguist: kham
+BPE: nna | Linguist: nna
+BPE: uŋ | Linguist: uŋ
+BPE: yaksigum | Linguist: yaksigum
+BPE: om | Linguist: om
+BPE: me leŋ le | Linguist: me leŋ le
+BPE: pheri | Linguist: pheri
+BPE: to | Linguist: to
+BPE: thithi | Linguist: thithi
+BPE: nhaŋ | Linguist: nhaŋ
+BPE: yaksigum | Linguist: yaksigum
+BPE: om | Linguist: om
+BPE: me leŋ le | Linguist: me leŋ le
+BPE: thithi | Linguist: thithi
+BPE: haksaŋ | Linguist: haksaŋ
+BPE: thithi | Linguist: thithi
+BPE: ŋkhaʔniŋgo | Linguist: ŋkhaʔniŋgo
+BPE: na | Linguist: na
+BPE: mamu | Linguist: mamu
+BPE: pakha | Linguist: pakha
+BPE: yuŋ a | Linguist: yuŋ a
+BPE: pakha | Linguist: pakha
+BPE: luŋkhwak | Linguist: luŋkhwak
+BPE: nna | Linguist: nna
+BPE: nnakha ci | Linguist: nnakha ci
+BPE: mo | Linguist: mo
+BPE: luŋkhwak ca | Linguist: luŋkhwak ca
+BPE: dewan | Linguist: dewan
+BPE: tumok pe | Linguist: tumok pe

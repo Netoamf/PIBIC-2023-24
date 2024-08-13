@@ -1,0 +1,99 @@
+BPE: i a | Linguist: i a
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: k e | Linguist: k e
+BPE: k e | Linguist: k e
+BPE: e | Linguist: e
+BPE: k e | Linguist: k e
+BPE: e | Linguist: e
+BPE: k e | Linguist: k e
+BPE: k e | Linguist: k e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: o | Linguist: o
+BPE: i | Linguist: i
+BPE: i | Linguist: i
+BPE: u | Linguist: u
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: õ e r | Linguist: õ e r
+BPE: e | Linguist: e
+BPE: o | Linguist: o
+BPE: e | Linguist: e
+BPE: o | Linguist: o
+BPE: o | Linguist: o
+BPE: o | Linguist: o
+BPE: o | Linguist: o
+BPE: u | Linguist: u
+BPE: k e | Linguist: k e
+BPE: k e | Linguist: k e
+BPE: i | Linguist: i
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: i | Linguist: i
+BPE: y | Linguist: y
+BPE: y | Linguist: y
+BPE: i | Linguist: i
+BPE: n e | Linguist: n e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e o | Linguist: e o
+BPE: e o | Linguist: e o
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: u | Linguist: u
+BPE: õ e | Linguist: õ e
+BPE: e | Linguist: e
+BPE: k e | Linguist: k e
+BPE: k e | Linguist: k e
+BPE: i ũ | Linguist: i ũ
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: i | Linguist: i
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: n e | Linguist: n e
+BPE: n e | Linguist: n e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: y | Linguist: y
+BPE: e | Linguist: e
+BPE: õ e | Linguist: õ e
+BPE: k e | Linguist: k e
+BPE: k e | Linguist: k e
+BPE: u | Linguist: u
+BPE: e | Linguist: e
+BPE: õ k e | Linguist: õ k e
+BPE: õ k e | Linguist: õ k e
+BPE: n e | Linguist: n e
+BPE: õ e | Linguist: õ e
+BPE: n e | Linguist: n e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: e | Linguist: e
+BPE: k e | Linguist: k e
+BPE: õ e | Linguist: õ e
+BPE: i | Linguist: i
+BPE: u | Linguist: u

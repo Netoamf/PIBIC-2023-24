@@ -1,0 +1,418 @@
+BPE: ka | Linguist: ka
+BPE: u ma | Linguist: u ma
+BPE: ka | Linguist: ka
+BPE: ca ya ŋ ci ŋ | Linguist: ca ya ŋ ci ŋ
+BPE: nna | Linguist: nna
+BPE: wa ya na | Linguist: wa ya na
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: pi ŋ ha | Linguist: pi ŋ ha
+BPE: khe i ha | Linguist: khe i ha
+BPE: m ba | Linguist: m ba
+BPE: u ma ci ca | Linguist: u ma ci ca
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: na | Linguist: na
+BPE: nna | Linguist: nna
+BPE: na | Linguist: na
+BPE: kha ci | Linguist: kha ci
+BPE: ŋkha ci | Linguist: ŋkha ci
+BPE: na go | Linguist: na go
+BPE: ha | Linguist: ha
+BPE: ka ma ha | Linguist: ka ma ha
+BPE: ka | Linguist: ka
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: cok saŋ | Linguist: cok saŋ
+BPE: uŋ ŋa | Linguist: uŋ ŋa
+BPE: eko | Linguist: eko
+BPE: uŋ ŋa | Linguist: uŋ ŋa
+BPE: ka ya | Linguist: ka ya
+BPE: eko | Linguist: eko
+BPE: cok ma | Linguist: cok ma
+BPE: ta ya na | Linguist: ta ya na
+BPE: eko | Linguist: eko
+BPE: i | Linguist: i
+BPE: i ha | Linguist: i ha
+BPE: i ha i ha | Linguist: i ha i ha
+BPE: i ha | Linguist: i ha
+BPE: niŋ be | Linguist: niŋ be
+BPE: i ha | Linguist: i ha
+BPE: cok ma ca | Linguist: cok ma ca
+BPE: ka | Linguist: ka
+BPE: i ha ca | Linguist: i ha ca
+BPE: i na i | Linguist: i na i
+BPE: i na | Linguist: i na
+BPE: mam ha | Linguist: mam ha
+BPE: i ya | Linguist: i ya
+BPE: a yaŋ | Linguist: a yaŋ
+BPE: na | Linguist: na
+BPE: a ma ci | Linguist: a ma ci
+BPE: uŋ saŋ | Linguist: uŋ saŋ
+BPE: nda ca | Linguist: nda ca
+BPE: uŋ u | Linguist: uŋ u
+BPE: ka | Linguist: ka
+BPE: cok ma | Linguist: cok ma
+BPE: yaŋ | Linguist: yaŋ
+BPE: ka | Linguist: ka
+BPE: a ma ŋa | Linguist: a ma ŋa
+BPE: eko | Linguist: eko
+BPE: ta saŋ | Linguist: ta saŋ
+BPE: khe saŋ | Linguist: khe saŋ
+BPE: mi na | Linguist: mi na
+BPE: sa na | Linguist: sa na
+BPE: sa na | Linguist: sa na
+BPE: cok ni ma | Linguist: cok ni ma
+BPE: sa bu | Linguist: sa bu
+BPE: eko | Linguist: eko
+BPE: ka | Linguist: ka
+BPE: i ma | Linguist: i ma
+BPE: i | Linguist: i
+BPE: i ya | Linguist: i ya
+BPE: ca ma | Linguist: ca ma
+BPE: i na | Linguist: i na
+BPE: i ga | Linguist: i ga
+BPE: na | Linguist: na
+BPE: i ŋa | Linguist: i ŋa
+BPE: mi na | Linguist: mi na
+BPE: mi na | Linguist: mi na
+BPE: nna | Linguist: nna
+BPE: sa ma na | Linguist: sa ma na
+BPE: ka | Linguist: ka
+BPE: u ma ci ca | Linguist: u ma ci ca
+BPE: yaŋ | Linguist: yaŋ
+BPE: ka | Linguist: ka
+BPE: to na | Linguist: to na
+BPE: to ha | Linguist: to ha
+BPE: kha go | Linguist: kha go
+BPE: ca m ha | Linguist: ca m ha
+BPE: i ha i ha | Linguist: i ha i ha
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: ka go | Linguist: ka go
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: a ma ŋa | Linguist: a ma ŋa
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ga | Linguist: a na ga
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: pi ci ha | Linguist: pi ci ha
+BPE: ta meʔ na | Linguist: ta meʔ na
+BPE: m ba | Linguist: m ba
+BPE: wa ci | Linguist: wa ci
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: ok saŋ | Linguist: ok saŋ
+BPE: ka | Linguist: ka
+BPE: uŋ ŋa | Linguist: uŋ ŋa
+BPE: ka be | Linguist: ka be
+BPE: ŋga be | Linguist: ŋga be
+BPE: yaŋ | Linguist: yaŋ
+BPE: yaŋ | Linguist: yaŋ
+BPE: na | Linguist: na
+BPE: nna be | Linguist: nna be
+BPE: nna | Linguist: nna
+BPE: i | Linguist: i
+BPE: u ma | Linguist: u ma
+BPE: ta meʔ ma | Linguist: ta meʔ ma
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ga | Linguist: a na ga
+BPE: ka nuŋ | Linguist: ka nuŋ
+BPE: ka nuŋ | Linguist: ka nuŋ
+BPE: i | Linguist: i
+BPE: u ma | Linguist: u ma
+BPE: sa sa na bu | Linguist: sa sa na bu
+BPE: mi na | Linguist: mi na
+BPE: eko | Linguist: eko
+BPE: ka | Linguist: ka
+BPE: i ŋa | Linguist: i ŋa
+BPE: cok ma | Linguist: cok ma
+BPE: ka ya na | Linguist: ka ya na
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ta ya | Linguist: ta ya
+BPE: ta meʔ na | Linguist: ta meʔ na
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: ni ya ha | Linguist: ni ya ha
+BPE: me ya m ha | Linguist: me ya m ha
+BPE: to na | Linguist: to na
+BPE: ta ya na | Linguist: ta ya na
+BPE: khi ma ha | Linguist: khi ma ha
+BPE: tu ma ha | Linguist: tu ma ha
+BPE: eko | Linguist: eko
+BPE: na | Linguist: na
+BPE: eko | Linguist: eko
+BPE: na | Linguist: na
+BPE: nna | Linguist: nna
+BPE: wa ya na | Linguist: wa ya na
+BPE: ma na | Linguist: ma na
+BPE: na go | Linguist: na go
+BPE: wa ma | Linguist: wa ma
+BPE: ci ha | Linguist: ci ha
+BPE: haŋ ha | Linguist: haŋ ha
+BPE: nna | Linguist: nna
+BPE: a na | Linguist: a na
+BPE: mi na | Linguist: mi na
+BPE: ka | Linguist: ka
+BPE: su ha | Linguist: su ha
+BPE: nna | Linguist: nna
+BPE: mi na | Linguist: mi na
+BPE: uŋ ci go | Linguist: uŋ ci go
+BPE: mam ha | Linguist: mam ha
+BPE: n sa ba | Linguist: n sa ba
+BPE: na | Linguist: na
+BPE: nna ca | Linguist: nna ca
+BPE: u ma | Linguist: u ma
+BPE: sa na i | Linguist: sa na i
+BPE: kha go | Linguist: kha go
+BPE: ŋkha ci go | Linguist: ŋkha ci go
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: li na | Linguist: li na
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: to na | Linguist: to na
+BPE: eko | Linguist: eko
+BPE: pi ŋ | Linguist: pi ŋ
+BPE: mo na | Linguist: mo na
+BPE: me wa m ha bu | Linguist: me wa m ha bu
+BPE: yo na | Linguist: yo na
+BPE: to na | Linguist: to na
+BPE: mo na | Linguist: mo na
+BPE: ka ma | Linguist: ka ma
+BPE: mo ha | Linguist: mo ha
+BPE: to ha | Linguist: to ha
+BPE: khe na | Linguist: khe na
+BPE: to na | Linguist: to na
+BPE: na | Linguist: na
+BPE: mo na | Linguist: mo na
+BPE: mo na | Linguist: mo na
+BPE: to na | Linguist: to na
+BPE: na | Linguist: na
+BPE: i ha | Linguist: i ha
+BPE: s wa | Linguist: s wa
+BPE: eko | Linguist: eko
+BPE: ŋkha nuŋ | Linguist: ŋkha nuŋ
+BPE: ka go | Linguist: ka go
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: ka | Linguist: ka
+BPE: eko | Linguist: eko
+BPE: nna | Linguist: nna
+BPE: ŋ wa ya ma | Linguist: ŋ wa ya ma
+BPE: sa | Linguist: sa
+BPE: na | Linguist: na
+BPE: uŋ ma | Linguist: uŋ ma
+BPE: eko | Linguist: eko
+BPE: na | Linguist: na
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: khe i g ha | Linguist: khe i g ha
+BPE: khe i ŋ ha | Linguist: khe i ŋ ha
+BPE: khe i ha | Linguist: khe i ha
+BPE: pi wa m na | Linguist: pi wa m na
+BPE: ta meʔ na | Linguist: ta meʔ na
+BPE: pi meʔ ka na | Linguist: pi meʔ ka na
+BPE: khe i mi ŋ ha | Linguist: khe i mi ŋ ha
+BPE: uŋ ma | Linguist: uŋ ma
+BPE: nna | Linguist: nna
+BPE: uŋ ŋa | Linguist: uŋ ŋa
+BPE: u sa | Linguist: u sa
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ca saŋ | Linguist: ca saŋ
+BPE: ka | Linguist: ka
+BPE: khe i | Linguist: khe i
+BPE: khe ci ŋ | Linguist: khe ci ŋ
+BPE: uŋ u m | Linguist: uŋ u m
+BPE: ta ma | Linguist: ta ma
+BPE: ca ma | Linguist: ca ma
+BPE: ka ka | Linguist: ka ka
+BPE: ka ca | Linguist: ka ca
+BPE: mam ha | Linguist: mam ha
+BPE: n sa | Linguist: n sa
+BPE: sa ya ma | Linguist: sa ya ma
+BPE: ka | Linguist: ka
+BPE: nna | Linguist: nna
+BPE: nna be | Linguist: nna be
+BPE: wa meʔ na | Linguist: wa meʔ na
+BPE: ma n ha ci | Linguist: ma n ha ci
+BPE: ŋ wa meʔ ŋa n | Linguist: ŋ wa meʔ ŋa n
+BPE: ka | Linguist: ka
+BPE: eko | Linguist: eko
+BPE: yaŋ | Linguist: yaŋ
+BPE: wa i mi ŋ | Linguist: wa i mi ŋ
+BPE: wa i | Linguist: wa i
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: ka | Linguist: ka
+BPE: i ha ca | Linguist: i ha ca
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: a niŋ | Linguist: a niŋ
+BPE: uŋ ŋa | Linguist: uŋ ŋa
+BPE: a ya | Linguist: a ya
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: saŋ | Linguist: saŋ
+BPE: i | Linguist: i
+BPE: ka | Linguist: ka
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na | Linguist: a na
+BPE: khe i ŋ | Linguist: khe i ŋ
+BPE: khe i ŋ | Linguist: khe i ŋ
+BPE: nna | Linguist: nna
+BPE: ta ma | Linguist: ta ma
+BPE: sa ya | Linguist: sa ya
+BPE: ok saŋ | Linguist: ok saŋ
+BPE: pho ya | Linguist: pho ya
+BPE: nna be | Linguist: nna be
+BPE: si i ŋ | Linguist: si i ŋ
+BPE: nna | Linguist: nna
+BPE: eko | Linguist: eko
+BPE: wa ya | Linguist: wa ya
+BPE: ka | Linguist: ka
+BPE: a ma ŋa | Linguist: a ma ŋa
+BPE: ci ha | Linguist: ci ha
+BPE: ka ca | Linguist: ka ca
+BPE: ka saŋ | Linguist: ka saŋ
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: ka | Linguist: ka
+BPE: i ha | Linguist: i ha
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: sa ya | Linguist: sa ya
+BPE: eko | Linguist: eko
+BPE: hoŋ | Linguist: hoŋ
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: nna be go | Linguist: nna be go
+BPE: nna | Linguist: nna
+BPE: ŋ wa ya | Linguist: ŋ wa ya
+BPE: ok saŋ | Linguist: ok saŋ
+BPE: ka | Linguist: ka
+BPE: uŋ ma ga | Linguist: uŋ ma ga
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ok ma | Linguist: ok ma
+BPE: a sa | Linguist: a sa
+BPE: ka ca | Linguist: ka ca
+BPE: ka | Linguist: ka
+BPE: i ha ca | Linguist: i ha ca
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: ta ya ma ci niŋ go | Linguist: ta ya ma ci niŋ go
+BPE: ka | Linguist: ka
+BPE: ta ya ma ci hoŋ | Linguist: ta ya ma ci hoŋ
+BPE: ka | Linguist: ka
+BPE: ok saŋ | Linguist: ok saŋ
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: ka | Linguist: ka
+BPE: lu saŋ | Linguist: lu saŋ
+BPE: ka | Linguist: ka
+BPE: ma | Linguist: ma
+BPE: na ci ga | Linguist: na ci ga
+BPE: lu ya | Linguist: lu ya
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ga | Linguist: a na ga
+BPE: a ma nuŋ | Linguist: a ma nuŋ
+BPE: a na ŋa | Linguist: a na ŋa
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: ka | Linguist: ka
+BPE: ka ya na | Linguist: ka ya na
+BPE: eko | Linguist: eko
+BPE: ta ya ma | Linguist: ta ya ma
+BPE: nna | Linguist: nna
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: i na | Linguist: i na
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: eko | Linguist: eko
+BPE: na go | Linguist: na go
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: ka | Linguist: ka
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: ta meʔ ma | Linguist: ta meʔ ma
+BPE: ŋga ca | Linguist: ŋga ca
+BPE: na | Linguist: na
+BPE: i | Linguist: i
+BPE: ka | Linguist: ka
+BPE: ka ya ma | Linguist: ka ya ma
+BPE: na | Linguist: na
+BPE: i ha | Linguist: i ha
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: i ha i ha | Linguist: i ha i ha
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: wa ci | Linguist: wa ci
+BPE: wa ci | Linguist: wa ci
+BPE: wa ci wa ci | Linguist: wa ci wa ci
+BPE: eko | Linguist: eko
+BPE: ta uks u | Linguist: ta uks u
+BPE: na | Linguist: na
+BPE: na | Linguist: na
+BPE: mo na | Linguist: mo na
+BPE: nna ga | Linguist: nna ga
+BPE: nna be | Linguist: nna be
+BPE: ŋ wa ya ci | Linguist: ŋ wa ya ci
+BPE: eko | Linguist: eko
+BPE: eko | Linguist: eko
+BPE: nna | Linguist: nna
+BPE: n l wa na | Linguist: n l wa na
+BPE: eko | Linguist: eko
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: nna | Linguist: nna
+BPE: i | Linguist: i
+BPE: nna be | Linguist: nna be
+BPE: na | Linguist: na
+BPE: l wa na | Linguist: l wa na
+BPE: na | Linguist: na
+BPE: i na | Linguist: i na
+BPE: eko | Linguist: eko
+BPE: nna | Linguist: nna
+BPE: ni ma | Linguist: ni ma
+BPE: sa na | Linguist: sa na
+BPE: na | Linguist: na
+BPE: uk ka | Linguist: uk ka
+BPE: wa ci | Linguist: wa ci
+BPE: nna | Linguist: nna
+BPE: n l wa na | Linguist: n l wa na

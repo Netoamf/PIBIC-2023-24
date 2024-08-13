@@ -1,0 +1,15 @@
+Relatório de Segmentação Morfológica usando BPE
+Linguagem: khwarshi
+Intervalo de merges: 1-1000
+Diretório de saída: ./output
+Coberturas:
+1 merges: 0.02% cobertura
+101 merges: 12.99% cobertura
+201 merges: 20.61% cobertura
+301 merges: 23.63% cobertura
+401 merges: 28.26% cobertura
+501 merges: 30.13% cobertura
+601 merges: 32.20% cobertura
+701 merges: 33.88% cobertura
+801 merges: 34.97% cobertura
+901 merges: 35.88% cobertura

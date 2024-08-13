@@ -1,0 +1,2802 @@
+aj i-jẽ-to e-re mapi po-ro-e
+1SG 1-saber-TRA DECL-AUX flecha fazer-CLV-NLZ
+Eu sei fazer flecha.
+jũ kwini ǽky
+DEM.prox peixe banana
+esta jutuarana
+ũko ǽvo kani
+Dem.dist homem criança
+aquele menino
+ũko opera voro-n-e
+DEM.dist onça preto-3-NLZ
+aquela onça preta
+ũkopǽ rǽ tǽ ejrune
+DEM.dist panela grande estômago3NLZ
+aquela panela grande
+ñaikutañai-kuta
+POSS1SGRN-cabeça
+minha cabeça
+jato muj
+POSS1PL mãe
+nossa mãe
+pja i-roko
+POSS2SG RN-joelho
+teu joelho
+pjato kani-te
+POSS2PL criança-COL
+os filhos de vocês
+ojo i-kaň
+POSS3SG RN-nariz
+o nariz dele
+ojoteo papa
+POSS3PL pai
+o pai deles
+kanio ype
+criançaPOSS dente
+os dentes do menino
+atsonio meja
+AldeiaPOSS terreiro
+o pátio da aldeia
+jũmapio kytso
+flexaPOSS lâmina
+esta lâmina de flecha
+ña i-kuta
+POSS1SG RN-cabeça
+‘minha cabeça’
+jato muj
+POSS1PL mãe
+‘nossa mãe’
+pja i-roko
+POSS2SG RN-joelho
+‘teu joelho’
+pjato kani-te
+POSS2PL criança-COL
+‘os filhos de vocês’
+ojo i-kañu
+POSS3SG RN-nariz
+‘o nariz dele’
+ojoteo papa
+POSS3PL pai
+‘o pai deles’
+iry-o i-kuta
+macaco-POSS RN-cabeça
+‘cabeça do macaco’
+kani-o ype
+criança-POSS dente
+‘os dentes do menino’
+atsoni-o meja
+aldeia-POSS terreiro
+‘o pátio da aldeia’
+jũmapi-o kytso
+flecha-POSS lâmina
+‘esta lâmina de flecha’
+jũ iry-o i-kuta
+DEM.prox macaco-POSS RN-cabeça
+‘esta cabeça do macaco’
+mow pja iry-o ype
+dois um macaco-POSS dente
+‘três dentes de macaco’
+ña kani-o ype
+POSS1SG criança-POSS dente
+‘os dentes de meu filho’
+pja nuti-o mapi-ka
+POSS2SG neto-POSS flecha-CLE.duro
+‘o arco de flecha de seu neto’
+ña keke-o tyj
+POSS1SG avó-POSS casa
+‘a casa de minha avó’
+jato atsoni-o meja
+POSS1PL aldeia-POSS terreiro
+‘o pátio de nossa aldeia’
+ña kani-o muj
+POSS1SG criança-POSS mãe
+‘minha esposa’
+ña i-tsotsi-o piko
+POSS1SG RN-pé-POSS unha
+‘minhas unhas dos pés
+ña nuti-o-muj
+POSS1SG neto-POSS-mãe
+‘minha nora’
+na e-kani-o-ævo
+POSSS1G mulher-criança-POSS-homem
+‘meu genro’
+opera voro-n-e-o i-kuta rwa-kuta e-re
+onça preto-3-NLZ-POSS RN-cabeça machucar-cabeça DECL-AUX
+‘A cabeça da onça preta está machucada.’
+oky kũti-o i-a ej-a e-re
+cobra pilão-POSS RN-boca grande-boca DECL-AUX
+‘A boca da sucuri é grande.’
+pja nuti-o-papa-o tyj ej-turo e-re
+POSS2SG neto-POSS-pai-POSS casa grande-espaço DECL-AUX
+‘A casa de teu genro é grande.’ (Lit.:‘A casa de teu pai do neto meu neto é grande.’) (
+ña nuti-o-muj-o tsyke-nake more-nake e-re
+POSS1SG neto-POSS-mãe-POSS outro-FEM bom-FEM DECL-AUX
+‘A amiga de minha nora é bonita.’ (Lit.:‘A outra de minha mãe do neto é boa.’
+ũko uru-nake-o muj ña tsyke-kỹj-o kani ø-memu-ro-to k-e-re
+DEM.dist novo-FEM-POSS mãe POSS1SG outro-MASC-POSS criança] 3-gostar-CLV-TRA NEG-DECL-AUX
+‘A mãe daquela moça não gosta dos filhos de meu amigo
+ña tsyke-kỹj-o e ojo kani-o i-kuta kotso-ve-kuta n-e-re
+POSS1SG outro-MASC-POSS mulher [POSS3SG criança-POSS RN-cabeça] lavar-CLV-cabeça 3-DECL-AUX
+‘A mulher de meu amigo está lavando a cabeça do filho dela.’
+ña tũ-kwæ-o nuti ojo keke-o tyj-ni mo-ø-kỹj no-e-re
+POSS1SG irmão-MASC-POSS neto POSS3SG avó-POSS casa-OBL dormir-3-olho VOL-DECL-AUX
+‘O neto de meu irmão quer dormir na casa da avó dele.’
+jũ kani ævo
+DEM.prox criança homem
+‘este menino’ (Lit.: ‘esta criança homem’)
+jũ kani e-tsĩkwa
+DEM.prox criança mulher-DIM
+‘esta menina’
+jũ opera-tsi)kwa ævo-re
+DEM.prox onça-DIM homem-AUX
+‘este gato’
+jũ opera-tsĩkwa e-re
+DEM.prox onça-DIM mulher-AUX
+‘esta gata’
+jũ ævo kani
+Det Gen N
+‘este menino’
+jũ e kani
+DEM.prox mulher criança
+‘esta menina’
+ajoreõryere
+1SGcansar1REFLDECLAUX
+Eu estou cansado
+ajte ore õ-ry e-re
+1PL cansar 1-REFL DECL-AUX
+Nós estamos cansados.
+mioreperyere
+2SGcansar2REFLDECLAUX
+Você está cansado
+miteoreperyere
+2PLcansar2REFLDECLAUX
+‘Vocês estão cansados.
+ojoreøryere
+3SGcansar3REFLDECLAUX
+‘Ele está cansado
+ojte ore ø-ry e-re
+3PL cansar 3-REFL DECL-AUX
+‘Eles estão cansados.’
+aj æky pejka-e po-õ-ky e-re
+1SG banana assado-NLZ comer-1-CLE DECL-AUX
+‘Eu como banana assada.’
+nukũ aj ry õ-e-re
+caba 1SG ferroar 1-DECL-AUX
+‘A caba me ferroou.’
+mi Q)-pe-ky)j k-e-re
+2SG gordo-2-MASC NEG-DECL-AUX
+‘Você não está gordo.’
+aj mi i-memu-ro õ-e-re
+1SG 2SG 1-gostar-CLV 1-DECL-AUX
+‘Eu gosto de você.’
+jũ e aj mi vara-õ-ro-to-kjũ kjũ-re
+DEM.prox mulher 1SG 2SG falar-1-CLV-TRA-3.IR 3.IR-AUX
+‘Esta é a mulher da qual eu falei com você.’
+aj mo-õ-kỹj õ-e-re ña munaw-ni aj
+1SG dormir-1-olho 1-DECl-AUX POSS1SG rede-OBL 1SG
+Eu durmo na minha rede
+aj kuni itæ õ-e-re aj
+1SG água beber 1-DECL-AUX 1SG
+Eu bebo água
+mi tsero itæ mi-e-re mi
+2SG chicha beber 2-DECL-AUX 2SG
+Você bebe chicha
+ojævomorekỹj ere
+3SG homembomMASCDECLAUX
+Ele é bonito
+ojnakemorenakeere
+3SGFEMbomFEMDECLAUX
+Ela é bonita
+ojte ævo ã-kỹj more-kỹj e-re
+3PL homem alto-MASC bom-MASC DECL-AUX
+Eles são altos e bonitos
+ojte nake ã-nake more-nake e-re
+3PL FEM alto-FEM bom-FEM DECL-AUX
+Elas são bonitas
+oj ã-kỹj n-e-re
+3SG alto-MASC 3-DECL-AUX
+Eu sou alto
+minakeãnakemikere
+2SGmulheraltoFEM2DECLAUX
+Você é baixa
+miãnakemikere
+2SGaltoFEM2DECLAUX
+Você é baixa
+aj toky i-memu-ro e-re
+1SG mamão 1-gostar-CLV DECL-AUX
+Eu gosto de mamão
+ajte toky i-memu-ro e-re
+1PL mamão 1-gostar-CLV DECL-AUX
+Nós gostamos de mamão
+mi toky pi-memu-ro e-re
+2SG mamão 2-gostar-CLV DECL-AUX
+Você gosta de mamão
+mite toky pi-memu-ro e-re
+2PL mamão 2-gostar-CLV DECL-AUX
+Vocês gostam de mamão
+oj toky ø-memu-ro e-re
+3SG mamão 3-gostar-CLV DECL-AUX
+Ele gosta de mamão
+ojte toky ø-memu-ro e-re
+3PL mamão 3-gostar-CLV DECL-AUX
+Eles gostam de mamão
+aj oj-õ-twa e-re
+1SG gripar-1-pescoço DECL-AUX
+Eu estou gripado
+ajte oj-õ-twa e-re
+1PL gripar-1-pescoço DECL-AUX
+Nós estamos gripados
+mi oj-pe-twa e-re
+2SG gripar-2-pescoço DECL-AUX
+Você está gripado
+mite oj-pe-twa e-re
+2PL gripar-2-pescoço DECL-AUX
+Vocês estão gripados
+oj oj-ø-twa e-re
+3SG gripar-3-pescoço DECL-AUX
+Ele está gripado
+ojte oj-ø-twa e-re
+3PL gripar-3-pescoço DECL-AUX
+Eles estão gripados
+aj toky ja õ-k-e-re
+1SG mamão querer 1-NEG-DECL-AUX
+Eu não quero mamão
+ajte toky ja õ-k-e-re
+1PL mamão querer 1-NEG-DECL-AUX
+Nós não queremos mamão
+mi toky ja pe-k-e-re
+2SG mamão querer 2-NEG-DECL-AUX
+Você não quer mamão
+mite toky ja pe-k-e-re
+2PL mamão querer 2-NEG-DECL-AUX
+Você não querem mamão
+oj toky ja ni-k-e-re
+3SG mamão querer 3-NEG-DECL-AUX
+Ele não quer mamão
+ojte toky ja ni-k-e-re
+3PL mamão querer 3-NEG-DECL-AUX
+Eles não querem mamão
+ña i-kỹj vaj-õ-kỹj e-re
+POSS1SG RN-olho arder-1-olho DECL-AUX
+‘Meu olho está ardendo.’
+pja i-kañu ĩkuni tsa e-re
+POSS2S RN-nariz sangue excretar DECL-AUX
+Teu nariz está sangrando
+ojo i-tekwa iva e-re
+POSS3S RN-barriga doer DECL-AUX
+A barriga dele está doendo
+jato papa tũ-o e-re
+POSS1PL pai morrer-INTR DECL-AUX
+‘Nosso pai morreu.’ ou ‘Nosso pai está morto.’
+pjato kan-te iriri-ø-ro n-e-re
+POSS2PL criança-COL correr-3-CLV 3-DECL-AUX
+O filhos de vocês estão correndo
+ojoto mũj tũvo e-re
+POSS3PL mãe adoecer DECL-AUX
+A mãe deles adoeceu
+pja i-kỹĵ voro-pe-kỹj e-re
+POSS2SG RN-olho preto-2-olho DECL-AUX
+‘Teu olho é preto.’
+pjaikutatẽkypetsimoere
+POSS2SGRNcabeçapiolho2terAPL.possDECLAUX
+Tua cabeça tem piolho
+pjato i-kañu ej-pe-kañu k-e-re
+POSS2PL RN-nariz grande-2-nariz NEG-DECL-AUX
+O narizes de vocês são pequenos
+pja tyj ej-ø-turo ni-k-e-re
+POSS2SG casa grande-3-espaço 3-NEG-DECL-AUX
+Tua casa é pequena
+pja mapi-ka more-ø-ka e-re
+POSS2SG flecha-CLE bom-3-CLE.duro DECL-AUX
+‘Teu arco de flecha está bom.’
+ña i-kỹĵ pira-õ-kỹĵ e-re
+POSS1SG RN-olho verde-1-olho DECL-AUX
+Meu olho é verde
+ojo i-kañu ej-ø-kañu e-re
+POSS3SG RN-nariz grande-3-nariz DECL-AUX
+O nariz dele é grande
+pja tyj ej-ø-turo e-re
+POSS2SG casa grande-3-espaço DECL-AUX
+Tua casa é grande
+ña mapi-ka more-ø-ka e-re
+POSS1SG flecha-CLE.duro bom-3-CLE DECL-AUX
+Meu arco de flecha é bom
+ojo tyj ej-ø-turo e-re
+POSS3SG casa grande-3-espaço DECL-AUX
+A casa dele é grande
+ojomapikamoreøkanikere
+POSS3SGflechaCLEdurobom3CLE3NEGDECLAUX
+O arco dele é ruim
+jũ ævo ereã k-e-re
+DEM.prox. homem grande NEG-DECL-AUX
+Este homem é baixo
+ũko ævo ereã e-re
+DEM.dist homem grande DECL-AUX
+Aquele homem é alto
+jũtovekawatõere
+DEM.proxmelCLEdoceDECLAUX
+Esta cana é doce
+ũkotovekawatirimoere
+DEM.distcanaazedoAPLDECLAUX
+Aquela cana é azeda
+mi ũko e pi-jẽ-to mi-tsi
+2SG DEM.dist mulher 2-saber-TRA 2-INT
+Você conhece aquela mulher?
+nuvi mõ-ø-kỹj k-e-re
+alguém dormir-3-olho NEG-DECL-AUX
+Alguém não dormiu
+oj naj topi-e u-ro e-re
+3SG algo podre-NLZ comer-CLV DECL-AUX
+Ele comeu alguma coisa estragada
+tsyke-kỹj tũ-o e-re
+outro-MASC morrer-INTR DECL-AUX
+O outro homem
+oj tsake u-ro k-e-re
+3SG nada comer-CLV NEG-DECL-AUX
+Ele não comeu nada
+tsyke-kỹj ja-kjũ k-e-re
+outro-MASC gostar-3.IR NEG-DECL-AUX
+O outro não gosta dela
+outro-MASC gostar-3IR NEG-DECL-AUX
+outro-FEM gostar-3.IR NEG-DECL-AUX
+A outra não gosta dela
+nuvi-nake-tsi pja kani poa-e-re
+alguém-FEM-INT POSS2SG criança casar-DECL-AUX
+Com quem teu filho se casou
+nuvikỹjtsipjaminakepoaere
+alguémMASCINTPOSS2SGfilhamaisvelhacasarDECLAUX
+Com quem tua filha mais velha se casou?
+nuvi-kỹj-tsi oj i-væ-kuta ni-tsi
+alguém-MASC-INT 3SG brigar-DU-cabeça 3-INT
+Com quem ele brigou?
+nuvi ja-ø-kỹj k-e-re
+alguém gostar-3-MASC NEG-DECL-AUX
+Ninguém gosta dele
+ajnuvitsereõtokere
+1SGalguémver1TRANEGDECLAUX
+Eu não vi ninguém
+meja-ni naj para-ja n-e-re
+terreiro-OBL algo cair-DIR.baixo 3-DECL-AUX
+Alguma coisa caiu no terreiro
+naj-tsi pja koro ja ni-tsi
+algo-INT POSS2SG irmão querer 3-INT
+‘O que teu irmão está querendo?’
+pja i-kỹĵ voro-pe-kỹj e-re
+POSS2SG RN-olho preto-2-olho DECL-AUX
+Teu olho é preto.
+oj æky põ-ø-ky no-e-re
+3SG banana comer-3-CLE VOL-DECL-AUX
+Ele está querendo comer banana.
+nuvi-kỹj-tsi jũ kani papa-ni-tsi
+alguém-MASC-INT DEM.prox criança pai-3-INT
+‘Quem é o pai desta criança?’
+nuvi-kỹj-tsi pja minake-o ævo re ni-tsi
+alguém-MASC-INT POSS2SG filha.mais.velha-POSS homem matar 3-INT
+‘Quem matou o marido de sua filha?’
+naj-tsi mi pi-tej-ja-ry mi-tsi
+algo-INT 2SG 2-trazer-DIR-REFL 2-INT
+‘O que você está trazendo consigo?’
+nuvi-o jũ tyj-tsi
+alguém-POSS DEM.prox casa-INT
+‘De quem é esta casa?’
+nuvi-o ũko kani-tsi
+alguém-POSS DEM.dist criança-INT
+‘De quem é aquela criança?’
+nuvi-o i-ta-tsi
+alguém-POSS RN-pele-INT
+‘De quem é a roupa?
+nuvi-o jũ mapi-ka-tsi
+Alguém-POSS DEM.prox flecha-CLE.duro-INT
+‘De quem é este arco?’
+nuvi-o jũ e-tsĩkwa-tsi
+Alguém-POSS DEM.prox mulher-DIM-INT
+‘De quem é esta menina?’
+nuvi-o ũko kani-tsi
+alguém-POSS DEM.dist criança-INT
+De quem é aquela criança?
+nuvi-nake-tsi pja kani poa e-re
+alguém-FEM-INT POSS2SG criança casar DECL-AUX
+‘Com quem teu filho se casou?’
+nuvi-kỹj-tsi mi i-pe-kuta mi-tsi
+alguém-MASC-INT 2SG brigar-2-cabeça 2-INT
+‘Com quem você brigou?’
+nuvi-kỹj-tsi pja papa re n-e-re
+alguém-MASC-INT POSS2SG pai matar 3-DECL-AUX
+‘Quem matou teu pai?’
+nuvi-tsi orymape
+alguém-INT pajé
+‘Quem é o doutor?’ (Lit.: ‘Quem é o pajé?’)
+nuvi-tsi akutsũ-o eae
+alguém-INT Akuntsum-POSS cacique
+‘Quem é o cacique dos Akuntsum?
+naj-tsi ña ita-ni kyky-ve126-ro127 n-e-re
+algo-INT POSS1SG pele-OBL coçar-CLV-CLV 3-DECL-AUX
+‘O que está coçando em minha pele?
+naj-tsi ajte u-vQ-ro o)-e-re
+algo-INT 1PL comer-DU-CLV 1-DECL-AUX
+‘O que vamos comer?’
+naj-tsi mi u-mi-ro-e
+algo-INT 2SG comer-2-CLV-NLZ
+‘O que você está comendo?’
+naj-tsi ajte u-vQ-ro o-e-re
+algo-INT 1PL comer-DU-CLV 1-DECL-AUX
+‘O que vamos comer?’
+nuvi-tsi mi kwini po mi-tsi
+alguém-INT 2SG peixe capturar 2-INT
+‘Com quem você vai pescar?’
+oj po-ø-ro-e-kjũ munaw e
+3SG fazer-3-CLV-DECL-3.IR rede mulher
+‘Quem faz rede é mulher!’
+ña muj po-ø-ro-e-e kjũ-re-re munaw
+POSS 1SG fazer-3-CLV-NLZ-DECL 3.IR-AUX-DECL rede
+‘Minha mãe fazia rede.’
+ajte mumu-væ kjũ-kjũ-re atiti tsuæ vavo mumu-væ kjũ-kjũ-re
+1PL plantar.RED-DU 3.3.IR-3.IR-AUX milho macaxeira batata plantar.RED-DU 3.3.IR-3.IR-AUX
+‘A gente plantava milho, macaxeira e batata .’
+po njũ
+capturar 3.RE
+‘Pega ele!’
+tatsunu re-kuta njũ -njũ
+depressa matar-cabeça 3.IMP -3.RE
+‘Mata ele depressa!’
+ña muj pe-õ-tso-e-kjũ i-ta more-ta e-re
+POSS1SG mãe dar-1-dedo-ASP-3.IR RN-pele bom-pele DECL-AUX
+‘Minha mãe me deu roupa que é bonita.’
+mi mapi pe-õ-tso-e-kjũ more ni-k-e-re
+2SG flecha dar-1-dedo-NLZ-3.REL bom 3-NEG-DECL-AUX
+‘A flecha que você me deu está estragada.’
+urudãw po-turo-ro k-e kjũ-re
+oro.não fazer-espaço-CLV NEG-DECL 3.IR-AUX
+‘Oro Não não sabe fazer nada.’ (Lit: Oro Não não trabalha.’)
+aj tsere-õ-to-kju kjũ-re itevæ pæ-kyĵ-e-kju ø-munu-ro k-e kjũ-re
+1SG ver-1-TRA-3.IR 3.IR-AUX gente branco-MASC-NLZ-3.IR 3-ouvir-CLV NEG-DEC 3.IR-AUX
+‘Eu conheci um homem que é surdo.’
+oj e pæ-nake-e-kju ø-munu-ro k-e kjũ-re
+3SG mulher branco-FEM-NOM-3.REL 3-ouvir-CLV NEG-DECL 3.IR-AUX
+‘Ela é mulher branca que não escuta.’
+aj tsere-õ-to-kjũ kjũ-re itevæ pæ-kuta kjũ-re
+1SG ver-1-TRA-3.REL 3.3.IR-AUX gente branco-cabeça 3.3.IR-AUX
+‘Eu conheci um homem que é careca.’
+aj tsere-õ-to-kjũ kjũ-re ũko e pæ-nake-kju ø-munu-ro-k-e kjũ-re
+1SG ver-1-CLV-3.IR 3.IR-AUX DEM.dist mulher branco-FEM-3.IR 3-ouvir-CLV-NEG-DECL 3.IR-AUX
+‘Eu conheci aquela mulher branca que é surda.’
+aj kani mow-kani-e-re
+1SG criança dois-criança-DECL-AUX
+‘Eu tenho dois filhos.’ (Lit.: ‘Eu criança são dois.’)
+aj re õ-e-re pja ara k-e uromu
+1SG matar 1-DECL-AUX um pouco NEG-NLZ jacaré
+‘Eu matei apenas um jacaré.’
+aj mow-kỹj kani õ-tsi mo-e-re
+1SG dois-MASC criança 1-ter APL-DECL-AUX
+‘Eu tenho dois filhos.’
+oj mow-nake kani ø-tsi mo-e-re
+3SG dois-FEM criança 3- terAPL-DECL-AUX
+‘Ele tem duas filhas.’
+aj mow-kỹj kani mow-pja-nake kani õ-tsi mo-e-re
+1SG dois-MASC criança dois-um-FEM criança 1-ter APL-DECL-AUX
+‘Eu tenho dois filhos e três filhas.’
+mini aj mow-mow ara k-e mapi õ-tsi mo-e-re
+hoje 1SG dois-dois pouco NEG-NLZ flecha 1-ter APL-DECL-AUX
+‘Agora eu tenho apenas quatro flechas.’
+aj ara k-e-re kani õ-tsi mo-e-re
+1SG pouco NEG-DECL-AUX criança 1- terAPL-DECL-AUX
+‘Eu tenho muitos filhos.’
+oj kani ara-kani k-e-re
+3SG criança pouco-criança NEG-DECL-AUX
+‘Ele tem muitos filhos.’ (Lit.: ‘Ele tem não poucos filhos.’)
+ojte ara k-e-re u-ro-e ø-tsi mo-e-re
+3PL pouco NEG-DECL-AUX comer-CLV-NLZ 3-ter APL-DECL-AUX
+‘Eles têm muita comida.’ (Lit: ‘Eles têm não pouca comida.’, por litotes)
+oj tu-kwæ ara-tũ-kwæ k-e-re
+3SG irmão-MASC pouco-irmão-MASC NEG-DECL-AUX
+‘Ele tem muitos irmãos.’ (Lit.: ‘Ele tem não poucos irmãos.’)
+oj mõw-n-e-re mapi pe-õ-tso e-re
+3SG dois-3-DECL-AUX flecha dar-1-dedo DECL-AUX
+‘Ele me deu duas flechas.’
+nã kani tæræj po n-e-re mow-kỹj e-re
+POSS1SG criança pacu capturar 3-DECL-AUX dois-MASC DECL-AUX
+‘Meu filho pescou dois pacus.’
+aj kwini po-õ-e tsoækypwae po-õ-e mow-kyĵ e-re
+1SG peixe capturar-1-DECL mandi capturar-1-DECL dois-MASC DECL-AUX
+‘Eu estava pescando, pesquei mandi, são dois.’
+aj ævo mow-kyĵ tsere-õ-to e-re kuni-o kæry-ni
+1SG homem dois-MASC ver-1-TRA DECL-AUX água-POSS margem-OBL
+‘Eu vi dois homens na beira do rio.’
+aj e mow-nake tsere-õ-to e-re kuni kæry-ni
+1SG mulher dois-FEM ver-1-TRA DECL-AUX água margem-OBL
+‘Eu vi duas mulheres na beira do rio.’
+aj ævo nuti mow-pja-kyĵ e-re e nuti mõw-nake e-re õ-tsi-mo e-re
+1SG homem neto dois-um-MASC DECL-AUX mulher neto dois-FEM DECL-AUX 1-ter-APL DECL-AUX
+‘Eu tenho três netos e duas netas.’
+nẽtoe kani tuvo ni-tsi
+quantos criança adoecer 3-INT
+‘Quantas crianças estão doentes?’
+nẽtoe nake ñomu-ni po-turo-tsi
+quantas mulher roça-OBL trabalhar-espaço-INT
+‘Quantas mulheres estão trabalhando na roça?’
+nẽtoe kani mi pe-tsi mi-tsi
+quantos criança 2SG 2-ter 2-INT
+‘Quantos filhos você tem?’
+nẽtoe mapi oj po-ø-ro ni-tsi
+quantas flecha 3SG fazer-3-CLV 3-INT
+‘Quantas flechas ele fez?’
+nẽtoe kwini po mi-tsi
+quantos peixe capturar 2-INT
+‘Quantos peixes você pescou?
+kamitsi wæ-tsi-wæ-tsi e-re
+ontem chuva-CLG-chuva-CLG DECL-AUX
+‘Ontem choveu muito.’
+aj tsuæ tutu õ-e-re kamitsi
+1SG macaxeira pilar 1-DECL-AUX ontem
+‘Eu pisei maçaco ontem.’ (Lit.: ‘Eu pilei macaxeira ontem.’)
+kamitsi itsaj-e-ni ojo ævo e i-ø-kuta e-re
+ontem anoitecer-NLZ-OBL POSS3SG homem mulher brigar-3-cabeça DECL-AUX
+‘Ontem à noite o marido da mulher a agrediu.’
+mini wæ-tsi ara k-e-re kamitsi wæ-tsi tsĩ ni-k-e-re
+hoje chuva-CLG pouco NEG-DECL-AUX ontem chuva-CLG grosso 3-NEG-DECL-AUX
+(Lit.: Hoje choveu muito, ontem a chuva não foi grossa.’)
+mini aj mũ õ-e-re oti
+hoje 1SG plantar 1-DECL-AUX algodão
+‘Hoje eu plantei algodão.’
+kani pa-e-re mini
+criança nascer-DECL-AUX hoje
+‘O neném nasceu hoje.’ ( Lit.: ‘A criança nasceu hoje.’)
+aj pejake mũ õ-e-re popotsi
+1SG amanhã plantar 1-DECL-AUX taioba
+‘Amanhã eu vou plantar taioba.’
+pejake ña kani ojo keke-o tyj-ni mõ-ø-kỹj ku-n-e-re
+amanhã POSS1SG criança POSS3SG avó-POSS casa-OBL dormir-2-olho FUT.neg-3-DECL-AUX
+‘Amanhã meu filho não vai dormir na casa da avó dele.’
+pejake mi aj vara-pe-ro-õ-to mi-tsi
+amanhã 2SG 1SG falar-2-CLV-1-TRA 2-INT
+‘Amanhã você conversa comigo?
+aj oke tsere-õ-ro õ-e-re
+1SG ainda ver-1-CLV 1-DECL-AUX
+‘Eu ainda estou acordado.’ (Lit. “Eu ainda estou vendo.’)
+kũkoe oke tsere-ro n-e-re
+tatu ainda ver-CLV 3-DECL-AUX
+O tatu ainda está vivo.’ (Lit: O tatu ainda está vendo.’)
+oj tũvo n-e-re oke
+3SG adoecer 3-DECL-AUX ainda
+‘Ele ainda está doente.’
+aj u-ro no-e-re oke
+1SG comer-CLV VOL-DECL-AUX ainda
+‘Eu ainda quero comer.’
+ava pæræ n-e-re mike
+arara voar 3-DECL-AUX já
+‘A arara já voou.’
+nã kani mike tẽpũ-kỹj e-re
+POSS1SG criança já velho-MASC DECL-AUX
+‘Meu filho já está velho.’
+kani-o i-kuta kotso-ve-kuta e-re mike
+criança-POSS RN-cabeça lavar-CLV-cabeça DECL-AUX já
+‘A cabeça do menino já está lavada.’
+neunu væ-tsi-e ara k-e-re nini
+talvez chuva-CLG-DECL pouco NEG-DECL-AUX novamente
+‘Talvez chova muito novamente.’
+kape-ãw atiti-tekwa mu-væ nini
+vamos-IMP milho-CLE plantar-DU novamente
+‘Vamos plantar arroz outra vez!’
+mi ñomu-ni po-turo-mi-tsi nini
+2SG roça-OBL trabalhar-espaço-2-INT novamente
+‘Você vai trabalhar na roça outra vez?’
+tepy more e-re jũ-ni
+terra bom DECL-AUX DEM.prox-OBL
+‘A terra aqui é boa.’
+jũ-ni u-ro-e tsi ni-k-e-re
+DEM.prox-OBL comer-CLV-NLZ ter 3-NEG-DECL-AUX
+‘Aqui não há comida.’
+tepy jũ tsi-turo-ni more e-re
+terra DEM.prox ter-espaço-OBL bom DECL-AUX
+‘A terra neste lugar é boa.’
+jũ tsi-turo-ni aj kwini po-õ-e ja õ-k-e-re
+DEM.prox ter-espaço-OBL 1SG peixe capturar-1-NLZ querer 1-NEG-DECL-AUX
+‘Eu não vou pescar naquele lugar.’
+uko-ni more e-re ara k-e-re
+DEM.dist-OBL bom DECL-AUX pouco NEG-DECL-AUX
+‘Lá é muito bonito.’
+uko-ni oj aj-ø-ja e-re
+DEM.dist-OBL 3SG sentar-3-DIR DECL-AUX
+‘Ele mora lá.’ (Lit.: ‘Ele está sentado lá.’)
+ũko tsi-turo-ni more e-re ara k-e-re
+DEM.dist ter-espaço-OBL bom DECL-AUX pouco NEG-DECL-AUX
+‘Aquele lugar é muito bonito.’
+uk o tsi-turo-ni aj kwini po-õ-e ja õ-k-e-re
+DEM. prox ter-espaço-OBL 1SG peixe capturar-1-NLZ querer 1-NEG-DECL-AUX
+‘Eu não vou pescar naquele lugar.’
+ña tyj jeko e-re
+POSS1SG casa longe DECL-AUX
+‘Minha casa é longe.’
+ña papa kwini po-n-e jeko e-re
+POSS1SG pai peixe capturar-3-NLZ longe DECL-AUX
+‘Meu pai foi pescar muito longe.’
+ña tyj jeko ni-k-e-re
+POSS1SG casa longe 3-NEG-DECL-AUX
+‘Minha casa está perto.’ (Lit.: ‘Minha casa está não longe.’)
+aj kwini po-õ-e jeko ni-k-e-re
+1SG peixe capturar-1-NLZ longe 3-NEG-DECL-AUX
+‘Eu vou pescar aqui perto.’ (Lit: ‘Eu vou pescar não longe.’)
+neunu aj tsuæ mu õ-e-re mini
+talvez 1SG macaxeira plantar 1-DECL-AUX hoje
+‘Talvez eu vá plantar macaxeira hoje.’
+neunu væ-tsi-e ara k-e-re mini
+talvez chuva-ter-NLZ pouco NEG-DECL-AUX hoje
+‘Talvez chova muito hoje.’
+jũ opera tũvo ara k-e-re neunu pejake tũ-o e-re
+DEM.prox onça adoecer pouco NEG-DECL-AUX talvez amanhã morrer-INTR DECL-AUX
+‘Este cachorro está muito doente, talvez ele morra amanhã.’ 3
+mi vara-pe-ro taj-e-re aj vara-õ-ro taj k-e-re
+2SG falar-2-CLV depressa-DECL-AUX 1SG falar-1-CLV depressa NEG-DECL-AUX
+‘Você fala mais depressa do que eu.’
+itevæ tete-ro n-e-re taj e-re
+gente andar.RED-CLV 3-DECL-AUX depressa DECL-AUX
+‘O homem está andando depressa.’
+tatsunu pururu njũ
+depressa caminhar 3.IMP
+‘Anda depressa!
+oj iriri-ø-ro e-re ara k-e-re
+3SG correr-3-CLV DECL-AUX pouco NEG-DECL-AUX
+‘Ele correu muito.’
+akutsũ vara-ø-ro-e ara k-e-re
+Akuntsum falar-3-CLV-DECL pouco NEG-DECL-AUX
+‘Os Akuntsum falam muito.’
+mi maere mo-kỹj mi-ku
+2SG também dormir-olho 2-INT.neg
+‘Você também não quer dormir?’
+mi maere erej puro-e pi-ẽ-to-tsi
+2SG também bola jogar-NLZ 2-saber-TRA-INT
+‘Você também sabe jogar bola?’
+nuũ aj-ø-ja-tsi masaka-o atsoni
+aonde sentar-3-DIR-INT masaká-POSS aldeia
+Onde fica a maloca dos Masaká?’
+nuũovæ -mi-ro-tsi
+aonde ir-2-CLV-INT
+‘Aonde você vai?’
+ne turo-e ne ty mi-nu
+quando espaço-NLZ quando movimentar 2-FUT
+‘Quando você volta?
+ne turo-e ne ajte tyvæ-ro-nu
+quando espaço-NLZ quando 1PL caçar-CLV-FUT
+‘Quando vamos caçar?’
+aj ña i-tso-ni ñoña õ-tsi mo-e-re
+1SG POSS1SG RN-dedo-OBL ferida 1-ter APL.poss-DECL-AUX
+‘Eu tenho uma pereba no dedo.’ ou ‘Eu tenho uma ferida no dedo.’
+aj ipæ õ-e-re iry mapi-n
+1SG matar 1-DECL-AUX macaco flecha-OBL
+‘Eu mato macaco com flecha.’
+itsaj-e-ni ajte pe-væ-ja õ-e-re
+anoitecer-NLZ-OBL 1PL dançar-DU-DIR 1-DECL-AUX
+‘À noite, nós vamos dançar.’
+kani i-n-e-re tõ ojo ype iva e-re
+criança chorar-3-DECL-AUX porque POSSISG dente doer DECL-AUX
+‘A criança está chorando porque o dente dela está doendo.’
+ña uru-nake i n-e-re tõ ojo kani tu-o e-re
+POSS1SG novo-FEM chorar 3-DECL-AUX porque POSS3SG criança morrer-INTR DECL-AUX
+‘Minha filha mais nova está chorando porque a criança dela morreu.’
+aj pe-õ-ja tsoke mo-õ-kỹj õ-k-e-re
+1SG deitar-1-DIR mas dormir-1-olho 1-NEG-DECL-AUX
+‘Eu deitei, mas não dormi.’
+nã mũj kuni tsã-mu tsoke aj ja õ-k-e-re
+POSS1SG mãe água buscar-CLE mas 1SG querer 1-NEG-DECL-AUX
+‘Minha mãe mandou buscar água mas eu não quero (ir).’
+aj i-jẽ-to e-re mapi po-ro-e
+1SG 1-saber-TRA DECL-AUX flecha fazer-CLV-NLZ
+‘Eu sei fazer flecha.’
+mi pi-jẽ-to e-re mapi-ka po-ro-e
+2SG 2-saber-TRA DECL-AUX flecha-CLE fazer-CLV-NLZ
+‘Você sabe fazer arco.’
+oj mi ø-pateñu-pe-to ni-k-e-re
+3SG 2SG 3-conhecer-2-TRA 3-NEG-DECL-AUX
+‘Ele não te conhece.’
+ña i-kỹj voro-õ-kỹj e-re
+POSS1SG RN-olho preto-1-olho DECL-AUX
+‘Meus olhos são pretos.’
+pja i-kuta ej-pe-kuta e-re
+POSS2SG RN-cabeça grande-2-cabeça DECL-AUX
+‘Tua cabeça é grande.’
+ña i-tsotsi pæ-tsotsi e-re
+POSS1SG RN-pé branco-pé DECL-AUX
+‘Meu pé está limpo.’ (Lit.: ‘Meu pé está branco.’)
+aj atiti-kaña o-õ-kaña õ-e-re
+1SG milho-CLE.farinha comer-1-CLE.farinha 1-DECL-AUX
+‘Eu como paçoca de milho.’
+ña kani i-ni pyj-ni n-e-re
+POSS1SG criança RN- fogoqueimar-fogo 3-DECL-AUX
+‘Meu filho está acendendo fogo.’
+aj mi vara-õ-ro-pe-to õ-k-e-re
+1SG 2SG falar-1-CLV-2-TRA 1-NEG-DECL-AUX
+‘Eu não falo com você.’ (Lit: ‘Eu não estou falando com você.’)
+aj mi i-pateñu-pe-to e-re
+1SG 2SG 1-conhecer-2-TRA DECL-AUX
+‘Eu te conheço.’
+mi ũko itevæ pi-patenũ-ø-to k-e-re
+2SG DEM.dist gente 2-conhecer-3-TRA NEG-DECL-AUX
+‘Você não conhece aquele homem.’ (Lit.: ‘Você não conhece aquela gente.’)
+kani æky pejka-e ø-memu-ro e-re
+criança banana assar-NLZ 3-gostar-CLV DECL-AUX
+‘O menino gosta de banana assada.’
+aj toky i-memu-ro e-re
+1SG mamão 1-gostar-CLV DECL-AUX
+‘Eu gosto de mamão.’
+ajte toky i-memu-ro e-re
+1PL mamão 1-gostar-CLV DECL-AUX
+‘Nós gostamos de mamão.’
+mi toky pi-memu-ro e-re
+2SG mamão 2-gostar-CLV DECL-AUX
+‘Você gosta de mamão.’
+mite toky pi-memu-ro e-re
+2PL mamão 2-gostar-CLV DECL-AUX
+‘Vocês gostam de mamão.’
+oj toky ø-memu-ro e-re
+3SG mamão 3-gostar-CLV DECL-AUX
+‘Ele gosta de mamão.’
+ojte toky ø-memu-ro e-re
+3PL mamão 3-gostar-CLV DECL-AUX
+‘Eles gostam de mamão.’
+aj i-patenũ e-re130
+1SG 1-conhecer DECL-AUX
+‘Eu conheço.’
+ajte uko itevæ i-patenũ-ø-to e-re
+1PL DEM.dist gente 1-conhecer-3-TRA DECL-AUX
+‘Nós conhecemos aquele homem.’
+aj i-jẽ-to e-re
+1SG 1-saber-TRA DECL-AUX
+‘Eu sei’
+aj i-munu-to e-re
+1SG 1-ouvir-TRA DECL-AUX
+‘Eu ouço.’
+mi pi-jẽ-to-kũ-kũ tyj po-ro-e
+2SG 2-saber-TRA-INT.neg-NEG casa fazer-CLV-NLZ
+‘Você não sabe fazer maloca?’
+mi pi-munu-to k-e-re
+2SG 2-ouvir-TRA NEG-DECL-AUX
+‘Você não ouve.’
+aj i-pateñu k-e-re
+1SG 1-conhecer NEG-DECL-AUX
+‘Eu duvido.’ (Lit.: ‘Eu não conheço.’)
+aj atiti-tekwa mu kwini i-memu-ro e-re ara k-e-re
+1SG milho-CLE com peixe 1-gostar-CLV DECL-AUX pouco NEG-DECL-AUX
+‘Eu gosto muito de arroz com peixe.’
+aj na mapi i-tej-ro õ-e-re131
+1SG POSS1SG flecha 1-transportar-CLV 1-DECL-AUX
+‘Eu vou levar minha flecha.’ (Lit.: ‘Eu estou levando minha flecha.’)
+aj mapi-ka ti-õ-ka õ-e-re
+1SG flecha-CLE.duro esticar-1-CLE.duro 1-DECL-AUX
+‘Eu estico o arco.’ (Lit.: ‘Eu estou esticando o arco.’)
+mi karo-pe-twa k-e-re
+2SG forte-2-pescoço NEG-DECL-AUX
+‘Você está fraco.’ (Lit.: ‘Você não está pescoço forte.’)
+ojte ore-ø-ry-ry e-re
+3PL cansar-3-REF-REFL DECL-AUX
+‘Eles estão cansados.’
+aj koko-õ-ry e-re
+1SG rouco-1-REFL DECL-AUX
+‘Eu estou rouco.’
+aj ore-õ-ry e-re
+1SG cansar-1-REFL DECL-AUX
+‘Eu estou cansado.’
+mi ore-pe-ry e-re
+2SG cansar-2-REFL DECL-AUX
+‘Você está cansado.’
+oj ore-ø-ry e-re
+3SG cansar-3-REFL DECL-AUX
+‘Ele está cansado.’
+ajte ore-õ-ry e-re
+1PL cansar-1-REFL DECL-AUX
+‘Nós estamos cansados.’
+mite ore-pe-ry e-re
+2PL cansar-2-REFL DECL-AUX
+‘Vocês estão cansados.’
+ojte ore-ø-ry e-re
+2PL cansar-2-REFL DECL-AUX
+‘Vocês estão cansados.’
+aj iriri-õ-ro õ-e-re
+1SG correr-1-CLV 1-DECL-AUX
+‘Eu corro.’ (Lit.: ‘Eu estou correndo.’)
+aj mo-õ-kỹj õ-e-re
+1SG dormir-1-olho 1-DECL-AUX
+‘Eu durmo.’ (Lit.: ‘Eu estou dormindo.’)
+aj ytse titi-õ-to õ-e-re
+1SG árvore puxar-1-TRA 1-DECL-AUX
+‘Eu puxo madeira.’ (Lit.: ‘Eu estou puxando árvore.’)
+aj tynu-ty titi-õ-ty õ-e-re
+1SG cipó-CLE.fio puxar-1-CLE.fio 1-DECL-AUX
+Eu puxo a corda.’ (Lit: ‘Eu estou puxando o cipó.’)
+aj imujkaj õ-e-re
+1SG cuspir 1-DECL-AUX
+‘Eu cuspo.’
+mi imujkaj p-e-re
+2SG cuspir 2-DECL-AUX
+‘Você cospe.’
+oj imujkaj n-e-re
+3SG cuspir 3-DECL-AUX
+‘Ele cospe.’
+ajte imujkaj õ-e-re
+1PL cuspir 1-DECL-AUX
+‘Nós cuspimos.’
+mite imujkaj p-e-re
+2PL cuspir 2-DECL-AUX
+‘Vocês cospem.’
+ojte imujkaj n-e-re
+3PL cuspir 3-DECL-AUX
+‘Eles cospem.’
+mi i mi-e-re
+2SG chorar 2-DECL-AUX
+‘Você está chorando.’
+mi pi-tej-ro p-e-re
+2SG 2-transportar-CLV 2-DECL-AUX
+‘Você leva.’ (Lit.: ‘Você vai levando.’)
+aj ña i-tso kotso-ve-tso õ-e-re
+1SG POSS1SG RN-dedo lavar-CLV-dedo 1-DECL-AUX
+‘Eu lavo meu dedo.’
+ojte kotso-ve-nã n-e-re kuni purere-ni
+3SG lavar-CLV-rosto 3-DECL-AUX água sabão-OBL
+‘Eles estão lavando o rosto com água e sabão.’
+ajte mõ-õ-kỹj õ-e-re
+1PL dormir-1-CLV 1-DECL-AUX
+‘Nós dormimos.’
+ajte mõ-væ-kỹj õ-e-re
+1PL dormir-DU-CLV 1-DECL-AUX
+‘Nós dormimos juntos.’ (Lit: ‘Nós dormimos a dois.’)
+aj pæ-õ-ja õ-e-re
+1SG dançar-1-DIR 1-DECL-AUX
+‘Eu estou dançando.’
+aj æj pwã õ-e-re
+1SG tabaco fumar 1-DECL-AUX
+‘Eu estou fumando.’
+ajte pæ-væ-ja õ-e-re
+1PL dançar-DU-DIR 1-DECL-AUX
+‘Nós estamos dançando juntos.’ (Lit.: ‘Nós estamos dançando a dois.’)
+ajte æj pwã-væ õ-e-re
+1PL folha fumar-DU 1-DECL-AUX
+‘Nós estamos fumando tabaco juntos.’ (Lit.: Nós estamos fumando a dois.’)
+aj mi akiki-væ-ro õ-e-re
+1SG 2SG gritar-DU-CLV 1-DECL-AUX
+‘Eu e você gritamos.’ ou ‘Nós gritamos juntos.’ (Lit.: ‘Nós gritamos a dois.’)
+aj oj akiki-væ-ro õ-e-re
+1SG 3SG gritar-DU-CLV 1-DECL-AUX
+‘Eu e ele gritamos.’ ou ‘Nós gritamos juntos’ (Lit.: ‘Nós gritamos a dois.’)
+ajte oti mu-væ õ-e-re
+1PL algodão plantar-DU 1-DECL-AUX
+‘Nós plantamos algodão juntos.’ (Lit.: ‘Nós plantamos algodão a dois.’)
+opera pyræ u n-e-re
+onça rato comer 3-DECL-AUX
+‘O gato comeu o rato.’
+oky kwaatsie toro n-e-re
+cobra sapo engolir 3-DECL-AUX
+‘A cobra está engolindo o sapo.’
+kani mo-ø-kỹj n-e-re
+criança dormir-3-olho 3-DECL-AUX
+‘O menino está dormindo.
+oj mo-ø-kỹj n-e-re
+3SG dormir-3-olho 3-DECL-AUX
+‘Ele está dormindo.’
+pja e ña kani vara-ø-ro-ø-to n-e-re
+POSS2SG mulher POSS1SG criança falar-3-CLV-3-TRA 3-DECL-AUX
+‘Tua mulher está conversando com meu filho.
+aj pja tũ-kwæ vara-õ-ro-ø-to õ-e-re
+1SG POSS2SG irmão-MASC falar-1-CLV-3-TRA 1-DECL-AUX
+‘Eu estou conversando com teu irmão.’
+pja tũ-kwæ (aj) vara-ø-ro-õ-to n-e-re
+POSS2SG irmão-MASC (1SG) falar-3-CLV-1-TRA 3-DECL-AUX
+‘Teu irmão está conversando comigo.’
+kani pe-ø-ja-kỹj e-re
+criança deitar-3-DIR-MASC DECL-AUX
+‘O menino está deitado.’
+e kani pe-ø-ja-nake e-re
+mulher criança deitar-3-DIR-FEM DECL-AUX
+‘A menina está deitada.’
+aj atiti-tekwa mu õ-e-r
+1SG milho-CLE.semente plantar 1-DECL-AUX
+‘Eu planto arroz.’ Lit.: (‘Eu estou plantando arroz.’)
+aj atiti-tekwa o-õ-tekwa õ-e-re
+1SG milho-CLE.semente comer-1-CLE.semente 1-DECL-AUX
+‘Eu como arroz.’ (Lit.: ‘Eu estou comendo arroz.’)
+aj mapi-ka tyry-õ-ka õ-e-re
+1SG flecha-CLE.duro amarrar-1-CLE. duro1-DECL-AUX
+‘Eu estou amarrando o arco de flecha.’
+aj ña jy tyry-õ-ty õ-e-re
+1SG POSSISG cabelo amarrar-1-CLE.fio 1-DECL-AUX
+‘Eu estou amarrando meu cabelo.’
+aj ña itsote tyry-õ-to õ-e-re
+1SG POSSISG sapato amarrar-1-TRA 1-DECL-AUX
+‘Eu estou amarrando meu sapato.’
+e kani atiti o-ø-ti n-e-re
+mulher criança milho comer-3-CLE 3-DECL-AUX
+‘A menina está comendo milho.’
+ajte atiti-tekwa o-õ-tekwa e-re
+1PL milho-CLE.semente comer-1-CLE.semente DECL-AUX
+‘Nós comemos arroz.’
+kani epykwã o-ø-kwa e-re
+criança amendoim comer-3-CLE DECL-AUX
+‘O menino comeu amendoim.’
+ove tẽ o-ø-kwa n-e-re
+cutia coco comer-3-CLE 3-DECL-AUX
+‘A cutia está comendo coco.’
+aj kometaw uru-taw o-õ-taw õ-e-re
+1SG fava novo-CLE comer-1-CLE 1-DECL-AUX
+‘Eu como feijão verde.’ ( Lit.: ‘Eu estou comendo fava nova.’)
+oj atiti-tæmu o-ø-tæmu n-e-re
+1SG milho-CLE comer-3-CLE 3-DECL-AUX
+‘Ele está comendo beiju de milho.’
+oj tyytsi-o i-tekwa o-ø-tekwa n-e-re
+3SG tanajura-POSS RN-barriga comer-3-barriga 3-DECL-AUX
+‘Ele está comendo bunda de tanajura.’
+ore tyy o-ø-katsi n-e-re
+tamanduá tocanguira comer-3-CLE 3-DECL-AUX
+‘O tamanduá come tocanguira.’
+aj vavo pejka-e o õ-e-re
+1SG batata assado-NLZ comer 1-DECL-AUX
+‘Eu estou comendo batata assada.’
+ña e vavo pwe-n-e o n-e-re
+POSS1SG mulher batata cozido-3-NLZ comer 3-DECL-AUX
+‘Minha mulher está comendo batata cozida.’
+ña kani tsuæ pejka-e o n-e-re
+POSS1SG filha macaxeira assado-NLZ comer 3-DECL-AUX
+‘Minha filha está comendo macaxeira assada.’
+ña muj tsuæ pwe-n-e o n-e-re
+POSS1SG mãe macaxeira cozido-3-NLZ comer 3-DECL-AUX
+‘Minha mãe está comendo macaxeira cozida.’
+oj ivo pwe-n-e o n-e-re
+3SG cará cozido-3-NLZ comer 3-DECL-AUX
+‘Ele está comendo cará cozido.’
+ævjũ irãw u-ro k-e-re
+paca carne comer-CLV NEG-DECL-AUX
+‘A paca não come carne.’
+tipy æj u-ro n-e-re
+preguiça folha comer-CLV 3-DECL-AUX
+‘O bicho-preguiça come folhas.’
+opera ñukwæ135 kwini u n-e-re
+onça (espécie) peixe comer 3-DECL-AUX
+‘A lontra come peixe.’
+aj mati põ-õ-ti õ-e-re
+1SG fruta comer-1-CLE 1-DECL-AUX
+‘Eu como frutas.’
+aj æky põ-õ-ky õ-e-re
+1SG banana comer-1-CLE 1-DECL-AUX
+‘Eu como banana.’
+aj eremu po-õ-ky õ-e-re
+1SG jenipapo comer-1-CLE 1-DECL-AUX
+‘Eu como jenipapo.’
+aj tove-kava po-õ-kava õ-e-re
+1SG mel-CLE comer-1-CLE 1-DECL-AUX
+‘Eu chupo cana.’ (Lit.: ‘Eu como cana-de-açúcar.’)
+aj mati tõtõ õ-no-e-re
+1SG fruta chupar 1-VOL-DECL-AUX
+‘Eu quero chupar fruta.’ (Lit.: ‘Eu vou chupar fruta.’)
+oj epykwã atiti-tekwa u-ro n-e-re
+3SG amendoim milho-CLE.semente comer-CLV 3-DECL-AUX
+‘Ele está comendo amendoim e arroz.’
+aj kuni itæ õ-e-re
+1SG água beber 1-DECL-AUX
+‘Eu estou bebendo água.’
+kãpore kuni itæ n-e-re
+jacu água beber 3-DECL-AUX
+‘O jacu bebe água.’
+aj tove-ka-mu itæ õ-e-re
+1SG mel-CLE-CLE.líqu beber 1-DECL-AUX
+‘Eu estou tomando garapa.’
+ajte tsero itæ õ-e-re
+1PL chicha beber 1-DECL-AUX
+‘Nós bebemos chicha.’
+aj mike mutiry-ko-mu itæ õ-e-re
+1SG já açaí-CLE.coco-CLE.líqu beber 1-DECL-AUX
+‘Eu já tomei vinho de açaí.’
+aki kuni-ni para-O-ja-mu n-e-re
+pedra água-OBL cair-3-DIR-CLE.líqu 3-DECL-AUX
+‘A pedra caiu na água.’
+aj kuni-ni vyry-o-tu-mu o-e-re
+1SG água-OBL deslocar-1-DIR-CLE.líqu 1-DECL-AUX
+‘Eu estou saindo da água.’
+aj vara-õ-ro õ-e-re
+1SG falar-1-CLV 1-DECL-AUX
+(Lit.: ‘Eu estou falando.’)
+aj akiki-e-õ-ro õ-e-re
+1SG gritar-ASP-1-CLV 1-DECL-AUX
+‘Eu estou gritando.’
+kore vara-ø-ro n-e-re
+papagaio falar-3-CLV 3-DECL-AUX
+‘O papagaio fala.’ (Lit.: ‘O papagaio está falando.’)
+opera akiki-e-ø-ro e-re
+onça gritar-ASP-1-CLV DECL-AUX
+‘O cachorro latiu.’ (Lit.: ‘A onça gritou.’)
+aj pja koro vara-õ-ro-ø-to no-e-re
+1SG POSS2SG irmão falar-1-CLV-3-TRA VOL-DECL-AUX
+‘Eu quero falar com teu irmão.’
+ña papa (aj) akiki-e-ø-ro-õ-to e-re
+POSS1SG pai 1SG gritar-ASP-3-CLV-1-TRA DECL-AUX
+‘Meu pai gritou comigo.’
+pejake aj mi vara-õ-ro-pe-to no-e-re
+amanhã 1SG 2SG falar-1-CLV-2-TRA VOL-DECL-AUX
+‘Amanhã eu quero falar com você.’
+aj mi more k-e vara-õ-ro-pe-to e-re
+1SG 2SG bom NEG-DECL falar-1-CLV-2-TR DECL-AUX
+‘Eu estou com raiva de você.’ (Lit.: ‘Eu não quero falar bom com você.’)
+pejake mi aj vara-pe-ro-õ-to-nu mi-tsi
+amanhã 2SG 1SG falar-2-CLV-1-TRA-FUT 2-INT
+‘Amanhã você quer conversar comigo?’
+mi aj more k-e vara-pe-ro-õ-to mi-tsi
+2SG 1SG bom NEG-DECL falar-2-CLV-1-TRA 2-INT
+‘Você está com raiva de mim?’ (Lit.: ‘Você não está bom falando comigo?’)
+na minake ũko uruã more-kỹj k-e-re vara-ø-ro-ø-to k-e-re
+POSS1SG filha.velha DEM.dist. rapaz bom-MASC NEG-DECL-AUX falar-3-CLV-3-TRA NEG-DECL-AUX
+‘Minha filha não conversa com aquele rapaz feio.’
+na minake vara-ø-ro-ø-to k-e-re ũko uruã more-kĵ k-e-re
+POSS1SG filha.velha falar-3-CLV-3-TRA NEG-DECL-AUX DEM.dist. rapaz bom-MASC NEG-DECL-AUX
+‘Minha filha não conversa com aquele rapaz feio.’
+nẽtoe itevæ tũ-o e-re
+quantos gente morrrer-INTR DECL-AUX
+‘Quantos homens morreram?’ (Lit.: ‘Quanta gente morreu?’
+aj vara-õ-ro õ-e-re
+1SG falar-1-CLV 1-DECL-AUX
+‘Eu falo.’ (Lit.: ‘Eu estou falando.’)
+aj mi vara-õ-ro-pe-to õ-e-re
+1SG 2SG falar-1-CLV-2-TRA 1-DECL-AUX
+‘Eu falo com você.’ (Lit.: ‘Eu estou falando com você.’)
+vara-õ-ro-pe-to e-re
+falar-1-CLV-2-TRA DECL-AUX
+‘Conversei com você.’
+oj aj vara-ro-õ-to k-e-re
+3SG 1SG falar-CLV-1-TRA NEG-DECL-AUX
+‘Ele não conversou comigo.’ (Lit.: ‘Ele não falou comigo’.)
+aj oj vara-õ-ro-to k-e-re
+1SG 3SG falar3-CLV-1-TRA NEG-DECL-AUX
+‘Eu não conversei com ele.’
+aj i-pateñu õ-e-re
+1SG 1-conhecer 1-DECL-AUX
+‘Eu sei.’ (Lit.: ‘Eu conheço.’)
+aj mi i-pateñu-pe-to õ-e-re
+1SG 2SG 1-conhecer-2-TRA 1-DECL-AUX
+‘Eu te conheço.’
+aj i-memu-ro õ-e-re
+1SG 1-gostar-CLV 1-DECL-AUX
+‘Eu gosto.’
+matoko i n-e-re
+macacozogue.zogue chorar 3-DECL-AUX
+‘O macaco zogue-zogue está chorando.’
+kani nuvæ n-e-re
+criança defecar 3-DECL-AUX
+‘O neném está defecando.’
+ӡwãw kununu n-e-re
+João roncar 3-DECL-AUX
+‘João está roncando.’
+opera tũvo n-e-re
+cachorro adoecer 3-DECL-AUX
+‘O cachorro está doente.’
+kãpore para-ja n-e-re
+jacu cair-DIR 3-DECL-AUX
+‘O jacu caiu.’
+ña i-kuta iva e-re
+POSS1SG RN-cabeça doer DECL-AUX
+‘Minha cabeça está doendo.’
+mũj ña tsero uj n-e-re
+mãe POSS1SG chicha acabar 3-DECL-AUX
+‘Mãe, minha chicha acabou.’
+atiti tũkỹ e-re
+milho espigar DECL-AUX
+‘O milho deu espigas.’
+vururu n-e-re
+trovejar 3-DECL-AUX
+‘Está trovejando.’
+itsaj e-re
+anoitecer DECL-AUX
+‘Está anoitecendo.’ (Lit.: ‘É noite.’)
+væ-tsi e-re
+chuva-ter DECL-AUX
+‘Choveu.’
+ikura-tsi e-re
+calor-ter DECL-AUX
+‘Está fazendo calor.’
+aj pe-õ-ja õ-e-re
+1SG deitar-1-DIR 1-DECL-AUX
+‘Eu deito.’
+kani tevæ-ja n-e-re
+criança brincar-DIR 3-DECL-AUX
+‘A criança está brincando.’
+aj ña e pe-õ-ja-to-ky õ-to-e-re
+1SG POSS1SG mulher deitar-1-DIR-TRA-COMIT 1-TRA-DECL-AUX
+‘Eu deitei com minha mulher.’
+mi aj teva-pe-ja-õ-to mi-tsi
+2SG 1SG brincar-2-DIR-1-TRA 2-INT
+‘Você quer brincar comigo?’
+kani ææ-ro e-re
+criança vomitar.RED-CLV DECL-AUX
+‘O neném vomitou.’
+ӡwãw nutẽtẽ-ro e-re
+João peidar-CLV DECL-AUX
+‘João peidou.’
+kwaatsiepæw pæw-e-ro n-e-re
+sapo pular.RED-ASP-CLV 3-DECL-AUX
+‘O sapo está pulando.’
+e kani iriri-ø-ro e-re
+mulher criança correr-3-CLV DECL-AUX
+‘A menina correu.’
+ævo tsere-ro n-e-re
+homem ver-CLV 3-DECL-AUX
+‘O homem acordou.’ (Lit.: ‘O homem está vendo.’)
+vuvuj-ro e-re
+ventar.RED-CLV DECL-AUX
+‘Está ventando.’
+aj atiti mu õ-e-re
+1SG milho plantar 1-DECL-AUX
+‘Eu planto milho.
+ña kani kwini po n-e-re
+POSS1SG filho peixe capturar 3-DECL-AUX
+POSS1SG filho peixe capturar 3-DECL-AUX
+ña kani kwini po n-e-re
+POSS1SG filho peixe capturar 3-DECL-AUX
+‘Meu filho está pescando.’
+aj mũtyrĩ-ko-mu mike itæ õ-e-re
+1SG açaí-CLE.coco-CLE.líqu já beber 1-DECL-AUX
+‘Eu já tomei vinho de açaí.’
+aj uræ tyvæ-ro õ-e-re
+1SG porco caçar-CLV 1-DECL-AUX
+‘Eu caço porco.’
+kwini væj toro n-e-re
+peixe verme engolir 3-DECL-AUX
+‘O peixe engole minhoca.’
+urukutæ opje topi-e u-ro n-e-re
+urubu carniça apodrecer-NLZ comer-CLV 3-DECL-AUX
+‘O urubu come carniça.’
+opera i-utã oo-ro n-e-re
+onça RN-osso comer-RED 3-DECL-AUX
+‘O cachorro está roendo osso.’
+oj tunemu turo n-e-re
+3SG veneno vender 3-DECL-AUX
+‘Ele vende cachaça.’
+oj aj ø-pateñu-õ-to k-e-re
+3SG 1SG 3-conhecer-1-TRA NEG-DECL-AUX
+‘Ele não me conhece
+oj aj ø-munu-ø-to ni-k-e-re
+3SG 1SG 3-ouvir-1-TRA 3-NEG-DECL-AUX
+‘Ele não está me escutando.’
+e ava tsere-ø-to e-re
+mulher arara ver-3-TRA DECL-AUX
+‘A mulher viu a arara.’
+aj epykwã kæj-õ-to õ-e-re
+1SG amendoim arrancar-1-TRA 1-DECL-AUX
+‘Eu estou arrancando amendoim.’
+aj epykwã ta-õ-to õ-e-re
+1SG amendoim debulhar-1-TRA 1-DECL-AUX
+‘Eu estou debulhando amendoim.’
+ña kani mike tsere-ø-ro n-e-re
+POSS1SG criança já ver-3- CLV3-DECL-AUX
+‘Meu filho já acordou.’ (Lit: ‘Minha criança já está vendo’.)
+e kani ava tsere-ø-to e-re
+mulher criança arara ver-3-TRA DECL-AUX
+‘A menina viu a arara.’ (Lit.: ‘A mulher criança viu a arara.’)
+aj ña mapi-ka tyry-õ-ka õ-e-re
+1SG POSSISG flecha-CLE.duro amarrar-1-CLE.duro 1-DECL-AUX
+‘Eu estou amarrando meu arco de flecha.’
+jato mũj ojo mũnaw tyry-ø-to n-e-re
+POSS1SG mãe POSS3S rede amarrar-3-TRA 3-DECL-AUX
+‘Nossa mãe está amarrando a rede dela.
+ña kani mike u-ro e-re
+POSS1SG criança já comer-CLV DECL-AUX
+‘Meu filho já almoçou.’ (Lit.: ‘Minha criança já comeu.’)
+ña kani u-ro ni-k-e-re
+POSS1SG criança comer-CLV 3-NEG-DECL-AUX
+‘Meu filho não almoçou.’ (Lit.: ‘Minha criança não comeu.’)
+itevæ tsere-ø-to e-re opera
+gente ver-3-TRA DECL-AUX onça
+‘O homem viu o cachorro.’
+aj mio-ry õ-e-re
+1SG descansar-REFL 1-DECL-AUX
+‘Eu estou descansando.’
+e ej-ø-ry n-e-re
+mulher respirar-3-REFL 1-DECL-AUX
+‘A mulher está respirando.’
+aj ore-õ-ry e-re ara k-e-re
+1SG cansar-1-REFL DECL-AUX pouco NEG-DECL-AUX
+‘Eu estou muito cansado.’ (Lit.: ‘Eu me cansei muito.’)
+oj ø-jẽ-ve-ry-ro e-re
+3SG 3-saber-CLV-REFL-CLV DECL-AUX
+‘Ele está pensando.’
+aj i-jẽ-ve-ry-ro e-re
+3SG 1-saber-CLV-REFL-CLV DECL-AUX
+‘Eu estou pensando.’
+kurakura tũtũj-ve-ry e-re
+galináceo bicar-CLV-REFL DECL-AUX
+‘Os galos estão brigando.’ (Lit.: ‘Os galos estão se bicando.’)
+opera mama-ve-ry e-re
+cachorro morder-CLV-REFL DECL-AUX
+‘Os cachorros estão brigando.’ (Lit.: ‘Os cachorros estão se mordendo.’)
+kani-te i-ve-kuta-ry-ni-ro e-re
+criança-COL brigar-CLV-cabeça-REFL-3-CLV DECL-AUX
+‘A crianças estão brigando.’
+pura tsinamaty i-ve-kuta-ry-ni-ro e-re
+Purá Txinamanty brigar-CLV-cabeça-REFL-3-CLV DECL-AUX
+‘Purá e Txinamanty estão brigando.’
+ajte i-ve-kuta-ry-õ-ro e-re
+1PL brigar-CLV-cabeça-REFL-1-CLV DECL-AUX
+‘Nós estamos brigando.’
+aj uko uruã i-ve-kuta-ro-õ-ro e-re
+rapaz DEM.dist rapaz brigar-CLV-cabeça-REFL-1-CLV DECL-AUX
+‘Eu e aquele rapaz estamos brigando.’
+aj oj i-ve-kuta-ry-õ-ro e-re
+1SG 3SG brigar-CLV-cabeça-REFL-1-CLV DECL-AUX
+‘Eu e ele estamos brigando.’
+ajte kurakura ævæ-ry-to õ-e-re
+1PL galináceo trocar-REFL-TRA 1-DECL-AUX
+‘Nós estamos trocando galinhas.’
+e tyto-ry-to e-re ojo ævo
+mulher mudar-TRA-REFL DECL-AUX POSS3SG homem
+‘A mulher trocou de marido.’
+ña tũ-kwæ ø-tej-ja-ry-nu n-e-re atiti-tekwa
+POSS1SG irmão-MASC 1-transportar-DIR-REFL-FUT 3-DECL-AUX milho-CLE
+‘Meu irmão vai trazer arroz.’ (Lit.: ‘Meu irmão vai trazer arroz consigo.’)
+mi pja kani pi-pwa-ry-nu-ni mĩ-e-re ojo keke-o tyj-ni
+2SG POSS2SG filho 2-conduzir-REFL-FUT-3 2-DECL-AUX POSS3SG avó-POSS casa-OBL
+‘Você vai levar teu filho à casa da avó dele.’ (Lit.: ‘Você vai levar contigo seu filho à casa da avó dele.’)
+ña muj tsutsu-ø-ry e-re
+POSS1SG mãe gostoso.RED-1-REFL DECL-AUX
+‘Minha mãe está muito alegre.’ (Lit. aprox: ‘Minha mãe está gostosa.’)
+aj tsutsu-õ-ry e-re
+1SG gostoso.RED-1-REFL DECL-AUX
+‘Eu estou muito alegre.’ (Lit. aprox: ‘Eu estou gostoso.’)
+aj i-jẽ-ve-ry-ro e-re
+1SG 1-saber-CLV-REFL-CLV DECL-AUX
+‘Eu estou triste.’ (Lit.: ‘Eu estou pensativo.’)
+mi pi-jẽ-ve-ry-ro mi-tsi
+2SG 2-saber-CLV-REFL-CLV 2-INT
+‘Você está triste?’ (Lit.: ‘Você está pensativo?’)
+ojo ævo mike tũ-o e-re
+POSS3SG homem já. morrer-INTR DECL-AUX
+‘O marido já dela morreu.’ ou ‘O homem dela já está morto.’
+ava tũ-o e-re
+arara morrer-INTR DECL-AUX
+‘A arara morreu.’ ou ‘A arara está morta.’
+jato keke tũ-o e-re
+POSS1PL avó morrer-INTR DECL-AUX
+‘Nossa avó morreu.’ ou ‘Nossa avó está morta.’
+ña ype ẽtẽ-a e-re
+POSS1SG dente estragado-INTR DECL-AUX
+‘Meu dente está estragado.’
+ña mapi-ka rwa-ka e-re
+POSS1SG flecha-CLE.duro quebrar-CLE.duro DECL-AUX
+‘Meu arco de flecha quebrou-se.’
+mapi rwa-a e-re
+flecha quebrar-INTR DECL-AUX
+‘A flecha está quebrada.’
+nã tsutsi-ra-e rwa-o e-re
+POSS1SG cortar-CLV-NLZ quebrar-INTR DECL-AUX
+‘Meu terçado está quebrado.’
+e ævo ø-tsi mo e-re
+mulher homem 3-ter APL.poss DECL-AUX
+Eu sou casado.’ (Lit.: ‘Eu tenho mulher.’)
+aj e õ-tsi ni-k-e-re
+1SG mulher 1-ter 3-NEG-DECL-AUX
+‘Eu sou solteiro.’ (Lit.: ‘Eu não tenho mulher.’)
+aj ñoña õ-tsi ni-k-e-re
+1SG ferida 1-haver 3-NEG-DECL-AUX
+‘Eu não tenho pereba.’ (Lit.: ‘Eu não tenho ferida.’)
+mi kani pe-tsi mi-tsi
+2SG criança 2-ter 2-INT
+‘Você tem filhos?’ (Lit.: ‘Você tem criança?’)
+muj ña tsero tove mo-e-re
+mãe POSS1SG chicha mel APL.poss-DECL-AUX
+‘Mãe, minha chicha está muito doce.’ (Lit.: ‘Mãe, minha chicha tem mel.’
+e kani pe-ja-to-kỹj e-re
+mulher criança deitar-DIR-TRA-MASC DECL-AUX
+‘A mulher deitou o menino.’
+kani pe-ja-to-kỹj e-re
+criança deitar-DIR-TRA-MASC DECL-AUX
+‘O menino está deitado.’
+aj atiti-tekwa pærætæ ej-ru-ni
+1SG milho-CLE.semente panela grande-estômago-OBL
+‘Eu cozinhei arroz na panela grande.’
+aj atiti-tekwa pærætæ ej-ru-ni jũ-tekwa e-re
+1SG milho-CLE.semente panela grande-estômago-OBL cozinhar-CLE.semente DECL-AUX
+‘Eu cozinhei arroz na panela grande.’
+atiti-tekwa jũ-tekwa e-re
+milho-CLE.semente cozinhar-CLE.semente DECL-AUX
+‘O arroz está cozido.’
+erekanã tyj-ni vyry-to n-e-re
+idoso casa-OBL deslocar-DIR 3-DECL-AUX
+‘O velho está entrando na maloca.’
+kũkoe vawe-ni vyry-to e-re
+tatu toca-OBL deslocar-DIR DECL-AUX
+‘O tatu entrou na toca.’
+oky vyry-to-mu n-e-re kuni-ni
+cobra deslocar-DIR-CLE.líqu 3-DECL-AUX água-OBL
+‘A cobra está entrando no rio.’
+erekanã tyj-ni vyry-tu n-e-re
+idoso casa-OBL deslocar-DIR 3-DECL-AUX
+‘O velho está saindo da maloca.’
+aj kuni-ni uj-õ-tu õ-e-re
+1SG água-OBL ir-1-DIR 1-DECL-AUX
+‘Eu estou indo ao rio.’
+aj aj-õ-ja õ-e-re æræræ-ni
+1SG sentar-1-DIR 1-DECL-AUX banco-OBL
+‘Eu estou sentado no banco.’
+aj pe-õ-ja õ-e-re
+1SG deitar-1-DIR 1-DECL-AUX
+‘Eu estou deitado.’
+aleʃãdri tsu-ø-ja e-re
+Alexandre agachar-3-DIR DECL-AUX
+‘Alexandre está agachado.’
+ajte æpy pe-õ-ja no-e-re
+1PL castanha deitar-1-DIR VOL-DECL-AUX
+Nós queremos derrubar castanhas.’
+ajte pæ-væ-ja õ-e-re
+1PL dançar-DU-DIR 1-DECL-AUX
+‘Nós dois estamos dançando.’
+aj mi teva-ja-õ-to no-e-re
+1SG 2SG brincar-DIR-1-TRA VOL-DECL-AUX
+‘Eu quero brincar com você.’
+kapeãw jato atsoni tepy-ja-ni
+vamosIMP POSS1PL aldeia terra-DIR-OBL
+‘Vamos derrubar nossa maloca.’ (Lit.: ‘Vamos nossa aldeia para baixo na terra.’
+opera-tsĩkwa tsere-to-mu-ja-to e-re kiki
+onça-DIM ver-TRA-DIR-DIR-TRA DECL-AUX periquito
+‘O gato está olhando o periquito de baixo para cima.
+tsere-to-mu-j-aw
+ver-TRA-DIR-DIR-IMP
+‘Olha para cima!’
+kwikaj ty-to-mu-kaj e-re
+sol movimentar-DIR-DIR-sol DECL-AUX
+‘Oito horas da manhã.’ (Lit: ‘O sol está movimentando para dentro e para cima. ’).
+iry ty-to-mu n-e-re ytse-ni
+macaco movimentar-DIR-DIR 3-DECL-AUX árvore-OBL
+‘O macaco subiu na árvore.’
+itevæ te-to-mu n-e-re
+gente andar-DIR-DIR 3-DECL-AUX
+O homem está subindo.’ (Lit.: ‘Gente está andando para dentro e para cima.’)
+iry ty-ja n-e-re
+macaco movimentar-DIR 3-DECL-AUX
+‘O macaco está descendo.’
+kani ty-ja-nu n-e-re
+criança movimentar-DIR-FUT 3-DECL-AUX
+‘O menino vai descer.’ (Lit.: ‘A criança vai descer.’)
+itevæ ty-vo n-e-re ytse-ni
+gente movimentar-DIR 3-DECL-AUX árvore-OBL
+‘O homem está descendo.’ (Lit.: ‘Gente está descendo.’)
+uru-nake ty-ja n-e-re
+novo-FEM movimentar-DIR 3-DECL-AUX
+‘A moça está descendo.’
+aj tsere-vo õ-e-re
+1SG ver-DIR 1-DECL-AUX
+‘Eu estou olhando para baixo.’
+aj kuj-ve-ytautsi õ-e-re
+1SG raspar-CLV-barba 1-DECL-AUX
+‘Eu estou me barbeando.’ (Lit.: ‘Eu estou raspando minha barba.’)
+kani opera-tsĩkwa ojo tsonu tapa-e-tsonu n-e-re
+criança onça-DIM POSS3SG rabo pisar-ASP-rabo 3-DECL-AUX
+‘O menino está pisando no rabo do gato.’
+mi oroe-tinu topi-e-tinu tapa-pe-tinu-kũ
+2SG barro-CLE.pastoso podre-NLZ-CLE.pastoso pisar-2-CLE.pastoso-NEG
+‘Você não está pisando em barro podre?
+aj i õ-e-re tõ y tapa-e-tsotsi e-re
+1SG chorar 1-DECL-AUX porque espinho pisar-ASP-pé DECL-AUX
+‘Eu estou chorando porque pisei num espinho.’
+aj y tapa-e-tsotsi e-re tõ iva-eko i õ-e-re
+1SG espinho pisar-ASP-pé DECL-AUX porque doer-COP chorar 1-DECL-AUX
+‘Eu estou chorando porque pisei num espinho.’
+aj ty-ve-ko õ-e-re ña uru144
+1SG movimentar-CLV-costas 1-DECL-AUX POSS1SG novo
+‘Eu estou levando minha irmãzinha nas costas.’
+aj uræ peva-ko n-e ty õ-no-e-re
+1SG porco carregar-costas 3-DECL movimentar 1-VOL-DECL-AUX
+‘Eu vou carregar o porco nas costas.’
+aj (ña i-kỹj) kotso-ve-kỹj õ-e-re
+1SG (POSS1SG RN-olho) lavar-CLV-olho 1-DECL-AUX
+‘Eu vou lavar meus olhos.’
+ña kani (ojo i-nã) kotso-ve-ña e-re
+POSS1SG criança (POSS3SG RN-rosto) lavar-CLV-rosto DECL-AUX
+‘Meu filho lavou o rosto.’
+aj (ña i-tso) taj-ve-tso õ-e-re
+1SG (POSS1SG RN-dedo) enxugar-CLV-dedo 1-DECL-AUX
+‘Eu estou enxugando minha mão’.
+e ojo kani kotso-ve-kani n-e-re
+mulher POSS3SG criança lavar-CLV-criança 3-DECL-AUX
+‘A mulher está dando banho no filho dela.’
+aj ña kani taj-ve-kani õ-e-re
+1SG POSS1SG criança enxugar-CLV-criança 1-DECL-AUX
+‘Eu estou enxugando meu filho.’
+pja e ita kotso n-e-re
+POSS2SG mulher roupa lavar 3-DECL-AUX
+‘Tua mulher está lavando roupa.’
+aj ña i-ta taja õ-e-re
+1SG POSS1SG RN-pele enxugar 1-DECL-AUX
+‘Eu estou enxugando minha roupa.’
+aj ña i-tso ta-ve-tso õ-e-re
+1SG POSS1SG RN-dedo dobrar-CLV-dedo 1-DECL-AUX
+‘Eu fecho minha mão’. (Lit.: ‘Eu dobro meus dedos.’)
+aj ña i-tso kæ-ve-tso õ-e-re
+1SG POSS1SG RN-dedo desdobrar-CLV-dedo 1-DECL-AUX
+‘Eu abro minha mão’. (Lit.: ‘Eu desdobro meus dedos.’)
+aj ña i-tso kæ-ve-ry mo-e-re
+1SG POSS1SG RN-dedo desdobrar-CLV-REFL APL.poss-DECL-AUX
+‘Eu abro minha mão’.
+aj ña i-ta vyry-ve õ-e-re
+1SG POSS1SG RN-pele deslocar-CLV 1-DECL-AUX
+‘Eu visto minha roupa
+mi pja i-ta vyry-ve-mi-e-re
+2SG POSS2SG RN-pele deslocar-CLV-2-DECL-AUX
+‘Você veste tua roupa.’
+aj ña i-ta tso-ve õ-e-re
+1SG POSS1SG RN-pele tirar-CLV 1-DECL-AUX
+‘Eu tiro minha roupa.’
+mi pja i-ta tso-ve mi-e-re
+2SG POSS2SG RN-pele tirar-CLV 2-DECL-AUX
+‘Você tira tua roupa.’
+aj oj-õ-twa e-re
+1SG gripar-1-pescoço DECL-AUX
+‘Eu estou gripado.’
+mi koko-pe-twa e-re
+2SG rouco-2-pescoço DECL-AUX
+‘Você está rouco.’
+aj karo-õ-twa k-e-re
+1SG forte-1-pescoço NEG-DECL-AUX
+‘Eu estou fraco.’ (Lit.: ‘Eu não estou forte.’)
+ameja Ӡwãw uja-ø-twa e-re
+Amélia João abraçar-3-pescoço DECL-AUX
+‘Amélia abraçou João.’
+pja i-kỹj more-pe-kỹj e-re
+POSS2SG RN-olho bonito-2-olho DECL-AUX
+‘Teus olhos são bonitos.’
+aj mo-õ-kỹj õ-e-re ña munaw-ni
+1SG dormir-1-olho 1-DECL-AUX POSS1SG rede-OBL
+‘Eu durmo na minha rede.’
+mo-ø-kỹj-to e-re
+dormir-1-olho-TRA DECL-AUX
+‘sonhar’
+aj oj nake pe-ja-to-ky-õ-to no-e-re
+1SG 3SG FEM deitar-DIR-TRA-COMIT-1-TRA VOL-DECL-AUX
+Eu quero deitar com ela.’
+aj oj nake pe-ja-to-ky-õ-to no-e-re
+1SG 3SG FEM deitar-DIR-TRA-COMIT-1-TRA VOL-DECL-AUX
+‘Eu quero deitar com ela.’
+aj mi pe-ja-to-ky-õ-to õ-no-e-re
+1SG 2SG deitar-DIR-TRA-COMIT-1-TRA 1-FUT-DECL-AUX
+‘Eu vou deitar com você.’
+e pe-ø-ja-ky-e-ko ævo pe-ø-ja-to-ro e-re
+mulher deitar-3-DIR-COMIT-DECL-COP homem deitar-3-DIR-TRA-CLV DECL-AUX
+‘A mulher está deitada com o marido.’
+aj pe-õ-ja õ-e-re
+1SG deitar-1-DIR 1-DECL-AUX
+‘Eu estou deitado.
+mi pe-pe-ja mi-e-re
+2SG deitar-2-DIR 2-DECL-AUX
+‘Você está deitado.’
+kani pe-ø-ja-kỹj e-re
+criança deitar-3-DIR-MASC DECL-AUX
+‘O menino está deitado.
+kani pe-ø-ja-nake e-re
+criança deitar-3-DIR-FEM DECL-AUX
+‘A menina está deitada.’
+e kani pe-ø-ja-to-kỹj e-re munaw-ni
+mulher criança deitar-3-DIR-TRA-MASC DECL-AUX rede-OBL
+‘A mulher está deitando o menino na rede.’
+kani pe-ø-ja-to-kỹj e-re munaw-ni
+criança deitar-3-DIR-TRA-MASC DECL-AUX rede-OBL
+‘O menino foi deitado na rede.’
+e kani pe-ø-ja-to-nake e-re munaw-ni
+mulher criança deitar-3-DIR-TRA-FEM DECL-AUX rede-OBL
+‘A menina foi deitada na rede.’
+aki kuni-ni para-ja-mu n-e-re
+pedra água-OBL cair-DIR-CLE.líqu 3-DECL-AUX
+‘A pedra caiu na água.’ (Lit.: ‘A pedra está caindo na água.’)
+aj aki kuni-ni vava-õ-ro-mu õ-e-re
+1SG pedra água-OBL arremessar-1-CLV-CLE.líqu 1-DECL-AUX
+‘Eu estou jogando pedras no rio.’
+aj vara-õ-tsi õ-e-re portuges
+1SG falar-1-CLG 1-DECL-AUX português
+‘Eu falo português.’
+mi portuges vara-pe-tsi mi-tsi
+2SG português falar-2-CLG 2-INT
+‘Você fala Português?’
+mi e pe-tsi mi-tsi
+2SG mulher 2-ter 2-INT
+‘Você é casado?’ (Lit.: ‘Você tem mulher?’)
+ava pira-vi e-re
+arara azul-CLG DECL-AUX
+‘A arara é azul.’
+twĩpæ pira-vi e-re
+curica azul-CLG DECL-AUX
+‘A curica é verde.’
+akita pira-vi e-re
+céu azul-CLG DECL-AUX
+‘O céu está (todo) azul.’
+akita pira-ro e-re
+céu azul-CLV DECL-AUX
+‘O céu é azul.’
+aj vi pa-õ-ro e-re
+1SG sozinho ficar-1-CLV DECL-AUX
+‘Eu fiquei sozinho.’
+aj vi tyvæ-ro ae-ni aj atsi õ-k-e-re
+1SG sozinho caçar-CLV mato-OBL 1SG temer 1-NEG-DECL-AUX
+‘Eu ando sozinho no mato e não tenho medo.’
+aj vi pja-õ-ro õ-e-re kwini po õ-e-re
+1SG só um-1-CLV 1-DECL-AUX peixe capturar 1-DECl-AUX
+‘Eu vou pescar sozinho.’
+aj vi pja-õ-ro õ-k-e-re kwini po õ-e-re
+1SG só um-1-CLV 1-NEG-DECL-AUX peixe capturar 1-DECl-AUX
+‘Eu não vou pescar sozinho.’
+oj tunemu koro-e-to n-e-re
+3SG veneno suicidar-ASP-TRA 3-DECL-AUX
+‘Ele se envenenou.’ (Lit. aprox.: ‘Ele suicidou com veneno.’)
+oj tunemu vivi koro-e-to n-e-re
+3SG veneno só.RED suicidar-ASP-TRA 3-DECL-AUX
+‘Ele mesmo se envenenou.’ (Lit. aprox.: ‘Ele suicidou sozinho com veneno.’)
+ña kani tepũ-ø-kỹj e-re
+POSS1SG criança velho-3-MASC DECL-AUX
+‘Meu filho está velho.’
+aj æ-õ-kỹj e-re
+1SG gordo-1-MASC DECL-AUX
+‘Eu estou gordo.’
+itevæ voro-n-e
+gente preto-3-NLZ
+‘homem preto’
+tæræj pẽ-n-e
+pacu vermelho-3-NLZ
+‘pacupeba’, espécie de peixe
+e-o i-teñu ej-ø-teñu e-re
+mulher-POSS RN-orelha grande-3-orelha DECL-AUX
+‘A orelha da mulher é grande.’
+e-o i-teñu ej-ø-teñu k-e-re
+mulher-POSS RN-orelha grande-3-orelha NEG-DECL-AUX
+‘A orelha da mulher é pequena.’ (Lit.: ‘A orelha da mulher não é grande.’)
+ña ævo æ-ø-kỹj e-re
+POSS1SG homem gordo-3-MASC DECL-AUX
+‘Meu marido está gordo.’
+ña e æ-ø-nake e-re
+POSS1SG mulher gordo-3-FEM DECL-AUX
+‘Minha esposa está gorda.
+pja i-teñu ej-pe-teñu e-re
+POSS2SG RN-orelha grande-2-orelha DECL-AUX
+‘Tua orelha é grande.’
+nã i-tso ej-õ-tso e-re
+POSS1SG RN-dedo grande-1-dedo DECL-AUX
+‘Meus dedos são grandes.
+pja i-kỹj pira-pe-kỹj e-re
+POSS2SG RN-olho azul-2-olho DECL-AUX
+‘Teu olho é verde.’
+kwikaj ereã more-kaj-e kwi-kuta e-re
+sol grande bom-CLE-NLZ sol-cabeça DECL-AUX
+‘O sol é grande, bonito e é redondo.’
+mita ej-ta e-re more-ta-e mita-kuta67-e-kjũ kjũ-re
+lua grande-lua DECL-AUX bom-CLE-NLZ lua-cabeça-DECL-3.IR 3.IR-AUX
+‘A lua é grande, bonita e redonda.’
+epykwã tsu-kwã e-re
+amendoim gostoso-CLE DECL-AUX
+‘O arroz é gostoso.’
+atiti-tæmu148 tsu-tæmu e-re
+milho-CLE gostoso-CLE DECL-AUX
+‘O beiju de milho é gostoso.’
+atiti tsu-ti e-re
+milho gostoso-CLE DECL-AUX
+‘O milho é gostoso.’
+atiti karo-ti e-re
+milho duro-CLE DECL-AUX
+‘O milho está duro.’
+mitsire tẽ o-ø-kwa e-re
+quatipuru coco comer-3-CLE DECL-AUX
+‘O quatipuru come coco.’
+tẽ karo-kwa-e-re
+coco duro-CLE-DECL-AUX
+‘O coco é duro.’
+mitsire epy o-ø-kwa e-re
+quatipuru castanha comer-3-CLE DECL-AUX
+‘O quatipuru come castanha.’
+epy karo-kwa e-re
+castanha duro-CLE DECL-AUX
+‘A castanha é dura.’
+uromu ereã e-re kometakãw ereã k-e-re
+jacaré grande DECL-AUX lagartixa grande NEG-DECL-AUX
+‘O jacaré é maior que a lagartixa.’ (Lit.: ‘O jacaré é grande, a lagartixa não é grande.’)
+ña tyj ej-turo e-re pja tyj ej-turo e-re ma-e-re
+POSS1SG casa grande-espaço DECL-AUX POSS2SG casa grande-espaço DECL-AUX também-DECL-AUX
+‘Minha casa é tão grande quanto a tua.’ (Lit.: ‘Minha casa é grande espaço, tua casa é grande espaço também.’)
+jati iene-ati e-re
+flor amarelo-flor DECL-AUX
+‘A flor é amarela.’
+tara pẽ-ro e-re
+urucum vermelho-CLV DECL-AUX
+‘O urucum é vermelho.’
+jati pæ-ati e-re
+flor branco-flor DECL-AUX
+‘A flor é branca.’
+akita pira-turo e-re
+céu azul-espaço DECL-AUX
+‘O céu é azul.’
+aj voro-õ-tsi e-re
+1SG preto-1-CLG DECL-AUX
+‘Eu estou com febre.’
+ña i-tsotsi voro-õ-tsotsi e-re
+POSS1SG RN-pé preto-1-pé DECL-AUX
+‘Meu pé está sujo.’
+ña i-tsotsi pæ-õ-tsotsi e-re
+POSS1SG RN-pé branco-1-pé DECL-AUX
+‘Meu pé está limpo.’ (Lit.: ‘Meu pé está branco.’)
+ña i-tsotsi pæ-õ-tsotsi k-e-re
+POSS1SG RN-pé branco-1-pé NEG-DECL-AUX
+‘Meu pé está sujo.’ (Lit.: ‘Meu pé não está branco.’).
+tsinamaty ove-o i-utã o-ø-ro-to n-e-re
+Txinamanty cutia-POSS RN-osso segurar-3-CLV-TRA 3-DECL-AUX
+‘Txinamanty está segurando o osso de cutia.’
+jũ e aj mi vara-õ-ro-pe-to-kjũ kjũ-re
+DEM.prox mulher 1SG 2SG falar-1-CLV-2-TRA-3.IR 3.IR-AUX
+‘Esta é a mulher da qual eu falei com você.’
+aj kuni para-ve-ja-mu ajũkoe-ni
+1SG água cair-CLV-DIR-CLE lagoa-OBL
+‘Eu caí na lagoa.’
+aj ja õ-e-re
+1SG querer 1-DECL-AUX
+‘Eu quero.’
+aj ja õ-k-e-re
+1SG querer 1-NEG-DECL-AUX
+‘Eu não quero.’
+tsokere oj tũvo ni-k-e-re
+não 3SG adoecer 3-NEG-DECL-AUX
+‘Não, ele não está doente.’
+aj o-õ-ro-nu õ-e-re ña mapi-ka
+1SG segurar-1-CLV-FUT 3-DECL-AUX POSS1SG flecha-CLE
+‘Eu vou levar meu arco.’
+tsokere aj o-õ-ro-kũ õ-e-re ña mapi-ka
+não 1SG segurar-1-CLV-NEG 1-DECL-AUX POSS1SG flecha-CLE
+‘Não, eu não estou levando meu arco.’
+kamitsi vætsi-vætsi e-re mini væts-kũ n-e-re
+ontem chuva.ter-chuva.ter DECL-AUX hoje chuva.ter-NEG 3-DECL-AUX
+‘Ontem choveu muito, hoje não vai chover.’ (Lit.: ‘Ontem choveu muito, hoje não vai estar chovendo.’)
+aj vajvaj-õ-kũ õ-e-re
+1SG cantar.RED-1-NEG 1-DECL-AUX
+‘Eu não vou cantar.’
+aj vajvaj-õ-kũ pæ-ja-õ-kũ õ-e-re
+1SG cantar.RED-1-NEG dançar-DIR-1-NEG 1-DECL-AUX
+‘Eu não vou cantar nem dançar.’
+pyytsi ru pe-tso-tsi
+mutum ferir 2-dedo-INT
+‘O mutum bicou seu dedo?’
+mĩ pi-pateñu-to-tsi kuni kũ-o-ni tyj-o-ni
+2SG 2-conhecer-TRA-INT água caminho-POSS-OBL casa-POSS-OBL
+‘Você sabe o caminho de casa?’ (Lit.: ‘Você conhece o rio do caminho de casa?’)
+nuvi-tsi ña e kani tsere-ø-to-tsi
+alguém-INT POSS1SG mulher criança ver-3-TRA-INT
+‘Quem viu minha filha?’
+mi æj pwã-mi-ku
+2SG folha fumar-2-NEG
+‘Você não quer fumar?’
+mi pi-memu-ro-kũ gwaӠara
+2SG 2-gostar-CLV-NEG Guajará
+‘Você não gosta de Guajará-Mirim?’
+kots-ãw pja i-ta
+lavar-IMP POSS2SG RN-pele
+‘Lava tua roupa!’
+tsere-t-ãw ereremu
+ver-TRA-IMP pombo
+‘Veja um pombo!’
+kotso-ve-ts-ãw pja i-tso
+lavar-CLV-dedo-IMP POSS2SG RN-dedo
+‘Lava tuas mãos!’
+kani taja-kut-ãw
+criança enxugar-cabeça-IMP
+‘Menino, enxuga a cabeça!’
+kape-ãw tẽ-ko-mu itæ
+vamos-IMP coqueiro-CLE.coco-CLE.líqui beber
+‘Vamos beber água de coco!’
+aj-ja mĩ
+sentar-DIR 2SG
+‘Fica quieto!’ (Lit.: ‘Senta você!’)
+kuni tsa-mu
+água buscar-CLE.líqu
+‘Vá buscar água!
+akiki-e-mi-ro-ku
+gritar-ASP-2-CLV-NEG
+‘Não fica gritando!’
+po-mi-ro-kũ jũ
+fazer-2-CLV-NEG DEM.prox
+‘Não faça isso!’
+jũ mati põ-mi-ky-kũ150
+DEM.prox fruta. comer-2-CLE-NEG
+‘Não coma esta fruta!’
+kape-ãw õkwa-tsĩkwa pyryry-væ151
+vamos-IMP pássaro-DIM flechar-DU
+‘Vamos caçar passarinhos.’
+kani mo-ø-kỹj no-e-re
+criança dormir-3-olho VOL-DECL-AUX
+‘O menino quer dormir.’
+aj etsivi-ũ no-e-re
+1SG urinar-ASP VOL-DECL-AUX
+‘Eu quero urinar.’
+papa aj kwini u no-e-re
+pai 1SG peixe comer VOL-DECL-AUX
+‘Pai, eu quero comer peixe.’
+aj ja õ-k-e-re eremu
+1SG querer 1-NEG-DECL-AUX jenipapo
+‘Eu não quero jenipapo.’
+jũ tsituro ja-õ-turo k-e-re
+DEM.prox lugar querer-1-espaço NEG-DECL-AUX
+Eu não quero ficar aqui.’ (Lit.: ‘Este espaço eu não quero.’)
+kamitsi ivo mũmũ e-re
+ontem cará plantar.RED DECL-AUX
+‘Ontem eu plantei cará.’ (Lit.: ‘Ontem eu estava plantando cará.’)
+ña kani mo-ø-kỹj n-e-re ojo munaw-ni
+POSS1SG criança dormir-3-olho 3-DECL-AUX POSS3SG rede-OBL
+‘Meu filho está dormindo na rede dele.’
+aj mutyri-ko-mu itæ õ-e-re
+1SG açaí-CLE.coco-CLE.líqu beber 1-DECL-AUX
+‘Eu estou bebendo vinho de açaí.’
+iriri-ro n-e-re
+correr-CLV 3-DECL-AUX
+‘Está correndo.’
+aj mutyri-ko-mu itæ e-re
+1SG açaí-CLE.coco-CLE.líqu beber DECL-AUX
+‘Eu bebi vinho de açaí.’
+iriri-ro e-re
+correr-CLV DECL-AUX
+‘Correu.’
+kani para-ø-ja n-e-re
+criança cair-3-DIR 3-DECL-AUX
+‘O menino caiu.’ (Lit.: ‘A criança está caída.’)
+kamitsi aj kwini po õ-e tsere-re
+ontem 1SG peixe capturar 1-DECL PASS-AUX
+‘Ontem eu fui pescar.’
+aj tyvæ-ro-ehĩ kũkoe re ikũkũtæ tsere-re
+1SG caçar-CLV-COP tatu matar tracajá PASS-AUX
+‘Eu fui caçar tatu e matei tracajá.’
+kamitsi aj karana-ko-mu itæ e-re
+ontem 1SG patauá-CLE.coco-CLE.líqu beber DECL-AUX
+‘Ontem eu bebi vinho de patauá.’
+aj mike karana-ko-mu itæ e-re
+1SG já patauá-CLE.coco-CLE.líqu beber DECL-AUX
+‘Eu já bebi vinho de patauá.’
+ajte vajvaj õ-e-re
+3SG cantar.RED 1-DECL-AUX
+‘Nós estávamos cantando.’
+mini aj ivo mumu õ-e-re
+hoje 1SG cará plantar.RED 1-DECL-AUX
+‘Hoje eu estava plantando cará.’
+kamitsi oj vavo mumu n-e-re
+ontem 3SG batata plantar.RED 3-DECL-AUX
+‘Ontem ele estava plantando batata.’
+nã e epykwã kæjkæj n-e-re kamitsi
+POSS1SG mulher amendoim arrancar.RED 3-DECL-AUX ontem
+‘Minha mulher estava arrancando amendoim ontem.’
+aj (oj) vara-õ-ro-ø-to-nu k-e-re
+1SG 3SG falar-1-CLV-3-TRA-FUT NEG-DECL-AUX
+‘Eu não vou falar com ele.’
+pejake aj vara-õ-ro-pe-to-nu e-re
+outro dia1SG falar-1-CLV-2-TRA-FUT DECL-AUX
+‘Amanhã eu vou conversar com você.’
+vara-ro-e
+falar-CLV-NLZ
+falar
+vaj-ro-e
+cantar-CLV-NLZ
+cantar
+po-ro-e
+fazer-CLV-NLZ
+fazer
+aj-ja-e
+sentar-CLV-NLZ
+sentar
+aj i-jẽ-to e-re ãtãpætæ po-ro-e
+1SG 1-saber-TRA DECL-AUX canoa fazer-CLV-NLZ
+‘Eu sei fazer canoa.’
+aj ja õ-e-re i-jẽ-to-e neko ojo i-kuta iva e-re
+SG querer 1-DECL-AUX 1-saber-TRA-DECL se POSS3SG RN-cabeça doer DECL-AUX
+‘Eu quero saber se a cabeça dela está doendo.’
+kwaatsie pæwpæw-e-ro-n-e-re
+sapo pular-ASP-CLV-3-DECL-AUX
+‘O sapo está pulando.’
+Ӡwãw boj-o i-rãw mañumañu n-e-re
+João boi-POSS RN-carne mastigar 3-DECL-AUX
+‘João está mastigando carne de boi.’
+tete-õ-ro õ-e-re i-kaw-ni
+andar-1-CLV 1-DECL-AUX RN-canela-OBL
+‘Eu estou andando a pé.’ (Lit.: ‘Eu estou andando com as canelas.’)
+uru-nake tsuæ-tinu manamana n-e-re
+novo-FEM macaxeira-CLE apertar.RED 3-DECL-AUX
+‘As moças estão amassando massa de macaxeira.’
+pyræ jato atiti oo-ro n-e-re
+rato POSS1PL milho comer.RED-CLV 3-DECL-AUX
+‘Os ratos comeram nosso milho.’
+kurakura-tsĩkwa ii n-e-re
+galináceo-DIM chorar.RED 3-DECL-AUX
+‘O pintinho está piando.’
+kani ewew-ro e-re
+criança arrotar.RED-CLV DECL-AUX
+‘O menino arrotou.’
+kani-tsĩkwa ææ-ro e-re
+criança-DIM vomitar.RED-CLV DECL-AUX
+‘O neném vomitou.’
+ña muj vara-ø-ro-eko mini oj ore-ø-ry e-re ara k-e
+POSS1SG mãe falar-3-CLV-COP hoje 3SG cansar-3-REFL DECL-AUX pouco NEG-DECL
+‘Minha mãe falou que hoje ela está muito cansada,
+ara k-e oreore-ø-ry e-re
+pouco NEG-DECL cansar.RED-3-REFL DECL-AUX
+muito cansada.’
+aj momo-õ-kỹj e-re
+1SG dormir.RED-1-olho DECL-AUX
+‘Eu dormi muito.’
+akiki-mi-ro-õ-to-kũ
+gritar-2-CLV-1-TRA-NEG
+‘Não grita comigo!’
+akiki-e-mi-ro-ø-to-kũ pja papa
+gritar-ASP-2-CLV-3-TRA-NEG POSS2SG pai
+‘Não fica gritando com teu pai!’
+oj ty-e-ro-n-e-re
+3SG movimentar-ASP-CLV-3-DECL-AUX
+‘Ele está indo.’
+aj tutuj-e-ro õ-e-re
+1SG cavar-ASP-CLV 1-DECL-AUX
+‘Eu estou cavando.’
+ña nuti ty-e-ro n-e-re
+POSS1SG neto movimentar-ASP-CLV 3-DECL-AUX
+‘Meu neto está indo embora.’
+itevæ tsere-ũ-to n-e-re
+gente ver-ASP-TRA 3-DECL-AUX
+‘O homem está indo olhar o papagaio.’
+kani i-ũ n-e-re
+criança chorar-ASP 3-DECL-AUX
+‘O neném vai chorar.’
+kani vara-ũ-ro n-e-re
+criança falar-ASP-CLV 3-DECL-AUX
+‘O menino vai falar.’
+e atiti paj-ũ-to-n-e-r
+mulher milho quebrar-ASP-TRA-3-DECL-AUX
+‘A mulher vai quebrar milho.’
+e atiti paj-to-ø-erĩ tso-ũ-to n-e-re
+mulher milho quebrar-TRA-3-COP torrar-ASP-TRA 3-DECL-AUX
+‘A mulher quebrou milho e vai torrar.’
+ajte uruã õ-e-re
+1SG rapaz 1-DECL-AUX1SG
+‘Nós somos rapazes.’
+ña muj kanoe e-re
+1SG mãe Kanoê DECL-AUX
+‘Minha mãe é Kanoê.’
+oj oke kani e-re
+1SG ainda criança DECL-AUX
+‘Ele ainda é criança.’
+aj-re kanoe
+1SG-AUX Kanoê
+‘Eu sou Kanoê.
+mi-re ña tsake-kjũ
+2-AUX POSS1SG outro-MASC
+‘Você é meu amigo ’
+oky mama-re
+cobra moder-AYX
+‘jararaca.’
+epikwã pẽ-re
+amendoim vermelho-AUX
+amendoim vermelho
+uræ ævo-re
+porco homem-AUX
+‘porco macho’
+ojte ævo-re
+3PL homem-AUX
+‘Eles são homens.’
+uræ e-re
+onça mulher-AUX
+‘porco fêmea’
+ojte e-re
+3PL mulher-AUX
+‘Elas são mulheres.’
+mũ aj æky põ-õ-ky õ-no-e-re
+mãe 1SG banana comer-1-CLE 1-VOL-DECL-AUX
+‘Mãe, eu estou querendo comer banana.’
+aj atiti-tekwa o-õ-tekwa õ-e-re
+1SG milho-CLE.semente comer-1-CLE.semente 1-DECL-AUX
+‘Eu estou comendo arroz.’
+oj æky põ-ø-ky no-e-re
+3SG banana comer-3-CLE VOL-DECL-AUX
+‘Ele está querendo comer banana.’
+oj atiti o-ø-ti e-re
+3SG milho comer-3-CLE DECL-AUX
+‘Ele comeu milho.’
+kani mõ-ø-kỹj n-e-re
+criança dormir-3-olho 3-DECL-AU
+‘O menino está dormindo.’
+opera kani mama n-e-re
+onça criança morder 3-DECL-AUX
+‘O cachorro mordeu o menino.’
+kani opera tsere-ø-to e-re
+criança onça ver-3-TRA DECL-AUX
+‘O menino viu o cachorro.’
+opera mo-ø-kỹj e-re
+onça dormir-3-olho DECL-AUX
+‘O cachorro dormiu.’
+kani i n-e-re
+criança chorar 3-DECL-AUX
+‘O menino está chorando.’
+kani iriri-ø-ro e-re
+criança correr-3-CLV DECL-AUX
+‘O menino correu.’
+kani vara-ø-ro e-re
+criança falar-3-CLV DECL-AUX
+‘O menino falou.’
+pja e ña kani vara-ø-ro-ø-to n-e-re
+POSS2SG mulher POSS1SG criança falar-3-CLV-3-TRA 3-DECL-AUX
+‘Tua mulher está falando com meu filho.’
+jato atiti epæ-ro n-e-re
+POSS1PL milho nascer-CLV 3-DECL-AUX
+‘Nosso milho está nascendo.’
+ævo atiti paj-ø-to e-re
+homem milho quebrar-3-TRA DECL-AUX
+‘O homem colheu milho.’ (Lit.: ‘O homem quebrou milho.’)
+atiti uru-ti e-re
+milho novo-CLE DECL-AUX
+‘O milho está verde.’
+e atiti paj-to e-re
+mulher milho quebrar-TRA DECL-AUX
+‘A mulher colheu milho.’
+atiti paj-to e-re mike
+milho quebrar-TRA DECL-AUX já
+‘O milho já está colhido.’
+aj pærætæ-tsĩkwa tsara-õ-to e-re
+1SG panela-DIM esvaziar-1-TRA DECL-AUX
+‘Eu esvaziei a panela pequena.’
+pærætæ-tsĩkwa tsara-to e-re
+panela-DIM esvaziar-TRA DECL-AUX
+‘A panela está vazia.’
+aj mo-õ-kỹj õ-e-re
+1SG dormir-1-CLV 1-DECL-AUX
+‘Eu durmo.’
+mo-õ-kỹj õ-e-re
+dormir-1-CLV 1-DECL-AUX
+‘Durmo.’ ou ‘Dormimos.’
+ajte mo-õ-kỹj õ-e-re
+1PL dormir-1-CLV 1-DECL-AUX
+‘Nós dormimos.’
+kani iriri-ro n-e para-ja n-e rwa-ø-kwa mo-e-re
+criança correr-CLV 3-DECL cair-DIR 3-DECL quebrar-3-braço APL.poss-DECL-AUX
+O menino correu, caiu e quebrou o braço.’ (Lit. aprox.: ‘O menino correu, caiu e tem o braço quebrado.’
+aj mapi-ka ti-õ-ka re õ-e-re
+1SG flecha-CLE.duro esticar-1-CLE.duro matar 1-DECL-AUX
+‘Eu estiquei o arco e matei.’
+aj ña i-ña kotso-ve-nã õ-e-re
+1SG POSS1SG RN-rosto lavar-CLV-rosto 1-DECL-AUX
+‘Eu lavo meu rosto.’
+aj kotso-ve-nã-õ-e-re taja-nã õ-e-re
+1SG lavar-CLV-rosto-1-DECL-AUX enxugar-rosto 1-DECL-AUX
+‘Eu lavo e enxugo meu rosto.’
+kotso-ve-nã õ-e-re taja-nã õ-e-re
+lavar-CLV-rosto 1-DECL-AUX enxugar-rosto 1-DECL-AUX
+‘Lavo e enxugo meu rosto.’
+nã papa pja mujoitenaj i-væ-kuta-ry-ni-ro e-re
+POSS1SG pai POSS2SG tio brigar-DU-cabeça-REFL-3-CLV DECL-AUX
+‘Meu pai e teu tio estão brigando.’
+ojo papa ojo muj i-væ-kuta-ry-ni-ro e-re
+POSS3SG pai POSS3SG mãe brigar-DU-cabeça-REFL-3-CLV DECL-AUX
+‘O pai e a mãe dele estão brigando.’
+jato papa i-væ-kuta-ry-ni-ro e-re
+POSS1PL pai brigar-DU-cabeça-REFL-3-CLV DECL-AUX
+‘Nossos pais estão brigando.’
+uruã mow-kỹj i-væ-kuta-ry-ni-ro e-re
+rapaz dois-MASC brigar-DU-cabeça-REFL-3-CLV DECL-AUX
+‘Os dois rapazes estão brigando.’
+uruã-te i-væ-kuta-ry-ni-ro e-re
+rapaz-COL brigar-DU-cabeça-REFL-3-CLV DECL-AUX
+‘Os rapazes estão brigando.’
+mi aj vara-pe-ro-õ-to k-e-re
+2SG 1SG falar-2-CLV-1-TRA NEG-DECL-AUX
+‘Você não quer falar comigo.’
+pa-pe-t-ãw æky aj-o-ni
+arremessar-2-TRA-IMP banana 1SG-POSS-OBL
+‘Joga as bananas para mim!’
+aj namu oj pe-ø-tso õ-e-re
+1SG remédio 3SG dar-3-dedo 1-DECL-AUX
+‘Eu estou dando remédio a ele.’
+oj ña kani i-ta pe-ø-tso-e-re
+3SG POSS1SG criança RN-pele dar-3-dedo-DECL-AUX
+‘Ele deu roupa a meu filho.’
+aj u-ro-e pe-ø-tso õ-e-re ña kani
+1SG comer-CLV-NLZ dar-1-dedo 1-DECL-AUX POSS1SG criança
+‘Eu estou dando comida a meu filho.’
+aj u-ro-e mĩ pe-pe-tso õ-e-re
+1SG comer-CLV-NLZ 2SG dar-2-dedo 1-DECL-AUX
+‘Eu dou comida a você.’
+aj u-ro-e pe-pe-tso õ-e-re
+1SG comer-CLV-NLZ dar-2-dedo 1-DECL-AUX
+‘Eu te dou comida.’
+mi aj u-ro-e pe-õ-tso mi-e-re
+2SG 1SG comer-CLV-NLZ dar-1-dedo 2-DECL-AUX
+‘Você me dá comida.’
+mi u-ro-e pe-õ-tso mi-e-re
+2SG comer-CLV-NLZ dar-1-dedo 2-DECL-AUX
+‘Você me dá comida.’
+nã nuti ojo atã atiti paj-to n-e-re
+POSS1SG neto POSS3SG tia milho quebrar-TRA 3-DECL-AUX
+‘Meu neto está quebrando milho para a tia dele.’
+aj u-ro-e o-ro-õ-e-re ña kani
+1SG comer-CLV-NLZ segurar-CLV-1-DECL-AUX POSS1SG criança
+‘Eu estou levando comida para meu filho.’
+mi pi-tej-ja-ry-nu mi-tsipiña aj-o-ni
+2SG 2-transportar-DIR-REFL-FUT 2–INT-abacaxi 1SG-POSS-OBL
+‘Você traz abacaxi para mim?’ (Lit.: ‘Você traz consigo abacaxi para mim?’)
+aj æj-mu po-õ-ro õ-e-re ña kani tõ oj tũvo n-e-re
+1SG folha-CLE.líqu fazer-1-CLV 1-DECL-AUX POSS1SG criança porque 3SG adoecer 3-DECL-AUX
+‘Eu estou fazendo chá para meu filho porque ele está doente.’
+ña kani-o i-kuta iva e-re
+POSS1SG criança-POSS RN-cabeça doer DECL-AUX
+‘Meu filho está com dor de cabeça.’ (Lit.: ‘A cabeça de meu filho está doendo.’)
+ũko uru-nake-o muj ña tsyke-kyĵ-o kani ø-memu-ro-to k-e-re
+DEM.dist novo-FEM-POSS mãe POSS1SG outro-MASC-POSS criança] 3-gostar-CLV-TRA NEG-DECL-AUX
+‘A mãe daquela moça não gosta dos filhos de meu amigo.’
+ũko uru-nake-o muj ña tsyke-kyĵ-o kani ø-memu-ro-to k-e-re
+DEM.dist novo-FEM-POSS mãe POSS1SG outro-MASC-POSS criança 3-gostar-CLV-TRA NEG-DECL-AUX
+‘A mãe daquela moça não gosta dos filhos de meu amigo.’
+ña tũ-kwæ-o nuti ojo keke-o tyj-ni mo-ø-kỹj no-e-re
+POSS1SG irmão-MASC-POSS neto POSS3SG avó-POSS casa-OBL dormir-3-olho VOL-DECL-AUX
+‘O neto de meu irmão quer dormir na casa da avó dele.’
+ini-ni
+fogo-OBL
+‘no fogo’
+i-kuta-ni
+RN-cabeça-OBL
+‘na cabeça ‘ ou ‘com a cabeça’
+ña kani-ni
+POSS1SG criança-OBL
+‘com meu filho
+uruã-te ajũkoe-ni twĩtwĩ n-e-re
+rapaz-COL lagoa-OBL nadar.RED 3-DECL-AUX
+‘A rapazeada está nadando na baía.’ ou ‘Os rapazes estão nadando na lagoa.’
+oky twĩ n-e-re tepy-ni
+cobra nadar 3-DECL-AUX terra-OBL
+‘A cobra arrasta-se no chão.’ (Lit.: ‘A cobra nada na terra.’).
+pejake ña kani ojo keke-o tyj-ni mo-ø-kỹj-kũ n-e-re
+amanhã POSS1SG criança POSS3SG avó-POSS casa-OBL dormir-3-olho-NEG 3-DECL-AUX
+‘Amanhã meu filho não vai dormir na casa da avó dele.’
+ña koro ty-e-ro n-e-re ojo tyj-ni
+POSS1SG irmão movimentar-ASP-CLV 3-DECL-AUX POSS3SG casa-OBL
+‘Meu irmão está indo para a casa dele.’
+naj-tsi para-ja n-e-re meja-ni
+lgo-INT cair-DIR 3-DECL-AUX terreiro-OBL
+‘O que está caindo no terreiro?’
+tuture pære n-e-re ojo iñui-ni
+rolinha voar 3-DECL-AUX POSS3SG ninho-OBL
+‘A rolinha está voando para o ninho dela.’
+ña kope-ko-mu tove-ñu para-ja-mu n-e-re
+POSS1SG café-CLE-CLE mel-CLE cair-DIR-CLE 3-DECL-AUX
+Caiu abelha no meu café.
+kani iriri-ro-eko oroe-tinu para-ja-tinu n-e-re
+criança correr-CLV-COP barro-CLE.pastoso cair-DIR-CLE.pastoso 3-DECL-AUX
+‘O menino correu e caiu na lama.’
+aj vyry-õ-tu-mu õ-e-re
+1SG deslocar-1-DIR-CLE 1-DECL-AUX
+‘Eu saio da água.’
+kani iriri-ro-eko para-ja-tinu n-e-re
+criança correr-CLV-COP cair-DIR-CLE 3-DECL-AUX
+‘O menino correu e caiu na lama.’
+kani-te erej puro-ro n-e-re i-kuta-ni
+criança-COL bola jogar-CLV 3-DECL-AUX RN-cabeça-OBL
+‘A meninada está jogando bola com a cabeça.’
+aj ipæ õ-e-re iry mapi-ni
+1SG matar 1-DECL-AUX macaco flecha-OBL
+‘Eu mato macaco com flecha.’
+aj ña i-tso rwa-õ-tso õ-e-re tsutsi-ra-e-tsĩkwa-ni
+1SG POSS1SG RN-dedo cortar-1-dedo 1-DECL-AUX cortar-CLV-NLZ-DIM-OBL
+‘Eu cortei meu dedo com a faca.’
+ajte tsutsi-ra-e-ni tsutsi-õ-ro õ-e-re
+1PL cortar-CLV-NLZ-OBL cortar-1-CLV 1-DECL-AUX
+‘Nós estamos roçando com o terçado.’
+kani ytso-ni æky tutu-e-to e-re
+criança madeira-OBL banana cutucar-ASP-TRA DECL-AUX
+‘O menino está cutucando as bananas com a vara.’
+aj ña i-ña tara pũpũj õ-e-re
+1SG POSS1SG RN-rosto urucum pintar 1-DECL-AUX
+‘Eu estou pintando o rosto com urucum.’
+oj nake ojo kani-o i-ña eremu pũpũj n-e-re
+3SG FEM POSS3SG criança-POSS RN-rosto jenipapo pintar 3-DECL-AUX
+‘Ela está pintando o rosto do filho dela com jenipapo.’
+oj kwini kwini-o-y po n-e-re
+3SG peixe peixe-POSS-espinho capturar 3-DECL-AUX
+‘Ele está pescando com anzol.’
+aj ña uru-kanĩ væũ-to õ-e-re
+1SG POSS1SG novo-criança abanar-TRA 1-DECL-AUX
+‘Eu estou abanando meu bebê.’
+kape-ãw õ-kwa-tsĩkwa pyryry-væ
+vamos-IMP pásssaro-CLE-DIM flechar-DU
+‘Vamos matar passarinho!’
+kamitsi peja-ni ajte itsæ ipæ e-re kaurua-o kæry-ni
+ontem dia-OBL 1PL anta matar DECL-AUX Kauruá-POSS margem-OBL
+‘Ontem de manhã nós matamos uma anta às margens do Kauruá.’
+aj ña koro-ni tyvæ-ro õ-e-re
+1SG POSS1SG irmão-OBL caçar-CLV 1-DECL-AUX
+‘Eu caço com meu irmão.’
+aj ña koro tyvæ-ro õ-e-re
+1SG POSS1SG irmão caçar-CLV 1-DECL-AUX
+‘Eu caço meu irmão.’
+aj itsæ tyvæ-ro õ-e-re
+1SG anta caçar-CLV 1-DECL-AUX
+‘Eu caço anta.’
+aj tyvæ-ro õ-e-re ña koro
+1SG caçar-CLV 1-DECL-AUX POSS1SG irmão
+‘Eu vou caçar com meu irmão.’
+aj kwini po õ-e-re ña kani
+1SG peixe capturar 1-DECL-AUX POSS1SG criança
+‘Eu vou pescar com meu filho.’
+aj po õ-e-re kwini ña kani-ni
+1SG capturar 1-DECL-AUX peixe POSS1SG criança-OBL
+‘Eu vou pescar com meu filho.’
+aj uræ ipæ õ-e-re ña mujoiteñaj-ni
+1SG porco matar 1-DECL-AUX POSS1SG tio-OBL
+‘Eu vou caçar porco junto com meu tio.’
+oj uræ ipæ n-e-re aj-o-ni
+3SG porco matar 3-DECL-AUX 1SG-POSS-OBL
+‘Ele caça porco comigo.’
+aj uræ ipæ õ-e-re mi-o-ni
+1SG porco matar 1-DECL-AUX 2SG-POSS-OBL
+‘Eu caço porco com você.
+ña avae-kỹĵ kwini po-væ-õ-to n-e-re
+POSS1SG primo-MASC peixe capturar-DU-1-TRA 3-DECL-AUX
+‘Meu primo vai pescar comigo.’
+ojo tũ-kwæ ña papa po-væ-ø-turo-to e-re
+POSS3SG irmão-MASC POSS1SG pai trabalhar-DU-3-espaço-TRA DECL-AUX
+‘O irmão dele trabalhou com meu pai.’
+oj po-væ-turo-ø-pe-to-nu n-e-re
+3SG fazer-DU-espaço-3-2-TRA-FUT 3-DECL-AUX
+‘Ele vai trabalhar com você.’ (Lit.: ‘Ele vai estar trabalhando com você.’)
+mi aj punu mi-e-re
+2SG 1SG acompanhar 2-DECL-AUX
+‘Você vai comigo.’ (Lit.: ‘Você vai me acompanhando.’)
+ña e aj punu n-e-re
+POSS1SG mulher 1SG acompanhar 3-DECL-AUX
+‘Minha mulher vai comigo.’ (Lit.: ‘Minha mulher vai me acompanhando.’)
+aj na e punu õ-e-re
+1SG POSS1SG mulher acompanhar 1-DECL-AUX
+‘Eu vou com minha mulher.’ (Lit.: ‘Eu vou acompanhando minha mulher.’)
+aj kanoe õ-e-re
+1SG Kanoê 1-DECL-AUX
+‘Eu sou Kanoê.’
+oj orymape e-re
+1SG pajé DECL-AUX
+Ele é o pajé.
+ña papa eae e-re
+POSS1SG pai tuxaua DECL-AUX
+‘Meu pai é tuxaua.’
+tsinamaty opera-o tũ-nake e-re
+Txinamanty Opera-POSS irmão-FEM DECL-AUX
+‘Txinamanty é irmã de Operá.’
+aj eae õ-e-re
+1SG tuxaua 1-DECL-AUX
+‘Eu sou o chefe.’( Lit.: ‘Eu sou tuxaua.’)
+ajte kanoe õ-e-re tsoke jũ uruã masaka e-re
+1PL Kanoê 1-DECL-AUX mas DEM.prox. rapaz Masaká DECL-AUX
+‘Nós somos Kanoê, mas este rapaz é Masaká (Aikanã).’
+pupaki kanoe ni-k-e-re oj akũtsũ e-re
+Pupaki Kanoê 3-NEG-DECL-AUX 3SG Akuntsum DECL-AUX
+‘Pupaki não é Kanoê, ele é Akuntsum.’
+tsinamaty akũtsũ ni-k-e-re oj kanoe e-re
+Txinamanty Akuntsum 3-NEG-DECL-AUX 3SG Kanoê DECL-AUX
+‘Txinamanty não é Akuntsum, ela é Kanoê.’
+jũ tyj ojo e-re
+DEM.prox casa POSS3SG DECL-AUX
+‘Esta casa é dele.’
+ũko tyj aj-o ni-k-e-re
+DEM.dist casa 1SG-POSS 3-NEG-DECL-AUX
+‘Aquela casa não é minha.’
+jũ mapi-ka ojo ni-tsi
+DEM.prox flecha-CLE.duro POSS3SG 3-INT
+‘Este arco de flecha é dele?’
+ña tyj jũ e-re ña mũj-o tyj ũko e-re
+POSS1SG casa DEM.prox DECL-AUX POSS1SG mãe-POSS casa DEM.dist DECL-AUX
+‘Minha casa é esta, a casa de minha mãe é aquela.’
+jato tyj jũ ni-k-e ũko e-re
+POSS1PL casa DEM.prox 3-NEG-DECL DEM.dist DECL-AUX
+‘Nossa casa não é esta, é aquela.’
+pja tyj jũ ni-tsi
+POSS2SG casa DEM.prox 3-INT
+‘Tua casa é esta?’
+uræ mow e-re
+porco dois DECL-AUX
+‘São dois porcos’.
+ævo mow-kjỹ-e-re
+homem dois-MASC-DECL-AUX
+‘São dois homens’.
+e mõw-nake e-re
+mulher dois-FEM DECL-AUX
+‘São duas mulheres’.
+oj kani mõw-kani e-re
+3SG criança dois-criança DECL-AUX
+‘Ele tem dois filhos.’
+oj kani ara-kani k-e-re
+3SG criança pouco-criança NEG-DECL-AUX
+‘Ele tem muitos filhos.’ (Lit.: ‘Ele tem não poucas crianças.’)
+aj ævo kani mõw-mõw-kỹj e-re
+1SG homem criança dois-dois-MASC DECL-AUX
+‘Eu tenho quatro filhos.’ (Lit.: ‘Eu tenho quatro crianças homens.’)
+oj e kani mõw-pja-nake e-re ma-e-re
+3SG mulher criança dois-um-FEM DECL-AUX também-DECL-AUX
+‘Ele também tem três filhas.’ (Lit.: ‘Ele também tem três crianças mulheres.’
+aj ævo kani mõw-kỹj-e-re e kani mõw-nake e-re
+1SG homem criança dois-MASC-DECL-AUX mulher criança dois-FEM DECL-AUX
+‘Eu tenho dois filhos e duas filhas.’
+itevæ ara k-e-re
+gente pouco NEG-DECL-AUX
+‘É muita gente’.
+kwini ara k-e-re tanaru153-ni
+peixe pouco NEG-DECL-AUX Tanaru-OBL
+‘Havia muito peixe no Tanaru’.
+e ara-kỹj k-e-re
+mulher pouco-MASC NEG-DECL-AUX
+‘São muitos homens.’ (Lit.: ‘Não são poucos homens.’)
+e ara-nake k-e-re
+mulher pouco-FEM NEG-DECL-AUX
+‘São muitas mulheres.’ (Lit.: ‘Não são poucas mulheres.)
+pja i-kỹj voro-pe-kỹj e-re
+POSS2SG RN-olho preto-2-olho DECL-AUX
+‘Teus olhos são pretos.’
+ña mũj uru-nake more-nake e-re
+POSS1SG mãe novo-FEM bom-FEM DECL-AUX
+‘Minha mãe é nova e bonita.’
+ojo e ojo kani more-nake e-re
+POSS3SG mulher POSS3SG criança bom-FEM DECL-AUX
+‘A mulher e a filha dele são bonitas.’
+jato orymape more-kỹj e-re
+POSS1PL pajé bom-MASC DECL-AUX
+‘Nosso pajé é bom.’
+ña papa ña mũjoitẽñaj æ-kỹj e-re
+POSS1SG pai POSS1SG tio gordo-MASC DECL-AUX
+‘Meu pai e meu tio são gordos.’
+atiti karo-ti k-e-re
+milho duro-CLE NEG-DECL-AUX
+‘O milho está mole.’ (Lit.: ‘O milho não está duro.’)
+twĩpæ pira-vi e-re
+curica azul-CLE DECL-AUX
+A curica é verde.’
+epykwã tsu-kwa e-re
+amendoim gostoso-CLE DECL-AUX
+‘O amendoim é gostoso.’
+kometaw uru-taw jũ-taw-e-re tsu-taw-e-re
+fava novo-CLE cozinhar-CLE-DECL-AUX gordo-CLE-DECL-AUX
+‘Feijão verde cozido esta cozido e é gostoso.’
+õkwa-tsĩkwa voro-kwa-e e-re
+pássaro-DIM preto-CLE-NLZ mulher-AUX
+‘O passarinho preto é fêmea.’
+pja tyj ej-turo e-re ña tyj ej-turo e-re ma-e-re
+POSS2SG casa grande-espaço DECL-AUX POSS1SG casa grande-espaço DECL-AUX também-DECL-AUX
+‘Tua casa é tão grande quanto a minha.’ (Lit.: Tua casa é grande espaço, minha casa é grande espaço também’)
+ña tyj ej-turo-e-re pja tyj ej-turo k-e-re
+POSS1SG casa grande-espaço-DECL-AUX POSS2SG casa grande-espaço NEG-DECL-AUX
+‘Minha casa é maior que a tua.’ (Lit.: ‘Minha casa é grande espaço, tua casa não é grande espaço.’)
+u-ro-e tsi-ni-tsi masaka-o atso-ni
+comer-CLV-NLZ ter-3-INT Aikanã-POSS aldeia-OBL
+‘Há comida na aldeia dos Aikanã?’
+u-ro-e tsi ni-k-e-re masaka-o atso-ni
+comer-CLV-NLZ ter 3-NEG-DECL-AUX Aikanã-POSS aldeia-OBL
+‘Não há comida na aldeia dos Aikanã.’
+atiti tsi ni-kũ pja tũ-kwæ-o ñomu-ni
+milho ter 3-NEG POSS2SG irmão-MASC-POSS roça-OBL
+‘Não há milho na roça de teu irmão?’
+atiti tsi e-re ojo ñomu-ni
+milho ter DECL-AUX POSS3SG roça-OBL
+‘Há milho na roça dele’.
+pja i-kuta-ni tẽky pe-tsi mo-e-re
+POSS2SG RN-cabeça-OBL piolho 2-ter APL.poss-DECL-AUX
+‘Há piolho em tua cabeça’. (Lit.: ‘Na tua cabeça tem piolho.’)
+varyvary ara k-e-re akita-ni
+estrela pouco NEG-DECL-AUX céu-OBL
+‘Há muitas estrelas no céu.’
+u-ro-e ara k-e-re ña tyj-ni
+comer-CLV-NLZ pouco NEG-DECL-AUX POSS1SG casa-OBL
+‘Há muita comida na minha casa.’
+vuvuj-ro-e-re ara k-e-re
+ventar-CLV-DECL-AUX pouco NEG-DECL-AUX
+‘Está ventando muito.’
+jũ-ni væ-tsi e-re ara k-e-re
+DEM.prox-OBL chuva-ter DECL-AUX pouco NEG-DECL-AUX
+‘Aqui chove muito.’
+kamitsi itsaj-e-ni vuvuj-ro-e-re ara k-e-re ju-ni
+ontem anoitecer-NLZ-OBL ventar-CLV-DECL-AUX pouco NEG-DECL-AUX DEM.prox-OBL
+‘Ontem à noite ventou muito aqui’.
+ju-ni ikura-tsi e-re
+DEM.prox-OBL calor-ter DECL-AUX
+‘Aqui faz calor.’
+mini peja-ni tunini-tsi e-re jũ-ni
+hoje manhã-OBL frio-ter DECL-AUX DEM.prox-OBL
+‘Hoje de manhã fez muito frio aqui.’
+itsaj e-re
+anoitecer DECL-AUX
+‘É noite.’
+peja e-re
+dia DECL-AUX
+É dia
+itsaj-kaj e-re
+anoitecer-sol DECL-AUX
+‘São seis horas da tarde.’
+kwini-kete y ø-tsi mo-e-re
+peixe-CLE espinho 3-ter APL.poss-DECL-AUX
+‘A traíra tem espinhos.’
+aj aere õ-tsi ni-k-e-re
+1SG machado 1-ter 3-NEG-DECL-AUX
+‘Eu não tenho machado.’
+ña kani tyj ø-tsi mo e-re
+POSS1SG criança casa 3-ter APL.poss DECL-AUX
+‘Meu filho tem casa.’
+aj ponu õ-e-re pja koro-o tyj-ni
+1SG visitar 1-DECL-AUX POSS2SG irmão-POSS casa-OBL
+‘Eu vou visitar a casa de teu irmão mais novo.’
+ku)koe vawe-ni vyry-to e-re
+tatu buraco-OBL deslocar-DIR DECL-AUX
+‘O tatu entrou no buraco.’
+mi pja tyj-ni vyry-pe-tu mi-e-re
+2SG POSS2SG casa-OBL deslocar-2-DIR 2-DECL-AUX
+‘Você sai de sua casa.’
+aj ae-ni uj-õ-væti-e aj ty õ-no-e-re
+1SG mato-OBL ir-1-capim-DECL 1SG movimentar 1-VOL-DECL-AUX
+‘Eu estou indo ao mato e quero voltar.’
+aleʃandri ty n-e-re
+Alexandre movimentar 3-DECL-AUX
+Alexandre levantou-se.’
+aleʃandri tsu-ø-ja e-re
+Alexandre agachar-3-DIR DECL-AUX
+‘Alexandre está agachado.’
+aleʃandri aj-ø-ja e-re
+Alexandre sentar-3-DIR DECL-AUX
+‘Alexandre está sentado.’
+ajte pe-væ-õ-ja õ-e-re
+1PL deitar-DU-1-DIR 1-DECL-AUX
+‘Nós dois estamos deitados juntos.’
+ojte pe-væ-ø-ja n-e-re
+3PL deitar-DU-3-DIR 3-DECL-AUX
+‘Eles dois estão deitados juntos.’
+tsutsira-e-tsĩkwa pe-ø-ja e-re æræræ-ni
+terçado-NLZ-DIM deitar-3-DIR DECL-AUX banco-OBL
+‘A faca está em cima do banco.’ (Lit.: ‘A faca está deitada no banco.’)
+itsote parawe-ni pe-ø-ja e-re
+sapato jirau-OBL deitar-3-DIR DECL-AUX
+‘O sapato está debaixo do jirau.’ (Lit.: ‘O sapato está deitado debaixo do jirau.’)
+mĩ ty mĩ-e-re æræræ-ni
+2SG movimentar 2-DECL-AUX banco-OBL
+‘Você está em pé perto do banco.’
+tekukae pe-ø-ja e-re yki-ni
+pente deitar-3-DIR DECL-AUX marico-OBL
+‘O pente está dentro do marico.’ (‘Lit.: O pente está deitado dentro do marico.’)
+yki pe-ø-ja e-re paparitæ-ni
+marico deitar-3-DIR DECL-AUX mesa-OBL
+‘O marico está na mesa.’ (Lit.: ‘O marico está deitado na mesa.’)
+aj ty õ-e-re æræræ-ni ejũkje-ni
+1SG movimentar 1-DECL-AUX banco-OBL direito-OBL
+‘Eu estou do lado direito do banco.’
+aj pe-õ-ja õ-e-re æræræ-ni kotsoe-ni
+1SG deitar-1-DIR 1-DECL-AUX banco-OBL esquerdo-OBL
+‘Eu estou do lado direito do banco.’
+aj ty õ-e-re æræræ-ni jako mũko-ni
+1SG movimentar 1-DECL-AUX banco-OBL costas atrás-OBL
+‘Eu estou em pé atrás das costas do banco.’
+oj kuni-ni ty-mu n-e-re
+3SG água-OBL movimentar-CLE.líqu 3-DECL-AUX
+‘Ele está em pé dentro do rio.’
+oj kuni-ni pe-ø-ja-mu n-e-re
+3SG água-OBL deitar-3-DIR-CLE.líqu 3-DECL-AUX
+‘Ele está dentro d’água.’ (Lit.: ‘Ele está se deitando dentro d’água.’)
+mũtyry-ko-mu aj itæ e-re
+açaí-CLE.coco-CLE.líqu 1SG beber DECL-AUX
+‘Eu tomei vinho de açaí.’
+atiti-tekwa tepy-ni aj pe-õ-ja õ-e-re
+milho-CLE.semente terra-OBL 1SG deitar-1-DIR 1-DECL-AUX
+‘Eu vou colocar o arroz no chão.’ (Lit.: ‘Eu estou deitando o arroz no chão.’)
+kape-ãw tyvæ-ro neunu uræ ajte ipæ õ-e-re
+vamos-IMP caçar-CLV talvez porco 1PL matar 1-DECL-AUX
+‘Vamos caçar, talvez a gente mate um porco.’
+peutæ tsuæ-tinu oj po-ro-e kjũ-re
+beiju macaxeira-CLE.pastoso 3SG fazer-CLV-NLZ 3.IR-AUX
+‘Ele faz beiju de macaxeira.’ (Lit.: ‘Beiju de massa de macaxeira, ele o faz.’)
+ojo tyj aj tsere-õ-to kjũ-re
+POSS3SG casa 1SG ver-1-TRA 3.IR-AUX
+‘Eu vi a casa dele.’ (Lit: ‘A casa dele, eu a vi.’)
+jũ itevæ aj i-pateñu-to-kjũ kjũ-re
+DEM.prox gente 1SG 1-conhecer-TRA-3.IR 3.IR-AUX
+‘Eu conheci este homem.’ (Lit.: ‘Este homem, eu o conheci.’)
+jũ tsutsi-ra-e-tsĩkwa-ni mĩ uræ re mĩ-k-e-re
+DEM.prox cortar-CLV-NLZ-DIM-OBL 2SG porco matar 2-NEG-DECL-AUX
+‘Com esta faca você não mata o porco.’
+jũ oty-ty-ni aj munaw po-õ-ro e-re
+DEM.prox algodão-CLE-OBL 1SG rede fazer-1-CLV DECL-AUX
+‘Com este fio de algodão eu fiz a rede.’
+kamitsi itsaj-e-ni ojo ævo e i-ø-kuta e-re
+ontem anoitecer-NLZ-OBL POSS3SG homem mulher brigar-3-cabeça DECL-AUX
+Ontem, à noite, o marido agrediu a mulher.’
+pejake ña kani ojo keke-o tyj-ni mõ-ø-kỹj-kũ n-e-re
+amanhã POSS1SG criança POSS3SG avó-POSS casa-OBL dormir-3-CLV-NEG 3-DECL-AUX
+‘Amanhã meu filho não vai dormir na casa da avó dele.’
+mini ajte pæ-væ-ja vajvaj-væ-ro-nu e-re
+hoje 1PL dançar-DU-DIR cantar.RED-DU-CLV-FUT DECL-AUX
+‘Hoje nós vamos dançar e cantar.’
+itsaje-ni ajte pæ-væ-ja õ-e vajvaj-væ-ro no-e-re
+anoitecer-OBL 1PL dançar-DU-DIR 1-DECL cantar.RED-DU-CLV VOL-DECL-AUX
+‘À noite nós queremos dançar e cantar.’
+aj mi vara-õ-ro-pe-to-eko itsaj-e-ni pja papa ty no-e-re
+1SG 2SG falar-1-CLV-2-TRA-COP anoitecer-OBL-NLZ POSS2SG pai movimentar VOL-DECL-AUX
+‘Eu já falei com você que teu pai só chega à noite.’
+ña papa vara-ro-eko mini ojo i-tekwa iva-e ara k-e-re
+POSS1SG pai falar-CLV-COP hoje POSS3SG RN-barriga doer-NLZ pouco NEG-DECL-AUX
+‘Meu pai falou que hoje a barriga dele está doendo muito.’
+jũ-ni atiti-tekwa epæ-ro n-e-re
+DEM.prox-OBL milho-CLE.semente germinar-CLV 3-DECL-AUX
+‘Aqui vai dar arroz.’ (Lit.: ‘Aqui está nascendo arroz.’)
+kuni-tsĩkwa-ni mi aj twa õ-e-re taruy
+água-DIM-LOC 2SG 1SG catar 1-DECL-AUX camarão
+‘No igarapé você e eu vamos pegar camarão no igarapé.’
+neunu ña kani pja tyj-ni uj-pe-nu-n-e-re
+talvez POSS1SG criança POSS2SG casa-OBL ir-2-FUT-3-DECL-AUX
+‘Talvez meu filho vá à tua casa hoje.’
+neunũ pja vae-kỹj kwini po-n-e-re nini mini
+talvez POSS1SG primo-MASC peixe capturar-3-DECL-AUX novamente hoje
+‘Talvez teu primo vá pescar outra vez hoje.’
+nuvi-tsi mi tsere-ũ-to mi-tsi
+algo-INT 2SG ver-ASP-TRA 2-INT
+‘Quem você estava vendo?’
+naj-tsi pja muj-o-ni mi o-mi-ro mi-tsi
+algo-INT POSS2SG mãe-POSS-OBL 2SG levar-2-CLV 2-INT
+‘O que você está levando para tua mãe?’
+naj-n-e to-eko-tsi mi ty mi-kũ
+algo-3-NLZ TRA-COP-INT 2SG movimentar 2-NEG
+‘Por que você não virá?’
+kuni ytsi-væ ajte
+água banhar.-DU 1PL
+‘Nós estamos tomando banho juntos.’
+eremu i-memu-ro õ-e-re aj
+jenipapo 1-gostar-CLV 1-DECL-AUX 1SG
+‘Eu gosto de jenipapo.’
+aj eremu ja õ-k-e-re aj
+1SG jenipapo querer 1-NEG-DECL-AUX 1SG.
+‘Eu não quero jenipapo.’
+aj mike itæ õ-e-re karana-ko-mu
+1SG já beber 1-DECL-AUX patauá-CLE.coco-CLE.líqu
+‘Eu já tomei vinho de patauá.’
+ojo muj ee-to e-re oj kani
+3SG mãe xingar.RED-TRA DECL-AUX 3SG criança
+‘A mãe do menino está xingou-o.’(Lit.: ‘A mãe dele está xingando ele criança.’)
+itsækũmjũ u-ro e-re vætie
+capivara comer-CLV DECL-AUX capim
+‘A capivara comeu capim.’
+aj i-pateñu-pateñu õ-e-re-re votsi-votsi-o va-ro-e
+1SG 1-conhecer.CLV-conhecer 1-DECL-AUXhomem-AUX branco-homembranco-POSS falar-CLV-NLZ
+‘Eu estou sabendo a língua do civilizado.’
+aj ña atã vara-õ-ro-ø-to-eko namũ õ-tsi õ-k-e-re
+1SG POSS1SG tia falar-1-CLV-3-TRA-COP remédio 1-ter 1-NEG-DECL-AUX
+‘Eu disse a minha tia que não tenho remédio.’
+orymape vara-ø-ro-eko ña papa pejake more-kỹj-nu n-e-re
+pajé falar-3-CLV-COP POSS1SG pai amanhã bom-MASC-FUT 3-DECL-AUX
+‘O pajé falou que amanhã meu pai vai ficar bom.’
+mi mati pa-pe-to mi-e-re aj
+2SG fruta arremessar-2-TRA 2-DECL-AUX 1SG
+‘Você joga as frutas para mim.’
+mi aj mati pa-pe-to mi-e-re
+2SG 1SG fruta arremessar-2-TRA 2-DECL-AUX
+‘Você joga as frutas para mim.’
+kamitsi aj pærætæ po-õ-ro e-re ña ãtã
+ontem 1SG panela fazer-1-CLV DECL-AUX POSS1SG tia
+‘Ontem eu fiz panela para minha tia.’
+kamitsi ña ãtã aj pærætæ po-õ-ro e-re
+ontem POSS1SG tia 1SG panela fazer-1-CLV DECL-AUX
+‘Ontem eu fiz panela para minha tia.’
+naj-tsi mi o-mi-ro-mi-tsi pja muj
+algo-INT 2SG segurar-2-CLV-2-INT POSS2SG mãe
+‘O que você está levando para tua mãe?’
+naj-tsi pja muj o-mi-ro mi-tsi
+algo-INT POSS2SG mãe segurar-2-CLV 2-INT
+‘O que você está levando para tua mãe?’
+ajte mo-õ-kỹj no-e-re nini
+1PL dormir-1-olho VOL-DECL-AUX novamente
+‘Nos queremos dormir outra vez.’
+ña i-taw aj-ø-ja e-re nã i-a-ni
+POSS1SG RN-língua sentar-3-DIR DECL-AUX POSSISG RN-boca-OBL
+‘A língua fica na boca’. (Lit.: ‘Minha língua está sentada na boca.’)
+ña i-a-ni ña i-taw aj-ø-ja e-re
+POSSISG RN-boca-OBL POSS1SG RN-língua sentar-3-DIR DECL-AUX
+‘Minha língua está na minha boca.’
+pa-ro mĩ
+ficar-CLV 2SG
+‘Fica tu!’
+i-væ-kuta-ry k-e mow-kỹj
+brigar-DU-cabeça-REFL NEG-DECL dois-MASC
+‘Não briguem vocês dois!’
+aj-j-ãw mi tevæ-mi-ja-ro e-re
+sentar-DIR-IMP 2SG brincar-2-DIR-CLV DECL-AUX
+‘Senta e brinca!’
+kuni tsa-mu
+água buscar-CLE.líqu
+‘Vá buscar água!’
+pe-õ-tso tsutsi-ra-e
+dar-1-dedo cortar-CLV-NLZ
+‘Me dá o terçado!’
+põ-mi-ky-kũ jũ mati
+comer-2-CLE.fruta-NEG DEM.prox fruta
+‘Não coma esta fruta!’
+tapa-pe-tsi-kũ pja koro
+pisar-2-CLV-NEG POSS2SG irmão.mais.novo
+‘Não pisa no teu irmãozinho!’
+tsere-t-ãw ereremu
+ver-TRA-IMP pombo
+‘Veja o pombo!’
+kani ii mi-e-re tsoke aj i-munu-to k-e ja o-k-e-re
+criança chorar.RED 2-DECl-AUX mas 1SG 1-ouvir-TRA NEG-DECL querer 1-NEG-DECL-AUX
+‘Menino, você está chorando, mas eu não quero escutar.’
+okynoe mini mĩ pja kani-ni u-ro-e po-mi-ro mi-tsi
+Okynoé hoje 2SG POSS2SG criança-OBL comer-CLV-NLZ fazer-2-CLV 2-INT
+‘Okynoé, hoje você já fez comida para seu filho?’
+pa aj ivo u no-e-re
+pai 1SG cará come VOL-DECL-AUX
+‘Pai, eu quero comer cará!’
+mu ña tsero tõve mo-e-re
+mãe POSS1SG chicha mel APL.poss-DECL-AUX
+‘Mãe, minha chicha está muito doce!’ (Lit.: ‘Mãe, minha chicha tem doce.’)
+po-ro kani
+fazer-CLV criança
+‘Faz, minha filha!’
+tiri mo-e-re ña minake
+azedo APL.poss-DECL-AUX POSS1SG filha
+‘Está azeda, minha filha!’
+toky para-ø-ja-eko kapajre u-ro n-e-re tu-kwæ
+mamão cair-3-DIR-COP tatu.canastra comer-CLV 3-DECL-AUX irmão-MASC
+‘O mamão caiu e o tatu canastra está comendo, irmão!’
+ña papa nã muj tũvo n-e-re
+POSS1SG pai POSS1SG mãe adoecer 3-DECL-AUX
+‘Meu pai e minha mãe estão doentes.’
+e uru-nake ævo uru-ã poa e-re
+mulher novo-FEM homem novo-grande casar DECL-AUX
+‘A moça e o rapaz se casaram.’
+ña papa na tũ-kwæ ña mũjoitẽñaj tsero itæ n-e-reara ke-e-re
+POSS1SG pai POSS1SG rmão-MASC POSS1SG tio chicha beber 3-DECL-AUX poucoNEG-DECL-AUX
+‘Meu pai, meu irmão e meu tio bebem muita chicha.’
+kamitsi aj iry uræ ipæ õ-e-re
+ontem 1SG macaco porco matar 1-DECL-AUX
+‘Ontem eu matei porco e macaco.’ (Lit.: ‘Ontem eu estava matando porco e macaco.’)
+ajte atiti atiti-tekwa mu õ-e-re
+1PL milho milho-CLE.semente plantar 1-DECL-AUX
+‘Nós plantamos milho e arroz.’
+jato atso-ni ajte tsero tsuæ-kaña atiti-kaña po-õ-ro õ-e-re
+POSS1PL aldeia-OBL 1PL chicha macaxeira-CLE.farinha milho-CLE.farinha fazer-1-CLV 1-DECL-AUX
+‘Na nossa aldeia nós fazemos chicha, farinha de mandioca e farinha de milho.’
+mi ja u-ro mi-tsi atiti-tekwa mu kurakura
+você querer comer-CLV 2-INT milho-CLE.semente com galináceo
+‘Você quer comer arroz com galinha?’
+aj i-memu-ro e-re atiti-tekwa mu kurakura
+1SG 1-gostar-CLV DECL-AUX milho-CLE.semente com galinha
+‘Eu gosto de arroz com galinha.’
+aj kwini mu atiti-tekwa i-memu-ro õ-e-re ara k-e-re
+1SG peixe com milho-CLE 1-gostar-CLV 1-DECL-AUX pouco NEG-DECL-AUX
+‘Eu gosto muito de peixe com arroz.’
+aj kwini o-õ-ro õ-e-re ña muj ña papa
+1SG peixe segurar-1-CLV 1-DECL-AUX POSS1SG mãe POSS1SG pai
+‘Eu estou levando peixe para meu pai e minha mãe.’
+ña nũti epykwã kæj-to n-e-re ojo keke ojo ãtã
+POSS1SG neto amendoim arrancar-TRA 3-DECL-AUX POSS3SG avó POSS3SG tia
+‘Meu neto está arrancando amendoim para a avó dele e a tia dele.’
+ña kani u-ro-e o-ro no-e-re ojo tsutsu ojo keke
+POSS1SG criança comer-CLV-NOM segurar-CLV VOL-DECL-AUX POSS3SG avô POSS3SG avó
+‘Minha filha quer levar comida para o avô e a avó dela.’
+ajte kwini po õ-e-re kuni-mu-ni ajũkoe-ni
+1PL peixe capturar 1-DECL-AUX água-CLE.líqu-OBL lagoa-OBL
+‘Nós pescamos no rio e na lagoa.’
+na opera ojo i-kuta-ni ojo i-ako-ni ñoña ø-tsi mo-e-re
+POSS1SG onça POSS3SG RN-cabeça-OBL POSS3SG RN-costas-OBL pereba 3-ter APL.poss-DECL-AUX
+‘Meu cachorro tem pereba na cabeça dele e nas costas dele.’
+tsu-kwæ uræ ipæ n-e-re mapi-ka-ni mapi-ni
+nu-MASC porco matar 3-DECl-AUX flecha-CLE.duro-OBL flecha-OBL
+‘O índio caça porco com arco e flecha.’
+ojte kotso-ve-nã n-e-re kuni-ni purene-ni
+3PL lavar-CLV-rosto 3-DECL-AUX água-OBL sabão-OBL
+‘Eles estão lavando o rosto com água e sabão.’
+itsaj-e-ni peja-e-ni wæ-tsi ara k-e-re kamitsi
+anoitecer-NLZ-OBL dia-NLZ-OBL chuva-ter pouco NEG-DECL-AUX ontem
+‘Ontem choveu muito de dia e de noite.’
+kurakura ævo vajvaj-ro n-e-re peja-e-ni itsaj-e-ni
+galináceo homem cantar.RED-CLV 3-DECL-AUX serdia-NLZ-OBL anoitecer-NLZ-OBL
+‘O galo canta de dia e de noite.’
+na koro po-ø-turo-n-e-re ña tsutsu ña papa
+POSS1SG irmão trabalhar-3-IN-3-DECL-AUX POSS1SG avô POSS1SG pai
+‘Meu irmão mais novo está trabalhando com meu pai e meu avô.’
+aj itsækũmjũ ipæ õ-e-re ña papa ña koro
+1SG capivara matar 1-DECL-AUX POSS1SG pai POSS1SG irmão.mais.novo)
+‘Eu vou matar capivara com meu pai e meu irmão caçula
+ævo tũvo n-e-re pejake nũj-turo n-e-re
+homem adoecer 3-DECL-AUX amanhã morrer-espaço 3-DECL-AUX
+‘O homem está doente, vai morrer amanhã.’
+ña munaw jũ e-re ña tũ-kwæ-o munaw uko e-re
+POSS1SG rede DEM.prox DECL-AUX POSS1SG irmão-MASC-POSS rede DEM.dist DECL-AUX
+‘Minha rede é esta, a rede do meu irmão é aquela.’
+oj ñomu-ni uj n-e-re tsuæ o-ro n-e-re
+3SG roça-OBL ir 3-DECL-AUX macaxeira segurar-CLV 3-DECL-AUX
+‘Ele foi à roça e está trazendo macaxeira.’
+uruã more-kỹj e-re uru-nake more-nake e-re
+rapaz bom-MASC DECL-AUX novo-FEM bom-FEM DECL-AUX
+‘O rapaz está bonito, a moça está bonita.’
+aj vajvaj-e ja õ-k-e pæ-ja-e ja õ-k-e-re
+1SG cantar.RED-NLZ querer 1-NEG-DECL dançar-DIR-NLZ querer 1-NEG-DECL-AUX
+‘Eu não quero cantar, nem dançar.’
+aj kwini ja õ-k-e atiti-tekwa ja õ-k-e-re
+1SG peixe querer 1-NEG-DECL milho-CLE.semente querer 1-NEG-DECL-AUX
+‘Eu não quero peixe, nem quero arroz.’
+oj vajvaj ni-tsi pæ-ja ni-tsi
+3SG cantar.RED 3-INT dançar-DIR 3-INT
+‘Ele vai cantar e dançar?’
+mi vajvaj mi-kũ pæ-ja mi-kũ
+3SG cantar.RED 2-NEG dançar-DIR 2-NEG
+‘Você não vai cantar nem dançar?’ (Lit.: ‘Você não vai cantar, não vai dançar?’)
+opera-tsĩkwa ty-ø-to-mu e-re pe-ø-ja e-re æræræ-ni
+onça-DIM movimentar-3-DIR-DIR DECL-AUX deitar-3-DIR DECL-AUX banco-OBL
+‘O gato subiu e deitou no banco.’
+kani iriri-ro-n-e para-O-ja n-e rwa-O-kwa mo-e-re
+criança correr-CLV-3-DECL cair-3-DIR 3-DECL quebrar-3-braço APL.poss-DECL-AUX
+‘O menino correu, caiu e quebrou o braço.’
+aj pja uru-nake i-memu-ro õ-e ara k-e-re tsoke oj nakeaj ø-memu-ro ni-k-e-re
+1SG POSS2SG novo-FEM 1-gostar-CLV 1-DECL pouco NEG-DECL-AUX mas 3SG FEM1SG 3-gostar-CLV 3-NEG-DECL-AUX
+‘Eu gosto muito de sua filha, mas ela não gosta de mim.’
+aj u-ro no-e tsoke oke u-ro o-k-e-re
+1SG comer-CLV VOL-DECL mas ainda comer-CLV 1-NEG-DECL-AUX
+‘Eu estou com fome, mas ainda não vou comer.’
+ña muj majkamu155-ro e-re tsoke aj i-munu-to k-e-re
+POSS1SG mãe chamar-CLV DECL-AUX mas 1SG 1-ouvir-TRA NEG-DECL-AUX
+Minha mãe chamou, mas eu não escutei.’
+oj ja vara-ø-ro-õ-to n-e tsoke aj ja õ-k-e-re
+3SG querer falar-3-CLV-1-TRA 3-DECL mas 1SG querer 1-NEG-DECL-AUX
+‘Ele quer falar comigo, mas eu não quero (falar com ele).’
+aj vavo pej-õ-kaj e-re ja õ-e-re u-ro-e tsoke vavo more ni-k-e-re etẽ-a e-re
+1SG batata assar-1-CLG DECL-AUX querer 1-DECL-AUX comer-CLV-NLZ mas batata bom 3-NEG-DECL-AUX estragar-APL DECL-AUX
+‘Eu assei batata, queria comer, mas a batata não presta, está estragada.’
+oj uræ tyværo kũkoe tyværo tsoke re ni-k-e-re
+1SG porco caçar.CLV tatu caçar mas matar 3-NEG-DECL-AUX
+Ele caçou porco, caçou tatu, mas não matou.’
+kape-ãw iriri-õ-ro vujvuj-ro-e ty no-e-re
+vamos-IMP correr-1-CLV ventar.RED-CLV-NLZ movimentar VOL-DECL-AUX
+‘Vamos correr porque quer cair um temporal.’
+ña tyj aj koro-ro õ-e-re pæ-turo k-e-re ña tyj
+POSS1SG casa 1SG varrer-CLV 1-DECL-AUX branco-espaço NEG-DECL-AUX POSS1SG casa
+‘Eu estou varrendo minha casa porque está suja.’ (Lit.: ‘Minha casa eu estou varrendo, não está branca minha casa.’)
+aj mi tævæ-ja-pe-to õ-k-e-re mini aj mo-õ-kỹj no-e-re
+1SG 2SG brincar-DIR-2-TRA 1-NEG-DECL-AUX hoje 1SG dormir-1-olho VOL-DECL-AUX
+‘Eu não vou brincar com você agora porque quero dormir.’
+ña ãtã aj vara-ø-ro-õ-to-eko ña vae-nake oj-ø-twa-evoro-ø-tsi ara k-e-re
+POSS1SG tia 1SG falar-3-CLV-1-TRA-COP POSS1SG primo-FEM gripar-3-CLV-DECLfebre-3-ter pouco NEG-DECL-AUX
+‘Minha tia me disse que minha prima está gripada e tem muita febre.’
+aj varevare-õ-to õ-e-re
+1SG remar.RED-1-TRA 1-DECL-AUX
+‘Eu estou remando.’
+ña e aj punu n-e-re
+POSS1SG mulher 1SG acompanhar 3-DECL-AUX
+‘Minha mulher vai comigo.’ (Lit.: ‘Minha mulher vai me acompanhando.’
+ña tyj jũ e-re ña mũj-o tyj ũko e-re
+POSS1SG casa DEM.prox DECL-AUX POSS1SG mãe-POSS casa DEM.dist DECL-AUX
+‘Minha casa é esta, a casa de minha mãe é aquela.’
+oj e kani mõw-pja-nake e-re ma-e-re
+3SG mulher criança dois-um-FEM DECL-AUX também-DECL-AUX
+‘Ele também tem três filhas.’ (Lit.: ‘Ele também tem três crianças mulheres.’)
+ña papa ña mũjoitẽñaj æ-kỹj e-re
+POSS1SG pai POSS1SG tio gordo-MASC DECL-AUX
+‘Meu pai e meu tio são gordos.’
+kamitsi itsaj-e-ni vuvuj-ro-e-re ara k-e-re ju-ni
+ontem anoitecer-NLZ-OBL ventar-CLV-DECL-AUX pouco NEG-DECL-AUX DEM.prox-OBL
+‘Ontem à noite ventou muito aqui’.
+peja e-re
+dia DECL-AUX
+‘É dia.’
+aleʃandri ty n-e-re
+Alexandre movimentar 3-DECL-AUX
+‘Alexandre levantou-se.’
+aleandr aj-ø-ja e-re
+Alexandre sentar-3-DIR DECL-AUX
+‘Alexandre está sentado.’
+aj pe-õ-ja õ-e-re æræræ-ni kotsoe-ni
+1SG deitar-1-DIR 1-DECL-AUX banco-OBL esquerdo-OBL
+‘Eu estou deitado do lado esquerdo do banco.’
+kape-ãw tyvæ-ro neunu uræ ajte ipæ õ-e-re
+vamos-IMP caçar-CLV talvez porco 1PL matar 1-DECL-AUX
+Vamos caçar, talvez a gente mate um porco.’
+kamitsi itsaj-e-ni ojo ævo e i-ø-kuta e-re
+ontem anoitecer-NLZ-OBL POSS3SG homem mulher brigar-3-cabeça DECL-AUX
+‘Ontem, à noite, o marido agrediu a mulher.’
+kuni-tsĩkwa-ni mi aj twa õ-e-re taruy
+água-DIM-LOC 2SG 1SG catar 1-DECL-AUX camarão
+‘No igarapé você e eu vamos pegar camarão no igarapé.’
+naj-tsi pja muj-o-ni mi o-mi-ro mi-tsi
+algo-INT POSS2SG mãe-POSS-OBL 2SG levar-2-CLV 2-INT
+‘Por que você não virá?’
+pa-ro mi
+ficar-CLV 2SG
+‘Fica tu!’
+kani ii mi-e-re tsoke aj i-munu-to k-e ja o)-k-e-re
+criança chorar.RED 2-DECl-AUX mas 1SG 1-ouvir-TRA NEG-DECL querer 1-NEG-DECL-AUX
+‘Menino, você está chorando, mas eu não quero escutar.’
+toky para-ø-ja-eko kapajre u-ro n-e-re tu-kwæ
+mamão cair-3-DIR-COP tatu.canastra comer-CLV 3-DECL-AUX irmão-MASC
+‘O mamão caiu e o tatu canastra está comendo, irmão!’
+ña papa na tũ-kwæ ña mũjoitẽñaj tsero itæ n-e-re ara ke-e-re
+POSS1SG pai POSS1SG rmão-MASC POSS1SG tio chicha beber 3-DECL-AUX pouco NEG-DECL-AUX
+‘Meu pai, meu irmão e meu tio bebem muita chicha.’
+tsu-kwæ uræ ipæ n-e-re mapi-ka-ni mapi-ni
+nu-MASC porco matar 3-DECl-AUX flecha-CLE.duro-OBL flecha-OBL
+‘O índio caça porco com arco e flecha.’
+kurakura ævo vajvaj-ro n-e-re peja-e-ni itsaj-e-ni
+galináceo homem cantar.RED-CLV 3-DECL-AUX serdia-NLZ-OBL anoitecer-NLZ-OBL
+‘Ontem choveu muito de dia e de noite.’
+aj itsækũmjũ ipæ õ-e-re ña papa ña koro
+1SG capivara matar 1-DECL-AUX POSS1SG pai POSS1SG irmão.mais.novo)
+‘Eu vou matar capivara com meu pai e meu irmão caçula.’
+mi vajvaj mi-kũ pæ-ja mi-ku
+3SG cantar.RED 2-NEG dançar-DIR 2-NEG
+‘Você não vai cantar nem dançar?’ (Lit.: ‘Você não vai cantar, não vai dançar?’)
+aj pja uru-nake i-memu-ro õ-e ara k-e-re tsoke oj nake aj ø-memu-ro ni-k-e-re
+1SG POSS2SG novo-FEM 1-gostar-CLV 1-DECL pouco NEG-DECL-AUX mas 3SG FEM 1SG 3-gostar-CLV 3-NEG-DECL-AUX
+‘Eu gosto muito de sua filha, mas ela não gosta de mim.’
+aj vavo pej-õ-kaj e-re ja õ-e-re u-ro-e tsoke vavo more ni-k-e-re etẽ-a e-re
+1SG batata assar-1-CLG DECL-AUX querer 1-DECL-AUX comer-CLV-NLZ mas batata bom 3-NEG-DECL-AUX estragar-APL DECL-AUX
+‘Eu assei batata, queria comer, mas a batata não presta, está estragada
+aj kwinĩ po õ-k-e-re uræ ipæ õ-k-e-re tõ tũvo o-e-re
+1SG peixe capturar 1-DECL-NEG-AUX porco matar 1-DECL-NEG-AUX porque adoecer 1-DECL-AUX
+‘Eu não vou pescar nem caçar porco porque estou doente.’
+na kani tsurune-kaña po-ø-ro-eko o-õ-kaña tsu-kaña-e-re
+POSS1SG criança paçoca-CLE.farinha fazer-3-CLV-COP comer-1-CLEfarinha gostoso-CLE-DECL-AUX
+‘Minha filha fez paçoca e eu comi paçoca gostosa.’
+aj kapore re o-eko para-O-ja n-e-re
+1SG jacu matar 1-COP cair-3-DIR 3-DECL-AUX
+‘Eu acertei o jacu e está caindo.’
+oj vara-ø-ro eko pja koro ty no-e-re
+1SG falar-3-CLV COP POSS1SG irmão.mais.novo movimentar VOL-DECL-AUX
+‘Ele está avisando que teu irmão mais novo quer chegar.’
+orymape vara-ø-ro ekoña papa pejake more-kỹj e-re
+pajé falar-3-CLV COP POSS1SG pai amanhãbom-MASC DECL-AUX
+‘O pajé falou que meu pai vai estar bom amanhã.’
+aj i-jẽ-to-e-re mapi po-ro-e
+1SG 1-saber-TRA-DECL-AUX flecha fazer-CLV-NLZ
+‘Eu sei fazer flecha.’
+mi pi-jẽ-to-kũ twĩ-n-e
+2SG 2-saber-TRA-NEG nadar-3-NLZ
+‘Você não sabe nadar?’
+aj ña kani va-õ-ro e-re kwinĩ po-n-e
+1SG POSS1SG criança mandar-1-CLV DECL-AUX peixe capturar-3-NLZ
+‘Eu mandei meu filho pescar.’
+ojo papa va-ø-ro-e-re oj mapi-ka po-ø-ro-e
+POSS3SG pai mandar-3-CLV-DECL-AUX 3SG flecha-CLE.duro fazer-3-CLV-DECL
+‘O pai dele mandou ele fazer arco de flecha.’
+aj ña kani va-õ-ro-õ-e-re mo-ø-kỹj-e-re ojo munaw-ni
+1SG POSS1SG criança mandar-1-CLV-DECL-1-AUX3SG dormir-3-CLV-DECL-AUX POSS3SG rede-OBL
+‘Eu estou mandando meu filho dormir na rede dele.’
+nã mũj vara-ø-ro-õ-to-eko aj kuni tsa-mu õ-e-re
+POSS1SG mãe falar-3-CLV-1-TRA-COP 1SG água buscar-CLE.líqu 1-DECL-AUX
+‘Minha mãe me pediu e eu estou indo eu buscar água.’
+kani i n-e-re tõ para-ø-ja n-eko rwa-roko e-re
+criança chorar 3-DECL-AUX porque cair-3-DIR 3-COP quebrar-joelho DECL-AUX
+‘O menino está chorando porque caiu e quebrou o joelho.’
+opera uryketa e-re tõ tũvo n-e-re
+onça magro DECL-AUX porque adoecer 3-DECL-AUX
+‘O cachorro está magro porque está doente.’
+ña keke tẽpũ-nake e-re pja keke tẽpũ-nake ma-e-re
+POSS1SG avó velho-FEM DECL-AUX POSS2SG avó velho-FEM também-DECL-AUX
+‘Minha avó é tão velha quanto a tua.’ (Lit.: ‘Minha avó está velha, tua avó está velha também.’)
+ña i-ta more-ta e-re pja i-ta more-ta ni-k-e-re
+POSS1SG RN-pele bom-pele DECL-AUX POSS2SG RN-pele bom-pele 3-NEG-DECL-AUX
+‘Minha roupa é melhor que a sua.’ (Lit.: ‘Minha pele é boa, tua pele não é boa.’)
+nẽko na papa ja ni-k-e-re aj twĩtwĩ õ-e-re ajũkoe-ni
+embora POSS1SG pai querer 3-NEG-DECL-AUX 1SG nadar.RED 1-DECL-AUX lagoa-OBL
+‘Embora meu papai não queira, eu estou nadando na baía.’
+mini væ-tsi-e neko aj tyvæ-ro õ-k-e-re
+hoje chuva-ter-NLZ COND 1SG caçar-CLV 1-NEG-DECL-AUX
+‘Se chover hoje, não vou caçar.’
+mĩ ña muj tsere-pe-to neko vara-pe-to eko ña mũj aj kwini po õ-e-re jũ tsituro-ni
+2SG POSS1SG mãe ver-2-TRA COND falar-2-TRA COP POSS1SG mãe 1SG peixe capturar 1-DECL-AUX DEM.prox lugar-OBL
+‘Se você vir minha mãe, diga-lhe que estou pescando neste lugar.
+vævætsi-e pej-o nu-eko ivo mu-væ õ-e-re
+chuva.REDter-NLZ parar-INTR FUT-COP cará plantar-DU 1-DECL-AUX
+‘Quando a chuva parar, vamos plantar cará.’
+jato koro ty nu-eko itsaj-nu n-e-re
+POSS1PL irmão movimentar FUT-COP anoitecer-FUT 3-DECL-AUX
+‘Nosso irmão vai chegar quando anoitecer.’
+aj atiti me-õ-ja õ-eko oky mama õ-e-re
+1SG milho plantar-1-DIR 1-COP cobra morder 1-DECL-AUX
+‘Quando eu estava plantando milho, uma cobra me mordeu.’
+mapĩkwari itevæ po n-e-re u n-ehĩ
+mapinguari gente capturar 3-DECL-AUX comer 3-COP
+‘O mapinguari pega gente para comer.’
+ña ãtã veo-õ-to eko aj namu õ-tsi mo-e-re pe-ø-tso õ-erĩ ña vae-nake
+POSS1SG tia perguntar-1-TRA COP 1SG remédio 1-ter APL.poss-DECL-AUX dar-3.dedo-DECL 1-COP POSS1SG primo-FEM
+‘Minha tia me perguntou se eu tenho remédio para dar para minha prima.’
+arak-e-re-itveǽ
+Pouco.NEG-DECL-AUX-gente
+Muitos homens
+ũko-itveǽ
+Dem.dist-gente
+Aquele Homem
+jũ-itveǽ
+dem.prox-gente
+Este homem
+kani tsere-õ-to-kjũ kjũ-re
+criança ver-1-TRA-3.IR 3.IR-AUX
+‘Eu vi um menino.’ (Li: ‘Eu vi uma criança.’)
+numunu i-væ-kuta-ry-n-e kjũ-re
+borduna brigar-DU-cabeça-REFL-3-NLZ 3.IR-AUX
+‘Borduna serve para brigar.’

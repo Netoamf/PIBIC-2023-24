@@ -1,0 +1,15 @@
+Relatório de Segmentação Morfológica usando BPE
+Linguagem: arawete
+Intervalo de merges: 1-1000
+Diretório de saída: ./output
+Coberturas:
+1 merges: 12.92% cobertura
+101 merges: 51.98% cobertura
+201 merges: 59.81% cobertura
+301 merges: 62.88% cobertura
+401 merges: 63.21% cobertura
+501 merges: 62.55% cobertura
+601 merges: 62.69% cobertura
+701 merges: 62.69% cobertura
+801 merges: 62.69% cobertura
+901 merges: 62.69% cobertura

@@ -1,0 +1,21 @@
+BPE: i v | Linguist: i v
+BPE: d u t | Linguist: d u t
+BPE: d a | Linguist: d a
+BPE: i v | Linguist: i v
+BPE: d u t | Linguist: d u t
+BPE: v | Linguist: v
+BPE: d a | Linguist: d a
+BPE: d a | Linguist: d a
+BPE: i v | Linguist: i v
+BPE: i v | Linguist: i v
+BPE: d u n | Linguist: d u n
+BPE: d u n | Linguist: d u n
+BPE: i j | Linguist: i j
+BPE: i v | Linguist: i v
+BPE: i j | Linguist: i j
+BPE: d a | Linguist: d a
+BPE: d a | Linguist: d a
+BPE: i v | Linguist: i v
+BPE: i v | Linguist: i v
+BPE: i v | Linguist: i v
+BPE: d a | Linguist: d a

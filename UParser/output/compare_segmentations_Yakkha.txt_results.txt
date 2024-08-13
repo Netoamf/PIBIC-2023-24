@@ -1,0 +1,2631 @@
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 1, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 2, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 4, Coverage: 0.46%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 8, Coverage: 0.84%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 16, Coverage: 0.80%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 32, Coverage: 2.92%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 64, Coverage: 3.34%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 128, Coverage: 4.14%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 256, Coverage: 4.14%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 512, Coverage: 4.14%
+Grammar: ./data\Yakkha.txt, Iterations: 1, New Segments: 1024, Coverage: 4.14%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 1, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 2, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 4, Coverage: 0.72%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 8, Coverage: 5.20%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 16, Coverage: 5.73%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 32, Coverage: 9.15%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 64, Coverage: 10.78%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 128, Coverage: 13.17%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 256, Coverage: 15.57%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 512, Coverage: 17.58%
+Grammar: ./data\Yakkha.txt, Iterations: 2, New Segments: 1024, Coverage: 18.56%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 1, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 2, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 4, Coverage: 5.05%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 8, Coverage: 6.95%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 16, Coverage: 7.67%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 32, Coverage: 11.66%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 64, Coverage: 18.79%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 128, Coverage: 26.12%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 256, Coverage: 32.12%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 512, Coverage: 37.78%
+Grammar: ./data\Yakkha.txt, Iterations: 4, New Segments: 1024, Coverage: 44.00%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 1, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 2, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 4, Coverage: 5.20%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 8, Coverage: 7.25%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 16, Coverage: 9.11%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 32, Coverage: 14.77%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 64, Coverage: 23.20%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 128, Coverage: 28.02%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 256, Coverage: 33.83%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 512, Coverage: 41.00%
+Grammar: ./data\Yakkha.txt, Iterations: 8, New Segments: 1024, Coverage: 47.27%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 1, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 2, Coverage: 0.27%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 4, Coverage: 5.20%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 8, Coverage: 7.67%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 16, Coverage: 9.11%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 32, Coverage: 16.86%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 64, Coverage: 24.11%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 128, Coverage: 29.69%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 256, Coverage: 34.70%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 512, Coverage: 41.12%
+Grammar: ./data\Yakkha.txt, Iterations: 16, New Segments: 1024, Coverage: 47.72%
+a correspondência encontrada
+Linha alvo: 'cum i' - Nenhuma correspondência encontrada
+Linha alvo: 'o pomma' - Nenhuma correspondência encontrada
+Linha alvo: 'ke saŋ ke saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'kam' - Segmentos correspondentes: 'kam' (com 1 palavras em comum)
+Linha alvo: 'cog wa' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'kucuma' - Segmentos correspondentes: 'kucuma' (com 1 palavras em comum)
+Linha alvo: 'khas a nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pi ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tumok pe na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'baʔ lo' - Nenhuma correspondência encontrada
+Linha alvo: 'pe sa ra ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'khe i ŋ a' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'khe i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'kucuma' - Segmentos correspondentes: 'kucuma' (com 1 palavras em comum)
+Linha alvo: 'sy a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'ak ka ca' - Nenhuma correspondência encontrada
+Linha alvo: 'sy a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'n yupma' - Nenhuma correspondência encontrada
+Linha alvo: 'm ba' - Segmentos correspondentes: 'm ba' (com 2 palavras em comum)
+Linha alvo: 'eŋ gamnibak' - Nenhuma correspondência encontrada
+Linha alvo: 'u ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'u ma ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'y yog a n niŋ bi' - Nenhuma correspondência encontrada
+Linha alvo: 'tabhaŋ' - Segmentos correspondentes: 'tabhaŋ' (com 1 palavras em comum)
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'tas wa ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'jammai jammai jammai' - Nenhuma correspondência encontrada
+Linha alvo: 'lokondi' - Segmentos correspondentes: 'lokondi' (com 1 palavras em comum)
+Linha alvo: 'u chim' - Nenhuma correspondência encontrada
+Linha alvo: 'u phaŋ ci' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'babu' - Segmentos correspondentes: 'babu' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'babu' - Segmentos correspondentes: 'babu' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'babu ci' - Segmentos correspondentes: 'babu ci' (com 2 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'babu ci' - Segmentos correspondentes: 'babu ci' (com 2 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'kham' - Segmentos correspondentes: 'kham' (com 1 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'kham' - Segmentos correspondentes: 'kham' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'toŋba' - Segmentos correspondentes: 'toŋba' (com 1 palavras em comum)
+Linha alvo: 'imin' - Segmentos correspondentes: 'imin' (com 1 palavras em comum)
+Linha alvo: 'et u ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'toŋba ci' - Segmentos correspondentes: 'toŋba ci' (com 2 palavras em comum)
+Linha alvo: 'khumdu ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'khumdu ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kha ci' - Segmentos correspondentes: 'kha ci' (com 2 palavras em comum)
+Linha alvo: 'ucun ha c em' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha ci' - Segmentos correspondentes: 'ŋkha ci' (com 2 palavras em comum)
+Linha alvo: 'ucun ha c em' - Nenhuma correspondência encontrada
+Linha alvo: 'na go' - Segmentos correspondentes: 'na go' (com 2 palavras em comum)
+Linha alvo: 'ucun na' - Nenhuma correspondência encontrada
+Linha alvo: 'ha' - Segmentos correspondentes: 'ha' (com 1 palavras em comum)
+Linha alvo: 'imin' - Segmentos correspondentes: 'imin' (com 1 palavras em comum)
+Linha alvo: 'ka ma ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'khem' - Segmentos correspondentes: 'khem' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'philm' - Segmentos correspondentes: 'philm' (com 1 palavras em comum)
+Linha alvo: 'so ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'men na i' - Segmentos correspondentes: 'men na i' (com 3 palavras em comum)
+Linha alvo: 'honna be jhen' - Segmentos correspondentes: 'honna be jhen' (com 3 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'jaŋgal we' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'khy a masa' - Nenhuma correspondência encontrada
+Linha alvo: 'men na i' - Segmentos correspondentes: 'men na i' (com 3 palavras em comum)
+Linha alvo: 'paghyam' - Segmentos correspondentes: 'paghyam' (com 1 palavras em comum)
+Linha alvo: 'honna' - Segmentos correspondentes: 'honna' (com 1 palavras em comum)
+Linha alvo: 'eko se' - Segmentos correspondentes: 'eko se' (com 2 palavras em comum)
+Linha alvo: 'jal' - Segmentos correspondentes: 'jal' (com 1 palavras em comum)
+Linha alvo: 'wa ya masa na' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakhaʔla' - Segmentos correspondentes: 'nnakhaʔla' (com 1 palavras em comum)
+Linha alvo: 'cok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'honna' - Segmentos correspondentes: 'honna' (com 1 palavras em comum)
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'bhirik phaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lond uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ ŋa' - Segmentos correspondentes: 'uŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'hoŋma ŋa' - Segmentos correspondentes: 'hoŋma ŋa' (com 2 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'mina' - Segmentos correspondentes: 'mina' (com 1 palavras em comum)
+Linha alvo: 'yoŋ' - Segmentos correspondentes: 'yoŋ' (com 1 palavras em comum)
+Linha alvo: 'yaŋ kheʔ ma si meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nis uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'uŋ ŋa' - Segmentos correspondentes: 'uŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'hattapatta' - Segmentos correspondentes: 'hattapatta' (com 1 palavras em comum)
+Linha alvo: 'honna' - Segmentos correspondentes: 'honna' (com 1 palavras em comum)
+Linha alvo: 'yoŋ' - Segmentos correspondentes: 'yoŋ' (com 1 palavras em comum)
+Linha alvo: 'lab uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'liŋkha ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'lagi' - Segmentos correspondentes: 'lagi' (com 1 palavras em comum)
+Linha alvo: 'hoŋkhaʔla oŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋkhiŋ se' - Segmentos correspondentes: 'hoŋkhiŋ se' (com 2 palavras em comum)
+Linha alvo: 'hoŋkhaʔniŋ' - Segmentos correspondentes: 'hoŋkhaʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'ten beʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'yalumma' - Segmentos correspondentes: 'yalumma' (com 1 palavras em comum)
+Linha alvo: 'a mum ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'so saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka ya' - Segmentos correspondentes: 'ka ya' (com 2 palavras em comum)
+Linha alvo: 'honnhe maŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khe me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'mit a' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'cok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'mas a by a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'yuncamakekek' - Segmentos correspondentes: 'yuncamakekek' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'ŋ ga ya masa' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'desan masan' - Nenhuma correspondência encontrada
+Linha alvo: 'n da me' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ŋ na le' - Nenhuma correspondência encontrada
+Linha alvo: 'pheri' - Segmentos correspondentes: 'pheri' (com 1 palavras em comum)
+Linha alvo: 'khaʔla maŋ ba' - Nenhuma correspondência encontrada
+Linha alvo: 'sala' - Segmentos correspondentes: 'sala' (com 1 palavras em comum)
+Linha alvo: 'i ha i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ta me' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'camyoŋba ca' - Nenhuma correspondência encontrada
+Linha alvo: 'a sap' - Nenhuma correspondência encontrada
+Linha alvo: 'thakt wa ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'niŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'cok ma ca' - Nenhuma correspondência encontrada
+Linha alvo: 'tayar' - Segmentos correspondentes: 'tayar' (com 1 palavras em comum)
+Linha alvo: 'n leŋ me' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔla' - Segmentos correspondentes: 'ŋkhaʔla' (com 1 palavras em comum)
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'lop' - Segmentos correspondentes: 'lop' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'i ha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'n nakt a ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'chippakekek na' - Nenhuma correspondência encontrada
+Linha alvo: 'i na i' - Nenhuma correspondência encontrada
+Linha alvo: 'i na' - Nenhuma correspondência encontrada
+Linha alvo: 'like nmlzsg' - Nenhuma correspondência encontrada
+Linha alvo: 'eh' - Segmentos correspondentes: 'eh' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'mam ha' - Nenhuma correspondência encontrada
+Linha alvo: 'i ya' - Segmentos correspondentes: 'i ya' (com 2 palavras em comum)
+Linha alvo: 'i ya le' - Nenhuma correspondência encontrada
+Linha alvo: 'naŋ me c u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'baŋniŋgo' - Segmentos correspondentes: 'baŋniŋgo' (com 1 palavras em comum)
+Linha alvo: 'haʔlo' - Segmentos correspondentes: 'haʔlo' (com 1 palavras em comum)
+Linha alvo: 'a yaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'mas a by a ha mas a by a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'surke ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'isa ge ko' - Segmentos correspondentes: 'isa ge ko' (com 3 palavras em comum)
+Linha alvo: 'khus u co ya khus u co ya' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'inimma be' - Segmentos correspondentes: 'inimma be' (com 2 palavras em comum)
+Linha alvo: 'a ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'a ma ci' - Segmentos correspondentes: 'a ma ci' (com 3 palavras em comum)
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'm phaps a khy a m phaps a khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'churuk' - Segmentos correspondentes: 'churuk' (com 1 palavras em comum)
+Linha alvo: 'uŋ saŋ' - Segmentos correspondentes: 'uŋ saŋ' (com 2 palavras em comum)
+Linha alvo: 'khy a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'isa ʔlo' - Segmentos correspondentes: 'isa ʔlo' (com 2 palavras em comum)
+Linha alvo: 'nda ca' - Segmentos correspondentes: 'nda ca' (com 2 palavras em comum)
+Linha alvo: 'miyaŋ se' - Segmentos correspondentes: 'miyaŋ se' (com 2 palavras em comum)
+Linha alvo: 'uŋ u' - Segmentos correspondentes: 'uŋ u' (com 2 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'cama' - Segmentos correspondentes: 'cama' (com 1 palavras em comum)
+Linha alvo: 'py a ŋ eba' - Nenhuma correspondência encontrada
+Linha alvo: 'mimik' - Segmentos correspondentes: 'mimik' (com 1 palavras em comum)
+Linha alvo: 'ŋ khot a n' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ se' - Segmentos correspondentes: 'bhoŋ se' (com 2 palavras em comum)
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'mimik' - Segmentos correspondentes: 'mimik' (com 1 palavras em comum)
+Linha alvo: 'in u ca wa m ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kam ca' - Segmentos correspondentes: 'kam ca' (com 2 palavras em comum)
+Linha alvo: 'cok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔlo' - Segmentos correspondentes: 'haʔlo' (com 1 palavras em comum)
+Linha alvo: 'mimik' - Segmentos correspondentes: 'mimik' (com 1 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'ucun' - Segmentos correspondentes: 'ucun' (com 1 palavras em comum)
+Linha alvo: 'ŋ get u ŋa n na' - Nenhuma correspondência encontrada
+Linha alvo: 'loppi' - Segmentos correspondentes: 'loppi' (com 1 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'taŋkhyaŋ' - Segmentos correspondentes: 'taŋkhyaŋ' (com 1 palavras em comum)
+Linha alvo: 'mopmop' - Segmentos correspondentes: 'mopmop' (com 1 palavras em comum)
+Linha alvo: 'cok t a by a' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋ bhaŋ' - Segmentos correspondentes: 'hoŋ bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'yoʔyorok' - Segmentos correspondentes: 'yoʔyorok' (com 1 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'sakheʔwa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'ŋ geŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'yaŋ' - Segmentos correspondentes: 'yaŋ' (com 1 palavras em comum)
+Linha alvo: 'ub wa ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'khiŋ' - Segmentos correspondentes: 'khiŋ' (com 1 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'a ma ŋa' - Segmentos correspondentes: 'a ma ŋa' (com 3 palavras em comum)
+Linha alvo: 'u luŋma' - Nenhuma correspondência encontrada
+Linha alvo: 'tuŋ me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'suku' - Segmentos correspondentes: 'suku' (com 1 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'cond a sy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'thuŋdu na' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'wathaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ibibi' - Segmentos correspondentes: 'ibibi' (com 1 palavras em comum)
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'ta saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'wasi saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khe saŋ' - Segmentos correspondentes: 'khe saŋ' (com 2 palavras em comum)
+Linha alvo: 'n jok ma sy a' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'limbu' - Segmentos correspondentes: 'limbu' (com 1 palavras em comum)
+Linha alvo: 'm bog a ma ci hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ten' - Segmentos correspondentes: 'ten' (com 1 palavras em comum)
+Linha alvo: 'mag a khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'khiŋ' - Segmentos correspondentes: 'khiŋ' (com 1 palavras em comum)
+Linha alvo: 'tukkhi' - Segmentos correspondentes: 'tukkhi' (com 1 palavras em comum)
+Linha alvo: 'ŋ aŋd u' - Nenhuma correspondência encontrada
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'chun d eʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'khiŋ' - Segmentos correspondentes: 'khiŋ' (com 1 palavras em comum)
+Linha alvo: 'leŋ d eʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'khiŋ nuŋ' - Segmentos correspondentes: 'khiŋ nuŋ' (com 2 palavras em comum)
+Linha alvo: 'em ma niŋa' - Segmentos correspondentes: 'em ma niŋa' (com 3 palavras em comum)
+Linha alvo: 'lak nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a bi' - Nenhuma correspondência encontrada
+Linha alvo: 'puchak' - Segmentos correspondentes: 'puchak' (com 1 palavras em comum)
+Linha alvo: 'khiŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'sa na' - Nenhuma correspondência encontrada
+Linha alvo: 'puchak' - Segmentos correspondentes: 'puchak' (com 1 palavras em comum)
+Linha alvo: 'ŋkhiŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'sa na' - Nenhuma correspondência encontrada
+Linha alvo: 'cuŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhiŋ' - Segmentos correspondentes: 'ŋkhiŋ' (com 1 palavras em comum)
+Linha alvo: 'ucun' - Segmentos correspondentes: 'ucun' (com 1 palavras em comum)
+Linha alvo: 'm phem me n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'nam' - Segmentos correspondentes: 'nam' (com 1 palavras em comum)
+Linha alvo: 'wandik ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'lom meʔ niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋkhiŋ' - Segmentos correspondentes: 'hoŋkhiŋ' (com 1 palavras em comum)
+Linha alvo: 'cok ni ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pʌrne' - Segmentos correspondentes: 'pʌrne' (com 1 palavras em comum)
+Linha alvo: 'sa bu' - Segmentos correspondentes: 'sa bu' (com 2 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'bis' - Segmentos correspondentes: 'bis' (com 1 palavras em comum)
+Linha alvo: 'ora' - Segmentos correspondentes: 'ora' (com 1 palavras em comum)
+Linha alvo: 'khibak ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ah' - Segmentos correspondentes: 'ah' (com 1 palavras em comum)
+Linha alvo: 'pãc' - Segmentos correspondentes: 'pãc' (com 1 palavras em comum)
+Linha alvo: 'chʌsay' - Segmentos correspondentes: 'chʌsay' (com 1 palavras em comum)
+Linha alvo: 'rupiya' - Segmentos correspondentes: 'rupiya' (com 1 palavras em comum)
+Linha alvo: 'hip paŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'babu ci' - Segmentos correspondentes: 'babu ci' (com 2 palavras em comum)
+Linha alvo: 'hip paŋ paŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'babu' - Segmentos correspondentes: 'babu' (com 1 palavras em comum)
+Linha alvo: 'sum baŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu ci' - Segmentos correspondentes: 'mamu ci' (com 2 palavras em comum)
+Linha alvo: 'sum baŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'hic ci' - Nenhuma correspondência encontrada
+Linha alvo: 'yaŋ ci' - Segmentos correspondentes: 'yaŋ ci' (com 2 palavras em comum)
+Linha alvo: 'hip paŋ se' - Nenhuma correspondência encontrada
+Linha alvo: 'hip paŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ni me c u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'i ma' - Segmentos correspondentes: 'i ma' (com 2 palavras em comum)
+Linha alvo: 'pukt a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'minuma ŋa' - Segmentos correspondentes: 'minuma ŋa' (com 2 palavras em comum)
+Linha alvo: 'hip ma' - Nenhuma correspondência encontrada
+Linha alvo: 'sum ma' - Nenhuma correspondência encontrada
+Linha alvo: 'u muk' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'end uks u ca' - Nenhuma correspondência encontrada
+Linha alvo: 'mima' - Segmentos correspondentes: 'mima' (com 1 palavras em comum)
+Linha alvo: 'lap ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas uks u n' - Nenhuma correspondência encontrada
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'leks a' - Nenhuma correspondência encontrada
+Linha alvo: 'i ya' - Segmentos correspondentes: 'i ya' (com 2 palavras em comum)
+Linha alvo: 'ca ma' - Segmentos correspondentes: 'ca ma' (com 2 palavras em comum)
+Linha alvo: 'nani' - Segmentos correspondentes: 'nani' (com 1 palavras em comum)
+Linha alvo: 'i na' - Nenhuma correspondência encontrada
+Linha alvo: 'yubak' - Segmentos correspondentes: 'yubak' (com 1 palavras em comum)
+Linha alvo: 'n chimd uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'isa' - Segmentos correspondentes: 'isa' (com 1 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'i ga' - Segmentos correspondentes: 'i ga' (com 2 palavras em comum)
+Linha alvo: 'lagi' - Segmentos correspondentes: 'lagi' (com 1 palavras em comum)
+Linha alvo: 'ta ya ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'i ŋa' - Segmentos correspondentes: 'i ŋa' (com 2 palavras em comum)
+Linha alvo: 'hab a na' - Nenhuma correspondência encontrada
+Linha alvo: 'piccha be' - Nenhuma correspondência encontrada
+Linha alvo: 'isa ŋa' - Segmentos correspondentes: 'isa ŋa' (com 2 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'nis wa ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'isa ci' - Segmentos correspondentes: 'isa ci' (com 2 palavras em comum)
+Linha alvo: 'a koŋma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'biha' - Segmentos correspondentes: 'biha' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'sal be' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a na' - Nenhuma correspondência encontrada
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'miʔwa' - Segmentos correspondentes: 'miʔwa' (com 1 palavras em comum)
+Linha alvo: 'hond end u g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔna' - Segmentos correspondentes: 'heʔna' (com 1 palavras em comum)
+Linha alvo: 'des' - Segmentos correspondentes: 'des' (com 1 palavras em comum)
+Linha alvo: 'wei ka na' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔna' - Segmentos correspondentes: 'heʔna' (com 1 palavras em comum)
+Linha alvo: 'nis u ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'lambu' - Segmentos correspondentes: 'lambu' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'ammai' - Segmentos correspondentes: 'ammai' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'lambu' - Segmentos correspondentes: 'lambu' (com 1 palavras em comum)
+Linha alvo: 'lai' - Segmentos correspondentes: 'lai' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'dewan ɖhuŋga' - Segmentos correspondentes: 'dewan ɖhuŋga' (com 2 palavras em comum)
+Linha alvo: 'baŋna' - Segmentos correspondentes: 'baŋna' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'sahro' - Segmentos correspondentes: 'sahro' (com 1 palavras em comum)
+Linha alvo: 'cancan' - Segmentos correspondentes: 'cancan' (com 1 palavras em comum)
+Linha alvo: 'sa ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'cancan' - Segmentos correspondentes: 'cancan' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'cancan' - Segmentos correspondentes: 'cancan' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'khumdu' - Segmentos correspondentes: 'khumdu' (com 1 palavras em comum)
+Linha alvo: 'nam my a' - Nenhuma correspondência encontrada
+Linha alvo: 'ɖaktar ci be' - Nenhuma correspondência encontrada
+Linha alvo: 'kheʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pʌryo' - Segmentos correspondentes: 'pʌryo' (com 1 palavras em comum)
+Linha alvo: 'hetniŋ' - Segmentos correspondentes: 'hetniŋ' (com 1 palavras em comum)
+Linha alvo: 'hetne' - Segmentos correspondentes: 'hetne' (com 1 palavras em comum)
+Linha alvo: 'kheʔ ma na lai' - Nenhuma correspondência encontrada
+Linha alvo: 'sondu' - Segmentos correspondentes: 'sondu' (com 1 palavras em comum)
+Linha alvo: 'khaʔla na' - Nenhuma correspondência encontrada
+Linha alvo: 'cuŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'tek' - Segmentos correspondentes: 'tek' (com 1 palavras em comum)
+Linha alvo: 'me waʔ le' - Nenhuma correspondência encontrada
+Linha alvo: 'jal' - Segmentos correspondentes: 'jal' (com 1 palavras em comum)
+Linha alvo: 'kapt uks u g hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hetnaŋ' - Segmentos correspondentes: 'hetnaŋ' (com 1 palavras em comum)
+Linha alvo: 'tae ka na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ijaŋ' - Segmentos correspondentes: 'ijaŋ' (com 1 palavras em comum)
+Linha alvo: 'cem me ŋ ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'kisa' - Segmentos correspondentes: 'kisa' (com 1 palavras em comum)
+Linha alvo: 'saŋ khek khuwa' - Nenhuma correspondência encontrada
+Linha alvo: 'hetne' - Segmentos correspondentes: 'hetne' (com 1 palavras em comum)
+Linha alvo: 'sa het u na' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔlo' - Segmentos correspondentes: 'haʔlo' (com 1 palavras em comum)
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ten' - Segmentos correspondentes: 'ten' (com 1 palavras em comum)
+Linha alvo: 'imin' - Segmentos correspondentes: 'imin' (com 1 palavras em comum)
+Linha alvo: 'et u ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'wempha babu ci' - Nenhuma correspondência encontrada
+Linha alvo: 'u ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'u ma ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwalaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'siŋ ga' - Segmentos correspondentes: 'siŋ ga' (com 2 palavras em comum)
+Linha alvo: 'u laŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'Ram e guppa' - Nenhuma correspondência encontrada
+Linha alvo: 'Bal e guma' - Nenhuma correspondência encontrada
+Linha alvo: 'hic ci' - Nenhuma correspondência encontrada
+Linha alvo: 'yaŋ ci' - Segmentos correspondentes: 'yaŋ ci' (com 2 palavras em comum)
+Linha alvo: 'n yuks wa ci hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'yaŋ' - Segmentos correspondentes: 'yaŋ' (com 1 palavras em comum)
+Linha alvo: 'ub w ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'chem' - Segmentos correspondentes: 'chem' (com 1 palavras em comum)
+Linha alvo: 'chept wa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'chem' - Segmentos correspondentes: 'chem' (com 1 palavras em comum)
+Linha alvo: 'end u g ha i' - Nenhuma correspondência encontrada
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'to ha' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'a tokcali ci' - Nenhuma correspondência encontrada
+Linha alvo: 'n dug ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'kucuma ci be' - Nenhuma correspondência encontrada
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'paʈi ga ci' - Nenhuma correspondência encontrada
+Linha alvo: 'hau' - Segmentos correspondentes: 'hau' (com 1 palavras em comum)
+Linha alvo: 'kha go' - Segmentos correspondentes: 'kha go' (com 2 palavras em comum)
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'loʔa ha ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'pahuna' - Segmentos correspondentes: 'pahuna' (com 1 palavras em comum)
+Linha alvo: 'ta khuba ci' - Segmentos correspondentes: 'ta khuba ci' (com 3 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'mamu ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'n leks u ci ha bu' - Nenhuma correspondência encontrada
+Linha alvo: 'ca m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'men ja m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'imin ha ci' - Segmentos correspondentes: 'imin ha ci' (com 3 palavras em comum)
+Linha alvo: 'hip paŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'paghyam maghyam' - Segmentos correspondentes: 'paghyam maghyam' (com 2 palavras em comum)
+Linha alvo: 'sum baŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phak khuba' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'a koŋma ci nuŋ le' - Nenhuma correspondência encontrada
+Linha alvo: 'wɛʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'Lila' - Segmentos correspondentes: 'Lila' (com 1 palavras em comum)
+Linha alvo: 'didi ci' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'yuncamakekek' - Segmentos correspondentes: 'yuncamakekek' (com 1 palavras em comum)
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'chumma ci' - Nenhuma correspondência encontrada
+Linha alvo: 'n leks a' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'maŋcwa be' - Segmentos correspondentes: 'maŋcwa be' (com 2 palavras em comum)
+Linha alvo: 'khe me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nasa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ und wa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'cakleʈ' - Segmentos correspondentes: 'cakleʈ' (com 1 palavras em comum)
+Linha alvo: 'pi meʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'ka go' - Segmentos correspondentes: 'ka go' (com 2 palavras em comum)
+Linha alvo: 'arsale' - Segmentos correspondentes: 'arsale' (com 1 palavras em comum)
+Linha alvo: 'leʔlo' - Segmentos correspondentes: 'leʔlo' (com 1 palavras em comum)
+Linha alvo: 'nnakha e' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa ca' - Segmentos correspondentes: 'maŋcwa ca' (com 2 palavras em comum)
+Linha alvo: 'm ma ya n' - Nenhuma correspondência encontrada
+Linha alvo: 'Poklabuŋ' - Segmentos correspondentes: 'Poklabuŋ' (com 1 palavras em comum)
+Linha alvo: 'tas a ma c u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ʈhuŋkha' - Segmentos correspondentes: 'ʈhuŋkha' (com 1 palavras em comum)
+Linha alvo: 'khy a ŋ niŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci ga' - Segmentos correspondentes: 'uŋci ga' (com 2 palavras em comum)
+Linha alvo: 'ten' - Segmentos correspondentes: 'ten' (com 1 palavras em comum)
+Linha alvo: 'khy a ma ci' - Nenhuma correspondência encontrada
+Linha alvo: 'tumok' - Segmentos correspondentes: 'tumok' (com 1 palavras em comum)
+Linha alvo: 'waiʔ ŋa na' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'jaba' - Segmentos correspondentes: 'jaba' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mamu ŋa' - Segmentos correspondentes: 'mamu ŋa' (com 2 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'pok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas u n' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ma ŋa' - Segmentos correspondentes: 'a ma ŋa' (com 3 palavras em comum)
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'ly a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'jeppa' - Segmentos correspondentes: 'jeppa' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'len' - Segmentos correspondentes: 'len' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'y yen u ŋa n na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'iya' - Segmentos correspondentes: 'iya' (com 1 palavras em comum)
+Linha alvo: 'nniŋda' - Segmentos correspondentes: 'nniŋda' (com 1 palavras em comum)
+Linha alvo: 'eh' - Segmentos correspondentes: 'eh' (com 1 palavras em comum)
+Linha alvo: 'njiŋda' - Segmentos correspondentes: 'njiŋda' (com 1 palavras em comum)
+Linha alvo: 'yoŋ me c u ga' - Nenhuma correspondência encontrada
+Linha alvo: 'phu na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu ŋa' - Segmentos correspondentes: 'mamu ŋa' (com 2 palavras em comum)
+Linha alvo: 'yakkha' - Segmentos correspondentes: 'yakkha' (com 1 palavras em comum)
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'nis wa g hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋ di me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'a phaŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'men na' - Segmentos correspondentes: 'men na' (com 2 palavras em comum)
+Linha alvo: 'a koŋma ŋa le' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'raecha' - Segmentos correspondentes: 'raecha' (com 1 palavras em comum)
+Linha alvo: 'lalubaŋ nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phalubaŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'mamliŋ' - Segmentos correspondentes: 'mamliŋ' (com 1 palavras em comum)
+Linha alvo: 'tas a ma c u' - Nenhuma correspondência encontrada
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'y yog a n niŋ bi' - Nenhuma correspondência encontrada
+Linha alvo: 'beuli ga ca' - Nenhuma correspondência encontrada
+Linha alvo: 'u nuncha' - Nenhuma correspondência encontrada
+Linha alvo: 'parne ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'chata' - Segmentos correspondentes: 'chata' (com 1 palavras em comum)
+Linha alvo: 'ham met wa' - Nenhuma correspondência encontrada
+Linha alvo: 'chom na' - Nenhuma correspondência encontrada
+Linha alvo: 'phiswak ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'hot haks u na' - Nenhuma correspondência encontrada
+Linha alvo: 'kisiʔma ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'solop' - Segmentos correspondentes: 'solop' (com 1 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'eg haks uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya ŋ bu' - Segmentos correspondentes: 'ceʔya ŋ bu' (com 3 palavras em comum)
+Linha alvo: 'chem' - Segmentos correspondentes: 'chem' (com 1 palavras em comum)
+Linha alvo: 'lum biʔ ma na lai' - Nenhuma correspondência encontrada
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya ŋ' - Segmentos correspondentes: 'ceʔya ŋ' (com 2 palavras em comum)
+Linha alvo: 'sarab' - Segmentos correspondentes: 'sarab' (com 1 palavras em comum)
+Linha alvo: 'pi ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a' - Nenhuma correspondência encontrada
+Linha alvo: 'wandik ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ta meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'khiŋbelaʔ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'limbukhim ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'taŋme' - Segmentos correspondentes: 'taŋme' (com 1 palavras em comum)
+Linha alvo: 'isa ga' - Segmentos correspondentes: 'isa ga' (com 2 palavras em comum)
+Linha alvo: 'u chya' - Nenhuma correspondência encontrada
+Linha alvo: 'm ba' - Segmentos correspondentes: 'm ba' (com 2 palavras em comum)
+Linha alvo: 'm ma ci' - Segmentos correspondentes: 'm ma ci' (com 3 palavras em comum)
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'patti ga ci' - Segmentos correspondentes: 'patti ga ci' (com 3 palavras em comum)
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'liŋkha ga' - Nenhuma correspondência encontrada
+Linha alvo: 'uhile' - Segmentos correspondentes: 'uhile' (com 1 palavras em comum)
+Linha alvo: 'utpati' - Segmentos correspondentes: 'utpati' (com 1 palavras em comum)
+Linha alvo: 'mamliŋ be' - Segmentos correspondentes: 'mamliŋ be' (com 2 palavras em comum)
+Linha alvo: 'leks a na bu' - Nenhuma correspondência encontrada
+Linha alvo: 'ʈebul ga' - Nenhuma correspondência encontrada
+Linha alvo: 'mopparik' - Segmentos correspondentes: 'mopparik' (com 1 palavras em comum)
+Linha alvo: 'saptakosi ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u lap pe' - Nenhuma correspondência encontrada
+Linha alvo: 'kolenluŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'cuʔlumphi' - Segmentos correspondentes: 'cuʔlumphi' (com 1 palavras em comum)
+Linha alvo: 'siŋ ga' - Segmentos correspondentes: 'siŋ ga' (com 2 palavras em comum)
+Linha alvo: 'saŋgoŋ' - Segmentos correspondentes: 'saŋgoŋ' (com 1 palavras em comum)
+Linha alvo: 'plasʈik ka' - Nenhuma correspondência encontrada
+Linha alvo: 'jhola be' - Nenhuma correspondência encontrada
+Linha alvo: 'chubuk ka' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'khorek pe' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'nwak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'o hop pe' - Segmentos correspondentes: 'o hop pe' (com 3 palavras em comum)
+Linha alvo: 'o thok pe' - Nenhuma correspondência encontrada
+Linha alvo: 'toŋ meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ci' - Segmentos correspondentes: 'wa ci' (com 2 palavras em comum)
+Linha alvo: 'kaŋyoŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ waiʔ ya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'panckapan ga' - Nenhuma correspondência encontrada
+Linha alvo: 'kerabari be' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'mãɖa' - Segmentos correspondentes: 'mãɖa' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'wɛʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'ten be' - Segmentos correspondentes: 'ten be' (com 2 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'maghyam' - Segmentos correspondentes: 'maghyam' (com 1 palavras em comum)
+Linha alvo: 'wei sa na' - Nenhuma correspondência encontrada
+Linha alvo: 'khali' - Segmentos correspondentes: 'khali' (com 1 palavras em comum)
+Linha alvo: 'puŋda we' - Segmentos correspondentes: 'puŋda we' (com 2 palavras em comum)
+Linha alvo: 'kheʔ m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhiŋbelak pe' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hop pe' - Segmentos correspondentes: 'hop pe' (com 2 palavras em comum)
+Linha alvo: 'pes a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'khokpu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'siŋ be' - Segmentos correspondentes: 'siŋ be' (com 2 palavras em comum)
+Linha alvo: 'thaŋ ma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'cog a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'beula ga' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ be' - Segmentos correspondentes: 'paŋ be' (com 2 palavras em comum)
+Linha alvo: 'beuli' - Segmentos correspondentes: 'beuli' (com 1 palavras em comum)
+Linha alvo: 'ŋ ghet u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a cya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'iskul be' - Nenhuma correspondência encontrada
+Linha alvo: 'paks wa ŋ ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ ŋa' - Segmentos correspondentes: 'uŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'ka be' - Segmentos correspondentes: 'ka be' (com 2 palavras em comum)
+Linha alvo: 'mendhwak' - Segmentos correspondentes: 'mendhwak' (com 1 palavras em comum)
+Linha alvo: 'haks wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋga be' - Nenhuma correspondência encontrada
+Linha alvo: 'yaŋ' - Segmentos correspondentes: 'yaŋ' (com 1 palavras em comum)
+Linha alvo: 'waiʔ ya' - Nenhuma correspondência encontrada
+Linha alvo: 'eŋ ga be' - Nenhuma correspondência encontrada
+Linha alvo: 'yaŋ' - Segmentos correspondentes: 'yaŋ' (com 1 palavras em comum)
+Linha alvo: 'm ma n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'tihar' - Segmentos correspondentes: 'tihar' (com 1 palavras em comum)
+Linha alvo: 'din be' - Nenhuma correspondência encontrada
+Linha alvo: 'uncas' - Segmentos correspondentes: 'uncas' (com 1 palavras em comum)
+Linha alvo: 'sal be' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa be' - Segmentos correspondentes: 'maŋcwa be' (com 2 palavras em comum)
+Linha alvo: 'khe me ka na i' - Nenhuma correspondência encontrada
+Linha alvo: 'daura be' - Nenhuma correspondência encontrada
+Linha alvo: 'khe me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'isa ge' - Segmentos correspondentes: 'isa ge' (com 2 palavras em comum)
+Linha alvo: 'bagdata' - Segmentos correspondentes: 'bagdata' (com 1 palavras em comum)
+Linha alvo: 'nak se' - Nenhuma correspondência encontrada
+Linha alvo: 'kheʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pʌryo' - Segmentos correspondentes: 'pʌryo' (com 1 palavras em comum)
+Linha alvo: 'mapaci ghe' - Nenhuma correspondência encontrada
+Linha alvo: 'maiti ci ghe' - Nenhuma correspondência encontrada
+Linha alvo: 'kheʔ ma hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'taŋkheŋ bhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'percoʔwa' - Segmentos correspondentes: 'percoʔwa' (com 1 palavras em comum)
+Linha alvo: 'uks a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nna be' - Segmentos correspondentes: 'nna be' (com 2 palavras em comum)
+Linha alvo: 'ŋ hond u n ci n oŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'lupluŋ bhaŋ' - Segmentos correspondentes: 'lupluŋ bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'tumhaŋ' - Segmentos correspondentes: 'tumhaŋ' (com 1 palavras em comum)
+Linha alvo: 'lond a khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'let' - Segmentos correspondentes: 'let' (com 1 palavras em comum)
+Linha alvo: 'u cya ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'u ma' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ bhaŋ' - Segmentos correspondentes: 'paŋ bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'maŋdu' - Segmentos correspondentes: 'maŋdu' (com 1 palavras em comum)
+Linha alvo: 'ta meʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mit uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'nawa bhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋma' - Segmentos correspondentes: 'hoŋma' (com 1 palavras em comum)
+Linha alvo: 'kakt wa m ŋa na' - Nenhuma correspondência encontrada
+Linha alvo: 'kithrikpa ŋa' - Segmentos correspondentes: 'kithrikpa ŋa' (com 2 palavras em comum)
+Linha alvo: 'solop' - Segmentos correspondentes: 'solop' (com 1 palavras em comum)
+Linha alvo: 'maik phaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lu ks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔnang' - Segmentos correspondentes: 'heʔnang' (com 1 palavras em comum)
+Linha alvo: 'khe ks a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'yondhaŋ' - Segmentos correspondentes: 'yondhaŋ' (com 1 palavras em comum)
+Linha alvo: 'khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'lumba ghaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ukt u ŋ ci ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lumbapasal bhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'yaŋliham bhaŋ jhen' - Nenhuma correspondência encontrada
+Linha alvo: 'koi' - Segmentos correspondentes: 'koi' (com 1 palavras em comum)
+Linha alvo: 'heʔnaŋ' - Segmentos correspondentes: 'heʔnaŋ' (com 1 palavras em comum)
+Linha alvo: 'tae ka na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'mondaŋ' - Segmentos correspondentes: 'mondaŋ' (com 1 palavras em comum)
+Linha alvo: 'ky a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'suku nuŋ' - Segmentos correspondentes: 'suku nuŋ' (com 2 palavras em comum)
+Linha alvo: 'kithrikpa' - Segmentos correspondentes: 'kithrikpa' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'hakhok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'am me ŋ ci ŋ ba' - Nenhuma correspondência encontrada
+Linha alvo: 'ɖiana nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'am me ŋ ci ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'asen ca' - Nenhuma correspondência encontrada
+Linha alvo: 'la' - Segmentos correspondentes: 'la' (com 1 palavras em comum)
+Linha alvo: 'nniŋda nuŋ' - Segmentos correspondentes: 'nniŋda nuŋ' (com 2 palavras em comum)
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'cuŋ i' - Nenhuma correspondência encontrada
+Linha alvo: 'tabek' - Segmentos correspondentes: 'tabek' (com 1 palavras em comum)
+Linha alvo: 'kacyak' - Segmentos correspondentes: 'kacyak' (com 1 palavras em comum)
+Linha alvo: 'mina' - Segmentos correspondentes: 'mina' (com 1 palavras em comum)
+Linha alvo: 'kondarik' - Segmentos correspondentes: 'kondarik' (com 1 palavras em comum)
+Linha alvo: 'caprak' - Segmentos correspondentes: 'caprak' (com 1 palavras em comum)
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'chomlaki nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'puŋda be' - Nenhuma correspondência encontrada
+Linha alvo: 'lab a cog a ŋ ci ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka nuŋ' - Segmentos correspondentes: 'ka nuŋ' (com 2 palavras em comum)
+Linha alvo: 'kheʔ ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'kamnibak' - Segmentos correspondentes: 'kamnibak' (com 1 palavras em comum)
+Linha alvo: 'mimik' - Segmentos correspondentes: 'mimik' (com 1 palavras em comum)
+Linha alvo: 'ka nuŋ' - Segmentos correspondentes: 'ka nuŋ' (com 2 palavras em comum)
+Linha alvo: 'seppa' - Segmentos correspondentes: 'seppa' (com 1 palavras em comum)
+Linha alvo: 'u ppa nuŋ go' - Nenhuma correspondência encontrada
+Linha alvo: 'banda' - Segmentos correspondentes: 'banda' (com 1 palavras em comum)
+Linha alvo: 'n jeŋ me n na' - Nenhuma correspondência encontrada
+Linha alvo: 'limbu ci ga nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'toŋ di me ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'eŋ ga go' - Nenhuma correspondência encontrada
+Linha alvo: 'aru ga nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'n doŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'khumdu nuŋ' - Segmentos correspondentes: 'khumdu nuŋ' (com 2 palavras em comum)
+Linha alvo: 'nam ma' - Segmentos correspondentes: 'nam ma' (com 2 palavras em comum)
+Linha alvo: 'to khaʔla' - Nenhuma correspondência encontrada
+Linha alvo: 'ky a' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'limbu ci' - Segmentos correspondentes: 'limbu ci' (com 2 palavras em comum)
+Linha alvo: 'yo khaʔla' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'nniŋga go' - Segmentos correspondentes: 'nniŋga go' (com 2 palavras em comum)
+Linha alvo: 'mo' - Segmentos correspondentes: 'mo' (com 1 palavras em comum)
+Linha alvo: 'mo khaʔla ca' - Nenhuma correspondência encontrada
+Linha alvo: 'nis uks u ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ijaŋ' - Segmentos correspondentes: 'ijaŋ' (com 1 palavras em comum)
+Linha alvo: 'bhasa' - Segmentos correspondentes: 'bhasa' (com 1 palavras em comum)
+Linha alvo: 'n jiŋ ghom me ha' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋ khaʔla maŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'baʔlo' - Segmentos correspondentes: 'baʔlo' (com 1 palavras em comum)
+Linha alvo: 'nna khaʔla' - Segmentos correspondentes: 'nna khaʔla' (com 2 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'cok ma ʔlo' - Nenhuma correspondência encontrada
+Linha alvo: 'hamro' - Segmentos correspondentes: 'hamro' (com 1 palavras em comum)
+Linha alvo: 'des' - Segmentos correspondentes: 'des' (com 1 palavras em comum)
+Linha alvo: 'asen nhaŋto' - Nenhuma correspondência encontrada
+Linha alvo: 'mi' - Segmentos correspondentes: 'mi' (com 1 palavras em comum)
+Linha alvo: 'wandik nhaŋto' - Nenhuma correspondência encontrada
+Linha alvo: 'lop nhaŋto maŋ' - Segmentos correspondentes: 'lop nhaŋto maŋ' (com 3 palavras em comum)
+Linha alvo: 'nna nhaŋto' - Segmentos correspondentes: 'nna nhaŋto' (com 2 palavras em comum)
+Linha alvo: 'sumphak' - Segmentos correspondentes: 'sumphak' (com 1 palavras em comum)
+Linha alvo: 'cilleŋ' - Segmentos correspondentes: 'cilleŋ' (com 1 palavras em comum)
+Linha alvo: 'n leks u' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋto' - Segmentos correspondentes: 'nhaŋto' (com 1 palavras em comum)
+Linha alvo: 'garo' - Segmentos correspondentes: 'garo' (com 1 palavras em comum)
+Linha alvo: 'n cheŋd et wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'to khaʔla' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋto' - Segmentos correspondentes: 'nhaŋto' (com 1 palavras em comum)
+Linha alvo: 'phuna chen' - Segmentos correspondentes: 'phuna chen' (com 2 palavras em comum)
+Linha alvo: 'seg haks u ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋkhe' - Segmentos correspondentes: 'nhaŋkhe' (com 1 palavras em comum)
+Linha alvo: 'u ma' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔniŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'issisi' - Segmentos correspondentes: 'issisi' (com 1 palavras em comum)
+Linha alvo: 'n jog uks u n' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'pak na' - Nenhuma correspondência encontrada
+Linha alvo: 'heko ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nwak ci' - Nenhuma correspondência encontrada
+Linha alvo: 'haksaŋ' - Segmentos correspondentes: 'haksaŋ' (com 1 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'alag' - Segmentos correspondentes: 'alag' (com 1 palavras em comum)
+Linha alvo: 'sa sa na bu' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'mima' - Segmentos correspondentes: 'mima' (com 1 palavras em comum)
+Linha alvo: 'khem' - Segmentos correspondentes: 'khem' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'ka i wa niŋa' - Segmentos correspondentes: 'ka i wa niŋa' (com 4 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'kheps wa m' - Nenhuma correspondência encontrada
+Linha alvo: 'khem' - Segmentos correspondentes: 'khem' (com 1 palavras em comum)
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'mekan' - Segmentos correspondentes: 'mekan' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'luʔ meʔ nen in ha' - Nenhuma correspondência encontrada
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'cog a ni' - Nenhuma correspondência encontrada
+Linha alvo: 'm muk' - Nenhuma correspondência encontrada
+Linha alvo: 'a laŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hiŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'm muk' - Nenhuma correspondência encontrada
+Linha alvo: 'a laŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hiŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'i ŋa' - Segmentos correspondentes: 'i ŋa' (com 2 palavras em comum)
+Linha alvo: 'cama' - Segmentos correspondentes: 'cama' (com 1 palavras em comum)
+Linha alvo: 'niʔ m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa' - Segmentos correspondentes: 'maŋcwa' (com 1 palavras em comum)
+Linha alvo: 'maʔniŋ' - Segmentos correspondentes: 'maʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'wariŋba' - Segmentos correspondentes: 'wariŋba' (com 1 palavras em comum)
+Linha alvo: 'maʔniŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khyu' - Segmentos correspondentes: 'khyu' (com 1 palavras em comum)
+Linha alvo: 'hoʔi' - Segmentos correspondentes: 'hoʔi' (com 1 palavras em comum)
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'lagi' - Segmentos correspondentes: 'lagi' (com 1 palavras em comum)
+Linha alvo: 'iya ca' - Segmentos correspondentes: 'iya ca' (com 2 palavras em comum)
+Linha alvo: 'tuʔkhi' - Segmentos correspondentes: 'tuʔkhi' (com 1 palavras em comum)
+Linha alvo: 'n jog a n' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔniŋ heʔniŋ go' - Nenhuma correspondência encontrada
+Linha alvo: 'yuncama le' - Nenhuma correspondência encontrada
+Linha alvo: 'cok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔlo' - Segmentos correspondentes: 'haʔlo' (com 1 palavras em comum)
+Linha alvo: 'ka ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'anusar' - Segmentos correspondentes: 'anusar' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nis u ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'anusar' - Segmentos correspondentes: 'anusar' (com 1 palavras em comum)
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'hen' - Segmentos correspondentes: 'hen' (com 1 palavras em comum)
+Linha alvo: 'samma' - Segmentos correspondentes: 'samma' (com 1 palavras em comum)
+Linha alvo: 'man ha bu' - Nenhuma correspondência encontrada
+Linha alvo: 'taŋcukulik' - Segmentos correspondentes: 'taŋcukulik' (com 1 palavras em comum)
+Linha alvo: 'bahek chen' - Nenhuma correspondência encontrada
+Linha alvo: 'heŋ nhak ni ma' - Nenhuma correspondência encontrada
+Linha alvo: 'jammai' - Segmentos correspondentes: 'jammai' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'ya muŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'heŋ nhaŋ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'phakʈaŋluŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u sam be' - Nenhuma correspondência encontrada
+Linha alvo: 'caram ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u lap pe' - Nenhuma correspondência encontrada
+Linha alvo: 'camokla nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ambibu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u thap' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ weʔ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'hakhok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'cend a ky a ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'so ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak choŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ips a masa' - Nenhuma correspondência encontrada
+Linha alvo: 'chalumma ŋa' - Segmentos correspondentes: 'chalumma ŋa' (com 2 palavras em comum)
+Linha alvo: 'phuaba' - Segmentos correspondentes: 'phuaba' (com 1 palavras em comum)
+Linha alvo: 'ʈebul choŋ bhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'bol' - Segmentos correspondentes: 'bol' (com 1 palavras em comum)
+Linha alvo: 'lept u bi na' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋma ga' - Segmentos correspondentes: 'hoŋma ga' (com 2 palavras em comum)
+Linha alvo: 'u lap ulap' - Nenhuma correspondência encontrada
+Linha alvo: 'lukt a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n heksaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'ta ya' - Segmentos correspondentes: 'ta ya' (com 2 palavras em comum)
+Linha alvo: 'tabhaŋ' - Segmentos correspondentes: 'tabhaŋ' (com 1 palavras em comum)
+Linha alvo: 'panc' - Segmentos correspondentes: 'panc' (com 1 palavras em comum)
+Linha alvo: 'hapta' - Segmentos correspondentes: 'hapta' (com 1 palavras em comum)
+Linha alvo: 'heksaŋ' - Segmentos correspondentes: 'heksaŋ' (com 1 palavras em comum)
+Linha alvo: 'ta meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'heksaŋ' - Segmentos correspondentes: 'heksaŋ' (com 1 palavras em comum)
+Linha alvo: 'so ŋ ci ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'n nis u n ci ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'mi' - Segmentos correspondentes: 'mi' (com 1 palavras em comum)
+Linha alvo: 'em saŋ' - Segmentos correspondentes: 'em saŋ' (com 2 palavras em comum)
+Linha alvo: 'huŋ ca saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ighurum' - Segmentos correspondentes: 'ighurum' (com 1 palavras em comum)
+Linha alvo: 'yuŋ i misi ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'a cya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'a cya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'ɖaŋgak ci' - Segmentos correspondentes: 'ɖaŋgak ci' (com 2 palavras em comum)
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'na nuncha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'beuli ga' - Segmentos correspondentes: 'beuli ga' (com 2 palavras em comum)
+Linha alvo: 'u kamnibak' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'khokpu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u thap ka' - Nenhuma correspondência encontrada
+Linha alvo: 'u sam be' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'a muk phaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'tumna ŋa' - Segmentos correspondentes: 'tumna ŋa' (com 2 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'u hiruʔwa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'onek ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya ca' - Segmentos correspondentes: 'ceʔya ca' (com 2 palavras em comum)
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'whak pe' - Nenhuma correspondência encontrada
+Linha alvo: 'honna ga se' - Segmentos correspondentes: 'honna ga se' (com 3 palavras em comum)
+Linha alvo: 'ɖaŋgak' - Segmentos correspondentes: 'ɖaŋgak' (com 1 palavras em comum)
+Linha alvo: 'iya iya' - Nenhuma correspondência encontrada
+Linha alvo: 'nis u ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'yok met a ŋ eba' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'chups i ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'hip paŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'yakkhaba' - Segmentos correspondentes: 'yakkhaba' (com 1 palavras em comum)
+Linha alvo: 'yakkhama ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'haksaŋ' - Segmentos correspondentes: 'haksaŋ' (com 1 palavras em comum)
+Linha alvo: 'tum na' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'otesraŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pachem ci' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'leps a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ni ya ha' - Nenhuma correspondência encontrada
+Linha alvo: 'macchi nuŋ' - Segmentos correspondentes: 'macchi nuŋ' (com 2 palavras em comum)
+Linha alvo: 'khi' - Segmentos correspondentes: 'khi' (com 1 palavras em comum)
+Linha alvo: 'whaŋd ha' - Nenhuma correspondência encontrada
+Linha alvo: 'whaŋsa' - Segmentos correspondentes: 'whaŋsa' (com 1 palavras em comum)
+Linha alvo: 'issisi' - Segmentos correspondentes: 'issisi' (com 1 palavras em comum)
+Linha alvo: 'khem ma i' - Nenhuma correspondência encontrada
+Linha alvo: 'me ya m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'khi' - Segmentos correspondentes: 'khi' (com 1 palavras em comum)
+Linha alvo: 'khoŋ khuba ci' - Segmentos correspondentes: 'khoŋ khuba ci' (com 3 palavras em comum)
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'yarepmaŋ' - Segmentos correspondentes: 'yarepmaŋ' (com 1 palavras em comum)
+Linha alvo: 'likliŋphuŋ' - Segmentos correspondentes: 'likliŋphuŋ' (com 1 palavras em comum)
+Linha alvo: 'nam ma niŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ibibi' - Segmentos correspondentes: 'ibibi' (com 1 palavras em comum)
+Linha alvo: 'sokma' - Segmentos correspondentes: 'sokma' (com 1 palavras em comum)
+Linha alvo: 'ta ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋkhi nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'puŋdakhi' - Segmentos correspondentes: 'puŋdakhi' (com 1 palavras em comum)
+Linha alvo: 'paŋ be' - Segmentos correspondentes: 'paŋ be' (com 2 palavras em comum)
+Linha alvo: 'phu ha nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'makhur ha' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'macchi' - Segmentos correspondentes: 'macchi' (com 1 palavras em comum)
+Linha alvo: 'khicalek nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'py a' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci ŋa' - Segmentos correspondentes: 'uŋci ŋa' (com 2 palavras em comum)
+Linha alvo: 'tabek' - Segmentos correspondentes: 'tabek' (com 1 palavras em comum)
+Linha alvo: 'siŋ' - Segmentos correspondentes: 'siŋ' (com 1 palavras em comum)
+Linha alvo: 'phendik' - Segmentos correspondentes: 'phendik' (com 1 palavras em comum)
+Linha alvo: 'lom ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n darokt u' - Nenhuma correspondência encontrada
+Linha alvo: 'phu nuncha' - Nenhuma correspondência encontrada
+Linha alvo: 'na nuncha be' - Nenhuma correspondência encontrada
+Linha alvo: 'pak na' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋkhaʔla' - Segmentos correspondentes: 'hoŋkhaʔla' (com 1 palavras em comum)
+Linha alvo: 'khi ma ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tu ma ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'tondigaŋma' - Segmentos correspondentes: 'tondigaŋma' (com 1 palavras em comum)
+Linha alvo: 'liŋkhacama puŋda ci' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'maɖa' - Segmentos correspondentes: 'maɖa' (com 1 palavras em comum)
+Linha alvo: 'tiʔwa' - Segmentos correspondentes: 'tiʔwa' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak chen' - Segmentos correspondentes: 'luŋkhwak chen' (com 2 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'makhruk na' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'chubuk ka' - Nenhuma correspondência encontrada
+Linha alvo: 'hic ci' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'paghyam ga' - Segmentos correspondentes: 'paghyam ga' (com 2 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'sala' - Segmentos correspondentes: 'sala' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'casak' - Segmentos correspondentes: 'casak' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'ighurum be' - Segmentos correspondentes: 'ighurum be' (com 2 palavras em comum)
+Linha alvo: 'a pum' - Nenhuma correspondência encontrada
+Linha alvo: 'laktaŋge ca' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'inimma' - Segmentos correspondentes: 'inimma' (com 1 palavras em comum)
+Linha alvo: 'maŋpha' - Segmentos correspondentes: 'maŋpha' (com 1 palavras em comum)
+Linha alvo: 'ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'pog a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ak ka go' - Nenhuma correspondência encontrada
+Linha alvo: 'ibebe ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'kamnibak ci' - Segmentos correspondentes: 'kamnibak ci' (com 2 palavras em comum)
+Linha alvo: 'khaʔla hoŋ' - Segmentos correspondentes: 'khaʔla hoŋ' (com 2 palavras em comum)
+Linha alvo: 'ŋ waiʔ ya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'na go' - Segmentos correspondentes: 'na go' (com 2 palavras em comum)
+Linha alvo: 'aniŋ ga le' - Nenhuma correspondência encontrada
+Linha alvo: 'kham' - Segmentos correspondentes: 'kham' (com 1 palavras em comum)
+Linha alvo: 'nniŋda' - Segmentos correspondentes: 'nniŋda' (com 1 palavras em comum)
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'wa ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n dokt wa m ga n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa' - Segmentos correspondentes: 'maŋcwa' (com 1 palavras em comum)
+Linha alvo: 'haŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'macchi' - Segmentos correspondentes: 'macchi' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'cancan bhaŋ' - Segmentos correspondentes: 'cancan bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'cend u na' - Nenhuma correspondência encontrada
+Linha alvo: 'a na' - Nenhuma correspondência encontrada
+Linha alvo: 'khumdu ha' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'ŋ khumdi n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'khesup' - Segmentos correspondentes: 'khesup' (com 1 palavras em comum)
+Linha alvo: 'mãɖa' - Segmentos correspondentes: 'mãɖa' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'cattu na' - Nenhuma correspondência encontrada
+Linha alvo: 'pik' - Segmentos correspondentes: 'pik' (com 1 palavras em comum)
+Linha alvo: 'apt u' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'tondaŋ' - Segmentos correspondentes: 'tondaŋ' (com 1 palavras em comum)
+Linha alvo: 'um meʔ nen' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'cattu nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lab u g hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'tokhaʔla' - Segmentos correspondentes: 'tokhaʔla' (com 1 palavras em comum)
+Linha alvo: 'ky a' - Nenhuma correspondência encontrada
+Linha alvo: 'sumphak' - Segmentos correspondentes: 'sumphak' (com 1 palavras em comum)
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'phim na' - Nenhuma correspondência encontrada
+Linha alvo: 'besar' - Segmentos correspondentes: 'besar' (com 1 palavras em comum)
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'phim na' - Nenhuma correspondência encontrada
+Linha alvo: 'massi' - Segmentos correspondentes: 'massi' (com 1 palavras em comum)
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'phim na' - Nenhuma correspondência encontrada
+Linha alvo: 'su ha' - Nenhuma correspondência encontrada
+Linha alvo: 'cuwa' - Segmentos correspondentes: 'cuwa' (com 1 palavras em comum)
+Linha alvo: 'lag ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nasa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'cancan na' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'ucun na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'purba' - Segmentos correspondentes: 'purba' (com 1 palavras em comum)
+Linha alvo: 'patti' - Segmentos correspondentes: 'patti' (com 1 palavras em comum)
+Linha alvo: 'dailo' - Segmentos correspondentes: 'dailo' (com 1 palavras em comum)
+Linha alvo: 'yuŋ ma niŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ucun' - Segmentos correspondentes: 'ucun' (com 1 palavras em comum)
+Linha alvo: 'n leŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋ go' - Segmentos correspondentes: 'nhaŋ go' (com 2 palavras em comum)
+Linha alvo: 'lambu ca le' - Segmentos correspondentes: 'lambu ca le' (com 3 palavras em comum)
+Linha alvo: 'mi na' - Nenhuma correspondência encontrada
+Linha alvo: 'leŋ d eʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'haksaŋ' - Segmentos correspondentes: 'haksaŋ' (com 1 palavras em comum)
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'uŋci be ca' - Nenhuma correspondência encontrada
+Linha alvo: 'niŋwa' - Segmentos correspondentes: 'niŋwa' (com 1 palavras em comum)
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'cancan' - Segmentos correspondentes: 'cancan' (com 1 palavras em comum)
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'cancan' - Segmentos correspondentes: 'cancan' (com 1 palavras em comum)
+Linha alvo: 'uŋ ci go' - Nenhuma correspondência encontrada
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'mam ha' - Nenhuma correspondência encontrada
+Linha alvo: 'n sa ba' - Nenhuma correspondência encontrada
+Linha alvo: 'gumthali' - Segmentos correspondentes: 'gumthali' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'anar' - Segmentos correspondentes: 'anar' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'et u ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'nna ca' - Segmentos correspondentes: 'nna ca' (com 2 palavras em comum)
+Linha alvo: 'mãɖa' - Segmentos correspondentes: 'mãɖa' (com 1 palavras em comum)
+Linha alvo: 'phuama' - Segmentos correspondentes: 'phuama' (com 1 palavras em comum)
+Linha alvo: 'chalumma' - Segmentos correspondentes: 'chalumma' (com 1 palavras em comum)
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'keŋgeʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'lupluŋ' - Segmentos correspondentes: 'lupluŋ' (com 1 palavras em comum)
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'luŋdhaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'u ma' - Nenhuma correspondência encontrada
+Linha alvo: 'loʔa na' - Segmentos correspondentes: 'loʔa na' (com 2 palavras em comum)
+Linha alvo: 'sa na i' - Nenhuma correspondência encontrada
+Linha alvo: 'hau' - Segmentos correspondentes: 'hau' (com 1 palavras em comum)
+Linha alvo: 'kha go' - Segmentos correspondentes: 'kha go' (com 2 palavras em comum)
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'loʔa ha ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha ci go' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ nuŋ' - Segmentos correspondentes: 'kaniŋ nuŋ' (com 2 palavras em comum)
+Linha alvo: 'sahro' - Segmentos correspondentes: 'sahro' (com 1 palavras em comum)
+Linha alvo: 'toŋ khuba' - Nenhuma correspondência encontrada
+Linha alvo: 'loʔa' - Segmentos correspondentes: 'loʔa' (com 1 palavras em comum)
+Linha alvo: 'men ha ci' - Segmentos correspondentes: 'men ha ci' (com 3 palavras em comum)
+Linha alvo: 'heko ha ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'pharak' - Segmentos correspondentes: 'pharak' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'tum ŋa na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'lam ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ya me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'u laŋ ci' - Nenhuma correspondência encontrada
+Linha alvo: 'encho' - Segmentos correspondentes: 'encho' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'n sas a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'haksaŋ' - Segmentos correspondentes: 'haksaŋ' (com 1 palavras em comum)
+Linha alvo: 'tum na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'khuŋ kheʔ ma niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'li nuŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'n leŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'li na' - Nenhuma correspondência encontrada
+Linha alvo: 'babu' - Segmentos correspondentes: 'babu' (com 1 palavras em comum)
+Linha alvo: 'a tokhumak' - Nenhuma correspondência encontrada
+Linha alvo: 'yep ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n ya me ŋa n na' - Nenhuma correspondência encontrada
+Linha alvo: 'o tokhumak' - Nenhuma correspondência encontrada
+Linha alvo: 'nin ca meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'eh' - Segmentos correspondentes: 'eh' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'nniŋ ga' - Segmentos correspondentes: 'nniŋ ga' (com 2 palavras em comum)
+Linha alvo: 'piccha go' - Nenhuma correspondência encontrada
+Linha alvo: 'u hiŋgilik' - Nenhuma correspondência encontrada
+Linha alvo: 'wet na' - Nenhuma correspondência encontrada
+Linha alvo: 'haku ca' - Segmentos correspondentes: 'haku ca' (com 2 palavras em comum)
+Linha alvo: 'tups wa m ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'lambu' - Segmentos correspondentes: 'lambu' (com 1 palavras em comum)
+Linha alvo: 'o tesraŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ikt wa m na' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa' - Segmentos correspondentes: 'maŋcwa' (com 1 palavras em comum)
+Linha alvo: 'phoplek' - Segmentos correspondentes: 'phoplek' (com 1 palavras em comum)
+Linha alvo: 'lept haks u' - Nenhuma correspondência encontrada
+Linha alvo: 'pektuŋgulik' - Segmentos correspondentes: 'pektuŋgulik' (com 1 palavras em comum)
+Linha alvo: 'pekt u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'u lum be' - Nenhuma correspondência encontrada
+Linha alvo: 'kaici ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'yub haks u na' - Nenhuma correspondência encontrada
+Linha alvo: 'u yabuluʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'jonjon na' - Nenhuma correspondência encontrada
+Linha alvo: 'chainpur' - Segmentos correspondentes: 'chainpur' (com 1 palavras em comum)
+Linha alvo: 'cancan na be' - Nenhuma correspondência encontrada
+Linha alvo: 'waiʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'a phok' - Segmentos correspondentes: 'a phok' (com 2 palavras em comum)
+Linha alvo: 'gaŋgaŋ' - Segmentos correspondentes: 'gaŋgaŋ' (com 1 palavras em comum)
+Linha alvo: 'leks a na' - Nenhuma correspondência encontrada
+Linha alvo: 'batti' - Segmentos correspondentes: 'batti' (com 1 palavras em comum)
+Linha alvo: 'chik ʔekek' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a na' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋmaŋ maŋmaŋ miŋmiŋ miŋmiŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'm maks maks a by a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'lumlum' - Segmentos correspondentes: 'lumlum' (com 1 palavras em comum)
+Linha alvo: 'mokt u ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'sakhi' - Segmentos correspondentes: 'sakhi' (com 1 palavras em comum)
+Linha alvo: 'iblik iblik' - Nenhuma correspondência encontrada
+Linha alvo: 'ipt a na' - Nenhuma correspondência encontrada
+Linha alvo: 'batti' - Segmentos correspondentes: 'batti' (com 1 palavras em comum)
+Linha alvo: 'simik simik' - Nenhuma correspondência encontrada
+Linha alvo: 'hand u na' - Nenhuma correspondência encontrada
+Linha alvo: 'o heli' - Nenhuma correspondência encontrada
+Linha alvo: 'tururu' - Segmentos correspondentes: 'tururu' (com 1 palavras em comum)
+Linha alvo: 'lond ha' - Nenhuma correspondência encontrada
+Linha alvo: 'hiwiwi na' - Nenhuma correspondência encontrada
+Linha alvo: 'hiʔwa' - Segmentos correspondentes: 'hiʔwa' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'caram be' - Nenhuma correspondência encontrada
+Linha alvo: 'khiriri' - Segmentos correspondentes: 'khiriri' (com 1 palavras em comum)
+Linha alvo: 'is a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'whak pe' - Nenhuma correspondência encontrada
+Linha alvo: 'a tek' - Nenhuma correspondência encontrada
+Linha alvo: 'het u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'haŋcaŋcaŋ' - Segmentos correspondentes: 'haŋcaŋcaŋ' (com 1 palavras em comum)
+Linha alvo: 'chu ya ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'picha' - Segmentos correspondentes: 'picha' (com 1 palavras em comum)
+Linha alvo: 'khoʔluk khoʔluk' - Nenhuma correspondência encontrada
+Linha alvo: 'hot a s heks a na' - Nenhuma correspondência encontrada
+Linha alvo: 'u laŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'men da le na' - Nenhuma correspondência encontrada
+Linha alvo: 'picha' - Segmentos correspondentes: 'picha' (com 1 palavras em comum)
+Linha alvo: 'khobak khobak' - Nenhuma correspondência encontrada
+Linha alvo: 'lam meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'boʔle boʔle' - Nenhuma correspondência encontrada
+Linha alvo: 'ceŋ meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'sukluk' - Segmentos correspondentes: 'sukluk' (com 1 palavras em comum)
+Linha alvo: 'ips a khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ebbebe' - Segmentos correspondentes: 'ebbebe' (com 1 palavras em comum)
+Linha alvo: 'kisit a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khoŋ' - Segmentos correspondentes: 'khoŋ' (com 1 palavras em comum)
+Linha alvo: 'ghwa ghwa' - Nenhuma correspondência encontrada
+Linha alvo: 'hab a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci ga' - Segmentos correspondentes: 'uŋci ga' (com 2 palavras em comum)
+Linha alvo: 'sokma' - Segmentos correspondentes: 'sokma' (com 1 palavras em comum)
+Linha alvo: 'ʈhwaŋ' - Segmentos correspondentes: 'ʈhwaŋ' (com 1 palavras em comum)
+Linha alvo: 'nam ma' - Segmentos correspondentes: 'nam ma' (com 2 palavras em comum)
+Linha alvo: 'to' - Segmentos correspondentes: 'to' (com 1 palavras em comum)
+Linha alvo: 'khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'muǃ' - Segmentos correspondentes: 'muǃ' (com 1 palavras em comum)
+Linha alvo: 'puchak' - Segmentos correspondentes: 'puchak' (com 1 palavras em comum)
+Linha alvo: 'tu' - Segmentos correspondentes: 'tu' (com 1 palavras em comum)
+Linha alvo: 'maŋme' - Segmentos correspondentes: 'maŋme' (com 1 palavras em comum)
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'yunna' - Segmentos correspondentes: 'yunna' (com 1 palavras em comum)
+Linha alvo: 'buddhini ca' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'pi ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ ikt uks u ci hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'tunna' - Segmentos correspondentes: 'tunna' (com 1 palavras em comum)
+Linha alvo: 'maŋlabare' - Segmentos correspondentes: 'maŋlabare' (com 1 palavras em comum)
+Linha alvo: 'n da ya by a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'eko bu' - Segmentos correspondentes: 'eko bu' (com 2 palavras em comum)
+Linha alvo: 'mo na' - Nenhuma correspondência encontrada
+Linha alvo: 'tala ca' - Nenhuma correspondência encontrada
+Linha alvo: 'me wa m ha bu' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋŋa' - Segmentos correspondentes: 'nhaŋŋa' (com 1 palavras em comum)
+Linha alvo: 'hon na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu nuŋ' - Segmentos correspondentes: 'mamu nuŋ' (com 2 palavras em comum)
+Linha alvo: 'saikal be' - Nenhuma correspondência encontrada
+Linha alvo: 'ta yatasa na' - Nenhuma correspondência encontrada
+Linha alvo: 'yo na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu ca' - Segmentos correspondentes: 'mamu ca' (com 2 palavras em comum)
+Linha alvo: 'nhaŋŋa' - Segmentos correspondentes: 'nhaŋŋa' (com 1 palavras em comum)
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'lukt a sy a ci' - Nenhuma correspondência encontrada
+Linha alvo: 'men na i' - Segmentos correspondentes: 'men na i' (com 3 palavras em comum)
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ be' - Segmentos correspondentes: 'paŋ be' (com 2 palavras em comum)
+Linha alvo: 'ku nuŋ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'sin di me' - Nenhuma correspondência encontrada
+Linha alvo: 'mo na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ be' - Segmentos correspondentes: 'paŋ be' (com 2 palavras em comum)
+Linha alvo: 'tha' - Segmentos correspondentes: 'tha' (com 1 palavras em comum)
+Linha alvo: 'n leŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'ka ma' - Segmentos correspondentes: 'ka ma' (com 2 palavras em comum)
+Linha alvo: 'pʌryo' - Segmentos correspondentes: 'pʌryo' (com 1 palavras em comum)
+Linha alvo: 'ai' - Nenhuma correspondência encontrada
+Linha alvo: 'to na em' - Nenhuma correspondência encontrada
+Linha alvo: 'mo na em' - Nenhuma correspondência encontrada
+Linha alvo: 'mo ha' - Nenhuma correspondência encontrada
+Linha alvo: 'keŋ ci' - Nenhuma correspondência encontrada
+Linha alvo: 'to ha' - Nenhuma correspondência encontrada
+Linha alvo: 'keŋ ci' - Nenhuma correspondência encontrada
+Linha alvo: 'eh' - Segmentos correspondentes: 'eh' (com 1 palavras em comum)
+Linha alvo: 'khe na' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'men na' - Segmentos correspondentes: 'men na' (com 2 palavras em comum)
+Linha alvo: 'yo na le' - Nenhuma correspondência encontrada
+Linha alvo: 'mela be' - Segmentos correspondentes: 'mela be' (com 2 palavras em comum)
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'khe' - Segmentos correspondentes: 'khe' (com 1 palavras em comum)
+Linha alvo: 'son ca saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'minuma' - Segmentos correspondentes: 'minuma' (com 1 palavras em comum)
+Linha alvo: 'lukt a khy a na bu' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mo na' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'mo na' - Nenhuma correspondência encontrada
+Linha alvo: 'u lap' - Nenhuma correspondência encontrada
+Linha alvo: 'to na' - Nenhuma correspondência encontrada
+Linha alvo: 'u lap' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'lambu' - Segmentos correspondentes: 'lambu' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ak ka i' - Nenhuma correspondência encontrada
+Linha alvo: 'mu' - Segmentos correspondentes: 'mu' (com 1 palavras em comum)
+Linha alvo: 'nniŋ ghe' - Segmentos correspondentes: 'nniŋ ghe' (com 2 palavras em comum)
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'cog wa m g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tunna' - Segmentos correspondentes: 'tunna' (com 1 palavras em comum)
+Linha alvo: 'cokcoki nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'tu tunna' - Segmentos correspondentes: 'tu tunna' (com 2 palavras em comum)
+Linha alvo: 'cokcoki' - Nenhuma correspondência encontrada
+Linha alvo: 'imin na' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'hen se' - Segmentos correspondentes: 'hen se' (com 2 palavras em comum)
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'soʔ ma na lai' - Nenhuma correspondência encontrada
+Linha alvo: 'ɖhakani be' - Nenhuma correspondência encontrada
+Linha alvo: 's wa' - Nenhuma correspondência encontrada
+Linha alvo: 'nnhe' - Segmentos correspondentes: 'nnhe' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'man na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha nuŋ' - Segmentos correspondentes: 'ŋkha nuŋ' (com 2 palavras em comum)
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'gobar' - Nenhuma correspondência encontrada
+Linha alvo: 'pik ka' - Nenhuma correspondência encontrada
+Linha alvo: 'u hi' - Nenhuma correspondência encontrada
+Linha alvo: 'bachi ga' - Nenhuma correspondência encontrada
+Linha alvo: 'goru ga' - Nenhuma correspondência encontrada
+Linha alvo: 'men na' - Segmentos correspondentes: 'men na' (com 2 palavras em comum)
+Linha alvo: 'munhe' - Nenhuma correspondência encontrada
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'yuŋ ma hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ʈika' - Nenhuma correspondência encontrada
+Linha alvo: 'waʔ meʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'munnhe' - Nenhuma correspondência encontrada
+Linha alvo: 'sombare' - Nenhuma correspondência encontrada
+Linha alvo: 'daju ge' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ waʔ ya ci bu' - Nenhuma correspondência encontrada
+Linha alvo: 'hau' - Segmentos correspondentes: 'hau' (com 1 palavras em comum)
+Linha alvo: 'jeppa' - Segmentos correspondentes: 'jeppa' (com 1 palavras em comum)
+Linha alvo: 'ka go' - Segmentos correspondentes: 'ka go' (com 2 palavras em comum)
+Linha alvo: 'tunnhe' - Nenhuma correspondência encontrada
+Linha alvo: 'bhitta be' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔ ma sy a ŋ na le' - Nenhuma correspondência encontrada
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'uks a ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'uks a' - Nenhuma correspondência encontrada
+Linha alvo: 'ly a ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'mu' - Segmentos correspondentes: 'mu' (com 1 palavras em comum)
+Linha alvo: 'jeʈha ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'biha' - Segmentos correspondentes: 'biha' (com 1 palavras em comum)
+Linha alvo: 'cog a' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'mu' - Segmentos correspondentes: 'mu' (com 1 palavras em comum)
+Linha alvo: 'jeʈha ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'hiŋ ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ŋkhaʔla' - Segmentos correspondentes: 'ŋkhaʔla' (com 1 palavras em comum)
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'tu tunnhe' - Nenhuma correspondência encontrada
+Linha alvo: 'bhauju ghe' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ya masa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'raecha' - Segmentos correspondentes: 'raecha' (com 1 palavras em comum)
+Linha alvo: 'tunnhe ba' - Nenhuma correspondência encontrada
+Linha alvo: 'mondaŋ' - Segmentos correspondentes: 'mondaŋ' (com 1 palavras em comum)
+Linha alvo: 'ky a na' - Nenhuma correspondência encontrada
+Linha alvo: 'yondaŋ' - Segmentos correspondentes: 'yondaŋ' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'a cya' - Nenhuma correspondência encontrada
+Linha alvo: 'we ppa ʔlo' - Nenhuma correspondência encontrada
+Linha alvo: 'honna' - Segmentos correspondentes: 'honna' (com 1 palavras em comum)
+Linha alvo: 'sem khuba' - Segmentos correspondentes: 'sem khuba' (com 2 palavras em comum)
+Linha alvo: 'babu' - Segmentos correspondentes: 'babu' (com 1 palavras em comum)
+Linha alvo: 'pheri' - Segmentos correspondentes: 'pheri' (com 1 palavras em comum)
+Linha alvo: 'i ʔlo' - Segmentos correspondentes: 'i ʔlo' (com 2 palavras em comum)
+Linha alvo: 'mopparik' - Segmentos correspondentes: 'mopparik' (com 1 palavras em comum)
+Linha alvo: 'jhar a' - Nenhuma correspondência encontrada
+Linha alvo: 'cok ma sy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋkhaʔniŋŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔmasek' - Segmentos correspondentes: 'naʔmasek' (com 1 palavras em comum)
+Linha alvo: 'khi khuwa' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'yorok' - Segmentos correspondentes: 'yorok' (com 1 palavras em comum)
+Linha alvo: 'torok' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ wa ya masa' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'ten be jhen' - Segmentos correspondentes: 'ten be jhen' (com 3 palavras em comum)
+Linha alvo: 'mo' - Segmentos correspondentes: 'mo' (com 1 palavras em comum)
+Linha alvo: 'yondaŋ' - Segmentos correspondentes: 'yondaŋ' (com 1 palavras em comum)
+Linha alvo: 'morok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'limbu ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ wa ya ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mondaŋ' - Segmentos correspondentes: 'mondaŋ' (com 1 palavras em comum)
+Linha alvo: 'kham' - Segmentos correspondentes: 'kham' (com 1 palavras em comum)
+Linha alvo: 'ket u eba' - Nenhuma correspondência encontrada
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'morondaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ket u eba' - Nenhuma correspondência encontrada
+Linha alvo: 'beuli' - Segmentos correspondentes: 'beuli' (com 1 palavras em comum)
+Linha alvo: 'siŋgara' - Nenhuma correspondência encontrada
+Linha alvo: 'cok se' - Segmentos correspondentes: 'cok se' (com 2 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'yoʔyorok' - Segmentos correspondentes: 'yoʔyorok' (com 1 palavras em comum)
+Linha alvo: 'ŋ ghet wa' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'nnakha' - Segmentos correspondentes: 'nnakha' (com 1 palavras em comum)
+Linha alvo: 'lalubaŋ nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phalubaŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ten go' - Segmentos correspondentes: 'ten go' (com 2 palavras em comum)
+Linha alvo: 'naʔmo maŋ' - Segmentos correspondentes: 'naʔmo maŋ' (com 2 palavras em comum)
+Linha alvo: 'sa' - Segmentos correspondentes: 'sa' (com 1 palavras em comum)
+Linha alvo: 'eŋ ga e' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'taŋkheŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'pes a khy a ma niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔmo' - Segmentos correspondentes: 'naʔmo' (com 1 palavras em comum)
+Linha alvo: 'heko ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nwak ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'uŋ ma' - Segmentos correspondentes: 'uŋ ma' (com 2 palavras em comum)
+Linha alvo: 'n dokt wa ga n na' - Nenhuma correspondência encontrada
+Linha alvo: 'n lu ks u' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔyo le' - Nenhuma correspondência encontrada
+Linha alvo: 'sa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nnaʔyo le' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔyo' - Segmentos correspondentes: 'naʔyo' (com 1 palavras em comum)
+Linha alvo: 'ab a' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔmo' - Segmentos correspondentes: 'naʔmo' (com 1 palavras em comum)
+Linha alvo: 'uks a' - Nenhuma correspondência encontrada
+Linha alvo: 'ʈebul ga' - Nenhuma correspondência encontrada
+Linha alvo: 'mopparik' - Segmentos correspondentes: 'mopparik' (com 1 palavras em comum)
+Linha alvo: 'kanciŋ' - Segmentos correspondentes: 'kanciŋ' (com 1 palavras em comum)
+Linha alvo: 'mopparindaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ky a ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ʈebul ga' - Nenhuma correspondência encontrada
+Linha alvo: 'tokhaʔla' - Segmentos correspondentes: 'tokhaʔla' (com 1 palavras em comum)
+Linha alvo: 'ʈebul ga' - Nenhuma correspondência encontrada
+Linha alvo: 'mondaŋ' - Segmentos correspondentes: 'mondaŋ' (com 1 palavras em comum)
+Linha alvo: 'chwigam' - Nenhuma correspondência encontrada
+Linha alvo: 'kept u na' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci paŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'moʔmorok' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'hoŋma' - Segmentos correspondentes: 'hoŋma' (com 1 palavras em comum)
+Linha alvo: 'wei sa na' - Nenhuma correspondência encontrada
+Linha alvo: 'hon na' - Nenhuma correspondência encontrada
+Linha alvo: 'yuktham ga' - Nenhuma correspondência encontrada
+Linha alvo: 'yoʔyorok' - Segmentos correspondentes: 'yoʔyorok' (com 1 palavras em comum)
+Linha alvo: 'kheʔkherek' - Nenhuma correspondência encontrada
+Linha alvo: 'kanciŋ' - Segmentos correspondentes: 'kanciŋ' (com 1 palavras em comum)
+Linha alvo: 'to' - Segmentos correspondentes: 'to' (com 1 palavras em comum)
+Linha alvo: 'tub i hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uks a ŋ ci ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'tas a ŋ c u ŋ ba' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'eko ŋa go' - Segmentos correspondentes: 'eko ŋa go' (com 3 palavras em comum)
+Linha alvo: 'thend u get uks a ba' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'leks a niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'khem ma' - Segmentos correspondentes: 'khem ma' (com 2 palavras em comum)
+Linha alvo: 'yas u na' - Nenhuma correspondência encontrada
+Linha alvo: 'chimd u na' - Nenhuma correspondência encontrada
+Linha alvo: 'thur u na' - Nenhuma correspondência encontrada
+Linha alvo: 'men niʔ le' - Nenhuma correspondência encontrada
+Linha alvo: 'ikhiŋ' - Segmentos correspondentes: 'ikhiŋ' (com 1 palavras em comum)
+Linha alvo: 'ucun ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tephen' - Nenhuma correspondência encontrada
+Linha alvo: 'thur uks u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim nen' - Nenhuma correspondência encontrada
+Linha alvo: 'chimd a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ khuba' - Segmentos correspondentes: 'uŋ khuba' (com 2 palavras em comum)
+Linha alvo: 'yapmi' - Segmentos correspondentes: 'yapmi' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'phat a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'mit a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'tund a ŋ c u ŋ ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ khy a ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'm bi a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'n chimd a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'n yog a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'piʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'piʔ nen in ha' - Nenhuma correspondência encontrada
+Linha alvo: 'piʔ nen in ha' - Nenhuma correspondência encontrada
+Linha alvo: 'piʔ nen in ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tund a ŋ c u ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim meʔ nen cin ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim meʔ nen cin ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tund u m ci m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pi wa m na' - Nenhuma correspondência encontrada
+Linha alvo: 'kho het u' - Nenhuma correspondência encontrada
+Linha alvo: 'saikal be' - Nenhuma correspondência encontrada
+Linha alvo: 'thend het u' - Nenhuma correspondência encontrada
+Linha alvo: 'phopt haks u' - Nenhuma correspondência encontrada
+Linha alvo: 'yakpuca' - Nenhuma correspondência encontrada
+Linha alvo: 'yog a ma c u' - Nenhuma correspondência encontrada
+Linha alvo: 'phusa' - Nenhuma correspondência encontrada
+Linha alvo: 'yog a ma c u' - Nenhuma correspondência encontrada
+Linha alvo: 'chimd wa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'chim me ŋ c u ŋ ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim me c u ci g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim me ŋ ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'pheri' - Segmentos correspondentes: 'pheri' (com 1 palavras em comum)
+Linha alvo: 'sum baŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'n leks a ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'limbu ci' - Segmentos correspondentes: 'limbu ci' (com 2 palavras em comum)
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'n las a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n chimd a n c u n ci ŋa n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim me ŋ c u ŋ ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'chim meʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'n chim meʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'n chimd wa m ci m nin ha' - Nenhuma correspondência encontrada
+Linha alvo: 'n chimd wa n ci nin ha' - Nenhuma correspondência encontrada
+Linha alvo: 'sombar ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ta meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'wandik ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'nam' - Segmentos correspondentes: 'nam' (com 1 palavras em comum)
+Linha alvo: 'phem meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋto' - Segmentos correspondentes: 'nhaŋto' (com 1 palavras em comum)
+Linha alvo: 'garo' - Segmentos correspondentes: 'garo' (com 1 palavras em comum)
+Linha alvo: 'n cheŋd et wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'tokhaʔla' - Segmentos correspondentes: 'tokhaʔla' (com 1 palavras em comum)
+Linha alvo: 'panca ci' - Nenhuma correspondência encontrada
+Linha alvo: 'bhaladmi ci' - Nenhuma correspondência encontrada
+Linha alvo: 'n yuks wa ci hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'n jekt wa' - Nenhuma correspondência encontrada
+Linha alvo: 'py a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'pi meʔ ka na' - Nenhuma correspondência encontrada
+Linha alvo: 'cek met u m ci m ga m' - Nenhuma correspondência encontrada
+Linha alvo: 'n jek met u m ci m ga n ha m' - Nenhuma correspondência encontrada
+Linha alvo: 'khokt a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'o pomma ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ gy a ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'encho' - Segmentos correspondentes: 'encho' (com 1 palavras em comum)
+Linha alvo: 'a ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ya niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'lit u m ŋa ba' - Nenhuma correspondência encontrada
+Linha alvo: 'didi' - Segmentos correspondentes: 'didi' (com 1 palavras em comum)
+Linha alvo: 'ŋkhoŋ' - Segmentos correspondentes: 'ŋkhoŋ' (com 1 palavras em comum)
+Linha alvo: 'heʔne heʔne' - Nenhuma correspondência encontrada
+Linha alvo: 'tas u ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'laʔlo' - Nenhuma correspondência encontrada
+Linha alvo: 'lop' - Segmentos correspondentes: 'lop' (com 1 palavras em comum)
+Linha alvo: 'sak ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'n sy ama ŋa n na' - Nenhuma correspondência encontrada
+Linha alvo: 'u laŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'yeb a by ama na' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'asen' - Segmentos correspondentes: 'asen' (com 1 palavras em comum)
+Linha alvo: 'men ni nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'men ni nuŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'isisi' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a ma ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ma ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i mi ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'hakt a ŋ ga ni' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'mit amasa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'khy amasa ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'u mik' - Nenhuma correspondência encontrada
+Linha alvo: 'encho ba' - Segmentos correspondentes: 'encho ba' (com 2 palavras em comum)
+Linha alvo: 'homd uksa na' - Nenhuma correspondência encontrada
+Linha alvo: 'hensen go' - Nenhuma correspondência encontrada
+Linha alvo: 'nu yama na' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'uŋ ma' - Segmentos correspondentes: 'uŋ ma' (com 2 palavras em comum)
+Linha alvo: 'n dokt wa ga n na' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'seʔni ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'caleppa' - Segmentos correspondentes: 'caleppa' (com 1 palavras em comum)
+Linha alvo: 'l lem ma sy a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ ŋa' - Segmentos correspondentes: 'uŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'sakheʔwa ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'casak' - Segmentos correspondentes: 'casak' (com 1 palavras em comum)
+Linha alvo: 'ŋ gom ca ma sim me ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nis uks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'u sa' - Nenhuma correspondência encontrada
+Linha alvo: 'sem saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'u sam be' - Nenhuma correspondência encontrada
+Linha alvo: 'ca ma sy a ŋ niŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'kucuma' - Segmentos correspondentes: 'kucuma' (com 1 palavras em comum)
+Linha alvo: 'yok ma si me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'yok ma si meʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'phoʈo ci' - Nenhuma correspondência encontrada
+Linha alvo: 'soʔ meʔ ma sy a ŋ ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'nakhaʔla' - Nenhuma correspondência encontrada
+Linha alvo: 'luk khusa' - Nenhuma correspondência encontrada
+Linha alvo: 'ca saŋ' - Segmentos correspondentes: 'ca saŋ' (com 2 palavras em comum)
+Linha alvo: 'khy ama ci niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'pu saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'iŋ nhaŋ saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ik saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ci niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'mend i' - Nenhuma correspondência encontrada
+Linha alvo: 'chimd i ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'mak ni meʔ nen na' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'khe i' - Nenhuma correspondência encontrada
+Linha alvo: 'imin' - Segmentos correspondentes: 'imin' (com 1 palavras em comum)
+Linha alvo: 'cog u m' - Nenhuma correspondência encontrada
+Linha alvo: 'ciya' - Nenhuma correspondência encontrada
+Linha alvo: 'hops u m' - Nenhuma correspondência encontrada
+Linha alvo: 'sori' - Nenhuma correspondência encontrada
+Linha alvo: 'khe ci ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lem nhaŋ nen' - Nenhuma correspondência encontrada
+Linha alvo: 'kaŋ khe ka' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ u m' - Nenhuma correspondência encontrada
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'im ci' - Nenhuma correspondência encontrada
+Linha alvo: 'manuŋ go' - Nenhuma correspondência encontrada
+Linha alvo: 'heco bi' - Nenhuma correspondência encontrada
+Linha alvo: 'casowa' - Nenhuma correspondência encontrada
+Linha alvo: 'n jog a n' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'puŋdaraŋma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'o lok' - Nenhuma correspondência encontrada
+Linha alvo: 'khom me' - Nenhuma correspondência encontrada
+Linha alvo: 'ki' - Segmentos correspondentes: 'ki' (com 1 palavras em comum)
+Linha alvo: 'nhe le' - Segmentos correspondentes: 'nhe le' (com 2 palavras em comum)
+Linha alvo: 'ips a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nhe' - Segmentos correspondentes: 'nhe' (com 1 palavras em comum)
+Linha alvo: 'im ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔlo' - Segmentos correspondentes: 'haʔlo' (com 1 palavras em comum)
+Linha alvo: 'o chom be' - Nenhuma correspondência encontrada
+Linha alvo: 'tas u ni' - Segmentos correspondentes: 'tas u ni' (com 3 palavras em comum)
+Linha alvo: 'ucun' - Segmentos correspondentes: 'ucun' (com 1 palavras em comum)
+Linha alvo: 'leŋ ni' - Nenhuma correspondência encontrada
+Linha alvo: 'miʔ ŋa ni' - Nenhuma correspondência encontrada
+Linha alvo: 'mit aŋ ga ni' - Nenhuma correspondência encontrada
+Linha alvo: 'ab a' - Nenhuma correspondência encontrada
+Linha alvo: 'ab a ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'ab a ci ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'ab a ni ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'nakhe' - Nenhuma correspondência encontrada
+Linha alvo: 'omphu be' - Nenhuma correspondência encontrada
+Linha alvo: 'yuŋ a ni ga i' - Nenhuma correspondência encontrada
+Linha alvo: 'ab a eba' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔnaŋ' - Segmentos correspondentes: 'heʔnaŋ' (com 1 palavras em comum)
+Linha alvo: 'ta ma' - Segmentos correspondentes: 'ta ma' (com 2 palavras em comum)
+Linha alvo: 'leks a ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'toŋba' - Segmentos correspondentes: 'toŋba' (com 1 palavras em comum)
+Linha alvo: 'piʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'leŋ ni ba' - Nenhuma correspondência encontrada
+Linha alvo: 'kinama' - Nenhuma correspondência encontrada
+Linha alvo: 'ca ma' - Segmentos correspondentes: 'ca ma' (com 2 palavras em comum)
+Linha alvo: 'leŋ ni ba' - Nenhuma correspondência encontrada
+Linha alvo: 'ka ka' - Nenhuma correspondência encontrada
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'ŋan na ba' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'isa ga' - Segmentos correspondentes: 'isa ga' (com 2 palavras em comum)
+Linha alvo: 'u cya' - Nenhuma correspondência encontrada
+Linha alvo: 'gan' - Segmentos correspondentes: 'gan' (com 1 palavras em comum)
+Linha alvo: 'ka ca' - Segmentos correspondentes: 'ka ca' (com 2 palavras em comum)
+Linha alvo: 'chalumma' - Segmentos correspondentes: 'chalumma' (com 1 palavras em comum)
+Linha alvo: 'ŋan' - Segmentos correspondentes: 'ŋan' (com 1 palavras em comum)
+Linha alvo: 'uŋci go' - Segmentos correspondentes: 'uŋci go' (com 2 palavras em comum)
+Linha alvo: 'miyaŋ' - Segmentos correspondentes: 'miyaŋ' (com 1 palavras em comum)
+Linha alvo: 'mam ha' - Nenhuma correspondência encontrada
+Linha alvo: 'n sa' - Segmentos correspondentes: 'n sa' (com 2 palavras em comum)
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'luŋmatuktuk na' - Nenhuma correspondência encontrada
+Linha alvo: 'sa ya ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'encho' - Segmentos correspondentes: 'encho' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'miya' - Segmentos correspondentes: 'miya' (com 1 palavras em comum)
+Linha alvo: 'sa ya ŋ niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'hironi' - Nenhuma correspondência encontrada
+Linha alvo: 'me ti siŋan' - Nenhuma correspondência encontrada
+Linha alvo: 'elaba ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'n lu ks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nniŋda' - Segmentos correspondentes: 'nniŋda' (com 1 palavras em comum)
+Linha alvo: 'yakkhaba' - Segmentos correspondentes: 'yakkhaba' (com 1 palavras em comum)
+Linha alvo: 'me ti sigan ha' - Nenhuma correspondência encontrada
+Linha alvo: 'uhiŋgilik' - Segmentos correspondentes: 'uhiŋgilik' (com 1 palavras em comum)
+Linha alvo: 'wɛʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'n na' - Nenhuma correspondência encontrada
+Linha alvo: 'n nuncha' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ waiʔ ya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'tas wa na be' - Nenhuma correspondência encontrada
+Linha alvo: 'yog a n u m' - Nenhuma correspondência encontrada
+Linha alvo: 'nna be' - Segmentos correspondentes: 'nna be' (com 2 palavras em comum)
+Linha alvo: 'nniŋ ga' - Segmentos correspondentes: 'nniŋ ga' (com 2 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'wa meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'sambakhi ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ma n ha ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ wa meʔ ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'ta me ka niŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'm ma me ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋ' - Segmentos correspondentes: 'ŋkhaʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'paŋ ca' - Segmentos correspondentes: 'paŋ ca' (com 2 palavras em comum)
+Linha alvo: 'm ma ya n niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'tumhaŋ ŋa' - Segmentos correspondentes: 'tumhaŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'paŋ' - Segmentos correspondentes: 'paŋ' (com 1 palavras em comum)
+Linha alvo: 'cog uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋci nuŋ' - Segmentos correspondentes: 'uŋci nuŋ' (com 2 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'yaŋ' - Segmentos correspondentes: 'yaŋ' (com 1 palavras em comum)
+Linha alvo: 'm ma ya ma n' - Nenhuma correspondência encontrada
+Linha alvo: 'buŋga bic pe' - Nenhuma correspondência encontrada
+Linha alvo: 'wa i mi ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'njiŋda' - Segmentos correspondentes: 'njiŋda' (com 1 palavras em comum)
+Linha alvo: 'm mai sa n ci ga n ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'wa i' - Nenhuma correspondência encontrada
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'y yog a n niŋ bi' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'hensen' - Segmentos correspondentes: 'hensen' (com 1 palavras em comum)
+Linha alvo: 'ŋ wa ya ŋa n bi' - Nenhuma correspondência encontrada
+Linha alvo: 'khic a' - Nenhuma correspondência encontrada
+Linha alvo: 'cog u' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'im ma' - Nenhuma correspondência encontrada
+Linha alvo: 'por a' - Nenhuma correspondência encontrada
+Linha alvo: 'n joŋ me ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'phuama ŋa ca' - Nenhuma correspondência encontrada
+Linha alvo: 'cek les wa' - Nenhuma correspondência encontrada
+Linha alvo: 'hau' - Segmentos correspondentes: 'hau' (com 1 palavras em comum)
+Linha alvo: 'pheŋ les wa m ci m ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'makkai ga' - Nenhuma correspondência encontrada
+Linha alvo: 'cama' - Segmentos correspondentes: 'cama' (com 1 palavras em comum)
+Linha alvo: 'chiʔwa ga' - Nenhuma correspondência encontrada
+Linha alvo: 'khyu' - Segmentos correspondentes: 'khyu' (com 1 palavras em comum)
+Linha alvo: 'cabhak ko' - Segmentos correspondentes: 'cabhak ko' (com 2 palavras em comum)
+Linha alvo: 'lak ma' - Nenhuma correspondência encontrada
+Linha alvo: 'a ŋoʈeŋma jyu' - Nenhuma correspondência encontrada
+Linha alvo: 'kei nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'cabhak' - Segmentos correspondentes: 'cabhak' (com 1 palavras em comum)
+Linha alvo: 'lak saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ucun' - Segmentos correspondentes: 'ucun' (com 1 palavras em comum)
+Linha alvo: 'n joŋ me' - Nenhuma correspondência encontrada
+Linha alvo: 'a phok' - Segmentos correspondentes: 'a phok' (com 2 palavras em comum)
+Linha alvo: 'tuk nuŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'sak' - Segmentos correspondentes: 'sak' (com 1 palavras em comum)
+Linha alvo: 'tug a na' - Nenhuma correspondência encontrada
+Linha alvo: 'whaŋma' - Segmentos correspondentes: 'whaŋma' (com 1 palavras em comum)
+Linha alvo: 'tug a na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'wepma' - Segmentos correspondentes: 'wepma' (com 1 palavras em comum)
+Linha alvo: 'sy a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'wepma' - Segmentos correspondentes: 'wepma' (com 1 palavras em comum)
+Linha alvo: 'tug a na' - Nenhuma correspondência encontrada
+Linha alvo: 'chemha ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'sis a ga na i' - Nenhuma correspondência encontrada
+Linha alvo: 'sak ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'n sy a ma ŋa n na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'macchi ŋa' - Segmentos correspondentes: 'macchi ŋa' (com 2 palavras em comum)
+Linha alvo: 'haŋd a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'u niŋwa' - Nenhuma correspondência encontrada
+Linha alvo: 'tug a na' - Nenhuma correspondência encontrada
+Linha alvo: 'a niŋ' - Segmentos correspondentes: 'a niŋ' (com 2 palavras em comum)
+Linha alvo: 'a la' - Nenhuma correspondência encontrada
+Linha alvo: 'sy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ ŋa' - Segmentos correspondentes: 'uŋ ŋa' (com 2 palavras em comum)
+Linha alvo: 'u ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'u luŋma' - Nenhuma correspondência encontrada
+Linha alvo: 'tukt uks u na' - Nenhuma correspondência encontrada
+Linha alvo: 'a yupma ci' - Nenhuma correspondência encontrada
+Linha alvo: 'cips u ŋ ci ŋ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'thaŋsu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u chya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'a chippa' - Segmentos correspondentes: 'a chippa' (com 2 palavras em comum)
+Linha alvo: 'ket wa ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'njiŋda bhaŋ' - Segmentos correspondentes: 'njiŋda bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'a sokma' - Nenhuma correspondência encontrada
+Linha alvo: 'hips wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'a lawa ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔ ya ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'cuŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'a muk ci' - Nenhuma correspondência encontrada
+Linha alvo: 'khokt u ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a muk ci' - Nenhuma correspondência encontrada
+Linha alvo: 'khokt u ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a ya' - Segmentos correspondentes: 'a ya' (com 2 palavras em comum)
+Linha alvo: 'limd u na' - Nenhuma correspondência encontrada
+Linha alvo: 'n lok' - Nenhuma correspondência encontrada
+Linha alvo: 'khot a ŋ ga na i' - Nenhuma correspondência encontrada
+Linha alvo: 'o lok' - Nenhuma correspondência encontrada
+Linha alvo: 'khot a na' - Nenhuma correspondência encontrada
+Linha alvo: 'u nabhuk' - Nenhuma correspondência encontrada
+Linha alvo: 'lept haks u na' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'nabhuk ci' - Nenhuma correspondência encontrada
+Linha alvo: 'lept haks u ci g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'eŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'nabhuk' - Nenhuma correspondência encontrada
+Linha alvo: 'lept haks u ci g ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'khas a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'a phok' - Segmentos correspondentes: 'a phok' (com 2 palavras em comum)
+Linha alvo: 'khas a na' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba nuŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'encho' - Segmentos correspondentes: 'encho' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'miya' - Segmentos correspondentes: 'miya' (com 1 palavras em comum)
+Linha alvo: 'sa ya ŋ niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'chocholaplap' - Segmentos correspondentes: 'chocholaplap' (com 1 palavras em comum)
+Linha alvo: 'cok khuba' - Nenhuma correspondência encontrada
+Linha alvo: 'saŋ' - Segmentos correspondentes: 'saŋ' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'len ga' - Segmentos correspondentes: 'len ga' (com 2 palavras em comum)
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'aniŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'taŋŋoca' - Nenhuma correspondência encontrada
+Linha alvo: 'weʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'lamdhaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na' - Nenhuma correspondência encontrada
+Linha alvo: 'leks i ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phekme' - Segmentos correspondentes: 'phekme' (com 1 palavras em comum)
+Linha alvo: 'ok se' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'kondarik ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'khet u m ci m ŋa hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'lamdhaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'lamdhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ bhaŋ' - Segmentos correspondentes: 'paŋ bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'ta ma' - Segmentos correspondentes: 'ta ma' (com 2 palavras em comum)
+Linha alvo: 'maŋpha' - Segmentos correspondentes: 'maŋpha' (com 1 palavras em comum)
+Linha alvo: 'maŋdu' - Segmentos correspondentes: 'maŋdu' (com 1 palavras em comum)
+Linha alvo: 'sa ya' - Nenhuma correspondência encontrada
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'lamdhaŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'tas u m ŋa hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phekme' - Segmentos correspondentes: 'phekme' (com 1 palavras em comum)
+Linha alvo: 'ok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khe i niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'nam ŋa' - Segmentos correspondentes: 'nam ŋa' (com 2 palavras em comum)
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'pho ya' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'nna be' - Segmentos correspondentes: 'nna be' (com 2 palavras em comum)
+Linha alvo: 'namciʔmaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne ca' - Segmentos correspondentes: 'heʔne ca' (com 2 palavras em comum)
+Linha alvo: 'm ma ya n' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋ' - Segmentos correspondentes: 'ŋkhaʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'kaniŋ' - Segmentos correspondentes: 'kaniŋ' (com 1 palavras em comum)
+Linha alvo: 'whaŋma' - Segmentos correspondentes: 'whaŋma' (com 1 palavras em comum)
+Linha alvo: 'pirik pirik' - Nenhuma correspondência encontrada
+Linha alvo: 'leks i ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ibebe' - Segmentos correspondentes: 'ibebe' (com 1 palavras em comum)
+Linha alvo: 'wepma' - Segmentos correspondentes: 'wepma' (com 1 palavras em comum)
+Linha alvo: 'si i ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakha he' - Segmentos correspondentes: 'nnakha he' (com 2 palavras em comum)
+Linha alvo: 'maŋcwa ca' - Segmentos correspondentes: 'maŋcwa ca' (com 2 palavras em comum)
+Linha alvo: 'm ma ya n' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'lamdhaŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'yorok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'mina' - Segmentos correspondentes: 'mina' (com 1 palavras em comum)
+Linha alvo: 'hoŋma' - Segmentos correspondentes: 'hoŋma' (com 1 palavras em comum)
+Linha alvo: 'wa ya' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ma ŋa' - Segmentos correspondentes: 'a ma ŋa' (com 3 palavras em comum)
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'ly a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'phuama' - Segmentos correspondentes: 'phuama' (com 1 palavras em comum)
+Linha alvo: 'hoŋma be' - Segmentos correspondentes: 'hoŋma be' (com 2 palavras em comum)
+Linha alvo: 'khy a g hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa' - Segmentos correspondentes: 'maŋcwa' (com 1 palavras em comum)
+Linha alvo: 'apt u' - Nenhuma correspondência encontrada
+Linha alvo: 'au' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'ka ca' - Segmentos correspondentes: 'ka ca' (com 2 palavras em comum)
+Linha alvo: 'leks a ba' - Nenhuma correspondência encontrada
+Linha alvo: 'ka saŋ' - Segmentos correspondentes: 'ka saŋ' (com 2 palavras em comum)
+Linha alvo: 'con si saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'u yaŋdhaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'a muk ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'phok phok' - Nenhuma correspondência encontrada
+Linha alvo: 'mok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khet u ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'maŋcwa' - Segmentos correspondentes: 'maŋcwa' (com 1 palavras em comum)
+Linha alvo: 'tap se' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋma be' - Segmentos correspondentes: 'hoŋma be' (com 2 palavras em comum)
+Linha alvo: 'khy a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'kheʔ ma sy a niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'lamdhaŋ ga' - Nenhuma correspondência encontrada
+Linha alvo: 'miʔyaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'yorok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'tas uks a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋ' - Segmentos correspondentes: 'ŋkhaʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'khokpu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u thap ka' - Nenhuma correspondência encontrada
+Linha alvo: 'u sam be' - Nenhuma correspondência encontrada
+Linha alvo: 'usa' - Segmentos correspondentes: 'usa' (com 1 palavras em comum)
+Linha alvo: 'keks a masa ha' - Nenhuma correspondência encontrada
+Linha alvo: 'nis u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'usa' - Segmentos correspondentes: 'usa' (com 1 palavras em comum)
+Linha alvo: 'sem ca ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mit u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhoŋ' - Segmentos correspondentes: 'ŋkhoŋ' (com 1 palavras em comum)
+Linha alvo: 'sem saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ekhumdu ekhumdu' - Nenhuma correspondência encontrada
+Linha alvo: 'co het u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'usa' - Segmentos correspondentes: 'usa' (com 1 palavras em comum)
+Linha alvo: 'sem saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'u sam be' - Nenhuma correspondência encontrada
+Linha alvo: 'ca ma sy a ŋ niŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'thapthum be' - Nenhuma correspondência encontrada
+Linha alvo: 'u thap phaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'a muk pe' - Nenhuma correspondência encontrada
+Linha alvo: 'makhur ha' - Nenhuma correspondência encontrada
+Linha alvo: 'waghui' - Nenhuma correspondência encontrada
+Linha alvo: 'loʔwa' - Segmentos correspondentes: 'loʔwa' (com 1 palavras em comum)
+Linha alvo: 'ʈhwaŋ' - Segmentos correspondentes: 'ʈhwaŋ' (com 1 palavras em comum)
+Linha alvo: 'nam khuba' - Segmentos correspondentes: 'nam khuba' (com 2 palavras em comum)
+Linha alvo: 'a yuks a' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a yuks a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'siŋ choŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'so ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba le' - Nenhuma correspondência encontrada
+Linha alvo: 'weʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'phopciba' - Segmentos correspondentes: 'phopciba' (com 1 palavras em comum)
+Linha alvo: 'siliklik' - Nenhuma correspondência encontrada
+Linha alvo: 'a chik' - Nenhuma correspondência encontrada
+Linha alvo: 'ekt u get u' - Nenhuma correspondência encontrada
+Linha alvo: 'lap ma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'khokpu ga' - Nenhuma correspondência encontrada
+Linha alvo: 'siŋ be' - Segmentos correspondentes: 'siŋ be' (com 2 palavras em comum)
+Linha alvo: 'thaŋ ma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'cog a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'siŋ' - Segmentos correspondentes: 'siŋ' (com 1 palavras em comum)
+Linha alvo: 'maɖa' - Segmentos correspondentes: 'maɖa' (com 1 palavras em comum)
+Linha alvo: 'sa ya' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhoŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'a chik' - Nenhuma correspondência encontrada
+Linha alvo: 'ekt a na' - Nenhuma correspondência encontrada
+Linha alvo: 'belak ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'esap esap' - Nenhuma correspondência encontrada
+Linha alvo: 'thaŋ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'yas a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'to' - Segmentos correspondentes: 'to' (com 1 palavras em comum)
+Linha alvo: 'thaŋ a by a ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'so ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'maŋpha na' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋ' - Segmentos correspondentes: 'hoŋ' (com 1 palavras em comum)
+Linha alvo: 'nis u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'phopciba' - Segmentos correspondentes: 'phopciba' (com 1 palavras em comum)
+Linha alvo: 'lap ma go' - Nenhuma correspondência encontrada
+Linha alvo: 'men na' - Segmentos correspondentes: 'men na' (com 2 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'hoŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha le' - Nenhuma correspondência encontrada
+Linha alvo: 'weʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'soʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mit het u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhoŋ' - Segmentos correspondentes: 'ŋkhoŋ' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'hoŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'so ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'nna be go' - Segmentos correspondentes: 'nna be go' (com 3 palavras em comum)
+Linha alvo: 'phopciba ga' - Nenhuma correspondência encontrada
+Linha alvo: 'hop le' - Nenhuma correspondência encontrada
+Linha alvo: 'waisa' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'o hop pe go' - Nenhuma correspondência encontrada
+Linha alvo: 'hicci' - Segmentos correspondentes: 'hicci' (com 1 palavras em comum)
+Linha alvo: 'u in ci ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ wa ya' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'u in ci' - Nenhuma correspondência encontrada
+Linha alvo: 'taŋ se' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'a muk' - Nenhuma correspondência encontrada
+Linha alvo: 'end u ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba' - Segmentos correspondentes: 'phopciba' (com 1 palavras em comum)
+Linha alvo: 'piciŋgelek piciŋgelek' - Nenhuma correspondência encontrada
+Linha alvo: 'ok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pes a ra ya' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'a ʈukhuruk pe' - Nenhuma correspondência encontrada
+Linha alvo: 'pok hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pok' - Segmentos correspondentes: 'pok' (com 1 palavras em comum)
+Linha alvo: 'og a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'kisit a ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'mo' - Segmentos correspondentes: 'mo' (com 1 palavras em comum)
+Linha alvo: 'uŋ ma ga' - Segmentos correspondentes: 'uŋ ma ga' (com 3 palavras em comum)
+Linha alvo: 'cog a ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'a laŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'tu ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'siŋ ga' - Segmentos correspondentes: 'siŋ ga' (com 2 palavras em comum)
+Linha alvo: 'whak' - Nenhuma correspondência encontrada
+Linha alvo: 'ʈek' - Nenhuma correspondência encontrada
+Linha alvo: 'eg a' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'seŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'kaks a kh eks a sa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'whak pe' - Nenhuma correspondência encontrada
+Linha alvo: 'a tek' - Nenhuma correspondência encontrada
+Linha alvo: 'het u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'haŋcaŋcaŋ' - Segmentos correspondentes: 'haŋcaŋcaŋ' (com 1 palavras em comum)
+Linha alvo: 'chu ya ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'chu ya ŋ niŋa ca' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n lept i ya ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'ak ka' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʈukhuruk pe' - Nenhuma correspondência encontrada
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'og a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'heli ca' - Nenhuma correspondência encontrada
+Linha alvo: 'lond a' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'a sa' - Segmentos correspondentes: 'a sa' (com 2 palavras em comum)
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'tug a' - Nenhuma correspondência encontrada
+Linha alvo: 'ka ca' - Segmentos correspondentes: 'ka ca' (com 2 palavras em comum)
+Linha alvo: 'phopciba' - Segmentos correspondentes: 'phopciba' (com 1 palavras em comum)
+Linha alvo: 'iŋ nhaŋ ma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'cog a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'i ha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'a niŋwa be' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ as het u ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'a lawa ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔ ya masa ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa chen' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'ibebe' - Segmentos correspondentes: 'ibebe' (com 1 palavras em comum)
+Linha alvo: 'yog a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'hoŋma' - Segmentos correspondentes: 'hoŋma' (com 1 palavras em comum)
+Linha alvo: 'poʈik' - Nenhuma correspondência encontrada
+Linha alvo: 'yok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ya ma ci niŋ go' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'haŋcaŋcaŋ' - Segmentos correspondentes: 'haŋcaŋcaŋ' (com 1 palavras em comum)
+Linha alvo: 'chu ya ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nis a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'hani hani' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ya ma ci hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'lab a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhiŋ' - Segmentos correspondentes: 'ŋkhiŋ' (com 1 palavras em comum)
+Linha alvo: 'belak be' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ok saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hop pe' - Segmentos correspondentes: 'hop pe' (com 2 palavras em comum)
+Linha alvo: 'pes a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'hakhok ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'cend a ky a ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'so ŋ niŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'choŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ips a masa' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'lab a masa' - Nenhuma correspondência encontrada
+Linha alvo: 'imin hoŋ' - Segmentos correspondentes: 'imin hoŋ' (com 2 palavras em comum)
+Linha alvo: 'ollobak' - Segmentos correspondentes: 'ollobak' (com 1 palavras em comum)
+Linha alvo: 'n sy a ga n na' - Nenhuma correspondência encontrada
+Linha alvo: 'lu saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'thind a' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ebbebe' - Segmentos correspondentes: 'ebbebe' (com 1 palavras em comum)
+Linha alvo: 'kisit a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khoŋ' - Segmentos correspondentes: 'khoŋ' (com 1 palavras em comum)
+Linha alvo: 'ghwa ghwa' - Nenhuma correspondência encontrada
+Linha alvo: 'hab a ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ma' - Segmentos correspondentes: 'ma' (com 1 palavras em comum)
+Linha alvo: 'na ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'niŋwa maŋ' - Segmentos correspondentes: 'niŋwa maŋ' (com 2 palavras em comum)
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'hakhok ŋa go' - Nenhuma correspondência encontrada
+Linha alvo: 'lem saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'khaʔla' - Segmentos correspondentes: 'khaʔla' (com 1 palavras em comum)
+Linha alvo: 'lu ya' - Nenhuma correspondência encontrada
+Linha alvo: 'picchanacha' - Nenhuma correspondência encontrada
+Linha alvo: 'leŋ ma hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pyak' - Segmentos correspondentes: 'pyak' (com 1 palavras em comum)
+Linha alvo: 'chocholaplap' - Segmentos correspondentes: 'chocholaplap' (com 1 palavras em comum)
+Linha alvo: 'men jok ma ha' - Nenhuma correspondência encontrada
+Linha alvo: 'jeppa' - Segmentos correspondentes: 'jeppa' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'len' - Segmentos correspondentes: 'len' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya' - Segmentos correspondentes: 'ceʔya' (com 1 palavras em comum)
+Linha alvo: 'y yen u ŋa n na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ollobak' - Segmentos correspondentes: 'ollobak' (com 1 palavras em comum)
+Linha alvo: 'paro be' - Nenhuma correspondência encontrada
+Linha alvo: 'tas u ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'a ma nuŋ' - Segmentos correspondentes: 'a ma nuŋ' (com 3 palavras em comum)
+Linha alvo: 'a na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'y yog a n niŋ bi' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'hensen' - Segmentos correspondentes: 'hensen' (com 1 palavras em comum)
+Linha alvo: 'ŋ wa ya ŋa n bi' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'con si saŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ijaŋ' - Segmentos correspondentes: 'ijaŋ' (com 1 palavras em comum)
+Linha alvo: 'baŋniŋ' - Segmentos correspondentes: 'baŋniŋ' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'len' - Segmentos correspondentes: 'len' (com 1 palavras em comum)
+Linha alvo: 'bhaŋto maŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'heʔniŋ ca' - Nenhuma correspondência encontrada
+Linha alvo: 'chocholaplap' - Segmentos correspondentes: 'chocholaplap' (com 1 palavras em comum)
+Linha alvo: 'n jog a ŋa n' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'haʔniŋ' - Segmentos correspondentes: 'haʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'tumha ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'ceʔya ca' - Segmentos correspondentes: 'ceʔya ca' (com 2 palavras em comum)
+Linha alvo: 'yem ma' - Nenhuma correspondência encontrada
+Linha alvo: 'tarokt u ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'hensen ca' - Nenhuma correspondência encontrada
+Linha alvo: 'phopciba' - Segmentos correspondentes: 'phopciba' (com 1 palavras em comum)
+Linha alvo: 'ka ya na' - Nenhuma correspondência encontrada
+Linha alvo: 'kheps wa ŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'ki' - Segmentos correspondentes: 'ki' (com 1 palavras em comum)
+Linha alvo: 'a niŋwa' - Nenhuma correspondência encontrada
+Linha alvo: 'imin imin' - Nenhuma correspondência encontrada
+Linha alvo: 'coŋ meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʈukhuruk pe' - Nenhuma correspondência encontrada
+Linha alvo: 'og a ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'loʔwa' - Segmentos correspondentes: 'loʔwa' (com 1 palavras em comum)
+Linha alvo: 'en si me ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'liŋkha ga' - Nenhuma correspondência encontrada
+Linha alvo: 'teʔma' - Segmentos correspondentes: 'teʔma' (com 1 palavras em comum)
+Linha alvo: 'canuwa be' - Nenhuma correspondência encontrada
+Linha alvo: 'thaŋ khy a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'rahecha' - Segmentos correspondentes: 'rahecha' (com 1 palavras em comum)
+Linha alvo: 'canuwa' - Nenhuma correspondência encontrada
+Linha alvo: 'limbukhim ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'taŋme' - Segmentos correspondentes: 'taŋme' (com 1 palavras em comum)
+Linha alvo: 'liŋkha ci ga' - Nenhuma correspondência encontrada
+Linha alvo: 'teʔma' - Segmentos correspondentes: 'teʔma' (com 1 palavras em comum)
+Linha alvo: 'bagdata' - Segmentos correspondentes: 'bagdata' (com 1 palavras em comum)
+Linha alvo: 'nak se' - Nenhuma correspondência encontrada
+Linha alvo: 'mamliŋ' - Segmentos correspondentes: 'mamliŋ' (com 1 palavras em comum)
+Linha alvo: 'ta ya ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mamliŋ be' - Segmentos correspondentes: 'mamliŋ be' (com 2 palavras em comum)
+Linha alvo: 'o cheba ci' - Nenhuma correspondência encontrada
+Linha alvo: 'u ppa' - Nenhuma correspondência encontrada
+Linha alvo: 'u pum ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'i ha we' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'm b hyaks uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'mamu ŋa:' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'eko chen' - Segmentos correspondentes: 'eko chen' (com 2 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'mit u ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'saman' - Segmentos correspondentes: 'saman' (com 1 palavras em comum)
+Linha alvo: 'py haks a' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'yubak' - Segmentos correspondentes: 'yubak' (com 1 palavras em comum)
+Linha alvo: 'py haks a' - Nenhuma correspondência encontrada
+Linha alvo: 'lu ks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nani' - Segmentos correspondentes: 'nani' (com 1 palavras em comum)
+Linha alvo: 'i na' - Nenhuma correspondência encontrada
+Linha alvo: 'yubak' - Segmentos correspondentes: 'yubak' (com 1 palavras em comum)
+Linha alvo: 'n chimd uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak chen' - Segmentos correspondentes: 'luŋkhwak chen' (com 2 palavras em comum)
+Linha alvo: 'py haks a' - Nenhuma correspondência encontrada
+Linha alvo: 'lu ks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu ŋa' - Segmentos correspondentes: 'mamu ŋa' (com 2 palavras em comum)
+Linha alvo: 'na go' - Segmentos correspondentes: 'na go' (com 2 palavras em comum)
+Linha alvo: 'nda' - Segmentos correspondentes: 'nda' (com 1 palavras em comum)
+Linha alvo: 'kheʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas wa ga n' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'ŋ khet u n' - Nenhuma correspondência encontrada
+Linha alvo: 'aniŋ ga ca' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'encho' - Segmentos correspondentes: 'encho' (com 1 palavras em comum)
+Linha alvo: 'nhaŋto' - Segmentos correspondentes: 'nhaŋto' (com 1 palavras em comum)
+Linha alvo: 'wen ne' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'ŋ khet u n' - Nenhuma correspondência encontrada
+Linha alvo: 'n lu ks u' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu ga' - Segmentos correspondentes: 'mamu ga' (com 2 palavras em comum)
+Linha alvo: 'u niŋwa' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ gaks a ma n' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'tuknuŋ' - Segmentos correspondentes: 'tuknuŋ' (com 1 palavras em comum)
+Linha alvo: 'u niŋwa' - Nenhuma correspondência encontrada
+Linha alvo: 'tug a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'meŋ kheʔ le' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'meŋ kheʔ le' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ khe me ŋa n na' - Nenhuma correspondência encontrada
+Linha alvo: 'lu ks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'nani' - Segmentos correspondentes: 'nani' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak maŋ' - Segmentos correspondentes: 'luŋkhwak maŋ' (com 2 palavras em comum)
+Linha alvo: 'khet wa ga na' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'seʔni ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'naʔmasek' - Segmentos correspondentes: 'naʔmasek' (com 1 palavras em comum)
+Linha alvo: 'lam ma' - Nenhuma correspondência encontrada
+Linha alvo: 'seʔni ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'seʔnamphok pe' - Nenhuma correspondência encontrada
+Linha alvo: 'heʔne ca' - Segmentos correspondentes: 'heʔne ca' (com 2 palavras em comum)
+Linha alvo: 'me yuŋ ma ga' - Nenhuma correspondência encontrada
+Linha alvo: 'm baŋ be' - Nenhuma correspondência encontrada
+Linha alvo: 'ta met i' - Nenhuma correspondência encontrada
+Linha alvo: 'manhoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'n leŋ me n na' - Nenhuma correspondência encontrada
+Linha alvo: 'n lu ks u' - Nenhuma correspondência encontrada
+Linha alvo: 'paŋ be' - Segmentos correspondentes: 'paŋ be' (com 2 palavras em comum)
+Linha alvo: 'ta meʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas u ga n' - Nenhuma correspondência encontrada
+Linha alvo: 'bhoŋ' - Segmentos correspondentes: 'bhoŋ' (com 1 palavras em comum)
+Linha alvo: 'aniŋ ga ca' - Nenhuma correspondência encontrada
+Linha alvo: 'n leŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋga ca' - Nenhuma correspondência encontrada
+Linha alvo: 'n leŋ me n' - Nenhuma correspondência encontrada
+Linha alvo: 'n lu ks u niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'ka ya ma na:' - Nenhuma correspondência encontrada
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'ta met wa ŋ na' - Nenhuma correspondência encontrada
+Linha alvo: 'ka ya ma' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mamliŋ' - Segmentos correspondentes: 'mamliŋ' (com 1 palavras em comum)
+Linha alvo: 'baŋna' - Segmentos correspondentes: 'baŋna' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'm b hyaks uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'bagdata' - Segmentos correspondentes: 'bagdata' (com 1 palavras em comum)
+Linha alvo: 'nak se ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a kamnibak ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakha' - Segmentos correspondentes: 'nnakha' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak ha' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ŋ khu ks u' - Nenhuma correspondência encontrada
+Linha alvo: 'eko ŋa' - Segmentos correspondentes: 'eko ŋa' (com 2 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'heko na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'heko na ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'heko ha ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'i ha i ha' - Nenhuma correspondência encontrada
+Linha alvo: 'm bi ksa' - Segmentos correspondentes: 'm bi ksa' (com 3 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ŋ kho het u' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋa' - Segmentos correspondentes: 'nhaŋa' (com 1 palavras em comum)
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'mulgaun be' - Nenhuma correspondência encontrada
+Linha alvo: 'n das uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'coilikha be' - Nenhuma correspondência encontrada
+Linha alvo: 'coilikha' - Segmentos correspondentes: 'coilikha' (com 1 palavras em comum)
+Linha alvo: 'ʈhaun ko' - Nenhuma correspondência encontrada
+Linha alvo: 'nam' - Segmentos correspondentes: 'nam' (com 1 palavras em comum)
+Linha alvo: 'coilikha be' - Nenhuma correspondência encontrada
+Linha alvo: 'n das u niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'mamu ga' - Segmentos correspondentes: 'mamu ga' (com 2 palavras em comum)
+Linha alvo: 'o phok' - Segmentos correspondentes: 'o phok' (com 2 palavras em comum)
+Linha alvo: 'tuk ma' - Nenhuma correspondência encontrada
+Linha alvo: 'tarokt uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'o phok' - Segmentos correspondentes: 'o phok' (com 2 palavras em comum)
+Linha alvo: 'tug a ma hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pakha' - Segmentos correspondentes: 'pakha' (com 1 palavras em comum)
+Linha alvo: 'yuŋ a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pakha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'yuŋ a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'khatniŋ ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'pakha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'lom ma' - Nenhuma correspondência encontrada
+Linha alvo: 'cog a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'u hi' - Nenhuma correspondência encontrada
+Linha alvo: 'lom ma ca' - Nenhuma correspondência encontrada
+Linha alvo: 'cog a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhatniŋgo' - Nenhuma correspondência encontrada
+Linha alvo: 'n lond a n' - Nenhuma correspondência encontrada
+Linha alvo: 'kus uks u kus uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'kus u lo be' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ci' - Segmentos correspondentes: 'wa ci' (com 2 palavras em comum)
+Linha alvo: 'ŋ ga ya by a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ci' - Segmentos correspondentes: 'wa ci' (com 2 palavras em comum)
+Linha alvo: 'ŋ ga ya hoŋ go' - Nenhuma correspondência encontrada
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'leks a khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhiŋ belak' - Segmentos correspondentes: 'ŋkhiŋ belak' (com 2 palavras em comum)
+Linha alvo: 'wa ci wa ci' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ ga ya niŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'eko ŋa cen' - Nenhuma correspondência encontrada
+Linha alvo: 'sui' - Nenhuma correspondência encontrada
+Linha alvo: 'lukt u get uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'uthamalaŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'limbukhim ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'eko na' - Nenhuma correspondência encontrada
+Linha alvo: 'lukt u get u hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'to' - Segmentos correspondentes: 'to' (com 1 palavras em comum)
+Linha alvo: 'okhyu' - Nenhuma correspondência encontrada
+Linha alvo: 'mulgaun be' - Nenhuma correspondência encontrada
+Linha alvo: 'ta uks u' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'heko ha ci ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mo na' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'heko ha' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'n yuks u sa ci ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'them ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n jog uks u ci' - Nenhuma correspondência encontrada
+Linha alvo: 'them ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas uks u n ci nin' - Nenhuma correspondência encontrada
+Linha alvo: 'them ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas u n ci nin' - Nenhuma correspondência encontrada
+Linha alvo: 'nna ga' - Segmentos correspondentes: 'nna ga' (com 2 palavras em comum)
+Linha alvo: 'lenlen' - Segmentos correspondentes: 'lenlen' (com 1 palavras em comum)
+Linha alvo: 'ips a m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'kha' - Segmentos correspondentes: 'kha' (com 1 palavras em comum)
+Linha alvo: 'pok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas uks u n ci nin' - Nenhuma correspondência encontrada
+Linha alvo: 'nna be' - Segmentos correspondentes: 'nna be' (com 2 palavras em comum)
+Linha alvo: 'sum ci' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'ŋ wa ya ci' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'lenlen' - Segmentos correspondentes: 'lenlen' (com 1 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'ŋkha' - Segmentos correspondentes: 'ŋkha' (com 1 palavras em comum)
+Linha alvo: 'sum ci sum ci' - Nenhuma correspondência encontrada
+Linha alvo: 'carpaʈe ci' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakha' - Segmentos correspondentes: 'nnakha' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak ci' - Segmentos correspondentes: 'luŋkhwak ci' (com 2 palavras em comum)
+Linha alvo: 'pok ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas uks u n ci nin' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔla' - Segmentos correspondentes: 'ŋkhaʔla' (com 1 palavras em comum)
+Linha alvo: 'uŋci' - Segmentos correspondentes: 'uŋci' (com 1 palavras em comum)
+Linha alvo: 'yo' - Segmentos correspondentes: 'yo' (com 1 palavras em comum)
+Linha alvo: 'canuwa be' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhiŋ belak ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'dewan' - Segmentos correspondentes: 'dewan' (com 1 palavras em comum)
+Linha alvo: 'ɖhuŋga' - Segmentos correspondentes: 'ɖhuŋga' (com 1 palavras em comum)
+Linha alvo: 'n l wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak ca' - Segmentos correspondentes: 'luŋkhwak ca' (com 2 palavras em comum)
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'maʔniŋ' - Segmentos correspondentes: 'maʔniŋ' (com 1 palavras em comum)
+Linha alvo: 'yororo' - Nenhuma correspondência encontrada
+Linha alvo: 'cicaŋgalik' - Segmentos correspondentes: 'cicaŋgalik' (com 1 palavras em comum)
+Linha alvo: 'kaks a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakha' - Segmentos correspondentes: 'nnakha' (com 1 palavras em comum)
+Linha alvo: 'ghak' - Segmentos correspondentes: 'ghak' (com 1 palavras em comum)
+Linha alvo: 'ot a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'mo' - Segmentos correspondentes: 'mo' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'saptakosi ga' - Nenhuma correspondência encontrada
+Linha alvo: 'u lap pe' - Nenhuma correspondência encontrada
+Linha alvo: 'tori' - Nenhuma correspondência encontrada
+Linha alvo: 'phet a ha ca' - Nenhuma correspondência encontrada
+Linha alvo: 'ot ha bu' - Nenhuma correspondência encontrada
+Linha alvo: 'nna bhaŋ' - Segmentos correspondentes: 'nna bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'mamu ŋa' - Segmentos correspondentes: 'mamu ŋa' (com 2 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'mamu ŋa' - Segmentos correspondentes: 'mamu ŋa' (com 2 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'khet u na' - Nenhuma correspondência encontrada
+Linha alvo: 'din' - Segmentos correspondentes: 'din' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: 'leks a ma na' - Nenhuma correspondência encontrada
+Linha alvo: 'baŋniŋ' - Segmentos correspondentes: 'baŋniŋ' (com 1 palavras em comum)
+Linha alvo: 'haku' - Segmentos correspondentes: 'haku' (com 1 palavras em comum)
+Linha alvo: 'heko na' - Nenhuma correspondência encontrada
+Linha alvo: 'taplik' - Nenhuma correspondência encontrada
+Linha alvo: 'tum si meʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'nna be' - Segmentos correspondentes: 'nna be' (com 2 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'dewan' - Segmentos correspondentes: 'dewan' (com 1 palavras em comum)
+Linha alvo: 'ɖhuŋga' - Segmentos correspondentes: 'ɖhuŋga' (com 1 palavras em comum)
+Linha alvo: 'l wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'mulgaun beʔ na' - Nenhuma correspondência encontrada
+Linha alvo: 'dewan' - Segmentos correspondentes: 'dewan' (com 1 palavras em comum)
+Linha alvo: 'ɖhuŋga' - Segmentos correspondentes: 'ɖhuŋga' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'cancan na' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'sadhai ca' - Nenhuma correspondência encontrada
+Linha alvo: 'i na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋ gam my a' - Nenhuma correspondência encontrada
+Linha alvo: 'yaksigum yaksigum' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a na bu' - Nenhuma correspondência encontrada
+Linha alvo: 'yaksigum' - Segmentos correspondentes: 'yaksigum' (com 1 palavras em comum)
+Linha alvo: 'heʔne' - Segmentos correspondentes: 'heʔne' (com 1 palavras em comum)
+Linha alvo: 'khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'baŋniŋ' - Segmentos correspondentes: 'baŋniŋ' (com 1 palavras em comum)
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'cokcokinetham be' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a na bu' - Nenhuma correspondência encontrada
+Linha alvo: 'cokcokinetham be' - Nenhuma correspondência encontrada
+Linha alvo: 'eko' - Segmentos correspondentes: 'eko' (com 1 palavras em comum)
+Linha alvo: 'maɖa' - Segmentos correspondentes: 'maɖa' (com 1 palavras em comum)
+Linha alvo: 'oʈemma' - Nenhuma correspondência encontrada
+Linha alvo: 'kham' - Segmentos correspondentes: 'kham' (com 1 palavras em comum)
+Linha alvo: 'wait na' - Nenhuma correspondência encontrada
+Linha alvo: 'rahecha' - Segmentos correspondentes: 'rahecha' (com 1 palavras em comum)
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'kham be' - Segmentos correspondentes: 'kham be' (com 2 palavras em comum)
+Linha alvo: 'naʔmasek ŋa' - Nenhuma correspondência encontrada
+Linha alvo: 'uŋ' - Segmentos correspondentes: 'uŋ' (com 1 palavras em comum)
+Linha alvo: 'yaksigum' - Segmentos correspondentes: 'yaksigum' (com 1 palavras em comum)
+Linha alvo: 'khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'me leŋ le' - Nenhuma correspondência encontrada
+Linha alvo: 'las a hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'pheri' - Segmentos correspondentes: 'pheri' (com 1 palavras em comum)
+Linha alvo: 'to' - Segmentos correspondentes: 'to' (com 1 palavras em comum)
+Linha alvo: 'thithi' - Segmentos correspondentes: 'thithi' (com 1 palavras em comum)
+Linha alvo: 'em diʔ ma bu' - Nenhuma correspondência encontrada
+Linha alvo: 'nhaŋ' - Segmentos correspondentes: 'nhaŋ' (com 1 palavras em comum)
+Linha alvo: 'wandik ŋa ca' - Nenhuma correspondência encontrada
+Linha alvo: 'yaksigum' - Segmentos correspondentes: 'yaksigum' (com 1 palavras em comum)
+Linha alvo: 'khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'om' - Segmentos correspondentes: 'om' (com 1 palavras em comum)
+Linha alvo: 'me leŋ le' - Nenhuma correspondência encontrada
+Linha alvo: 'ap ma hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'thithi' - Segmentos correspondentes: 'thithi' (com 1 palavras em comum)
+Linha alvo: 'em diʔ m ha' - Nenhuma correspondência encontrada
+Linha alvo: 'yapmi ci' - Segmentos correspondentes: 'yapmi ci' (com 2 palavras em comum)
+Linha alvo: 'ni ma' - Nenhuma correspondência encontrada
+Linha alvo: 'haksaŋ' - Segmentos correspondentes: 'haksaŋ' (com 1 palavras em comum)
+Linha alvo: 'aghi' - Nenhuma correspondência encontrada
+Linha alvo: 'thithi' - Segmentos correspondentes: 'thithi' (com 1 palavras em comum)
+Linha alvo: 'em diʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'sa na' - Nenhuma correspondência encontrada
+Linha alvo: 'ŋkhaʔniŋgo' - Segmentos correspondentes: 'ŋkhaʔniŋgo' (com 1 palavras em comum)
+Linha alvo: 'na' - Segmentos correspondentes: 'na' (com 1 palavras em comum)
+Linha alvo: 'mamliŋ bhaŋ' - Segmentos correspondentes: 'mamliŋ bhaŋ' (com 2 palavras em comum)
+Linha alvo: 'khy a na' - Nenhuma correspondência encontrada
+Linha alvo: 'mamu' - Segmentos correspondentes: 'mamu' (com 1 palavras em comum)
+Linha alvo: 'jʌbʌ' - Nenhuma correspondência encontrada
+Linha alvo: 'pakha' - Segmentos correspondentes: 'pakha' (com 1 palavras em comum)
+Linha alvo: 'yuŋ a' - Nenhuma correspondência encontrada
+Linha alvo: 'pakha' - Segmentos correspondentes: 'pakha' (com 1 palavras em comum)
+Linha alvo: 'yuŋ a hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'uk ka' - Nenhuma correspondência encontrada
+Linha alvo: 'o phok' - Segmentos correspondentes: 'o phok' (com 2 palavras em comum)
+Linha alvo: 'tug a' - Nenhuma correspondência encontrada
+Linha alvo: 'luŋkhwak' - Segmentos correspondentes: 'luŋkhwak' (com 1 palavras em comum)
+Linha alvo: 'them ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas u n ci n' - Nenhuma correspondência encontrada
+Linha alvo: 'wa ci' - Segmentos correspondentes: 'wa ci' (com 2 palavras em comum)
+Linha alvo: 'ŋ ga ya by a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'cicaŋgalik' - Segmentos correspondentes: 'cicaŋgalik' (com 1 palavras em comum)
+Linha alvo: 'kaks a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nna' - Segmentos correspondentes: 'nna' (com 1 palavras em comum)
+Linha alvo: 'cokcokinetham' - Segmentos correspondentes: 'cokcokinetham' (com 1 palavras em comum)
+Linha alvo: 'n l wa na' - Nenhuma correspondência encontrada
+Linha alvo: 'kham ca' - Segmentos correspondentes: 'kham ca' (com 2 palavras em comum)
+Linha alvo: 'uptakham' - Nenhuma correspondência encontrada
+Linha alvo: 'luptakham' - Nenhuma correspondência encontrada
+Linha alvo: 'leks a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'pahiro' - Nenhuma correspondência encontrada
+Linha alvo: 'khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'upt a khy a ma' - Nenhuma correspondência encontrada
+Linha alvo: 'nnakha ci' - Segmentos correspondentes: 'nnakha ci' (com 2 palavras em comum)
+Linha alvo: 'mo' - Segmentos correspondentes: 'mo' (com 1 palavras em comum)
+Linha alvo: 'luŋkhwak ca' - Segmentos correspondentes: 'luŋkhwak ca' (com 2 palavras em comum)
+Linha alvo: 'kheʔ ma' - Nenhuma correspondência encontrada
+Linha alvo: 'n yas u nin' - Nenhuma correspondência encontrada
+Linha alvo: 'dewan' - Segmentos correspondentes: 'dewan' (com 1 palavras em comum)
+Linha alvo: 'ɖhuŋga ca' - Nenhuma correspondência encontrada
+Linha alvo: 'kaks a khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'cokcokinetham ca' - Nenhuma correspondência encontrada
+Linha alvo: 'upt a khy a' - Nenhuma correspondência encontrada
+Linha alvo: 'tumok pe' - Segmentos correspondentes: 'tumok pe' (com 2 palavras em comum)
+Linha alvo: 'tas u ŋ hoŋ' - Nenhuma correspondência encontrada
+Linha alvo: 'a phu' - Segmentos correspondentes: 'a phu' (com 2 palavras em comum)
+Linha alvo: 'chimd u ŋ na' - Nenhuma correspondência encontrada

@@ -1,0 +1,297 @@
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 1, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 2, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 4, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 8, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 16, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 32, Coverage: 5.33%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 64, Coverage: 6.00%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 128, Coverage: 7.33%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 256, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 512, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 1, New Segments: 1024, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 1, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 2, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 4, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 8, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 16, Coverage: 8.33%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 32, Coverage: 11.00%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 64, Coverage: 17.00%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 128, Coverage: 24.67%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 256, Coverage: 32.00%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 512, Coverage: 34.00%
+Grammar: ./data\bathari.txt, Iterations: 2, New Segments: 1024, Coverage: 34.00%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 1, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 2, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 4, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 8, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 16, Coverage: 10.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 32, Coverage: 15.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 64, Coverage: 28.67%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 128, Coverage: 38.33%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 256, Coverage: 50.00%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 512, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 4, New Segments: 1024, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 1, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 2, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 4, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 8, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 16, Coverage: 12.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 32, Coverage: 23.00%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 64, Coverage: 32.67%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 128, Coverage: 40.00%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 256, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 512, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 8, New Segments: 1024, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 1, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 2, Coverage: 4.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 4, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 8, Coverage: 7.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 16, Coverage: 13.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 32, Coverage: 23.00%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 64, Coverage: 34.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 128, Coverage: 40.67%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 256, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 512, Coverage: 51.00%
+Grammar: ./data\bathari.txt, Iterations: 16, New Segments: 1024, Coverage: 51.00%
+'hān' (com 1 palavras em comum)
+Linha alvo: 'y sēkən uw' - Nenhuma correspondência encontrada
+Linha alvo: 't əśxāṭ' - Nenhuma correspondência encontrada
+Linha alvo: 'e śeyāṭ' - Nenhuma correspondência encontrada
+Linha alvo: 'b hinī' - Nenhuma correspondência encontrada
+Linha alvo: 't əwrɛd uw' - Nenhuma correspondência encontrada
+Linha alvo: 'e moh' - Nenhuma correspondência encontrada
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'hān' - Segmentos correspondentes: 'hān' (com 1 palavras em comum)
+Linha alvo: 'a ʕaynəṯ' - Nenhuma correspondência encontrada
+Linha alvo: 't ḥām ən' - Nenhuma correspondência encontrada
+Linha alvo: 't ɛxterɛ̄ṯ ən' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʕaynəṯ' - Nenhuma correspondência encontrada
+Linha alvo: 't ḥām ən' - Nenhuma correspondência encontrada
+Linha alvo: 't ɛxterɛ̄ṯ ən' - Nenhuma correspondência encontrada
+Linha alvo: 'gɛ̄həməh' - Segmentos correspondentes: 'gɛ̄həməh' (com 1 palavras em comum)
+Linha alvo: 'n ḥām' - Nenhuma correspondência encontrada
+Linha alvo: 'nə ghām' - Nenhuma correspondência encontrada
+Linha alvo: 'ð̣ufār' - Segmentos correspondentes: 'ð̣ufār' (com 1 palavras em comum)
+Linha alvo: 'əḳoɛ̀ṣ k' - Nenhuma correspondência encontrada
+Linha alvo: 'lā' - Segmentos correspondentes: 'lā' (com 1 palavras em comum)
+Linha alvo: 'nōkaʕ an' - Nenhuma correspondência encontrada
+Linha alvo: 't eh' - Nenhuma correspondência encontrada
+Linha alvo: 'bərk' - Segmentos correspondentes: 'bərk' (com 1 palavras em comum)
+Linha alvo: 'a ṣāṭər' - Nenhuma correspondência encontrada
+Linha alvo: 'fezāʕ ak' - Nenhuma correspondência encontrada
+Linha alvo: 'b ī' - Nenhuma correspondência encontrada
+Linha alvo: 'elḥōr' - Segmentos correspondentes: 'elḥōr' (com 1 palavras em comum)
+Linha alvo: 'ġayām' - Segmentos correspondentes: 'ġayām' (com 1 palavras em comum)
+Linha alvo: 'l əh' - Nenhuma correspondência encontrada
+Linha alvo: 'abṣār ən' - Nenhuma correspondência encontrada
+Linha alvo: 'śālā' - Segmentos correspondentes: 'śālā' (com 1 palavras em comum)
+Linha alvo: 'ʕāgōb k' - Nenhuma correspondência encontrada
+Linha alvo: 'le ḳātəl' - Nenhuma correspondência encontrada
+Linha alvo: 'b e rɛwna' - Nenhuma correspondência encontrada
+Linha alvo: 'səkān' - Segmentos correspondentes: 'səkān' (com 1 palavras em comum)
+Linha alvo: 'heh' - Segmentos correspondentes: 'heh' (com 1 palavras em comum)
+Linha alvo: 'b ēs' - Nenhuma correspondência encontrada
+Linha alvo: 'ʕāśər' - Segmentos correspondentes: 'ʕāśər' (com 1 palavras em comum)
+Linha alvo: 'sənī' - Segmentos correspondentes: 'sənī' (com 1 palavras em comum)
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'səkān' - Segmentos correspondentes: 'səkān' (com 1 palavras em comum)
+Linha alvo: 'b ēs' - Nenhuma correspondência encontrada
+Linha alvo: 'ʕāśər' - Segmentos correspondentes: 'ʕāśər' (com 1 palavras em comum)
+Linha alvo: 'sənī' - Segmentos correspondentes: 'sənī' (com 1 palavras em comum)
+Linha alvo: 'śxōlɛ̄l ən' - Nenhuma correspondência encontrada
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'ə barr' - Nenhuma correspondência encontrada
+Linha alvo: 'ġaleḳ' - Segmentos correspondentes: 'ġaleḳ' (com 1 palavras em comum)
+Linha alvo: 'a bɛ̄rīt' - Nenhuma correspondência encontrada
+Linha alvo: 'xadm ī' - Nenhuma correspondência encontrada
+Linha alvo: 'Atāh' - Segmentos correspondentes: 'Atāh' (com 1 palavras em comum)
+Linha alvo: 'śḥawlɛ̄l uw' - Nenhuma correspondência encontrada
+Linha alvo: 'hɛ̄nəh' - Segmentos correspondentes: 'hɛ̄nəh' (com 1 palavras em comum)
+Linha alvo: 'hēt' - Segmentos correspondentes: 'hēt' (com 1 palavras em comum)
+Linha alvo: 't kɛ̄teb' - Nenhuma correspondência encontrada
+Linha alvo: 't ṣarifōf' - Nenhuma correspondência encontrada
+Linha alvo: 'ʕaṣār' - Segmentos correspondentes: 'ʕaṣār' (com 1 palavras em comum)
+Linha alvo: 'men' - Segmentos correspondentes: 'men' (com 1 palavras em comum)
+Linha alvo: 'ḥaderəh' - Segmentos correspondentes: 'ḥaderəh' (com 1 palavras em comum)
+Linha alvo: 'ham' - Segmentos correspondentes: 'ham' (com 1 palavras em comum)
+Linha alvo: 't ḥām' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ʕāris' - Nenhuma correspondência encontrada
+Linha alvo: 't kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'ham' - Segmentos correspondentes: 'ham' (com 1 palavras em comum)
+Linha alvo: 't ḥām' - Nenhuma correspondência encontrada
+Linha alvo: 'ta ʕāris' - Nenhuma correspondência encontrada
+Linha alvo: 't kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'tə xrɛ̄m' - Nenhuma correspondência encontrada
+Linha alvo: 'e dirīhəm' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥām' - Segmentos correspondentes: 'ḥām' (com 1 palavras em comum)
+Linha alvo: 'lə ttəḳ' - Nenhuma correspondência encontrada
+Linha alvo: 'mūh' - Segmentos correspondentes: 'mūh' (com 1 palavras em comum)
+Linha alvo: 'tə nāsəl' - Nenhuma correspondência encontrada
+Linha alvo: 'b eh' - Nenhuma correspondência encontrada
+Linha alvo: 'baʕdēn' - Segmentos correspondentes: 'baʕdēn' (com 1 palavras em comum)
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'ṭōb' - Segmentos correspondentes: 'ṭōb' (com 1 palavras em comum)
+Linha alvo: 'ʕabū' - Segmentos correspondentes: 'ʕabū' (com 1 palavras em comum)
+Linha alvo: 'yə śḥōlul u' - Nenhuma correspondência encontrada
+Linha alvo: 'bərk' - Segmentos correspondentes: 'bərk' (com 1 palavras em comum)
+Linha alvo: 'wādī' - Segmentos correspondentes: 'wādī' (com 1 palavras em comum)
+Linha alvo: 'fərśīt' - Segmentos correspondentes: 'fərśīt' (com 1 palavras em comum)
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'š āhu' - Nenhuma correspondência encontrada
+Linha alvo: 'raḥmāt' - Segmentos correspondentes: 'raḥmāt' (com 1 palavras em comum)
+Linha alvo: 'n awākaʕ' - Nenhuma correspondência encontrada
+Linha alvo: 'ð̣ar' - Segmentos correspondentes: 'ð̣ar' (com 1 palavras em comum)
+Linha alvo: 'e śəyāt' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'n awākaʕ' - Nenhuma correspondência encontrada
+Linha alvo: 'ð̣ar' - Segmentos correspondentes: 'ð̣ar' (com 1 palavras em comum)
+Linha alvo: 'e śəyāt' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'mòġli' - Segmentos correspondentes: 'mòġli' (com 1 palavras em comum)
+Linha alvo: 'a ʕābū' - Nenhuma correspondência encontrada
+Linha alvo: 'yì śxaf uw' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥāwwəl' - Segmentos correspondentes: 'ḥāwwəl' (com 1 palavras em comum)
+Linha alvo: 'a ʕaynəṯ' - Nenhuma correspondência encontrada
+Linha alvo: 't ḥām ən' - Nenhuma correspondência encontrada
+Linha alvo: 't əxterɛ̄ṯ ən' - Nenhuma correspondência encontrada
+Linha alvo: 'dən ōtən' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'məġārəh' - Segmentos correspondentes: 'məġārəh' (com 1 palavras em comum)
+Linha alvo: 'ta ṭawy ən' - Nenhuma correspondência encontrada
+Linha alvo: 't ī' - Nenhuma correspondência encontrada
+Linha alvo: 'hoh' - Segmentos correspondentes: 'hoh' (com 1 palavras em comum)
+Linha alvo: 'nāṣərəh' - Segmentos correspondentes: 'nāṣərəh' (com 1 palavras em comum)
+Linha alvo: 'wtō' - Segmentos correspondentes: 'wtō' (com 1 palavras em comum)
+Linha alvo: 'nḥā' - Segmentos correspondentes: 'nḥā' (com 1 palavras em comum)
+Linha alvo: 'mo ġtery ōtən' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'kəl' - Segmentos correspondentes: 'kəl' (com 1 palavras em comum)
+Linha alvo: 'ta ḥamm u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʕzɛ̄m' - Nenhuma correspondência encontrada
+Linha alvo: 'lə ġterī' - Nenhuma correspondência encontrada
+Linha alvo: 't ih' - Nenhuma correspondência encontrada
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'ʕamr' - Segmentos correspondentes: 'ʕamr' (com 1 palavras em comum)
+Linha alvo: 'lə ḥaḳ' - Nenhuma correspondência encontrada
+Linha alvo: 'm šīf ā' - Nenhuma correspondência encontrada
+Linha alvo: 'hoh' - Segmentos correspondentes: 'hoh' (com 1 palavras em comum)
+Linha alvo: 'm šəghā̀m ā' - Nenhuma correspondência encontrada
+Linha alvo: 'līrekātəh' - Segmentos correspondentes: 'līrekātəh' (com 1 palavras em comum)
+Linha alvo: 'marṣ́ɛf' - Segmentos correspondentes: 'marṣ́ɛf' (com 1 palavras em comum)
+Linha alvo: 'ṯrɛ̄hi' - Segmentos correspondentes: 'ṯrɛ̄hi' (com 1 palavras em comum)
+Linha alvo: 'ʕan' - Segmentos correspondentes: 'ʕan' (com 1 palavras em comum)
+Linha alvo: 'ṭād' - Segmentos correspondentes: 'ṭād' (com 1 palavras em comum)
+Linha alvo: 'səkān ən' - Nenhuma correspondência encontrada
+Linha alvo: 'kəl' - Segmentos correspondentes: 'kəl' (com 1 palavras em comum)
+Linha alvo: 'ṯrɛ̄hi' - Segmentos correspondentes: 'ṯrɛ̄hi' (com 1 palavras em comum)
+Linha alvo: 'məkān' - Segmentos correspondentes: 'məkān' (com 1 palavras em comum)
+Linha alvo: 'kəm' - Segmentos correspondentes: 'kəm' (com 1 palavras em comum)
+Linha alvo: 'ayām' - Segmentos correspondentes: 'ayām' (com 1 palavras em comum)
+Linha alvo: 'h ōk' - Nenhuma correspondência encontrada
+Linha alvo: 'bawməh' - Segmentos correspondentes: 'bawməh' (com 1 palavras em comum)
+Linha alvo: 'n àśxaṭ' - Nenhuma correspondência encontrada
+Linha alvo: 'h eh' - Nenhuma correspondência encontrada
+Linha alvo: 'e śeyāṭ' - Nenhuma correspondência encontrada
+Linha alvo: 'səyār uw' - Nenhuma correspondência encontrada
+Linha alvo: 'mən əmbō' - Nenhuma correspondência encontrada
+Linha alvo: 'w mbō' - Nenhuma correspondência encontrada
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'məkān' - Segmentos correspondentes: 'məkān' (com 1 palavras em comum)
+Linha alvo: 'tā' - Segmentos correspondentes: 'tā' (com 1 palavras em comum)
+Linha alvo: 'məkān' - Segmentos correspondentes: 'məkān' (com 1 palavras em comum)
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'a ṣayd' - Nenhuma correspondência encontrada
+Linha alvo: 'mākən' - Segmentos correspondentes: 'mākən' (com 1 palavras em comum)
+Linha alvo: 'nəxāl yen' - Nenhuma correspondência encontrada
+Linha alvo: 'w baʕd ēs' - Nenhuma correspondência encontrada
+Linha alvo: 'n ətḳòḳ sən' - Nenhuma correspondência encontrada
+Linha alvo: 'bərk' - Segmentos correspondentes: 'bərk' (com 1 palavras em comum)
+Linha alvo: 'a ṣātər' - Nenhuma correspondência encontrada
+Linha alvo: 'bɛr' - Segmentos correspondentes: 'bɛr' (com 1 palavras em comum)
+Linha alvo: 'əḳoɛ̀ṣ k' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥa skān ka' - Nenhuma correspondência encontrada
+Linha alvo: 'saḥ ōten' - Nenhuma correspondência encontrada
+Linha alvo: 'wula' - Segmentos correspondentes: 'wula' (com 1 palavras em comum)
+Linha alvo: 'ber' - Segmentos correspondentes: 'ber' (com 1 palavras em comum)
+Linha alvo: 'māt u' - Nenhuma correspondência encontrada
+Linha alvo: 'ʕābū' - Segmentos correspondentes: 'ʕābū' (com 1 palavras em comum)
+Linha alvo: 'el geʕ uw' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'n kun' - Nenhuma correspondência encontrada
+Linha alvo: 'n ḥam' - Nenhuma correspondência encontrada
+Linha alvo: 'itēw' - Segmentos correspondentes: 'itēw' (com 1 palavras em comum)
+Linha alvo: 'šī' - Segmentos correspondentes: 'šī' (com 1 palavras em comum)
+Linha alvo: 'ʕārān' - Segmentos correspondentes: 'ʕārān' (com 1 palavras em comum)
+Linha alvo: 'ḥawēl' - Segmentos correspondentes: 'ḥawēl' (com 1 palavras em comum)
+Linha alvo: 'šī' - Segmentos correspondentes: 'šī' (com 1 palavras em comum)
+Linha alvo: 'ʕābū' - Segmentos correspondentes: 'ʕābū' (com 1 palavras em comum)
+Linha alvo: 'māken' - Segmentos correspondentes: 'māken' (com 1 palavras em comum)
+Linha alvo: 'bə warx' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥawēl' - Segmentos correspondentes: 'ḥawēl' (com 1 palavras em comum)
+Linha alvo: 'śālā' - Segmentos correspondentes: 'śālā' (com 1 palavras em comum)
+Linha alvo: 'doktūr' - Segmentos correspondentes: 'doktūr' (com 1 palavras em comum)
+Linha alvo: 'nāṣərəh' - Segmentos correspondentes: 'nāṣərəh' (com 1 palavras em comum)
+Linha alvo: 'šī' - Segmentos correspondentes: 'šī' (com 1 palavras em comum)
+Linha alvo: 'śālā' - Segmentos correspondentes: 'śālā' (com 1 palavras em comum)
+Linha alvo: 'ə məxāt' - Nenhuma correspondência encontrada
+Linha alvo: 'a garrat' - Nenhuma correspondência encontrada
+Linha alvo: 'l aʕrān' - Nenhuma correspondência encontrada
+Linha alvo: 'a ḏ̣āy es' - Nenhuma correspondência encontrada
+Linha alvo: 'el' - Segmentos correspondentes: 'el' (com 1 palavras em comum)
+Linha alvo: 'heh' - Segmentos correspondentes: 'heh' (com 1 palavras em comum)
+Linha alvo: 'śūri' - Segmentos correspondentes: 'śūri' (com 1 palavras em comum)
+Linha alvo: 'la' - Segmentos correspondentes: 'la' (com 1 palavras em comum)
+Linha alvo: 'e dɛnnəg' - Nenhuma correspondência encontrada
+Linha alvo: 'y kūn' - Nenhuma correspondência encontrada
+Linha alvo: 'b es' - Nenhuma correspondência encontrada
+Linha alvo: 'delīl' - Segmentos correspondentes: 'delīl' (com 1 palavras em comum)
+Linha alvo: 'a ʕayn ī' - Nenhuma correspondência encontrada
+Linha alvo: 'rəh ōt ən' - Nenhuma correspondência encontrada
+Linha alvo: 'ḳəblɛ̄t' - Segmentos correspondentes: 'ḳəblɛ̄t' (com 1 palavras em comum)
+Linha alvo: 'ī' - Segmentos correspondentes: 'ī' (com 1 palavras em comum)
+Linha alvo: 'hoh' - Segmentos correspondentes: 'hoh' (com 1 palavras em comum)
+Linha alvo: 'eḳāʕ' - Segmentos correspondentes: 'eḳāʕ' (com 1 palavras em comum)
+Linha alvo: 'lə' - Segmentos correspondentes: 'lə' (com 1 palavras em comum)
+Linha alvo: 'bəṭáḥrīt' - Segmentos correspondentes: 'bəṭáḥrīt' (com 1 palavras em comum)
+Linha alvo: 'faḳḥ' - Segmentos correspondentes: 'faḳḥ' (com 1 palavras em comum)
+Linha alvo: 'lə gəni' - Nenhuma correspondência encontrada
+Linha alvo: 'ṭāsəh' - Segmentos correspondentes: 'ṭāsəh' (com 1 palavras em comum)
+Linha alvo: 'ðə maʕdin' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥəlḳāt' - Segmentos correspondentes: 'ḥəlḳāt' (com 1 palavras em comum)
+Linha alvo: 'lə' - Segmentos correspondentes: 'lə' (com 1 palavras em comum)
+Linha alvo: 'fəṣ́ṣ́át' - Segmentos correspondentes: 'fəṣ́ṣ́át' (com 1 palavras em comum)
+Linha alvo: 'na ʕīš' - Nenhuma correspondência encontrada
+Linha alvo: 'əl a ṣayd' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'na ʕīš' - Nenhuma correspondência encontrada
+Linha alvo: 'l e sefelḥɛ̄t' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'na ʕīš' - Nenhuma correspondência encontrada
+Linha alvo: 'əl śidfɛ̄t' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'śīsənāt' - Segmentos correspondentes: 'śīsənāt' (com 1 palavras em comum)
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'ə ləxām' - Nenhuma correspondência encontrada
+Linha alvo: 'w' - Segmentos correspondentes: 'w' (com 1 palavras em comum)
+Linha alvo: 'kəll əh' - Nenhuma correspondência encontrada
+Linha alvo: 'naʕīš' - Segmentos correspondentes: 'naʕīš' (com 1 palavras em comum)
+Linha alvo: 'l ih' - Nenhuma correspondência encontrada
+Linha alvo: 'kəl' - Segmentos correspondentes: 'kəl' (com 1 palavras em comum)
+Linha alvo: 'bɛre' - Segmentos correspondentes: 'bɛre' (com 1 palavras em comum)
+Linha alvo: 'mɛ̄t' - Segmentos correspondentes: 'mɛ̄t' (com 1 palavras em comum)
+Linha alvo: 'n kuss həm' - Nenhuma correspondência encontrada
+Linha alvo: 'bɛ̄r u' - Nenhuma correspondência encontrada
+Linha alvo: 'mātū' - Segmentos correspondentes: 'mātū' (com 1 palavras em comum)
+Linha alvo: 'mən' - Segmentos correspondentes: 'mən' (com 1 palavras em comum)
+Linha alvo: 'e gāʕ' - Nenhuma correspondência encontrada
+Linha alvo: 'aglōl' - Segmentos correspondentes: 'aglōl' (com 1 palavras em comum)
+Linha alvo: 'teh' - Segmentos correspondentes: 'teh' (com 1 palavras em comum)
+Linha alvo: 'lā' - Segmentos correspondentes: 'lā' (com 1 palavras em comum)
+Linha alvo: 'əmūh' - Segmentos correspondentes: 'əmūh' (com 1 palavras em comum)
+Linha alvo: 'ḥa skān ka' - Nenhuma correspondência encontrada
+Linha alvo: 'ḥa skān ka' - Nenhuma correspondência encontrada
+Linha alvo: 'hēt' - Segmentos correspondentes: 'hēt' (com 1 palavras em comum)

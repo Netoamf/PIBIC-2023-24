@@ -1,0 +1,15 @@
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: b ī | Linguist: b ī
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: t ī | Linguist: t ī
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: ī | Linguist: ī
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w
+BPE: w | Linguist: w

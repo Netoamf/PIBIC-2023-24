@@ -1,0 +1,1340 @@
+BPE: r awe | Linguist: r awe
+BPE: r atʃĩ | Linguist: r atʃĩ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tajahu | Linguist: tajahu
+BPE: pawẽ | Linguist: pawẽ
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: he | Linguist: he
+BPE: pẽ juka | Linguist: pẽ juka
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: aʔy | Linguist: aʔy
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: jaty | Linguist: jaty
+BPE: ere iwũ | Linguist: ere iwũ
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: arapuha | Linguist: arapuha
+BPE: awa | Linguist: awa
+BPE: pa | Linguist: pa
+BPE: he | Linguist: he
+BPE: meʔe | Linguist: meʔe
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: arapuha | Linguist: arapuha
+BPE: pa | Linguist: pa
+BPE: ne | Linguist: ne
+BPE: reʔe | Linguist: reʔe
+BPE: he | Linguist: he
+BPE: meʔe | Linguist: meʔe
+BPE: pa | Linguist: pa
+BPE: rupe | Linguist: rupe
+BPE: meʔe | Linguist: meʔe
+BPE: pa | Linguist: pa
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: tajahu | Linguist: tajahu
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: arapuha | Linguist: arapuha
+BPE: hetĩ | Linguist: hetĩ
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: dydy | Linguist: dydy
+BPE: ure | Linguist: ure
+BPE: aʔy | Linguist: aʔy
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: paranĩ we | Linguist: paranĩ we
+BPE: jaty | Linguist: jaty
+BPE: ku | Linguist: ku
+BPE: ha | Linguist: ha
+BPE: kaʔapite mu | Linguist: kaʔapite mu
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: pe | Linguist: pe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: pe | Linguist: pe
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: kumete | Linguist: kumete
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ∅ wahẽ | Linguist: ∅ wahẽ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: haʔywe | Linguist: haʔywe
+BPE: pe | Linguist: pe
+BPE: deme | Linguist: deme
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: ure | Linguist: ure
+BPE: ne | Linguist: ne
+BPE: n ahi | Linguist: n ahi
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: apa | Linguist: apa
+BPE: ure | Linguist: ure
+BPE: ju | Linguist: ju
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pe | Linguist: pe
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: jepe | Linguist: jepe
+BPE: pe | Linguist: pe
+BPE: he | Linguist: he
+BPE: deme | Linguist: deme
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: rupe | Linguist: rupe
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: a | Linguist: a
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: apa | Linguist: apa
+BPE: pa | Linguist: pa
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: e dynu | Linguist: e dynu
+BPE: amute | Linguist: amute
+BPE: te | Linguist: te
+BPE: ara | Linguist: ara
+BPE: awa | Linguist: awa
+BPE: pa | Linguist: pa
+BPE: rupe | Linguist: rupe
+BPE: u ĩ | Linguist: u ĩ
+BPE: ku | Linguist: ku
+BPE: ere jeʔa | Linguist: ere jeʔa
+BPE: e ju | Linguist: e ju
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: reʔe | Linguist: reʔe
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: pe juka | Linguist: pe juka
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: pyda | Linguist: pyda
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: a iwũ | Linguist: a iwũ
+BPE: te uʔi | Linguist: te uʔi
+BPE: uru jeʔẽ | Linguist: uru jeʔẽ
+BPE: jeʔẽ | Linguist: jeʔẽ
+BPE: ure | Linguist: ure
+BPE: pe api | Linguist: pe api
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: tena | Linguist: tena
+BPE: myde | Linguist: myde
+BPE: je | Linguist: je
+BPE: mukũĵ | Linguist: mukũĵ
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: je | Linguist: je
+BPE: he | Linguist: he
+BPE: pawẽ | Linguist: pawẽ
+BPE: aʔy | Linguist: aʔy
+BPE: pawẽ | Linguist: pawẽ
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ku | Linguist: ku
+BPE: madyʔa | Linguist: madyʔa
+BPE: pawẽ | Linguist: pawẽ
+BPE: marakaja | Linguist: marakaja
+BPE: hetĩ | Linguist: hetĩ
+BPE: kumete | Linguist: kumete
+BPE: ku | Linguist: ku
+BPE: y wahẽ | Linguist: y wahẽ
+BPE: deme | Linguist: deme
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: haʔywe | Linguist: haʔywe
+BPE: ne | Linguist: ne
+BPE: jepe | Linguist: jepe
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: jepe | Linguist: jepe
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ajete | Linguist: ajete
+BPE: pe | Linguist: pe
+BPE: karu | Linguist: karu
+BPE: imi | Linguist: imi
+BPE: ne | Linguist: ne
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: ne | Linguist: ne
+BPE: yna | Linguist: yna
+BPE: pe | Linguist: pe
+BPE: pe a | Linguist: pe a
+BPE: e api | Linguist: e api
+BPE: eʔe | Linguist: eʔe
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: kaʔarume | Linguist: kaʔarume
+BPE: aʔy | Linguist: aʔy
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: rupe | Linguist: rupe
+BPE: paranĩ we | Linguist: paranĩ we
+BPE: huamuje | Linguist: huamuje
+BPE: huamuje | Linguist: huamuje
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: huamuje | Linguist: huamuje
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tupaʔy | Linguist: tupaʔy
+BPE: je | Linguist: je
+BPE: pyda | Linguist: pyda
+BPE: myde | Linguist: myde
+BPE: herĩ | Linguist: herĩ
+BPE: pyda | Linguist: pyda
+BPE: h ahi | Linguist: h ahi
+BPE: dydy | Linguist: dydy
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: dydy | Linguist: dydy
+BPE: te | Linguist: te
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: te ẽ | Linguist: te ẽ
+BPE: ne | Linguist: ne
+BPE: hame | Linguist: hame
+BPE: e jahu | Linguist: e jahu
+BPE: meʔe | Linguist: meʔe
+BPE: raʔa | Linguist: raʔa
+BPE: he | Linguist: he
+BPE: te ka | Linguist: te ka
+BPE: ne | Linguist: ne
+BPE: hame | Linguist: hame
+BPE: ajete | Linguist: ajete
+BPE: pẽ | Linguist: pẽ
+BPE: ha | Linguist: ha
+BPE: imi | Linguist: imi
+BPE: pe | Linguist: pe
+BPE: me | Linguist: me
+BPE: arapuha | Linguist: arapuha
+BPE: ∅ iwũ | Linguist: ∅ iwũ
+BPE: me | Linguist: me
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: ne | Linguist: ne
+BPE: me | Linguist: me
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: jepe | Linguist: jepe
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: kaʔa | Linguist: kaʔa
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: erietʃi | Linguist: erietʃi
+BPE: aʔy | Linguist: aʔy
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ajete | Linguist: ajete
+BPE: ure | Linguist: ure
+BPE: hetete | Linguist: hetete
+BPE: madyʔa | Linguist: madyʔa
+BPE: tĩ | Linguist: tĩ
+BPE: imi | Linguist: imi
+BPE: kumete | Linguist: kumete
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: ta | Linguist: ta
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: reʔe | Linguist: reʔe
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: reʔe | Linguist: reʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pawẽ | Linguist: pawẽ
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: madyʔa | Linguist: madyʔa
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: myde | Linguist: myde
+BPE: ere ja | Linguist: ere ja
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: puta | Linguist: puta
+BPE: ku | Linguist: ku
+BPE: erietʃi | Linguist: erietʃi
+BPE: reʔe | Linguist: reʔe
+BPE: eʔe | Linguist: eʔe
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: dydy | Linguist: dydy
+BPE: ure | Linguist: ure
+BPE: aʔy | Linguist: aʔy
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: te atʃĩ | Linguist: te atʃĩ
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: e atʃĩ | Linguist: e atʃĩ
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: myde | Linguist: myde
+BPE: uru nupĩ | Linguist: uru nupĩ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: uru atʃĩ | Linguist: uru atʃĩ
+BPE: pẽ nupĩ | Linguist: pẽ nupĩ
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: pe atʃĩ | Linguist: pe atʃĩ
+BPE: ere wahẽ | Linguist: ere wahẽ
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: e jija | Linguist: e jija
+BPE: te pa | Linguist: te pa
+BPE: e pa | Linguist: e pa
+BPE: uru ta | Linguist: uru ta
+BPE: herĩha | Linguist: herĩha
+BPE: ajuru | Linguist: ajuru
+BPE: herĩha | Linguist: herĩha
+BPE: ne | Linguist: ne
+BPE: herĩha | Linguist: herĩha
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: herĩha | Linguist: herĩha
+BPE: herĩha | Linguist: herĩha
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: ne | Linguist: ne
+BPE: ne | Linguist: ne
+BPE: te | Linguist: te
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: te | Linguist: te
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: pẽ | Linguist: pẽ
+BPE: pyda | Linguist: pyda
+BPE: ure | Linguist: ure
+BPE: marakaja | Linguist: marakaja
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: awa | Linguist: awa
+BPE: pa | Linguist: pa
+BPE: ku | Linguist: ku
+BPE: awa | Linguist: awa
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: awa | Linguist: awa
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: u wahẽ | Linguist: u wahẽ
+BPE: meʔe | Linguist: meʔe
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: raʔa | Linguist: raʔa
+BPE: meʔe | Linguist: meʔe
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: pẽ etʃa | Linguist: pẽ etʃa
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ure | Linguist: ure
+BPE: ne | Linguist: ne
+BPE: myde | Linguist: myde
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: arapuha | Linguist: arapuha
+BPE: ne | Linguist: ne
+BPE: ne | Linguist: ne
+BPE: pe jeʔa | Linguist: pe jeʔa
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: u wahẽ | Linguist: u wahẽ
+BPE: reʔa | Linguist: reʔa
+BPE: reʔa | Linguist: reʔa
+BPE: reʔa | Linguist: reʔa
+BPE: eʔe | Linguist: eʔe
+BPE: ʔa | Linguist: ʔa
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: rupe | Linguist: rupe
+BPE: he | Linguist: he
+BPE: meʔe | Linguist: meʔe
+BPE: rupe | Linguist: rupe
+BPE: meʔe | Linguist: meʔe
+BPE: pa | Linguist: pa
+BPE: rupe | Linguist: rupe
+BPE: rupe | Linguist: rupe
+BPE: rupe | Linguist: rupe
+BPE: wĩ | Linguist: wĩ
+BPE: y pa tʃe | Linguist: y pa tʃe
+BPE: rupe | Linguist: rupe
+BPE: ruʔu | Linguist: ruʔu
+BPE: pe api | Linguist: pe api
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: ne | Linguist: ne
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: he | Linguist: he
+BPE: ∅ puta | Linguist: ∅ puta
+BPE: ja | Linguist: ja
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: kujĩ | Linguist: kujĩ
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: tʃi meʔe | Linguist: tʃi meʔe
+BPE: ruku | Linguist: ruku
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ruku | Linguist: ruku
+BPE: kumete | Linguist: kumete
+BPE: he | Linguist: he
+BPE: ruku | Linguist: ruku
+BPE: herĩ | Linguist: herĩ
+BPE: ruku | Linguist: ruku
+BPE: uʔi | Linguist: uʔi
+BPE: pawẽ | Linguist: pawẽ
+BPE: ruku | Linguist: ruku
+BPE: pyda | Linguist: pyda
+BPE: eʔe | Linguist: eʔe
+BPE: r apa | Linguist: r apa
+BPE: pa | Linguist: pa
+BPE: eʔe | Linguist: eʔe
+BPE: te | Linguist: te
+BPE: ku | Linguist: ku
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: he | Linguist: he
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: amute | Linguist: amute
+BPE: te | Linguist: te
+BPE: ara | Linguist: ara
+BPE: dydy | Linguist: dydy
+BPE: he | Linguist: he
+BPE: amute | Linguist: amute
+BPE: amute | Linguist: amute
+BPE: me | Linguist: me
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: amute | Linguist: amute
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: wĩ | Linguist: wĩ
+BPE: ku | Linguist: ku
+BPE: wĩ | Linguist: wĩ
+BPE: madyʔa | Linguist: madyʔa
+BPE: kujĩ | Linguist: kujĩ
+BPE: wĩ | Linguist: wĩ
+BPE: ku | Linguist: ku
+BPE: ʔa | Linguist: ʔa
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: wĩ | Linguist: wĩ
+BPE: eʔe | Linguist: eʔe
+BPE: wĩ | Linguist: wĩ
+BPE: ku | Linguist: ku
+BPE: e ja | Linguist: e ja
+BPE: api | Linguist: api
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: eʔe | Linguist: eʔe
+BPE: ja | Linguist: ja
+BPE: amute | Linguist: amute
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: te | Linguist: te
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: mukũĵ | Linguist: mukũĵ
+BPE: ure | Linguist: ure
+BPE: mukũĵ | Linguist: mukũĵ
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: te ha | Linguist: te ha
+BPE: dydy | Linguist: dydy
+BPE: te jeʔẽ | Linguist: te jeʔẽ
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: te | Linguist: te
+BPE: he | Linguist: he
+BPE: dydy | Linguist: dydy
+BPE: te jija | Linguist: te jija
+BPE: h atʃĩ | Linguist: h atʃĩ
+BPE: pawẽ | Linguist: pawẽ
+BPE: pawẽ | Linguist: pawẽ
+BPE: pawẽ | Linguist: pawẽ
+BPE: meʔe | Linguist: meʔe
+BPE: he | Linguist: he
+BPE: pawẽ | Linguist: pawẽ
+BPE: pyda | Linguist: pyda
+BPE: hetĩ | Linguist: hetĩ
+BPE: hetĩ | Linguist: hetĩ
+BPE: hetĩ | Linguist: hetĩ
+BPE: meʔe | Linguist: meʔe
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: ʔa | Linguist: ʔa
+BPE: iwi | Linguist: iwi
+BPE: yduhĩ | Linguist: yduhĩ
+BPE: ja | Linguist: ja
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: erietʃi | Linguist: erietʃi
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: meʔe | Linguist: meʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: pẽ mara | Linguist: pẽ mara
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: pape | Linguist: pape
+BPE: ure | Linguist: ure
+BPE: kaʔa | Linguist: kaʔa
+BPE: te a | Linguist: te a
+BPE: y mara | Linguist: y mara
+BPE: pe | Linguist: pe
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: te ju | Linguist: te ju
+BPE: ne | Linguist: ne
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ne | Linguist: ne
+BPE: e ju | Linguist: e ju
+BPE: pẽ | Linguist: pẽ
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: pẽ | Linguist: pẽ
+BPE: uru ja | Linguist: uru ja
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: maj | Linguist: maj
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: madyʔa | Linguist: madyʔa
+BPE: i | Linguist: i
+BPE: uʔi | Linguist: uʔi
+BPE: iwira | Linguist: iwira
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: wĩ | Linguist: wĩ
+BPE: iwira | Linguist: iwira
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: tena | Linguist: tena
+BPE: ara | Linguist: ara
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: u api | Linguist: u api
+BPE: ∅ pe | Linguist: ∅ pe
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: te ja | Linguist: te ja
+BPE: pe | Linguist: pe
+BPE: awa | Linguist: awa
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: awa | Linguist: awa
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: h aʔa | Linguist: h aʔa
+BPE: e | Linguist: e
+BPE: pa | Linguist: pa
+BPE: myde | Linguist: myde
+BPE: tairuhu | Linguist: tairuhu
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: uru uru ata | Linguist: uru uru ata
+BPE: rupe | Linguist: rupe
+BPE: rupe | Linguist: rupe
+BPE: marakaja | Linguist: marakaja
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: kujĩ | Linguist: kujĩ
+BPE: ne | Linguist: ne
+BPE: r ĩ | Linguist: r ĩ
+BPE: pẽ | Linguist: pẽ
+BPE: myde | Linguist: myde
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: kujĩ | Linguist: kujĩ
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: eʔe | Linguist: eʔe
+BPE: he | Linguist: he
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: ku | Linguist: ku
+BPE: pyda | Linguist: pyda
+BPE: i hy | Linguist: i hy
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: ku | Linguist: ku
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: eʔe | Linguist: eʔe
+BPE: rupe | Linguist: rupe
+BPE: ku | Linguist: ku
+BPE: madyʔa | Linguist: madyʔa
+BPE: iwi | Linguist: iwi
+BPE: reʔa | Linguist: reʔa
+BPE: iwira | Linguist: iwira
+BPE: reʔa | Linguist: reʔa
+BPE: ruwĩ | Linguist: ruwĩ
+BPE: ne | Linguist: ne
+BPE: pa | Linguist: pa
+BPE: ruʔu | Linguist: ruʔu
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: ruʔu | Linguist: ruʔu
+BPE: tʃipẽ | Linguist: tʃipẽ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ne | Linguist: ne
+BPE: mukũĵ | Linguist: mukũĵ
+BPE: ure | Linguist: ure
+BPE: hetĩ | Linguist: hetĩ
+BPE: te | Linguist: te
+BPE: ne | Linguist: ne
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: ∅ pa y meʔe | Linguist: ∅ pa y meʔe
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: ere ja | Linguist: ere ja
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ere jeʔa | Linguist: ere jeʔa
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: pe jeʔa | Linguist: pe jeʔa
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: ku | Linguist: ku
+BPE: wĩ | Linguist: wĩ
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: ja | Linguist: ja
+BPE: ne | Linguist: ne
+BPE: ha | Linguist: ha
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: pẽ | Linguist: pẽ
+BPE: ha | Linguist: ha
+BPE: maj | Linguist: maj
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: kujĩ | Linguist: kujĩ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: kumete | Linguist: kumete
+BPE: ere juka | Linguist: ere juka
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ku | Linguist: ku
+BPE: arapuha | Linguist: arapuha
+BPE: u iwũ | Linguist: u iwũ
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: u iwũ | Linguist: u iwũ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: puta | Linguist: puta
+BPE: he | Linguist: he
+BPE: e api | Linguist: e api
+BPE: puta | Linguist: puta
+BPE: puta | Linguist: puta
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: katʃe | Linguist: katʃe
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: katʃe | Linguist: katʃe
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pape | Linguist: pape
+BPE: ne | Linguist: ne
+BPE: pe mara | Linguist: pe mara
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: pape | Linguist: pape
+BPE: ure | Linguist: ure
+BPE: uru mara | Linguist: uru mara
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: pape | Linguist: pape
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tairuhu | Linguist: tairuhu
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: marakaja | Linguist: marakaja
+BPE: ku | Linguist: ku
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: e pa | Linguist: e pa
+BPE: tajahu | Linguist: tajahu
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: tairuhu | Linguist: tairuhu
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: pe re ha | Linguist: pe re ha
+BPE: ja | Linguist: ja
+BPE: pẽ | Linguist: pẽ
+BPE: e ru je | Linguist: e ru je
+BPE: ku | Linguist: ku
+BPE: pe ru je | Linguist: pe ru je
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: uru uru ka | Linguist: uru uru ka
+BPE: ure | Linguist: ure
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: deme | Linguist: deme
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: a karu | Linguist: a karu
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ere karu | Linguist: ere karu
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: u karu | Linguist: u karu
+BPE: ku | Linguist: ku
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ere jija | Linguist: ere jija
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: uru jija | Linguist: uru jija
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: paranĩ uhu | Linguist: paranĩ uhu
+BPE: ne | Linguist: ne
+BPE: haʔywe | Linguist: haʔywe
+BPE: pẽ | Linguist: pẽ
+BPE: ure | Linguist: ure
+BPE: kaʔarume | Linguist: kaʔarume
+BPE: he | Linguist: he
+BPE: ∅ tĩ | Linguist: ∅ tĩ
+BPE: ipi | Linguist: ipi
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ∅ ĩ | Linguist: ∅ ĩ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: eʔe | Linguist: eʔe
+BPE: wĩ | Linguist: wĩ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: eʔe | Linguist: eʔe
+BPE: wĩ | Linguist: wĩ
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ere tʃa | Linguist: ere tʃa
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: pe nupĩ | Linguist: pe nupĩ
+BPE: e jija | Linguist: e jija
+BPE: e karu | Linguist: e karu
+BPE: e ja | Linguist: e ja
+BPE: e juka | Linguist: e juka
+BPE: pe jija | Linguist: pe jija
+BPE: pe juka | Linguist: pe juka
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: marakaja | Linguist: marakaja
+BPE: iwi | Linguist: iwi
+BPE: rupe | Linguist: rupe
+BPE: uru jija | Linguist: uru jija
+BPE: ure | Linguist: ure
+BPE: a dynu | Linguist: a dynu
+BPE: he | Linguist: he
+BPE: te ju | Linguist: te ju
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: u ĩ | Linguist: u ĩ
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: uru jeʔẽ | Linguist: uru jeʔẽ
+BPE: ku | Linguist: ku
+BPE: te a | Linguist: te a
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: ere wahẽ | Linguist: ere wahẽ
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: e jeʔa | Linguist: e jeʔa
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: te puhu | Linguist: te puhu
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: te pa | Linguist: te pa
+BPE: ku | Linguist: ku
+BPE: myde | Linguist: myde
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: e atʃĩ | Linguist: e atʃĩ
+BPE: pẽ nupĩ | Linguist: pẽ nupĩ
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: pe atʃĩ | Linguist: pe atʃĩ
+BPE: pe he | Linguist: pe he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: te ka | Linguist: te ka
+BPE: pẽ | Linguist: pẽ
+BPE: pẽ | Linguist: pẽ
+BPE: pe ka | Linguist: pe ka
+BPE: a karu | Linguist: a karu
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: pe | Linguist: pe
+BPE: u tĩ | Linguist: u tĩ
+BPE: ku | Linguist: ku
+BPE: madyʔa | Linguist: madyʔa
+BPE: ajete | Linguist: ajete
+BPE: he | Linguist: he
+BPE: ∅ ju | Linguist: ∅ ju
+BPE: imi | Linguist: imi
+BPE: awa | Linguist: awa
+BPE: pa | Linguist: pa
+BPE: ja | Linguist: ja
+BPE: ku | Linguist: ku
+BPE: aʔy | Linguist: aʔy
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: he | Linguist: he
+BPE: jĩ | Linguist: jĩ
+BPE: awa | Linguist: awa
+BPE: pa | Linguist: pa
+BPE: y ka | Linguist: y ka
+BPE: ʔu he meʔe | Linguist: ʔu he meʔe
+BPE: jaty | Linguist: jaty
+BPE: he | Linguist: he
+BPE: pa | Linguist: pa
+BPE: pẽ | Linguist: pẽ
+BPE: jaty | Linguist: jaty
+BPE: wĩ | Linguist: wĩ
+BPE: dydy | Linguist: dydy
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: kumete | Linguist: kumete
+BPE: ku | Linguist: ku
+BPE: y wahẽ | Linguist: y wahẽ
+BPE: deme | Linguist: deme
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: kaʔarume | Linguist: kaʔarume
+BPE: ure | Linguist: ure
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: ∅ pituka | Linguist: ∅ pituka
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: reʔe | Linguist: reʔe
+BPE: yna | Linguist: yna
+BPE: pẽ | Linguist: pẽ
+BPE: pe a | Linguist: pe a
+BPE: ja | Linguist: ja
+BPE: myde | Linguist: myde
+BPE: ajete | Linguist: ajete
+BPE: pẽ | Linguist: pẽ
+BPE: imi | Linguist: imi
+BPE: ajete | Linguist: ajete
+BPE: ne | Linguist: ne
+BPE: imi | Linguist: imi
+BPE: ajete | Linguist: ajete
+BPE: ajete | Linguist: ajete
+BPE: yna | Linguist: yna
+BPE: jepe | Linguist: jepe
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: pẽ | Linguist: pẽ
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: pẽ | Linguist: pẽ
+BPE: u tʃe | Linguist: u tʃe
+BPE: yna | Linguist: yna
+BPE: ure | Linguist: ure
+BPE: dydy | Linguist: dydy
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: reʔe | Linguist: reʔe
+BPE: te jahu | Linguist: te jahu
+BPE: dydy | Linguist: dydy
+BPE: te | Linguist: te
+BPE: he | Linguist: he
+BPE: jepe | Linguist: jepe
+BPE: dydy | Linguist: dydy
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: hame | Linguist: hame
+BPE: e jahu | Linguist: e jahu
+BPE: ne | Linguist: ne
+BPE: me | Linguist: me
+BPE: he | Linguist: he
+BPE: tapyʔy | Linguist: tapyʔy
+BPE: me | Linguist: me
+BPE: ne | Linguist: ne
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: reʔe | Linguist: reʔe
+BPE: pu | Linguist: pu
+BPE: ku | Linguist: ku
+BPE: ĩ | Linguist: ĩ
+BPE: reʔe | Linguist: reʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: iwiha | Linguist: iwiha
+BPE: hamu | Linguist: hamu
+BPE: kumeʔe | Linguist: kumeʔe
+BPE: ku | Linguist: ku
+BPE: iwiha | Linguist: iwiha
+BPE: hamu | Linguist: hamu
+BPE: erietʃi | Linguist: erietʃi
+BPE: he | Linguist: he
+BPE: hamu | Linguist: hamu
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: pape | Linguist: pape
+BPE: hamu | Linguist: hamu
+BPE: te | Linguist: te
+BPE: he | Linguist: he
+BPE: nu | Linguist: nu
+BPE: y ti | Linguist: y ti
+BPE: hamu | Linguist: hamu
+BPE: tʃĩ | Linguist: tʃĩ
+BPE: tʃĩ | Linguist: tʃĩ
+BPE: ku | Linguist: ku
+BPE: tʃĩ | Linguist: tʃĩ
+BPE: ku | Linguist: ku
+BPE: ka | Linguist: ka
+BPE: tʃĩ | Linguist: tʃĩ
+BPE: pa | Linguist: pa
+BPE: he | Linguist: he
+BPE: tʃĩ | Linguist: tʃĩ
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: te karu | Linguist: te karu
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: ta | Linguist: ta
+BPE: ure | Linguist: ure
+BPE: ku | Linguist: ku
+BPE: ta | Linguist: ta
+BPE: he | Linguist: he
+BPE: jepe | Linguist: jepe
+BPE: he | Linguist: he
+BPE: ta | Linguist: ta
+BPE: myde | Linguist: myde
+BPE: u iwu | Linguist: u iwu
+BPE: ta | Linguist: ta
+BPE: pẽ | Linguist: pẽ
+BPE: pe iwu | Linguist: pe iwu
+BPE: ta | Linguist: ta
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: arapuha | Linguist: arapuha
+BPE: aʔy | Linguist: aʔy
+BPE: kaʔarume | Linguist: kaʔarume
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: pane | Linguist: pane
+BPE: aʔy | Linguist: aʔy
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: ara | Linguist: ara
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: reʔe | Linguist: reʔe
+BPE: ere tʃe | Linguist: ere tʃe
+BPE: pane | Linguist: pane
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: reʔe | Linguist: reʔe
+BPE: te puhu | Linguist: te puhu
+BPE: ne | Linguist: ne
+BPE: araʔa | Linguist: araʔa
+BPE: ure | Linguist: ure
+BPE: uru puhu | Linguist: uru puhu
+BPE: ne | Linguist: ne
+BPE: raʔa | Linguist: raʔa
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: myde | Linguist: myde
+BPE: araʔa | Linguist: araʔa
+BPE: ku | Linguist: ku
+BPE: pẽ | Linguist: pẽ
+BPE: pe ha | Linguist: pe ha
+BPE: araʔa | Linguist: araʔa
+BPE: ne | Linguist: ne
+BPE: jupe | Linguist: jupe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: nu | Linguist: nu
+BPE: jupe | Linguist: jupe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: ka | Linguist: ka
+BPE: nu | Linguist: nu
+BPE: uru ʔu | Linguist: uru ʔu
+BPE: jupe | Linguist: jupe
+BPE: ku | Linguist: ku
+BPE: ure | Linguist: ure
+BPE: nu | Linguist: nu
+BPE: jupe | Linguist: jupe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: jupe | Linguist: jupe
+BPE: ku | Linguist: ku
+BPE: ne | Linguist: ne
+BPE: ne | Linguist: ne
+BPE: ku | Linguist: ku
+BPE: hetete | Linguist: hetete
+BPE: he | Linguist: he
+BPE: ku | Linguist: ku
+BPE: hetete | Linguist: hetete
+BPE: pẽ | Linguist: pẽ
+BPE: ku | Linguist: ku
+BPE: pe nupĩ | Linguist: pe nupĩ
+BPE: hetete | Linguist: hetete
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: hetete | Linguist: hetete
+BPE: ku | Linguist: ku
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: hetete | Linguist: hetete
+BPE: ja | Linguist: ja
+BPE: ne | Linguist: ne
+BPE: e ata | Linguist: e ata
+BPE: hetete | Linguist: hetete
+BPE: hetete | Linguist: hetete
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: eʔe | Linguist: eʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: hetete | Linguist: hetete
+BPE: ure | Linguist: ure
+BPE: hetete | Linguist: hetete
+BPE: imi | Linguist: imi
+BPE: kumete | Linguist: kumete
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: he | Linguist: he
+BPE: jĩ | Linguist: jĩ
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ure | Linguist: ure
+BPE: jĩ | Linguist: jĩ
+BPE: tʃi | Linguist: tʃi
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ku | Linguist: ku
+BPE: he | Linguist: he
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: he | Linguist: he
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ure | Linguist: ure
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: retemeʔe | Linguist: retemeʔe
+BPE: he | Linguist: he
+BPE: jaty | Linguist: jaty
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: he | Linguist: he
+BPE: pawẽ | Linguist: pawẽ
+BPE: hetĩ | Linguist: hetĩ
+BPE: ne | Linguist: ne
+BPE: ure | Linguist: ure
+BPE: kumete | Linguist: kumete
+BPE: yna | Linguist: yna
+BPE: yna | Linguist: yna
+BPE: he | Linguist: he
+BPE: yna | Linguist: yna
+BPE: he | Linguist: he
+BPE: yna | Linguist: yna
+BPE: y | Linguist: y
+BPE: yna | Linguist: yna
+BPE: y | Linguist: y
+BPE: katʃe | Linguist: katʃe
+BPE: ja | Linguist: ja
+BPE: pa | Linguist: pa
+BPE: reʔe | Linguist: reʔe
+BPE: maj | Linguist: maj
+BPE: ja | Linguist: ja
+BPE: ku | Linguist: ku
+BPE: reʔe | Linguist: reʔe
+BPE: tatu uhu | Linguist: tatu uhu
+BPE: pa | Linguist: pa
+BPE: reʔe | Linguist: reʔe
+BPE: ajuru | Linguist: ajuru
+BPE: herĩ | Linguist: herĩ
+BPE: ku | Linguist: ku
+BPE: herĩ | Linguist: herĩ
+BPE: ku | Linguist: ku
+BPE: ∅ pi | Linguist: ∅ pi
+BPE: he | Linguist: he
+BPE: ja | Linguist: ja
+BPE: we | Linguist: we
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: he | Linguist: he
+BPE: pẽ | Linguist: pẽ
+BPE: he | Linguist: he
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: iwira | Linguist: iwira
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: ure | Linguist: ure
+BPE: wĩ | Linguist: wĩ
+BPE: ja | Linguist: ja
+BPE: ja | Linguist: ja
+BPE: he | Linguist: he
+BPE: ne | Linguist: ne
+BPE: me | Linguist: me

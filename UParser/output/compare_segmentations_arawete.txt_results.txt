@@ -1,0 +1,2117 @@
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 1, Coverage: 12.74%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 2, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 4, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 8, Coverage: 26.56%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 16, Coverage: 31.84%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 32, Coverage: 35.24%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 64, Coverage: 35.42%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 128, Coverage: 37.55%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 256, Coverage: 37.59%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 512, Coverage: 37.59%
+Grammar: ./data\arawete.txt, Iterations: 1, New Segments: 1024, Coverage: 37.59%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 1, Coverage: 12.74%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 2, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 4, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 8, Coverage: 26.65%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 16, Coverage: 39.86%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 32, Coverage: 42.83%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 64, Coverage: 46.56%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 128, Coverage: 52.74%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 256, Coverage: 55.61%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 512, Coverage: 54.76%
+Grammar: ./data\arawete.txt, Iterations: 2, New Segments: 1024, Coverage: 54.76%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 1, Coverage: 12.74%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 2, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 4, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 8, Coverage: 34.86%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 16, Coverage: 40.99%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 32, Coverage: 44.62%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 64, Coverage: 50.61%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 128, Coverage: 62.69%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 256, Coverage: 67.88%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 512, Coverage: 66.84%
+Grammar: ./data\arawete.txt, Iterations: 4, New Segments: 1024, Coverage: 64.81%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 1, Coverage: 12.74%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 2, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 4, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 8, Coverage: 37.08%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 16, Coverage: 41.51%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 32, Coverage: 44.81%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 64, Coverage: 54.48%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 128, Coverage: 63.25%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 256, Coverage: 68.44%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 512, Coverage: 65.90%
+Grammar: ./data\arawete.txt, Iterations: 8, New Segments: 1024, Coverage: 64.39%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 1, Coverage: 12.74%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 2, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 4, Coverage: 21.42%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 8, Coverage: 37.08%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 16, Coverage: 41.51%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 32, Coverage: 44.81%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 64, Coverage: 54.48%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 128, Coverage: 63.25%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 256, Coverage: 68.44%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 512, Coverage: 65.90%
+Grammar: ./data\arawete.txt, Iterations: 16, New Segments: 1024, Coverage: 64.39%
+ comum)
+Linha alvo: 'r uri ʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'jati' - Segmentos correspondentes: 'jati' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'tajahu' - Segmentos correspondentes: 'tajahu' (com 1 palavras em comum)
+Linha alvo: 'mytũ' - Segmentos correspondentes: 'mytũ' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'arapuha' - Segmentos correspondentes: 'arapuha' (com 1 palavras em comum)
+Linha alvo: 'tawi pydy' - Nenhuma correspondência encontrada
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r upaʔy pydy meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'takunere tỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ hi mu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ehe' - Segmentos correspondentes: 'ehe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r u mu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r uri ruri mu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'araraỹ' - Segmentos correspondentes: 'araraỹ' (com 1 palavras em comum)
+Linha alvo: 'a muji' - Nenhuma correspondência encontrada
+Linha alvo: 'boro um' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'paranĩ we' - Nenhuma correspondência encontrada
+Linha alvo: 'e reha' - Nenhuma correspondência encontrada
+Linha alvo: 'jaty' - Segmentos correspondentes: 'jaty' (com 1 palavras em comum)
+Linha alvo: 'Tatuaru' - Segmentos correspondentes: 'Tatuaru' (com 1 palavras em comum)
+Linha alvo: '∅ a iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'braziʎa pi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'Eliete' - Segmentos correspondentes: 'Eliete' (com 1 palavras em comum)
+Linha alvo: 'ha' - Segmentos correspondentes: 'ha' (com 1 palavras em comum)
+Linha alvo: 'uru ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔapite mu' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔiwu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r aʔaʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'pakaja pi' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pitumuʔe' - Segmentos correspondentes: 'pitumuʔe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔywe' - Segmentos correspondentes: 'haʔywe' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'deme' - Segmentos correspondentes: 'deme' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r amũĵ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'n ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ puruʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'apa' - Segmentos correspondentes: 'apa' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'ure ure' - Nenhuma correspondência encontrada
+Linha alvo: 'uru uru ju' - Nenhuma correspondência encontrada
+Linha alvo: 'ju' - Segmentos correspondentes: 'ju' (com 1 palavras em comum)
+Linha alvo: 'a maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'n ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'mytu' - Segmentos correspondentes: 'mytu' (com 1 palavras em comum)
+Linha alvo: 'ere r u' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'mẽrẽĵ ipi' - Nenhuma correspondência encontrada
+Linha alvo: 'pe meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'deme' - Segmentos correspondentes: 'deme' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'h enu' - Nenhuma correspondência encontrada
+Linha alvo: 'a' - Segmentos correspondentes: 'a' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'tuʔĩ' - Segmentos correspondentes: 'tuʔĩ' (com 1 palavras em comum)
+Linha alvo: 'apa' - Segmentos correspondentes: 'apa' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'e dynu' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ara' - Segmentos correspondentes: 'ara' (com 1 palavras em comum)
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u ĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'u jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'madetʃaka' - Segmentos correspondentes: 'madetʃaka' (com 1 palavras em comum)
+Linha alvo: 'pitu mu' - Nenhuma correspondência encontrada
+Linha alvo: 'ere jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'hete' - Nenhuma correspondência encontrada
+Linha alvo: 'e ju' - Nenhuma correspondência encontrada
+Linha alvo: 'u manu' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'Maria' - Segmentos correspondentes: 'Maria' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'ere nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'pe juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'arapuha hu' - Segmentos correspondentes: 'arapuha hu' (com 2 palavras em comum)
+Linha alvo: 'uru meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'a ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'Nivaldo' - Segmentos correspondentes: 'Nivaldo' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a iwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'te uʔi' - Segmentos correspondentes: 'te uʔi' (com 2 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'uru jeʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'jeʔẽ' - Segmentos correspondentes: 'jeʔẽ' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru ju' - Nenhuma correspondência encontrada
+Linha alvo: 'Marukaihi' - Segmentos correspondentes: 'Marukaihi' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe api' - Segmentos correspondentes: 'pe api' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'tena' - Segmentos correspondentes: 'tena' (com 1 palavras em comum)
+Linha alvo: 'r uhe' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'je' - Segmentos correspondentes: 'je' (com 1 palavras em comum)
+Linha alvo: 'mukũĵ' - Segmentos correspondentes: 'mukũĵ' (com 1 palavras em comum)
+Linha alvo: 'nete' - Segmentos correspondentes: 'nete' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔapite we' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'je' - Segmentos correspondentes: 'je' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ memi' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'ipiʔũ' - Segmentos correspondentes: 'ipiʔũ' (com 1 palavras em comum)
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'a iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'marakaja' - Segmentos correspondentes: 'marakaja' (com 1 palavras em comum)
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'nani' - Segmentos correspondentes: 'nani' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'mututapi' - Segmentos correspondentes: 'mututapi' (com 1 palavras em comum)
+Linha alvo: 'y wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'deme' - Segmentos correspondentes: 'deme' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔywe' - Segmentos correspondentes: 'haʔywe' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'u ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'mihijije' - Segmentos correspondentes: 'mihijije' (com 1 palavras em comum)
+Linha alvo: 'atʃaʔy' - Segmentos correspondentes: 'atʃaʔy' (com 1 palavras em comum)
+Linha alvo: '∅ ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'nũ' - Segmentos correspondentes: 'nũ' (com 1 palavras em comum)
+Linha alvo: 'a jeʔa jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'karu' - Segmentos correspondentes: 'karu' (com 1 palavras em comum)
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'tʃirima' - Segmentos correspondentes: 'tʃirima' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'pe a' - Segmentos correspondentes: 'pe a' (com 2 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'e api' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'u ata' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pitui' - Segmentos correspondentes: 'pitui' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'teje' - Segmentos correspondentes: 'teje' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'kaʔarume' - Segmentos correspondentes: 'kaʔarume' (com 1 palavras em comum)
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'paranĩ we' - Nenhuma correspondência encontrada
+Linha alvo: 'huamuje' - Segmentos correspondentes: 'huamuje' (com 1 palavras em comum)
+Linha alvo: 'huamuje' - Segmentos correspondentes: 'huamuje' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ karu' - Nenhuma correspondência encontrada
+Linha alvo: 'huamuje' - Segmentos correspondentes: 'huamuje' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'tupaʔy' - Segmentos correspondentes: 'tupaʔy' (com 1 palavras em comum)
+Linha alvo: 'e pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'je' - Segmentos correspondentes: 'je' (com 1 palavras em comum)
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'a muji ha' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'eje' - Segmentos correspondentes: 'eje' (com 1 palavras em comum)
+Linha alvo: 'herĩ' - Segmentos correspondentes: 'herĩ' (com 1 palavras em comum)
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'u muji ha' - Nenhuma correspondência encontrada
+Linha alvo: 'h ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'u pa' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'u jy muturu ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r udy' - Nenhuma correspondência encontrada
+Linha alvo: 'a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'hame' - Segmentos correspondentes: 'hame' (com 1 palavras em comum)
+Linha alvo: 'e jahu' - Nenhuma correspondência encontrada
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'raʔa' - Segmentos correspondentes: 'raʔa' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'a muji' - Nenhuma correspondência encontrada
+Linha alvo: 'te ka' - Segmentos correspondentes: 'te ka' (com 2 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'hame' - Segmentos correspondentes: 'hame' (com 1 palavras em comum)
+Linha alvo: 'tupaʔĩ' - Segmentos correspondentes: 'tupaʔĩ' (com 1 palavras em comum)
+Linha alvo: 'e pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ha' - Segmentos correspondentes: 'ha' (com 1 palavras em comum)
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'arapuha' - Segmentos correspondentes: 'arapuha' (com 1 palavras em comum)
+Linha alvo: '∅ iwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃiriʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'katʃe riru' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃywa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'kaʔa' - Segmentos correspondentes: 'kaʔa' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'Ikaire' - Segmentos correspondentes: 'Ikaire' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ja' - Nenhuma correspondência encontrada
+Linha alvo: 'erietʃi' - Segmentos correspondentes: 'erietʃi' (com 1 palavras em comum)
+Linha alvo: 'y mujeʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'a pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃĩ tʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r uj' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'tĩ' - Segmentos correspondentes: 'tĩ' (com 1 palavras em comum)
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe ju' - Segmentos correspondentes: 'pe ju' (com 2 palavras em comum)
+Linha alvo: 't u' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'pẽ jy pumi' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'kaʔapite we' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa pite' - Nenhuma correspondência encontrada
+Linha alvo: '∅ pe we' - Nenhuma correspondência encontrada
+Linha alvo: 'a nu' - Segmentos correspondentes: 'a nu' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te piʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'netemeʔe' - Segmentos correspondentes: 'netemeʔe' (com 1 palavras em comum)
+Linha alvo: 'maka' - Segmentos correspondentes: 'maka' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'ta pe we' - Nenhuma correspondência encontrada
+Linha alvo: 'ere jy etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'puretʃaha iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'e reha' - Nenhuma correspondência encontrada
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'Maria' - Segmentos correspondentes: 'Maria' (com 1 palavras em comum)
+Linha alvo: '∅ a iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'a jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pitu mu' - Nenhuma correspondência encontrada
+Linha alvo: 'ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa mu' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'belẽ ipi' - Nenhuma correspondência encontrada
+Linha alvo: 'ere ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'atamira ipi' - Segmentos correspondentes: 'atamira ipi' (com 2 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'nivawdu' - Segmentos correspondentes: 'nivawdu' (com 1 palavras em comum)
+Linha alvo: 'Pakajã ipi' - Nenhuma correspondência encontrada
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'puta' - Segmentos correspondentes: 'puta' (com 1 palavras em comum)
+Linha alvo: 'brazija pi' - Nenhuma correspondência encontrada
+Linha alvo: 'kunai ipi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'erietʃi' - Segmentos correspondentes: 'erietʃi' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃi meʔe mu' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r uri ruri mu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'araraʔy' - Segmentos correspondentes: 'araraʔy' (com 1 palavras em comum)
+Linha alvo: 'a muji' - Nenhuma correspondência encontrada
+Linha alvo: 'boro mu' - Nenhuma correspondência encontrada
+Linha alvo: 'a nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ere nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'u nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'u nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'uru nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'a he' - Nenhuma correspondência encontrada
+Linha alvo: 'te tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ere wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e jija' - Nenhuma correspondência encontrada
+Linha alvo: 'te pa' - Nenhuma correspondência encontrada
+Linha alvo: 'e pa' - Nenhuma correspondência encontrada
+Linha alvo: 'u atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'uru ta' - Nenhuma correspondência encontrada
+Linha alvo: 'pe tʃija' - Nenhuma correspondência encontrada
+Linha alvo: 'padydy' - Segmentos correspondentes: 'padydy' (com 1 palavras em comum)
+Linha alvo: 'herĩha' - Segmentos correspondentes: 'herĩha' (com 1 palavras em comum)
+Linha alvo: 'ajuru' - Segmentos correspondentes: 'ajuru' (com 1 palavras em comum)
+Linha alvo: 'herĩha' - Segmentos correspondentes: 'herĩha' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ jeʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'herĩha' - Segmentos correspondentes: 'herĩha' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ jeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r upaʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'herĩha' - Segmentos correspondentes: 'herĩha' (com 1 palavras em comum)
+Linha alvo: 'juriãnã' - Segmentos correspondentes: 'juriãnã' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'herĩha' - Segmentos correspondentes: 'herĩha' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r upaʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'uru ʔuʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'meju ʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'hana' - Segmentos correspondentes: 'hana' (com 1 palavras em comum)
+Linha alvo: 'awatʃy ỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'piʔa hu' - Nenhuma correspondência encontrada
+Linha alvo: 'a etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te tʃitʃe uhu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ pa hu' - Nenhuma correspondência encontrada
+Linha alvo: 'ika' - Segmentos correspondentes: 'ika' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'u pa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r uima ʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uri ʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'u pa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r upehi ʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'rete' - Segmentos correspondentes: 'rete' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'katʃe ryro' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r upãʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'Juliana' - Segmentos correspondentes: 'Juliana' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'marakaja' - Segmentos correspondentes: 'marakaja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u mu pipu' - Nenhuma correspondência encontrada
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ihatʃĩ' - Segmentos correspondentes: 'ihatʃĩ' (com 1 palavras em comum)
+Linha alvo: 'u mama' - Nenhuma correspondência encontrada
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'raʔa' - Segmentos correspondentes: 'raʔa' (com 1 palavras em comum)
+Linha alvo: 'mu pipu' - Nenhuma correspondência encontrada
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'pẽ etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃiriʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'r upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: '∅ pehi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uwa' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'a juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'arapuha' - Segmentos correspondentes: 'arapuha' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r uima' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'pe jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'a nu' - Segmentos correspondentes: 'a nu' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te jarutʃu' - Segmentos correspondentes: 'te jarutʃu' (com 2 palavras em comum)
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'u wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa' - Segmentos correspondentes: 'reʔa' (com 1 palavras em comum)
+Linha alvo: 'y piʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa' - Segmentos correspondentes: 'reʔa' (com 1 palavras em comum)
+Linha alvo: 'madyʔa atĩ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa' - Segmentos correspondentes: 'reʔa' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupetu' - Segmentos correspondentes: 'rupetu' (com 1 palavras em comum)
+Linha alvo: 'ʔa' - Segmentos correspondentes: 'ʔa' (com 1 palavras em comum)
+Linha alvo: 't upaʔy' - Nenhuma correspondência encontrada
+Linha alvo: 'rupetu' - Segmentos correspondentes: 'rupetu' (com 1 palavras em comum)
+Linha alvo: 'parani we' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uapiha mupu' - Nenhuma correspondência encontrada
+Linha alvo: 'e reha' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔa' - Nenhuma correspondência encontrada
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'h ereku' - Nenhuma correspondência encontrada
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'y tʃije' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'u ka' - Nenhuma correspondência encontrada
+Linha alvo: 'y pa tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ruʔu' - Segmentos correspondentes: 'ruʔu' (com 1 palavras em comum)
+Linha alvo: 'pe api' - Segmentos correspondentes: 'pe api' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'ruʔu we' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'muruputa' - Segmentos correspondentes: 'muruputa' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'piʔa hu' - Nenhuma correspondência encontrada
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ puta' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'kujĩ' - Segmentos correspondentes: 'kujĩ' (com 1 palavras em comum)
+Linha alvo: 'pina' - Segmentos correspondentes: 'pina' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'tʃi meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ruku' - Segmentos correspondentes: 'ruku' (com 1 palavras em comum)
+Linha alvo: 'a pitiwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ruku' - Segmentos correspondentes: 'ruku' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r ereku pe' - Nenhuma correspondência encontrada
+Linha alvo: 'ruku' - Segmentos correspondentes: 'ruku' (com 1 palavras em comum)
+Linha alvo: 'u pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'herĩ' - Segmentos correspondentes: 'herĩ' (com 1 palavras em comum)
+Linha alvo: 'ruku' - Segmentos correspondentes: 'ruku' (com 1 palavras em comum)
+Linha alvo: 'uʔi' - Segmentos correspondentes: 'uʔi' (com 1 palavras em comum)
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'ruku' - Segmentos correspondentes: 'ruku' (com 1 palavras em comum)
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'r eru' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'arakuri' - Segmentos correspondentes: 'arakuri' (com 1 palavras em comum)
+Linha alvo: 'r apa' - Nenhuma correspondência encontrada
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u aika' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r aʔaʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'u ata' - Nenhuma correspondência encontrada
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ara' - Segmentos correspondentes: 'ara' (com 1 palavras em comum)
+Linha alvo: 'te ady' - Nenhuma correspondência encontrada
+Linha alvo: 'muhy' - Segmentos correspondentes: 'muhy' (com 1 palavras em comum)
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: 'mẽ' - Segmentos correspondentes: 'mẽ' (com 1 palavras em comum)
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ hi' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: 'ere nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'u meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'kujĩ' - Segmentos correspondentes: 'kujĩ' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ʔa' - Segmentos correspondentes: 'ʔa' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'u ata' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u puʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'u dynu' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'e ja' - Nenhuma correspondência encontrada
+Linha alvo: 'api' - Segmentos correspondentes: 'api' (com 1 palavras em comum)
+Linha alvo: 'ruʔu we' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u mupẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'atʃitʃi' - Segmentos correspondentes: 'atʃitʃi' (com 1 palavras em comum)
+Linha alvo: 'u juka' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'miniju' - Segmentos correspondentes: 'miniju' (com 1 palavras em comum)
+Linha alvo: 'u puwĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'u kaʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'amute' - Segmentos correspondentes: 'amute' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'n udy' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ a we' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ memy' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'r ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'mukũĵ' - Segmentos correspondentes: 'mukũĵ' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'mukũĵ' - Segmentos correspondentes: 'mukũĵ' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ apa' - Nenhuma correspondência encontrada
+Linha alvo: 'hara ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃipẽmajy' - Segmentos correspondentes: 'tʃipẽmajy' (com 1 palavras em comum)
+Linha alvo: 'Jereʔeru' - Segmentos correspondentes: 'Jereʔeru' (com 1 palavras em comum)
+Linha alvo: 'r aʔi' - Nenhuma correspondência encontrada
+Linha alvo: 'puku meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'mukũĵmukũĵ' - Segmentos correspondentes: 'mukũĵmukũĵ' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'te ha' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'te jeʔẽ' - Segmentos correspondentes: 'te jeʔẽ' (com 2 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r aʔi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ka' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔapite we' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'te jija' - Nenhuma correspondência encontrada
+Linha alvo: 'h atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'r ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'h eka' - Nenhuma correspondência encontrada
+Linha alvo: 'h etʃirima meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'pawĩ' - Segmentos correspondentes: 'pawĩ' (com 1 palavras em comum)
+Linha alvo: 'nete' - Segmentos correspondentes: 'nete' (com 1 palavras em comum)
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'awytʃy' - Segmentos correspondentes: 'awytʃy' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'n ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'tuha' - Segmentos correspondentes: 'tuha' (com 1 palavras em comum)
+Linha alvo: 'fahmasia' - Segmentos correspondentes: 'fahmasia' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'tuha' - Segmentos correspondentes: 'tuha' (com 1 palavras em comum)
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'nani' - Segmentos correspondentes: 'nani' (com 1 palavras em comum)
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'rete' - Segmentos correspondentes: 'rete' (com 1 palavras em comum)
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ʔa' - Segmentos correspondentes: 'ʔa' (com 1 palavras em comum)
+Linha alvo: 'iwi' - Segmentos correspondentes: 'iwi' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'yduhĩ' - Segmentos correspondentes: 'yduhĩ' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'u ʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'nyha' - Segmentos correspondentes: 'nyha' (com 1 palavras em comum)
+Linha alvo: 'n ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃiriʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'erietʃi' - Segmentos correspondentes: 'erietʃi' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'meju' - Segmentos correspondentes: 'meju' (com 1 palavras em comum)
+Linha alvo: 'u meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'h upe' - Nenhuma correspondência encontrada
+Linha alvo: 'ere meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'petini' - Segmentos correspondentes: 'petini' (com 1 palavras em comum)
+Linha alvo: 'h upe' - Nenhuma correspondência encontrada
+Linha alvo: 'meʔe' - Segmentos correspondentes: 'meʔe' (com 1 palavras em comum)
+Linha alvo: 'r aʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'a raha' - Nenhuma correspondência encontrada
+Linha alvo: 'h upe' - Nenhuma correspondência encontrada
+Linha alvo: 'a meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'petini' - Segmentos correspondentes: 'petini' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ mara' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pape' - Segmentos correspondentes: 'pape' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'jarutʃu' - Segmentos correspondentes: 'jarutʃu' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa' - Segmentos correspondentes: 'kaʔa' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'te a' - Nenhuma correspondência encontrada
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'y mara' - Nenhuma correspondência encontrada
+Linha alvo: 'paratu' - Segmentos correspondentes: 'paratu' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'n ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃiriʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ju' - Nenhuma correspondência encontrada
+Linha alvo: 'y rumu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r eka' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃiriʔĩ' - Segmentos correspondentes: 'tʃiriʔĩ' (com 1 palavras em comum)
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e ju' - Nenhuma correspondência encontrada
+Linha alvo: 'y rumu' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'r uiru' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe ju' - Segmentos correspondentes: 'pe ju' (com 2 palavras em comum)
+Linha alvo: 'y rumu' - Nenhuma correspondência encontrada
+Linha alvo: 'uru ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'atamira' - Segmentos correspondentes: 'atamira' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'y tʃije' - Nenhuma correspondência encontrada
+Linha alvo: 'maj' - Segmentos correspondentes: 'maj' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'u hẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'aj' - Segmentos correspondentes: 'aj' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'a pida' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'i' - Segmentos correspondentes: 'i' (com 1 palavras em comum)
+Linha alvo: '∅ hy' - Nenhuma correspondência encontrada
+Linha alvo: 'uʔi' - Segmentos correspondentes: 'uʔi' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'iwira' - Segmentos correspondentes: 'iwira' (com 1 palavras em comum)
+Linha alvo: 'a mu pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'niete' - Segmentos correspondentes: 'niete' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'a dy aika' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'tʃitʃeʔy' - Segmentos correspondentes: 'tʃitʃeʔy' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'u dy nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'iwira' - Segmentos correspondentes: 'iwira' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: '∅ a kupe' - Nenhuma correspondência encontrada
+Linha alvo: '∅ uhe' - Nenhuma correspondência encontrada
+Linha alvo: 'tena' - Segmentos correspondentes: 'tena' (com 1 palavras em comum)
+Linha alvo: '∅ uhe' - Nenhuma correspondência encontrada
+Linha alvo: 'ara' - Segmentos correspondentes: 'ara' (com 1 palavras em comum)
+Linha alvo: '∅ pepa re' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ju' - Nenhuma correspondência encontrada
+Linha alvo: 'u api' - Nenhuma correspondência encontrada
+Linha alvo: 'tupe' - Segmentos correspondentes: 'tupe' (com 1 palavras em comum)
+Linha alvo: '∅ uhe' - Nenhuma correspondência encontrada
+Linha alvo: '∅ pe' - Nenhuma correspondência encontrada
+Linha alvo: 'r upi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'e ha' - Nenhuma correspondência encontrada
+Linha alvo: 'a jeʔẽ' - Segmentos correspondentes: 'a jeʔẽ' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ja' - Nenhuma correspondência encontrada
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'r upi' - Nenhuma correspondência encontrada
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: '∅ kati' - Nenhuma correspondência encontrada
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'y ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'mĩhĩ' - Segmentos correspondentes: 'mĩhĩ' (com 1 palavras em comum)
+Linha alvo: '∅ ti' - Nenhuma correspondência encontrada
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: '∅ kati' - Nenhuma correspondência encontrada
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'h aʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'u ita' - Nenhuma correspondência encontrada
+Linha alvo: 'e' - Segmentos correspondentes: 'e' (com 1 palavras em comum)
+Linha alvo: 'r eka ti' - Nenhuma correspondência encontrada
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'tairuhu' - Segmentos correspondentes: 'tairuhu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u dynu' - Nenhuma correspondência encontrada
+Linha alvo: '∅ pur etʃa ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru ha' - Nenhuma correspondência encontrada
+Linha alvo: 'uru uru ata' - Nenhuma correspondência encontrada
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'h amy ku' - Nenhuma correspondência encontrada
+Linha alvo: 'mutuhury ryru' - Nenhuma correspondência encontrada
+Linha alvo: 'i ryru' - Nenhuma correspondência encontrada
+Linha alvo: 'katʃe ryru' - Nenhuma correspondência encontrada
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'u ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'marakaja' - Segmentos correspondentes: 'marakaja' (com 1 palavras em comum)
+Linha alvo: 'r awaĵ' - Nenhuma correspondência encontrada
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'r ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'kujĩ' - Segmentos correspondentes: 'kujĩ' (com 1 palavras em comum)
+Linha alvo: 'r ehaneha' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r ĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ tupe' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'r ehaneha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r ahi' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'kujĩ' - Segmentos correspondentes: 'kujĩ' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'a pi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ruʔu we' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u muja' - Nenhuma correspondência encontrada
+Linha alvo: 'pyda' - Segmentos correspondentes: 'pyda' (com 1 palavras em comum)
+Linha alvo: 'i hy' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: 'u juka' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'u tʃiti' - Nenhuma correspondência encontrada
+Linha alvo: 'iwi' - Segmentos correspondentes: 'iwi' (com 1 palavras em comum)
+Linha alvo: 'reʔa' - Segmentos correspondentes: 'reʔa' (com 1 palavras em comum)
+Linha alvo: 'iwira' - Segmentos correspondentes: 'iwira' (com 1 palavras em comum)
+Linha alvo: 'reʔa' - Segmentos correspondentes: 'reʔa' (com 1 palavras em comum)
+Linha alvo: 'jetʃere' - Segmentos correspondentes: 'jetʃere' (com 1 palavras em comum)
+Linha alvo: 'ruwĩ' - Segmentos correspondentes: 'ruwĩ' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ a' - Nenhuma correspondência encontrada
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'ruʔu' - Segmentos correspondentes: 'ruʔu' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ a' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ruʔu' - Segmentos correspondentes: 'ruʔu' (com 1 palavras em comum)
+Linha alvo: 'tʃipẽ' - Segmentos correspondentes: 'tʃipẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r udy' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ a we' - Nenhuma correspondência encontrada
+Linha alvo: 'puku meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'mukũĵ' - Segmentos correspondentes: 'mukũĵ' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'a he' - Nenhuma correspondência encontrada
+Linha alvo: 'te ta jahu' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔapite jahu rĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'tawi pydy' - Nenhuma correspondência encontrada
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'pyde wewe' - Nenhuma correspondência encontrada
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'u jija meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'r enu' - Nenhuma correspondência encontrada
+Linha alvo: 'uru ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'u jija meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'r enu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔaʔa imeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ pa hu imeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ pa y meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃỹ uhu meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'ere ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'brazyʎə hy' - Nenhuma correspondência encontrada
+Linha alvo: 'juriãnã' - Segmentos correspondentes: 'juriãnã' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ja' - Nenhuma correspondência encontrada
+Linha alvo: 'brazyʎə hy' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ja' - Nenhuma correspondência encontrada
+Linha alvo: 'brazyʎə hy' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'brazyʎə hy' - Nenhuma correspondência encontrada
+Linha alvo: 'ere jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'pe jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'a maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ere maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ha' - Segmentos correspondentes: 'ha' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ha' - Segmentos correspondentes: 'ha' (com 1 palavras em comum)
+Linha alvo: 'maj' - Segmentos correspondentes: 'maj' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'a maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ a iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ere maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'kujĩ' - Segmentos correspondentes: 'kujĩ' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'uru maʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'tajruhu' - Segmentos correspondentes: 'tajruhu' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'a juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'ere juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'jaku hu' - Nenhuma correspondência encontrada
+Linha alvo: 'Iwaneru' - Segmentos correspondentes: 'Iwaneru' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u juka' - Nenhuma correspondência encontrada
+Linha alvo: 'mytu' - Segmentos correspondentes: 'mytu' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'arapuha' - Segmentos correspondentes: 'arapuha' (com 1 palavras em comum)
+Linha alvo: 'u iwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'takunere' - Segmentos correspondentes: 'takunere' (com 1 palavras em comum)
+Linha alvo: 'u iwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'a etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ere nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'puta' - Segmentos correspondentes: 'puta' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'e api' - Nenhuma correspondência encontrada
+Linha alvo: 'puta' - Segmentos correspondentes: 'puta' (com 1 palavras em comum)
+Linha alvo: 'a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'puta' - Segmentos correspondentes: 'puta' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'a meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'peti' - Segmentos correspondentes: 'peti' (com 1 palavras em comum)
+Linha alvo: 'Tatuaru' - Segmentos correspondentes: 'Tatuaru' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'u meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'katʃe' - Segmentos correspondentes: 'katʃe' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'uru meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'katʃe' - Segmentos correspondentes: 'katʃe' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'a mara' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pape' - Segmentos correspondentes: 'pape' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r ehe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe mara' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pape' - Segmentos correspondentes: 'pape' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'uru mara' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'pape' - Segmentos correspondentes: 'pape' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'a jy etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'puretʃaha iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'tairuhu' - Segmentos correspondentes: 'tairuhu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u jy pa iwũ' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru jy pyʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe jy muhu' - Nenhuma correspondência encontrada
+Linha alvo: 'pe jy etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'puretʃaha iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'u jy ʔuʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'marakaja' - Segmentos correspondentes: 'marakaja' (com 1 palavras em comum)
+Linha alvo: 'u jy nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'uru jy ʔehe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru ju' - Nenhuma correspondência encontrada
+Linha alvo: 'uru jy muhu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru jy mara' - Nenhuma correspondência encontrada
+Linha alvo: 'uru jy eti' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe jy pyʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'uru jy pyʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'a mu kamu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pe mu kamu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'u mu pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u pa' - Nenhuma correspondência encontrada
+Linha alvo: 'ere mu pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e pa' - Nenhuma correspondência encontrada
+Linha alvo: 'tajahu' - Segmentos correspondentes: 'tajahu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'mu pariri' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru mu pariri' - Nenhuma correspondência encontrada
+Linha alvo: 'tairuhu' - Segmentos correspondentes: 'tairuhu' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'te memi' - Nenhuma correspondência encontrada
+Linha alvo: 'a mu tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'u mu tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u memi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a ra ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ere ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kuni' - Segmentos correspondentes: 'kuni' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'h ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe re ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ru puʔĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'e ru je' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: '∅ ʔa' - Nenhuma correspondência encontrada
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ru je' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: '∅ ʔa' - Nenhuma correspondência encontrada
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'a eru wa' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'h eru wa' - Nenhuma correspondência encontrada
+Linha alvo: 'uru uru ka' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a r u' - Nenhuma correspondência encontrada
+Linha alvo: 'deme' - Segmentos correspondentes: 'deme' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ere r u' - Nenhuma correspondência encontrada
+Linha alvo: 'Ajajuru' - Segmentos correspondentes: 'Ajajuru' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'h er u' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru er u' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ er u' - Nenhuma correspondência encontrada
+Linha alvo: 'a karu' - Segmentos correspondentes: 'a karu' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ere karu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'pe karu' - Segmentos correspondentes: 'pe karu' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'u karu' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ere jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'uru jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'u jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'paranĩ uhu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r udy' - Nenhuma correspondência encontrada
+Linha alvo: 'haʔywe' - Segmentos correspondentes: 'haʔywe' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'ʔa iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r uy' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔarume' - Segmentos correspondentes: 'kaʔarume' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'akaju' - Segmentos correspondentes: 'akaju' (com 1 palavras em comum)
+Linha alvo: '∅ tĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'paranĩ' - Segmentos correspondentes: 'paranĩ' (com 1 palavras em comum)
+Linha alvo: 'ipi' - Segmentos correspondentes: 'ipi' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ ĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ere tʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'a etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'e jija' - Nenhuma correspondência encontrada
+Linha alvo: 'e karu' - Nenhuma correspondência encontrada
+Linha alvo: 'e ja' - Nenhuma correspondência encontrada
+Linha alvo: 'ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'e juka' - Nenhuma correspondência encontrada
+Linha alvo: 'pe karu' - Segmentos correspondentes: 'pe karu' (com 2 palavras em comum)
+Linha alvo: 'pe tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ja' - Nenhuma correspondência encontrada
+Linha alvo: 'pe jija' - Nenhuma correspondência encontrada
+Linha alvo: 'pe juka' - Nenhuma correspondência encontrada
+Linha alvo: 'u ju' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'marakaja' - Segmentos correspondentes: 'marakaja' (com 1 palavras em comum)
+Linha alvo: 'iwi' - Segmentos correspondentes: 'iwi' (com 1 palavras em comum)
+Linha alvo: 'nyha' - Segmentos correspondentes: 'nyha' (com 1 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'y tu' - Nenhuma correspondência encontrada
+Linha alvo: 'rupe' - Segmentos correspondentes: 'rupe' (com 1 palavras em comum)
+Linha alvo: 'uru jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru ju' - Nenhuma correspondência encontrada
+Linha alvo: 'a dynu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ju' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u puranu' - Nenhuma correspondência encontrada
+Linha alvo: 'u ju' - Nenhuma correspondência encontrada
+Linha alvo: 'u puĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'u ĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ere jy mukaʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '(e) ʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ji' - Nenhuma correspondência encontrada
+Linha alvo: 'uru ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru jeʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'a jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'te a' - Nenhuma correspondência encontrada
+Linha alvo: 'u jija' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ja' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe ja' - Nenhuma correspondência encontrada
+Linha alvo: 'pe karu' - Segmentos correspondentes: 'pe karu' (com 2 palavras em comum)
+Linha alvo: 'ere wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e jeʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'tajruhu' - Segmentos correspondentes: 'tajruhu' (com 1 palavras em comum)
+Linha alvo: 'u dynu' - Nenhuma correspondência encontrada
+Linha alvo: 'u jija' - Nenhuma correspondência encontrada
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te puhu' - Nenhuma correspondência encontrada
+Linha alvo: 'a mu pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te pa' - Nenhuma correspondência encontrada
+Linha alvo: 'u mu pẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u pa' - Nenhuma correspondência encontrada
+Linha alvo: 'ere nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'a he' - Nenhuma correspondência encontrada
+Linha alvo: 'te tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pe he' - Nenhuma correspondência encontrada
+Linha alvo: 'pe karu' - Segmentos correspondentes: 'pe karu' (com 2 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uiru' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ka' - Segmentos correspondentes: 'te ka' (com 2 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ tʃije' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe ka' - Segmentos correspondentes: 'pe ka' (com 2 palavras em comum)
+Linha alvo: 'a karu' - Segmentos correspondentes: 'a karu' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pe tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe' - Segmentos correspondentes: 'pe' (com 1 palavras em comum)
+Linha alvo: 'u tĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'madyʔa' - Segmentos correspondentes: 'madyʔa' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ju' - Nenhuma correspondência encontrada
+Linha alvo: 'te tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'u jeʔa imeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'y juru imeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'h eha imeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'h apiha ʔimeʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'u jija katu' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'a ʔu he' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jĩ' - Segmentos correspondentes: 'jĩ' (com 1 palavras em comum)
+Linha alvo: 'awa' - Segmentos correspondentes: 'awa' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'y ka' - Nenhuma correspondência encontrada
+Linha alvo: 'ʔu he meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'jaty' - Segmentos correspondentes: 'jaty' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'a ʔu he' - Nenhuma correspondência encontrada
+Linha alvo: 'pe ʔu he' - Nenhuma correspondência encontrada
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'jaty' - Segmentos correspondentes: 'jaty' (com 1 palavras em comum)
+Linha alvo: 'u ha pa' - Nenhuma correspondência encontrada
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'te kutʃaha pa' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ere karu ipi' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a kutʃa ipi pi' - Nenhuma correspondência encontrada
+Linha alvo: 'ʔyna' - Segmentos correspondentes: 'ʔyna' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'mututapi' - Segmentos correspondentes: 'mututapi' (com 1 palavras em comum)
+Linha alvo: 'y wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'deme' - Segmentos correspondentes: 'deme' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔarume' - Segmentos correspondentes: 'kaʔarume' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'paje' - Segmentos correspondentes: 'paje' (com 1 palavras em comum)
+Linha alvo: 'parani we' - Nenhuma correspondência encontrada
+Linha alvo: 't upaʔy' - Nenhuma correspondência encontrada
+Linha alvo: '∅ pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'paje' - Segmentos correspondentes: 'paje' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe a' - Segmentos correspondentes: 'pe a' (com 2 palavras em comum)
+Linha alvo: '∅ iwe' - Nenhuma correspondência encontrada
+Linha alvo: 'u jĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ karu' - Nenhuma correspondência encontrada
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r udy' - Nenhuma correspondência encontrada
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'u jeʔẽ hetehete' - Nenhuma correspondência encontrada
+Linha alvo: 'aʔyna' - Segmentos correspondentes: 'aʔyna' (com 1 palavras em comum)
+Linha alvo: 'ajete' - Segmentos correspondentes: 'ajete' (com 1 palavras em comum)
+Linha alvo: 'u ata' - Nenhuma correspondência encontrada
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'a meʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ tʃirima' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'u tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'pe tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'ynã' - Segmentos correspondentes: 'ynã' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ purahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'te jahu' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r udy' - Nenhuma correspondência encontrada
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 't upaʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'e pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'dydy' - Segmentos correspondentes: 'dydy' (com 1 palavras em comum)
+Linha alvo: 'a tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'hame' - Segmentos correspondentes: 'hame' (com 1 palavras em comum)
+Linha alvo: 'e jahu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'tapyʔy' - Segmentos correspondentes: 'tapyʔy' (com 1 palavras em comum)
+Linha alvo: '∅ juka' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'tatu' - Segmentos correspondentes: 'tatu' (com 1 palavras em comum)
+Linha alvo: 'r etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'mihĩ' - Segmentos correspondentes: 'mihĩ' (com 1 palavras em comum)
+Linha alvo: 'a ka' - Segmentos correspondentes: 'a ka' (com 2 palavras em comum)
+Linha alvo: 'ime' - Segmentos correspondentes: 'ime' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'Nivaldo' - Segmentos correspondentes: 'Nivaldo' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'mihĩ' - Segmentos correspondentes: 'mihĩ' (com 1 palavras em comum)
+Linha alvo: 'a ka' - Segmentos correspondentes: 'a ka' (com 2 palavras em comum)
+Linha alvo: 'ime' - Segmentos correspondentes: 'ime' (com 1 palavras em comum)
+Linha alvo: 'pu' - Segmentos correspondentes: 'pu' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'já' - Segmentos correspondentes: 'já' (com 1 palavras em comum)
+Linha alvo: 'ĩ' - Segmentos correspondentes: 'ĩ' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'a himeʔe' - Segmentos correspondentes: 'a himeʔe' (com 2 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jiete' - Segmentos correspondentes: 'jiete' (com 1 palavras em comum)
+Linha alvo: 'iwiha' - Segmentos correspondentes: 'iwiha' (com 1 palavras em comum)
+Linha alvo: 'mupẽ' - Segmentos correspondentes: 'mupẽ' (com 1 palavras em comum)
+Linha alvo: 'hamu' - Segmentos correspondentes: 'hamu' (com 1 palavras em comum)
+Linha alvo: 'kumeʔe' - Segmentos correspondentes: 'kumeʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'jiete' - Segmentos correspondentes: 'jiete' (com 1 palavras em comum)
+Linha alvo: 'himeʔe' - Segmentos correspondentes: 'himeʔe' (com 1 palavras em comum)
+Linha alvo: 'iwiha' - Segmentos correspondentes: 'iwiha' (com 1 palavras em comum)
+Linha alvo: 'mupẽ' - Segmentos correspondentes: 'mupẽ' (com 1 palavras em comum)
+Linha alvo: 'hamu' - Segmentos correspondentes: 'hamu' (com 1 palavras em comum)
+Linha alvo: 'erietʃi' - Segmentos correspondentes: 'erietʃi' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ta we' - Nenhuma correspondência encontrada
+Linha alvo: 'y kutʃa ha meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'hamu' - Segmentos correspondentes: 'hamu' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'hajymuti' - Segmentos correspondentes: 'hajymuti' (com 1 palavras em comum)
+Linha alvo: 'a pihi' - Nenhuma correspondência encontrada
+Linha alvo: 'pape' - Segmentos correspondentes: 'pape' (com 1 palavras em comum)
+Linha alvo: 'aykã' - Segmentos correspondentes: 'aykã' (com 1 palavras em comum)
+Linha alvo: 'hamu' - Segmentos correspondentes: 'hamu' (com 1 palavras em comum)
+Linha alvo: 'a he' - Nenhuma correspondência encontrada
+Linha alvo: 'te' - Segmentos correspondentes: 'te' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te kaʔapite' - Segmentos correspondentes: 'te kaʔapite' (com 2 palavras em comum)
+Linha alvo: 'nu' - Segmentos correspondentes: 'nu' (com 1 palavras em comum)
+Linha alvo: 'te miniju' - Segmentos correspondentes: 'te miniju' (com 2 palavras em comum)
+Linha alvo: 'y ti' - Nenhuma correspondência encontrada
+Linha alvo: 'hamu' - Segmentos correspondentes: 'hamu' (com 1 palavras em comum)
+Linha alvo: 'e ru' - Segmentos correspondentes: 'e ru' (com 2 palavras em comum)
+Linha alvo: 'tʃĩ' - Segmentos correspondentes: 'tʃĩ' (com 1 palavras em comum)
+Linha alvo: 'u ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃĩ' - Segmentos correspondentes: 'tʃĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'u ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃĩ' - Segmentos correspondentes: 'tʃĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'a ru' - Segmentos correspondentes: 'a ru' (com 2 palavras em comum)
+Linha alvo: 'tʃĩ' - Segmentos correspondentes: 'tʃĩ' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'reʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'a mukaji' - Nenhuma correspondência encontrada
+Linha alvo: 'tʃĩ' - Segmentos correspondentes: 'tʃĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te karu' - Segmentos correspondentes: 'te karu' (com 2 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe ju' - Segmentos correspondentes: 'pe ju' (com 2 palavras em comum)
+Linha alvo: 'kaʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'uru ju' - Nenhuma correspondência encontrada
+Linha alvo: 'paranĩuhu we' - Nenhuma correspondência encontrada
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ mumihi' - Nenhuma correspondência encontrada
+Linha alvo: 'jepe' - Segmentos correspondentes: 'jepe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u iwu' - Nenhuma correspondência encontrada
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe iwu' - Nenhuma correspondência encontrada
+Linha alvo: 'ta' - Segmentos correspondentes: 'ta' (com 1 palavras em comum)
+Linha alvo: 'a juka' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'arapuha' - Segmentos correspondentes: 'arapuha' (com 1 palavras em comum)
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'kaʔarume' - Segmentos correspondentes: 'kaʔarume' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ pihi' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'aʔy' - Segmentos correspondentes: 'aʔy' (com 1 palavras em comum)
+Linha alvo: 'u nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ara' - Segmentos correspondentes: 'ara' (com 1 palavras em comum)
+Linha alvo: 'pe jy pumi' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'ere tʃe' - Nenhuma correspondência encontrada
+Linha alvo: 'pane' - Segmentos correspondentes: 'pane' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'e ha' - Nenhuma correspondência encontrada
+Linha alvo: 'te puhu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'araʔa' - Segmentos correspondentes: 'araʔa' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru ha' - Nenhuma correspondência encontrada
+Linha alvo: 'uru puhu' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r ewe' - Nenhuma correspondência encontrada
+Linha alvo: 'raʔa' - Segmentos correspondentes: 'raʔa' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'myde' - Segmentos correspondentes: 'myde' (com 1 palavras em comum)
+Linha alvo: 'u ha' - Nenhuma correspondência encontrada
+Linha alvo: 'kaʔa we' - Nenhuma correspondência encontrada
+Linha alvo: 'araʔa' - Segmentos correspondentes: 'araʔa' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'pe ha' - Nenhuma correspondência encontrada
+Linha alvo: 'araʔa' - Segmentos correspondentes: 'araʔa' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ mu pariririri' - Nenhuma correspondência encontrada
+Linha alvo: 'jupe' - Segmentos correspondentes: 'jupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'nu' - Segmentos correspondentes: 'nu' (com 1 palavras em comum)
+Linha alvo: 'a ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'jupe' - Segmentos correspondentes: 'jupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ka' - Segmentos correspondentes: 'ka' (com 1 palavras em comum)
+Linha alvo: 'nu' - Segmentos correspondentes: 'nu' (com 1 palavras em comum)
+Linha alvo: 'uru ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'jupe' - Segmentos correspondentes: 'jupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'nu' - Segmentos correspondentes: 'nu' (com 1 palavras em comum)
+Linha alvo: 'a muje' - Nenhuma correspondência encontrada
+Linha alvo: 'jupe' - Segmentos correspondentes: 'jupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'te ʔa' - Segmentos correspondentes: 'te ʔa' (com 2 palavras em comum)
+Linha alvo: 'ere jy pi nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'jupe' - Segmentos correspondentes: 'jupe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'e ha' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'te ataata' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'pe nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'a ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'a wahẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'ere ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'e ata' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'a nupĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'eʔe' - Segmentos correspondentes: 'eʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ mue' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'jete' - Segmentos correspondentes: 'jete' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r ui' - Nenhuma correspondência encontrada
+Linha alvo: 'hetete' - Segmentos correspondentes: 'hetete' (com 1 palavras em comum)
+Linha alvo: 'madyʔati' - Segmentos correspondentes: 'madyʔati' (com 1 palavras em comum)
+Linha alvo: 'imi' - Segmentos correspondentes: 'imi' (com 1 palavras em comum)
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'a ʔu he' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jĩ' - Segmentos correspondentes: 'jĩ' (com 1 palavras em comum)
+Linha alvo: 'uru ʔu he' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'jĩ' - Segmentos correspondentes: 'jĩ' (com 1 palavras em comum)
+Linha alvo: 'tʃi' - Segmentos correspondentes: 'tʃi' (com 1 palavras em comum)
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'y puja' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'y puja' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: '∅ ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'y tʃiʔa' - Nenhuma correspondência encontrada
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ pi=iwiha' - Nenhuma correspondência encontrada
+Linha alvo: 'a ʔu' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'retemeʔe' - Segmentos correspondentes: 'retemeʔe' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jaty' - Segmentos correspondentes: 'jaty' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r u' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uirũ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'h upehi' - Nenhuma correspondência encontrada
+Linha alvo: 'já' - Segmentos correspondentes: 'já' (com 1 palavras em comum)
+Linha alvo: 'mumũ' - Segmentos correspondentes: 'mumũ' (com 1 palavras em comum)
+Linha alvo: 'pawẽ' - Segmentos correspondentes: 'pawẽ' (com 1 palavras em comum)
+Linha alvo: 'mumũ' - Segmentos correspondentes: 'mumũ' (com 1 palavras em comum)
+Linha alvo: 'mũmũ' - Segmentos correspondentes: 'mũmũ' (com 1 palavras em comum)
+Linha alvo: 'hetĩ' - Segmentos correspondentes: 'hetĩ' (com 1 palavras em comum)
+Linha alvo: 'y duhĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'y duhĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'r e' - Nenhuma correspondência encontrada
+Linha alvo: 'kumete' - Segmentos correspondentes: 'kumete' (com 1 palavras em comum)
+Linha alvo: 'jahi uhu' - Nenhuma correspondência encontrada
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'nanĩ' - Segmentos correspondentes: 'nanĩ' (com 1 palavras em comum)
+Linha alvo: 'tʃypẽ' - Segmentos correspondentes: 'tʃypẽ' (com 1 palavras em comum)
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r u' - Nenhuma correspondência encontrada
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'r uri' - Nenhuma correspondência encontrada
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'y' - Segmentos correspondentes: 'y' (com 1 palavras em comum)
+Linha alvo: 'utʃĩ' - Segmentos correspondentes: 'utʃĩ' (com 1 palavras em comum)
+Linha alvo: 'yna' - Segmentos correspondentes: 'yna' (com 1 palavras em comum)
+Linha alvo: 'y' - Segmentos correspondentes: 'y' (com 1 palavras em comum)
+Linha alvo: 'katʃe' - Segmentos correspondentes: 'katʃe' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'maj' - Segmentos correspondentes: 'maj' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'tatu uhu' - Nenhuma correspondência encontrada
+Linha alvo: 'pa' - Segmentos correspondentes: 'pa' (com 1 palavras em comum)
+Linha alvo: 'reʔe' - Segmentos correspondentes: 'reʔe' (com 1 palavras em comum)
+Linha alvo: 'padydy' - Segmentos correspondentes: 'padydy' (com 1 palavras em comum)
+Linha alvo: 'herĩhá' - Segmentos correspondentes: 'herĩhá' (com 1 palavras em comum)
+Linha alvo: 'ajuru' - Segmentos correspondentes: 'ajuru' (com 1 palavras em comum)
+Linha alvo: 'herĩ' - Segmentos correspondentes: 'herĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'nataʔy' - Segmentos correspondentes: 'nataʔy' (com 1 palavras em comum)
+Linha alvo: 'herĩ' - Segmentos correspondentes: 'herĩ' (com 1 palavras em comum)
+Linha alvo: 'ku' - Segmentos correspondentes: 'ku' (com 1 palavras em comum)
+Linha alvo: 'Ikaire' - Segmentos correspondentes: 'Ikaire' (com 1 palavras em comum)
+Linha alvo: '∅ pi' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ atʃĩ' - Nenhuma correspondência encontrada
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'we' - Segmentos correspondentes: 'we' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ pitiwu ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'jaʔẽ' - Segmentos correspondentes: 'jaʔẽ' (com 1 palavras em comum)
+Linha alvo: '∅ mujĩ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ tuha meʔẽ ha' - Nenhuma correspondência encontrada
+Linha alvo: '∅ pyda naʔy ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'pẽ' - Segmentos correspondentes: 'pẽ' (com 1 palavras em comum)
+Linha alvo: '∅ pyda mujĩ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: '∅ tupaʔỹ mujĩ ha' - Nenhuma correspondência encontrada
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'y pihi ha' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: '∅ iwi kũ mu ja ha' - Nenhuma correspondência encontrada
+Linha alvo: 'iwira' - Segmentos correspondentes: 'iwira' (com 1 palavras em comum)
+Linha alvo: 'neʔa' - Segmentos correspondentes: 'neʔa' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'u ata meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 'y juka meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'ure' - Segmentos correspondentes: 'ure' (com 1 palavras em comum)
+Linha alvo: 'uru purahẽ meʔe' - Nenhuma correspondência encontrada
+Linha alvo: 'a etʃa' - Nenhuma correspondência encontrada
+Linha alvo: 'h enu' - Nenhuma correspondência encontrada
+Linha alvo: 'wĩ' - Segmentos correspondentes: 'wĩ' (com 1 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: '∅ jeʔẽ' - Nenhuma correspondência encontrada
+Linha alvo: 'neʔe' - Segmentos correspondentes: 'neʔe' (com 1 palavras em comum)
+Linha alvo: 'a ka' - Segmentos correspondentes: 'a ka' (com 2 palavras em comum)
+Linha alvo: 'ja' - Segmentos correspondentes: 'ja' (com 1 palavras em comum)
+Linha alvo: 'he' - Segmentos correspondentes: 'he' (com 1 palavras em comum)
+Linha alvo: 'ne' - Segmentos correspondentes: 'ne' (com 1 palavras em comum)
+Linha alvo: 't upaʔỹ' - Nenhuma correspondência encontrada
+Linha alvo: 'e pituka' - Nenhuma correspondência encontrada
+Linha alvo: 'me' - Segmentos correspondentes: 'me' (com 1 palavras em comum)
